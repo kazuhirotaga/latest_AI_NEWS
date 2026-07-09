@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitAI Trends - GitHub & AI トレンド・情報収集ハブ</title>
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="GitHub上の最新AIプロジェクトトレンドと、AI関連の主要ニュース・論文を一元管理し、モダンなUIで提供するプラットフォーム。">
+  <meta name="keywords" content="GitHub, AI, 機械学習, トレンド, ニュース, 論文, arXiv, LLM, 画像生成, エージェント">
+  <!-- Fonts & Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- Using Inter as recommended in DESIGN.md (with ss01 and tnum fallback support) -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Atmospheric Gradient Mesh Backdrop from DESIGN.md -->
+  <div class="mesh-bg" aria-hidden="true"></div>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-container">
+      <a href="#" class="logo" id="logo-link">
+        <div class="logo-icon">
+          <i class="fa-solid fa-wand-magic-sparkles"></i>
+        </div>
+        <span>GitAI<span class="gradient-text">Trends</span></span>
+      </a>
+
+      <!-- Search & Controls -->
+      <div class="header-controls">
+        <div class="search-box">
+          <i class="fa-solid fa-magnifying-glass search-icon"></i>
+          <input type="text" id="search-input" placeholder="リポジトリやニュースを検索..." aria-label="検索">
+          <button id="clear-search" class="clear-btn" aria-label="検索をクリア"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+
+        <button id="favorites-toggle" class="btn btn-secondary" aria-label="ブックマークを表示">
+          <i class="fa-regular fa-star"></i>
+          <span>お気に入り</span>
+          <span id="fav-count" class="badge">0</span>
+        </button>
+
+        <button id="api-sync-btn" class="btn btn-primary" aria-label="GitHub APIからリアルタイム同期">
+          <i class="fa-solid fa-rotate"></i>
+          <span>API同期</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <span class="tagline">Explore the Future of AI</span>
+      <h1 class="hero-title">GitHub AI Trends & News</h1>
+      <p class="hero-desc">
+        世界中で急上昇しているAIリポジトリの動向と、最新のAIニュース・論文をリアルタイムでキャッチアップ。
+      </p>
+    </div>
+  </section>
+
+  <!-- Dashboard Container -->
+  <main class="dashboard">
+    <!-- Navigation / View Tabs -->
+    <div class="view-tabs-container">
+      <div class="view-tabs" role="tablist">
+        <button class="view-tab active" role="tab" aria-selected="true" aria-controls="github-panel" id="tab-github">
+          <i class="fa-brands fa-github"></i> GitHub トレンド
+        </button>
+        <button class="view-tab" role="tab" aria-selected="false" aria-controls="news-panel" id="tab-news">
+          <i class="fa-regular fa-newspaper"></i> AI ニュース & 論文
+        </button>
+        <button class="view-tab" role="tab" aria-selected="false" aria-controls="hf-panel" id="tab-hf">
+          <i class="fa-solid fa-robot"></i> HF モデル
+        </button>
+        <button class="view-tab" role="tab" aria-selected="false" aria-controls="fav-panel" id="tab-fav">
+          <i class="fa-solid fa-star"></i> ブックマーク一覧
+        </button>
+      </div>
+    </div>
+
+    <!-- Filter & Sort Controls -->
+    <div class="filter-bar">
+      <div class="category-filters" id="category-filters" role="group" aria-label="カテゴリフィルタ">
+        <button class="filter-chip active" data-category="all">すべて</button>
+        <button class="filter-chip" data-category="llm">LLM & チャット</button>
+        <button class="filter-chip" data-category="image">画像・動画生成</button>
+        <button class="filter-chip" data-category="agent">AIエージェント</button>
+        <button class="filter-chip" data-category="tooling">フレームワーク & 開発ツール</button>
+        <button class="filter-chip" data-category="research">論文 & 研究</button>
+      </div>
+
+      <div class="sort-controls">
+        <label for="sort-select" class="sr-only">並び替え</label>
+        <select id="sort-select" class="select-input" aria-label="並び替え">
+          <option value="hot">注目度順 (HOT)</option>
+          <option value="stars">スター数 / 新着順</option>
+          <option value="name">名前順</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Content Panels -->
+    <div class="panel-container">
+      <!-- GitHub Panel -->
+      <section id="github-panel" class="panel active" role="tabpanel" aria-labelledby="tab-github">
+        <div class="grid-layout" id="github-list">
+          <!-- JSで動的にカードを生成 -->
+        </div>
+      </section>
+
+      <!-- News Panel -->
+      <section id="news-panel" class="panel" role="tabpanel" aria-labelledby="tab-news">
+        <div class="grid-layout" id="news-list">
+          <!-- JSで動的にカードを生成 -->
+        </div>
+      </section>
+
+      <!-- Hugging Face Panel -->
+      <section id="hf-panel" class="panel" role="tabpanel" aria-labelledby="tab-hf">
+        <div class="grid-layout" id="hf-list">
+          <!-- JSで動的にカードを生成 -->
+        </div>
+      </section>
+
+      <!-- Bookmark Panel -->
+      <section id="fav-panel" class="panel" role="tabpanel" aria-labelledby="tab-fav">
+        <div class="empty-state" id="fav-empty">
+          <div class="empty-icon"><i class="fa-regular fa-star"></i></div>
+          <h3>ブックマークはありません</h3>
+          <p>お気に入りのリポジトリやニュースの星マークをクリックして追加してください。</p>
+        </div>
+        <div class="grid-layout" id="fav-list" style="display: none;">
+          <!-- JSで動的にカードを生成 -->
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <!-- Detail Modal -->
+  <div id="detail-modal" class="modal" aria-hidden="true" role="dialog">
+    <div class="modal-backdrop"></div>
+    <div class="modal-content">
+      <button class="modal-close" id="modal-close-btn" aria-label="閉じる">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+      <div id="modal-body">
+        <!-- JSで動的に詳細を挿入 -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification Container -->
+  <div id="toast-container" class="toast-container" aria-live="polite"></div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-container">
+      <p>&copy; 2026 GitAI Trends. Designed with Stripe Inspired Aesthetics.</p>
+      <div class="footer-links">
+        <a href="https://github.com" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i> GitHub</a>
+        <a href="https://arxiv.org" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-graduation-cap"></i> arXiv</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Script -->
+  <script src="app.js"></script>
+</body>
+</html>
