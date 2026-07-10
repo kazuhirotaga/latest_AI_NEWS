@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-09T22:36:29.181Z",
+  "updatedAt": "2026-07-10T01:26:50.007Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 382351,
-      "forks": 80227,
+      "stars": 382359,
+      "forks": 80230,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 250815,
-      "forks": 22279,
+      "stars": 250874,
+      "forks": 22282,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 212175,
-      "forks": 39091,
+      "stars": 212227,
+      "forks": 39105,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 195856,
-      "forks": 59203,
+      "stars": 195864,
+      "forks": 59205,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 185445,
-      "forks": 46113,
+      "stars": 185444,
+      "forks": 46112,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 165162,
-      "forks": 21372,
+      "stars": 165175,
+      "forks": 21377,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -108,7 +108,7 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164089,
+      "stars": 164090,
       "forks": 30425,
       "language": "Python",
       "category": "image",
@@ -124,9 +124,9 @@
       "id": "fetch-repo-132464395",
       "name": "JavaGuide",
       "owner": "Snailclimb",
-      "description": "Java 面试 & 后端通用面试指南，覆��计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 156920,
-      "forks": 46169,
+      "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "stars": 156921,
+      "forks": 46170,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 148400,
-      "forks": 8498,
+      "stars": 148445,
+      "forks": 8499,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Production-ready platform for agentic workflow development.",
-      "stars": 148327,
-      "forks": 23377,
+      "stars": 148336,
+      "forks": 23378,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 144865,
-      "forks": 20962,
+      "stars": 144877,
+      "forks": 20966,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -194,7 +194,7 @@
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "stars": 141748,
-      "forks": 34803,
+      "forks": 34802,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 141405,
-      "forks": 23500,
+      "stars": 141411,
+      "forks": 23501,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 120083,
-      "forks": 14098,
+      "stars": 120095,
+      "forks": 14099,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -244,7 +244,7 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 119087,
+      "stars": 119108,
       "forks": 10555,
       "language": "Python",
       "category": "research",
@@ -260,122 +260,151 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
+      "title": "Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?",
       "source": "arXiv.org",
-      "date": "2026-07-08",
-      "description": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically explaining these relati...",
-      "category": "llm",
+      "date": "2026-06-24",
+      "description": "Multi-fingered robots promise the speed and dexterity of human hands, yet challenging problems such as precise assembly have remained out of reach. These tasks are contact-rich, making data collection for imitation learning difficult, and s...",
+      "category": "tooling",
       "tags": [
-        "Research",
-        "LLM"
+        "Research"
       ],
-      "url": "http://arxiv.org/abs/2607.07708v1",
-      "hotScore": 86,
-      "content": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically explaining these relationships requires interpreting structural evidence through scientific principles and physical constraints, from stereochemistry and bonding to symmetry, energetics and periodic order. However, applying artificial intelligence to this process presents a joint challenge of representation and reasoning: models must preserve domain-native structural information while showing how specific evidence supports predictions under these constraints. Here we introduce SciReasoner, a multimodal scientific foundation model for native structural reasoning across proteins, small molecules and inorganic crystals. SciReasoner discretizes coordinates, topologies and periodic connectivities into a unified structure-aware vocabulary, treating structural tokens as addressable evidence units during reasoning. In homology-controlled Gene Ontology prediction, SciReasoner improves Cellular Component annotation for low-homology and orphan-like proteins, increasing $F_{\\max}$ from 0.42 to 0.55. In chemistry, it raises single-step retrosynthesis accuracy from 0.63 to 0.72 while generating fragment-level disconnection and precursor-verification traces. In materials science, its representations separate elemental and compound phases and resolve high- and low-band-gap regimes. Across 86 benchmarks, SciReasoner achieves state-of-the-art performance on 67 tasks. Double-blind expert evaluation rates its reasoning traces as preferred or at least comparable to those of a frontier large language model in 98% of cases. By making structure an inspectable substrate for reasoning under scientific constraints, SciReasoner connects accurate prediction with interpretable scientific inference."
+      "url": "http://arxiv.org/abs/2606.26428v2",
+      "hotScore": 84,
+      "content": "Multi-fingered robots promise the speed and dexterity of human hands, yet challenging problems such as precise assembly have remained out of reach. These tasks are contact-rich, making data collection for imitation learning difficult, and sparse-reward, making direct exploration with reinforcement learning (RL) intractable. Consequently, prior work has made progress by structuring the problem with specialized grippers, tool attachments, and environment fixtures. In this work, we argue that before a robot can perfect precise assembly, it must first learn to play. We further ask the question: what factors in the process of learning to play matter for precise assembly? We propose Play2Perfect, an RL framework for task-agnostic pretraining through play on diverse objects and goals, which is then perfected on precise assembly. The goal of play is to acquire reusable manipulation priors, such as grasping, in-hand reorientation and pose reaching. Finetuning then adapts this general prior to assembly, focusing exploration on the final contact-rich, high-precision interactions needed for success. We systematically study key design choices in play pretraining, including object diversity, training objective, trajectory diversity, and goal precision. We show that our prior is 33x more sample-efficient than RL training from scratch, even when provided with dense, multi-stage rewards. We demonstrate zero-shot sim-to-real transfer, achieving 60% success on tight insertions with only 0.5 mm contact clearance, and over 50% success on long-horizon multi-part assembly and screwing."
     },
     {
       "id": "fetch-paper-1",
-      "title": "Co-LMLM: Continuous-Query Limited Memory Language Models",
+      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
       "source": "arXiv.org",
-      "date": "2026-07-08",
-      "description": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches knowledge from the KB as needed. This re...",
+      "date": "2026-07-09",
+      "description": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benc...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2607.08768v1",
+      "hotScore": 89,
+      "content": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn evaluation paradigms. Moreover, their scenario-based task taxonomies mix multiple model capabilities within the same task category, making it difficult to identify the root causes of agent failures. To address these limitations, we introduce UniClawBench, the first capability-driven benchmark designed to evaluate proactive agents in dynamic, real-world settings. UniClawBench is built around five foundational model capabilities: Skill Usage, Exploration, Long-Context Reasoning, Multimodal Understanding, and Cross-Platform Coordination. Based on these capabilities, we design 400 bilingual real-world tasks. Unlike previous benchmarks that rely on static, pre-recorded answers, our benchmark evaluates agents in live Docker containers using fine-grained, step-by-step completion checkpoints. Furthermore, we design a closed-loop evaluation strategy comprising an executor agent, a hidden supervisor agent, and a user agent to simulate realistic multi-turn human feedback without leaking grading criteria. To disentangle base model capabilities from framework-level design choices, we evaluate state-of-the-art models under multiple agent frameworks. Through comprehensive comparisons across both models and frameworks, we show how base model capabilities and agent framework designs jointly shape performance in real-world environments. To facilitate future research, we make our benchmark and code publicly available at https://github.com/HKU-MMLab/UniClawBench."
+    },
+    {
+      "id": "fetch-paper-2",
+      "title": "OpenCoF: Learning to Reason Through Video Generation",
+      "source": "arXiv.org",
+      "date": "2026-07-09",
+      "description": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): rea...",
       "category": "image",
       "tags": [
         "Research",
         "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2607.07707v1",
-      "hotScore": 85,
-      "content": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches knowledge from the KB as needed. This recently introduced paradigm provides multiple advantages, including knowledge control capabilities that remain beyond conventional LLMs. We propose continuous-query LMLM (CO-LMLM), where the KB pairs continuous keys with textual knowledge values, a significant departure from prior reliance on relational KB and queries. CO-LMLM generates flexible vector queries at minimal cost, while still integrating human-readable and attributable retrieved knowledge into its generation. We pair this design with an annotation pipeline that tags free-form factual spans in arbitrary text, removing prior work's restriction to Wikipedia. Across pretraining on Wikipedia and FineWeb-Edu and at multiple model scales, CO-LMLM outperforms prior LMLMs and vanilla LLMs in both perplexity and factual precision. At 360M scale, this includes lower perplexity than models pretrained on 40x more data, and SimpleQA-verified performance that is in line with gpt-4o-mini and higher than Claude Sonnet 4.5."
-    },
-    {
-      "id": "fetch-paper-2",
-      "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
-      "source": "arXiv.org",
-      "date": "2026-07-08",
-      "description": "The quadratic cost of causal self-attention severely bottlenecks long-context transformer inference. While numerous post hoc linearization pipelines exist, it is difficult to identify which components preserve model quality. This work isola...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2607.07706v1",
-      "hotScore": 91,
-      "content": "The quadratic cost of causal self-attention severely bottlenecks long-context transformer inference. While numerous post hoc linearization pipelines exist, it is difficult to identify which components preserve model quality. This work isolates the effect of state update design in a strict frozen-backbone regime. We show that softmax relies on key-dependent, rank-1 orthogonal projections, elucidating why delta-style networks outperform purely gated accumulation. We identify a potential source of approximation errors and introduce structural interventions, specifically sink tokens, short convolutions, and fixed-budget cache routing, which reduces the remaining gap. We scale this linearization approach across LLaMA and Qwen models up to 32B parameters, outperforming prior post hoc baselines on MMLU and matching the long-context retrieval of complex adaptive-caching frameworks."
+      "url": "http://arxiv.org/abs/2607.08763v1",
+      "hotScore": 94,
+      "content": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): reasoning can unfold through temporally connected frames, known as Chain-of-Frame (CoF) reasoning. However, existing video generators are primarily trained on general video corpora, still lacking diverse supervision and dedicated designs for CoF reasoning. To address this gap, we introduce OpenCoF, a framework comprising the OpenCoF-17K dataset, a reasoning video dataset spanning 11 task families, and Wan-CoF, a fine-tuned video model for studying whether diverse temporal supervision improves CoF behavior. Across four video reasoning benchmarks, Wan-CoF achieves considerable gains over the Wan2.2-I2V-A14B baseline. Building on this, we empirically explore more advanced designs for CoF capabilities, i.e., equipping the model with visual and textual reasoning tokens. This mechanism respectively captures low-level visual cues and high-level semantic priors for spatial and temporal reasoning. Through performance comparisons and attention analysis, we examine how these tokens contribute across model depth, denoising steps, space, and time. Our results suggest that stronger video reasoning requires both broad temporal supervision and explicit mechanisms for organizing intermediate reasoning state. We open-source the dataset, model, and code to facilitate future research on reasoning-oriented video generation."
     },
     {
       "id": "fetch-paper-3",
-      "title": "Can Trustless Agents Be Trusted? An Empirical Study of the ERC-8004 Decentralized AI Agent Ecosystem",
+      "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
       "source": "arXiv.org",
-      "date": "2026-06-24",
-      "description": "As autonomous AI agents increasingly transact across organizational boundaries, a fundamental trust challenge emerges: how can an agent assess whether an unknown counterpart is trustworthy? The ERC-8004 protocol addresses this challenge wit...",
-      "category": "agent",
+      "date": "2026-07-09",
+      "description": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow ...",
+      "category": "image",
       "tags": [
         "Research",
-        "Agent"
+        "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2606.26028v2",
-      "hotScore": 92,
-      "content": "As autonomous AI agents increasingly transact across organizational boundaries, a fundamental trust challenge emerges: how can an agent assess whether an unknown counterpart is trustworthy? The ERC-8004 protocol addresses this challenge with the first permissionless trust layer for AI agent economies, built around three on-chain registries for Identity, Reputation, and Validation. Despite its rapid adoption, the protocol has not been studied empirically, leaving it unclear whether the information it records provides a trustworthy basis for decision-making. To address this gap, we present the first empirical study of ERC-8004 across three chains: Ethereum, BNB Smart Chain (BSC), and Base, covering the period from protocol deployment through May 13, 2026. We crawl on-chain Identity and Reputation events, off-chain files, and x402 payment transactions. On the identity side, we find that most registrations are placeholders rather than active agents, with only a small fraction (3%, 4%, and 15% across Ethereum, BSC, and Base) exposing a valid ERC-8004 registration file with at least one live service endpoint. On the reputation side, we show that the Registry, as currently deployed, cannot function as a trust signal: values are not commensurable, feedback records are rarely grounded in verifiable interactions, and reputation can be manipulated at minimal cost. Consistent with these design weaknesses, we find that a substantial fraction of reviewers (73.5%, 59.2%, and 90.6% across Ethereum, BSC, and Base) exhibit coordinated Sybil behavior. After removing Sybil-flagged feedback, 15.8%, 77.9%, and 86.8% of rated agents, respectively, are left with no valid feedback. We then turn these findings into concrete recommendations for future revisions of ERC-8004. Our study yields actionable protocol-design implications and establishes an empirical baseline for research on AI agent markets."
+      "url": "http://arxiv.org/abs/2607.08758v1",
+      "hotScore": 91,
+      "content": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow this inheritance structure. We present IdeaGene-Bench (IG-Bench), a benchmark for scientific lineage reasoning and lineage-grounded idea generation. IG-Bench is organized around the IdeaGene framework: each paper or proposal is represented as a set of minimal, typed, evidence-grounded Idea Genome objects, and a GenomeDiff aligns these objects to record inheritance, mutation, loss, external import, and novel insertion under six operational evolutionary dynamics. The benchmark contains 1,961 golden lineage traces, 1,085 curated Idea Genome objects, and 920 pairwise GenomeDiff records across 10 scientific domains. It supports two evaluations. IG-Exam (42 task types, 1,029 instances) tests closed-form lineage reasoning across Idea Genome abstraction, inheritance tracing, evolutionary reasoning, and lineage verification. IG-Arena evaluates generation with a lineage-conditioned Population-Evolution Score(PES), asking whether a proposal can be inserted as a coherent descendant of a given lineage population: it should inherit the right Idea Genome objects, vary meaningfully from nearby work, and offer selection value for future research. Experiments on 14 LLM-based scientists expose a compositional bottleneck. The strongest system reaches only 27.3% exact accuracy on lineage reasoning, and structured lineage context reshuffles system rankings rather than helping every participant uniformly."
     },
     {
       "id": "fetch-paper-4",
-      "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
+      "title": "Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
       "source": "arXiv.org",
-      "date": "2026-07-08",
-      "description": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies. However, real execution traces are di...",
-      "category": "agent",
+      "date": "2026-07-09",
+      "description": "Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal error does not guarantee numerical stability...",
+      "category": "image",
       "tags": [
         "Research",
-        "Agent"
+        "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2607.07702v1",
-      "hotScore": 90,
-      "content": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies. However, real execution traces are difficult to use directly for optimization: large trace collections are often redundant and heterogeneous, making optimization inefficient and prone to overfitting to low-value failures; meanwhile, each individual trajectory also contains many irrelevant steps, while naive context reduction methods such as truncation or sliding windows can discard causally important evidence and produce misleading optimization signals. To resolve this dilemma, we introduce STRACE (Structural TRajectory Analysis and Causal Extraction), a framework that constructs high signal-noise optimization contexts for more precise and effective optimization. At the batch level, STRACE mines failure patterns to filter redundant traces and retain representative failures; within each selected trace, it performs causal localization over a textual dependency graph to remove non-causal steps and identify the true root-cause module for optimization. Empirical results demonstrate that STRACE significantly outperforms standard context-filtering baselines. Notably, on a challenging formal verification task (VeruSAGE-Bench), it successfully optimizes human-expert designed agents, delivering $1.4\\times$ success-rate improvement (42.5% to 58.5%). The code is available at https://github.com/moomight/STRACE ."
+      "url": "http://arxiv.org/abs/2607.08757v1",
+      "hotScore": 93,
+      "content": "Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal error does not guarantee numerical stability. We construct a single smooth score field with arbitrarily small forward-marginal $L^2$ error. The learned reverse-time process is nonexplosive, has moments of every order, and can be arbitrarily close to the exact reverse-time process in path-space total variation. Yet its Euler--Maruyama discretizations converge in probability while every positive moment diverges. Thus weak convergence can hold even though every Wasserstein distance $W_p$, $p\\ge1$, diverges. The same failure can occur within one fixed finite neural architecture. We construct a family of bounded, globally Lipschitz denoisers for which both the forward-marginal error and the path-space total variation distance tend to zero, while their Euler--Maruyama endpoints diverge in every $W_p$. For compactly supported data, we also give a simple positive result. Projecting the learned denoiser onto a known bounded closed convex set containing the support preserves pointwise accuracy, gives grid-uniform moment bounds, and yields Wasserstein convergence under mild local regularity. Experiments with a small fixed DiT-style network show large growth along rare numerical trajectories and its suppression by denoiser projection, while overall trajectory errors remain small."
     },
     {
       "id": "fetch-paper-5",
-      "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
+      "title": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music",
       "source": "arXiv.org",
-      "date": "2026-07-06",
-      "description": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must generate many rollouts during training....",
+      "date": "2026-07-09",
+      "description": "We present MulTTiPop, a dataset of pop music segments and their associated multitrack MIDI recordings for the evaluation of automatic music transcription models. MulTTiPop contains 572 segments of popular music totaling 3.5 hours of audio, ...",
       "category": "research",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2607.05394v2",
-      "hotScore": 89,
-      "content": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must generate many rollouts during training. As models scale, post-training itself becomes a bottleneck. We study a weak-to-strong alternative: run RL on a smaller model where rollouts are cheaper, then reuse what that RL run learned to improve a stronger target model. Directly distilling the post-RL weak teacher is not enough, because the teacher's final policy mixes useful RL gains with the limitations of the smaller model. We propose Direct On-Policy Distillation (Direct-OPD), which transfers the teacher's RL-induced policy shift instead. Direct-OPD compares the post-RL teacher with its own pre-RL reference and treats their log-ratio as a dense implicit reward for the student. In plain terms, the checkpoint pair tells us which actions RL made the weak model more or less likely to take, and Direct-OPD applies that signal on the stronger student's own on-policy states. This directly reuses the weak model's RL supervision signal without running sparse-reward RL on the target model. Empirically, Direct-OPD consistently leverages weaker teachers to improve stronger target models; notably, it boosts Qwen3-1.7B from 48.3% to 58.3% on AIME 2024 in just 4 hours on 8 A100 GPUs. It outperforms step-matched direct RL and enables the sequential composition of multiple policy shifts. Our results show that RL outcomes can be reused across model scales as implicit reward signals, not merely as final models to imitate."
+      "url": "http://arxiv.org/abs/2607.08756v1",
+      "hotScore": 85,
+      "content": "We present MulTTiPop, a dataset of pop music segments and their associated multitrack MIDI recordings for the evaluation of automatic music transcription models. MulTTiPop contains 572 segments of popular music totaling 3.5 hours of audio, and contains songs from diverse genres and decades from the 1930s to 2000s. To collect this dataset, we perform metadata-based matching on song segments from the Lakh MIDI and TheoryTab datasets, manually identify an anchor beat between the audio and MIDI, then use beat tracking on the audio and warp the MIDI to match its tempo and timing. We evaluate state-of-the-art automatic music transcription models on MulTTiPop and find substantial room for improvement, with the best model achieving 38% Onset F1. More details and sound examples of MulTTiPop are available at https://gclef-cmu.org/multtipop."
     },
     {
       "id": "fetch-paper-6",
-      "title": "Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass",
+      "title": "Calibrated Stackelberg Games: Learning Optimal Commitments Against Calibrated Agents",
       "source": "arXiv.org",
-      "date": "2026-07-08",
-      "description": "Analytical workloads operating on data stored in external database systems face a fundamental bottleneck: data access is guarded entirely by the database driver, like JDBC or ODBC, forcing all reads through query execution and other driver ...",
+      "date": "2023-06-05",
+      "description": "We introduce \\emph{Calibrated Stackelberg Games (CSGs)}, a generalization of the standard Stackelberg Games (SGs) framework. In CSGs, a principal repeatedly interacts with an agent who (contrary to standard SGs) does not have direct access ...",
       "category": "agent",
       "tags": [
         "Research",
         "Agent"
       ],
-      "url": "http://arxiv.org/abs/2607.07696v1",
-      "hotScore": 90,
-      "content": "Analytical workloads operating on data stored in external database systems face a fundamental bottleneck: data access is guarded entirely by the database driver, like JDBC or ODBC, forcing all reads through query execution and other driver layers that are not designed for bulk columnar analytics. We present Jailbreak, an approach that bypasses the database engine entirely by reading storage files directly and materializing data as in-memory columnar buffers. Jailbreak's key insight is that database file formats, while complex, are fully specified by their source code and documentation, artifacts that Large Language Models (LLMs) can ingest to regenerate operator-specific table reading components without human-engineered parsing logic. Jailbreak leverages LLM-assisted code synthesis for database storage decoding, turning a traditionally opaque format into a directly queryable artifact. We evaluate Jailbreak on PostgreSQL and MySQL storage files, targeting analytical snapshot scenarios common in read replicas and offline processing pipelines. The generated reader produces Apache Arrow buffers consumable directly by most of the widely known query engines, including DuckDB, Apache Spark, and GPU-accelerated frameworks such as cuDF and Spark RAPIDS. We validate correctness against JDBC/ODBC-based baselines using the TPC-H benchmark across all query results, and demonstrate significant performance improvements in end-to-end analytical throughput, achieving up to 27x speedups. Our results showcase that LLM-assisted storage reader synthesis is a viable and generalizable methodology for breaking data lock-in across database systems, with applications beyond PostgreSQL and MySQL for any system whose file format is available to the LLM from documentation or source code."
+      "url": "http://arxiv.org/abs/2306.02704v2",
+      "hotScore": 81,
+      "content": "We introduce \\emph{Calibrated Stackelberg Games (CSGs)}, a generalization of the standard Stackelberg Games (SGs) framework. In CSGs, a principal repeatedly interacts with an agent who (contrary to standard SGs) does not have direct access to the principal's action but instead best-responds to calibrated forecasts about it. This framework provides a powerful and realistic modeling tool that goes beyond assuming that agents use ad hoc and highly specified algorithms for interacting in strategic settings and instead builds on statistical foundations of forecasts and calibration. We show that in CSGs, despite both the principal and the agent having less information than in standard SGs, the principal's optimal utility remains upper and lower bounded by the Stackelberg value of the one-shot game, in both finite and continuous settings. Alongside CSGs, we develop stronger notions of calibration and corresponding algorithms that address two central challenges for calibration in game-theoretic environments. First, achieving point-wise calibration typically incurs an error that scales exponentially with the dimension of the strategy space. Second, the principal's convergence rate in CSGs depends critically on the adaptivity of the agent's calibration algorithm. To address these challenges, we establish a meaningful, efficiently achievable relaxation of calibration based on conditioning on best-response regions. This yields the first notion of calibration in games with a statistical rate that only depends on the number of agents' actions rather than the dimension of the principal's strategy space and that leads to no-swap regret for the agent. We further develop adaptive calibration algorithms for the agents that provide fine-grained, any-time calibration guarantees against adversarial sequences, enabling the principal to achieve faster convergence in CSGs."
     },
     {
       "id": "fetch-paper-7",
-      "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
+      "title": "SLORR: Simple and Efficient In-Training Low-Rank Regularization",
       "source": "arXiv.org",
-      "date": "2026-07-08",
-      "description": "We introduce institutional red-teaming, an evaluation methodology for testing deployment rules in multi-agent AI: hold the agents, objectives, and task state fixed, vary only one rule, and attribute the resulting change in collective behavi...",
-      "category": "agent",
+      "date": "2026-07-09",
+      "description": "Low-rank factorization is widely used to compress neural networks, but modern models are often not naturally amenable to aggressive factorization without significant accuracy loss. Existing training-time low-rank regularizers can improve co...",
+      "category": "image",
       "tags": [
         "Research",
-        "Agent"
+        "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2607.07695v1",
-      "hotScore": 87,
-      "content": "We introduce institutional red-teaming, an evaluation methodology for testing deployment rules in multi-agent AI: hold the agents, objectives, and task state fixed, vary only one rule, and attribute the resulting change in collective behavior to that rule. We instantiate the methodology in IABench-CA, a consequence-allocation benchmark spanning 228 contexts, five canonical rules, and seven model populations (33,924 games), with a normative cooperative reference and auto-labelled reasoning traces. Three findings emerge. (1) Deployment rules causally alter collective safety: changing only the consequence rule moves mean fatality by 22 to 58 percentage points within every population. (2) There is no safe default, but the targeting hazard is universal: the safest rule, the least-safe rule, and even the direction of the incidence effect vary across populations, yet regressive identity-targeting is never decisively safest in any context for any population, eliminates the least-resourced agent in 30-87% of games everywhere, and is selection-unsafe relative to the cooperative reference for all seven populations. (3) Identity salience is the mechanism: a one-shot anonymization ablation on the most exploitation-prone population (gpt-5.1) shows that merely naming the loss bearer in the rule text drives targeted elimination from 22% to 81% at identical payoffs; under repeated play, anonymization only delays the targeting, as agents re-infer the hidden rule from observed eliminations. We package the methodology as a safety-case workflow that certifies a provisional rule region $Φ(c,P)$ per deployment context and population, with explicit residual risks and monitoring obligations."
+      "url": "http://arxiv.org/abs/2607.08754v1",
+      "hotScore": 88,
+      "content": "Low-rank factorization is widely used to compress neural networks, but modern models are often not naturally amenable to aggressive factorization without significant accuracy loss. Existing training-time low-rank regularizers can improve compressibility, but they often require SVDs of large weight matrices, modify the model architecture (introducing additional trainable parameters), or rely on stateful cached quantities. To address these limitations, we introduce SLORR, a simple, stateless, and architecture-preserving framework for in-training low-rank regularization, instantiated with two main variants based on the Hoyer sparsity metric and the nuclear norm. SLORR directly regularizes the original weight matrices using GPU-friendly approximations for the forward and backward passes of the regularizers, for which we provide approximation guarantees. We first evaluate SLORR on ImageNet-1K across short-horizon continued training of ResNet-50, ViT-B/16, and ViT-L/16, and pretraining of ResNet-18, where SLORR induces compressibility while introducing less than 8% training overhead. We further evaluate SLORR-Hoyer in LLM pretraining at 135M and 560M scales: SLORR-trained compressed models preserve performance substantially better than unregularized models while adding less than 1% average training overhead."
+    },
+    {
+      "id": "fetch-hf-2607.08766",
+      "title": "OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-08",
+      "description": "We propose OPSD-V, an on-policy self-distillation paradigm for post-training few-step autoregressive (AR) video diffusion models. Existing few-step AR video generators can produce long videos with low latency, but still suffer from error ac...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.08766",
+      "hotScore": 90,
+      "content": "We propose OPSD-V, an on-policy self-distillation paradigm for post-training few-step autoregressive (AR) video diffusion models. Existing few-step AR video generators can produce long videos with low latency, but still suffer from error accumulation and weakened motion dynamics during long autoregressive rollout. OPSD-V reduces long-horizon degradation while preserving the original few-step inference path. The key idea is to introduce real long-video data as temporal context during training and use it to provide dense trajectory-level supervision. Specifically, the student follows the exact inference-time rollout, generating each chunk conditioned on its own previously generated KV cache. In parallel, the teacher is evaluated at the same student-visited denoising states, but uses a cleaner AR-consistent temporal cache in which older history can be replaced by real-video context. This provides dense denoising-level corrective targets under on-policy AR cache dynamics, without changing the sampler, number of denoising steps, or inference-time cache mechanism. We apply OPSD-V to representative few-step AR video models, including Self-Forcing and LongLive. Experiments show consistent improvements in visual quality, motion dynamics, and VBenchLong scores. A user study with 10 participants comparing 20 video pairs shows that OPSD-V is preferred over the base models in 66.0% of overall-preference judgments (82.5% excluding ties)."
+    },
+    {
+      "id": "fetch-hf-2607.06018",
+      "title": "RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-06",
+      "description": "Pretrained video generative models are promising backbones for visuomotor control, but their imagined futures often drift from task intent and are not reliably action-conditional. As a result, these models can be difficult to use for planni...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.06018",
+      "hotScore": 89,
+      "content": "Pretrained video generative models are promising backbones for visuomotor control, but their imagined futures often drift from task intent and are not reliably action-conditional. As a result, these models can be difficult to use for planning or policy extraction. To address these limitations, we propose RoboTALES, a single-stage framework that learns task-aligned simulated futures and uses them to train robot policies. Our approach introduces two key innovations: (1) a hierarchical LLM-based planner that breaks complex tasks into a sequence of subgoals to guide the model's imagination; and (2) a VLM-based critic that evaluates these ``imagined'' futures and uses reward-based feedback to keep the model's internal representations focused on the goal. By anchoring the video generator in abstract reasoning, we produce temporally consistent rollouts and more coherent actions. We evaluate RoboTALES on diverse manipulation tasks from RoboCasa and LIBERO10, and show that our method consistently outperforms existing methods, especially in long-horizon tasks. Our code and models are publicly available at https://github.com/hananshafi/RoboTALES."
     },
     {
       "id": "fetch-hf-2607.03949",
@@ -389,7 +418,7 @@
         "Paper"
       ],
       "url": "https://huggingface.co/papers/2607.03949",
-      "hotScore": 90,
+      "hotScore": 88,
       "content": "Pixel-wise Earth-observation (EO) foundation models are now achieving state-of-the-art performance via generated spatial embeddings. However, how these models scale and how best to spend a pretraining budget remain poorly understood. We present the largest controlled scaling study for EO to date: 395 training runs on 1,024 GH200 superchips within a fixed pixel-wise Barlow Twins family, each evaluated on 15 downstream tasks. We find that pretraining loss barely predicts downstream performance (|Pearson r| < 0.2), so selecting models by loss wastes a large share of the compute. We also find that, as the training budget grows, the encoder and the data should grow together while the projector stays fixed, which gives a simple rule for allocating compute. Using this rule, we train a family of pixel-wise models (0.5B and 1B, with a 2B model in training) and distill them into compact students for embeddings-as-data deployment. The 21-million-parameter distilled TESSERA v2-1B-M in aggregate outperforms all open and proprietary models tested, some of which are orders of magnitude larger. These students produce Matryoshka representations that are inexpensive to serve: a 16-dimensional prefix keeps 92% of the full 128-dimensional performance at 1/8 of the storage. Upon completion of training we plan to release v2 global embeddings covering 2017-2025. Together, these results give a concrete, empirically grounded recipe for scaling pixel-wise EO foundation models: train large encoders, select by downstream performance, and distil into flexible student models. All code will be released at https://github.com/ucam-eo/tessera."
     },
     {
@@ -404,7 +433,7 @@
         "Paper"
       ],
       "url": "https://huggingface.co/papers/2607.03723",
-      "hotScore": 89,
+      "hotScore": 87,
       "content": "Visual policies learned from human videos, teleoperation, and robot demonstrations offer scalable motion priors, but often fail in contact-rich manipulation, where success significantly depends on local force and contact geometry. Tactile sensing provides these complementary signals, yet tactile data remain costly to collect and hard to generalize across sensors, robots, and tasks. We introduce OmniTacTune, a policy-agnostic real-world RL pipeline that adapts tactile feedback to pretrained visual policies through residual correction. OmniTacTune uses a two-stage design: it first bootstraps tactile-aware learning from autonomous base-policy rollouts, then learns a lightweight tactile residual policy through online interaction. Extensive experiments show that OmniTacTune generalizes across diverse contact-rich tasks, visual base policies, and tactile representations. Across four real-world contact-rich tasks, it improves visual base policies from 5-40% success to 85-100% within 40-80 minutes, demonstrating an efficient path for adapting tactile feedback to scalable visual robot policies. Project page: https://colinyu1.github.io/omnitactune-site/"
     },
     {
@@ -419,38 +448,8 @@
         "Paper"
       ],
       "url": "https://huggingface.co/papers/2607.06309",
-      "hotScore": 88,
-      "content": "Accurate breast cancer classification from mammography requires effective integration of complementary information from craniocaudal (CC) and mediolateral oblique (MLO) views, which provide a more complete characterization of breast abnormalities. However, existing multi-view learning approaches typically rely on feature-level aggregation or single-stage cross-attention, which can entangle view-specific and shared representations and restrict interaction to limited network depths. To address these limitations, we propose a token-centric dual-view learning framework that unifies prompt-based adaptation and cross-view fusion within a frozen vision transformer backbone. The framework reformulates inter-view interaction as structured token-level communication, where dedicated fusion tokens explicitly encode bidirectional information exchange between CC and MLO views via cross-attention, serving as intermediate carriers of cross-view dependencies rather than relying on direct feature fusion. Unlike conventional methods that apply fusion at a single layer, fusion modules are inserted at multiple transformer depths, enabling progressive and repeated interaction across the encoder hierarchy. Fusion tokens are reintegrated into the token sequence and refined by subsequent transformer layers, facilitating hierarchical propagation of complementary information while preserving view-specific structure. Experiments on VinDr-Mammo and CMMD datasets demonstrate consistent improvements over linear probing, prompt-only adaptation, and conventional fusion baselines. On the VinDr-Mammo BI-RADS classification task, the framework achieves 50.40% F1-score and 0.8090 AUC, including a 0.10 AUC improvement over a dual-view fusion baseline in the binary setting. Ablation studies further validate the effectiveness of token-based fusion and multi-depth interaction design."
-    },
-    {
-      "id": "fetch-hf-2607.06624",
-      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-06",
-      "description": "We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entire trajector...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2607.06624",
-      "hotScore": 87,
-      "content": "We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entire trajectory: how the agent follows instructions, uses its tools, verifies its own work, recovers from mistakes, and talks to them along the way. AgentLens evaluates that whole trajectory. It pairs formal verification, where an objective check exists, with LLM-written trajectory reviews and side-by-side comparisons, so that each run yields a readable explanation of why the score is what it is. This makes AgentLens useful for more than ranking models: we use it to diagnose model behavior, compare successive versions of our own agent, and catch product regressions in a nightly evaluation pipeline. We release the benchmark as open source at https://github.com/agent-lens/agent-lens-bench."
-    },
-    {
-      "id": "fetch-hf-2607.00302",
-      "title": "Wake up for Touch! Mask-isolated Tactile Alignment Learning in MLLMs",
-      "source": "Hugging Face Daily",
-      "date": "2026-06-30",
-      "description": "Touch supplies the physical grounding needed to perceive intrinsic material properties, such as friction and compliance, that vision alone often cannot resolve. Recent efforts for equipping multimodal LLMs with this tactile sense, however, ...",
-      "category": "llm",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2607.00302",
       "hotScore": 86,
-      "content": "Touch supplies the physical grounding needed to perceive intrinsic material properties, such as friction and compliance, that vision alone often cannot resolve. Recent efforts for equipping multimodal LLMs with this tactile sense, however, expose a zero-sum trade-off: the limited parameter budget of compact models forces a choice between acquiring the new sensory modality and preserving the established vision-language reasoning. We present Splash, a mask-isolated tactile alignment learning framework for MLLMs. Splash quantifies the significance of each pretrained parameter, and partitions the parameter space into a dormant and critical subspace. While the frozen critical subspace acts as a stable anchor to safeguard general visual knowledge, Splash updates the isolated dormant subspace to internalize tactile alignment towards LLMs. This selective, non-destructive expansion effectively prevents catastrophic forgetting and ensures non-destructive modality expansion. Extensive experiments show that Splash effectively achieves tactile reasoning without additional inference overhead in the LLM part, demonstrating state-of-the-art performance on visuo-tactile benchmarks, including SSVTP, TVL, and TacQuad, while preserving its original general-purpose capabilities."
+      "content": "Accurate breast cancer classification from mammography requires effective integration of complementary information from craniocaudal (CC) and mediolateral oblique (MLO) views, which provide a more complete characterization of breast abnormalities. However, existing multi-view learning approaches typically rely on feature-level aggregation or single-stage cross-attention, which can entangle view-specific and shared representations and restrict interaction to limited network depths. To address these limitations, we propose a token-centric dual-view learning framework that unifies prompt-based adaptation and cross-view fusion within a frozen vision transformer backbone. The framework reformulates inter-view interaction as structured token-level communication, where dedicated fusion tokens explicitly encode bidirectional information exchange between CC and MLO views via cross-attention, serving as intermediate carriers of cross-view dependencies rather than relying on direct feature fusion. Unlike conventional methods that apply fusion at a single layer, fusion modules are inserted at multiple transformer depths, enabling progressive and repeated interaction across the encoder hierarchy. Fusion tokens are reintegrated into the token sequence and refined by subsequent transformer layers, facilitating hierarchical propagation of complementary information while preserving view-specific structure. Experiments on VinDr-Mammo and CMMD datasets demonstrate consistent improvements over linear probing, prompt-only adaptation, and conventional fusion baselines. On the VinDr-Mammo BI-RADS classification task, the framework achieves 50.40% F1-score and 0.8090 AUC, including a 0.10 AUC improvement over a dual-view fusion baseline in the binary setting. Ablation studies further validate the effectiveness of token-based fusion and multi-depth interaction design."
     }
   ],
   "hfModels": [
@@ -555,7 +554,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
       "downloads": 34563978,
-      "likes": 3208,
+      "likes": 3209,
       "category": "research",
       "tags": [
         "Sentence-similarity",
