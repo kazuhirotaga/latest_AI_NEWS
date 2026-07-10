@@ -233,6 +233,45 @@ const INITIAL_HF_MODELS = [
   }
 ];
 
+const INITIAL_AI_GADGETS = [
+  {
+    id: "gadget-1",
+    title: "Rabbit r1: Pocket-Sized AI Companion",
+    source: "Rabbit Tech",
+    date: "2026-05-15",
+    description: "A pocket-sized companion device utilizing a Large Action Model (LAM) designed to navigate applications and execute tasks on your behalf.",
+    category: "agent",
+    tags: ["Rabbit", "LAM", "Hardware"],
+    url: "https://www.rabbit.tech/",
+    hotScore: 92,
+    content: "The Rabbit r1 is a co-designed device with Teenage Engineering. It features a 2.8-inch touchscreen, a rotating camera, and a push-to-talk button. Instead of relying on APIs, its Large Action Model learns how humans interact with web interfaces (like ordering food or booking rides) and executes those workflows directly, attempting to bypass the standard app store paradigm."
+  },
+  {
+    id: "gadget-2",
+    title: "Ray-Ban Meta Smart Glasses (Second Gen)",
+    source: "Meta Hardware",
+    date: "2026-06-10",
+    description: "Stylish smart glasses featuring built-in Meta AI, 12MP camera, open-ear audio, and real-time multimodal search capabilities.",
+    category: "image",
+    tags: ["Meta", "Smart-Glasses", "Multimodal"],
+    url: "https://www.meta.com/smart-glasses/",
+    hotScore: 97,
+    content: "The second-generation Ray-Ban Meta Smart Glasses represent a major step forward for wearable AI. Users can ask Meta AI to 'look and tell' about objects in front of them, translate foreign signs in real-time, or identify plants and landmarks. The open-ear audio delivers rich sound while maintaining environmental awareness."
+  },
+  {
+    id: "gadget-3",
+    title: "Limitless Pendant: Wearable Audio AI",
+    source: "Limitless AI",
+    date: "2026-04-20",
+    description: "A wearable clasp that records your daily conversations and meetings, summarizing notes and tasks with secure cloud-based LLMs.",
+    category: "tooling",
+    tags: ["Limitless", "Audio-AI", "Wearable"],
+    url: "https://www.limitless.ai/",
+    hotScore: 90,
+    content: "The Limitless Pendant acts as an external memory aid. It features a battery life of up to 100 hours and utilizes advanced beamforming microphone arrays to isolate the wearer's voice. Captured audio is securely transcribed, summarized, and automatically synced with calendars and email applications to extract actionable checklist items."
+  }
+];
+
 // ==========================================
 // 2. Application State Management
 // ==========================================
@@ -241,8 +280,9 @@ const state = {
   githubProjects: [...INITIAL_GITHUB_PROJECTS],
   aiNews: [...INITIAL_AI_NEWS],
   hfModels: [...INITIAL_HF_MODELS],
+  aiGadgets: [...INITIAL_AI_GADGETS],
   bookmarks: JSON.parse(localStorage.getItem("gitai_favorites")) || [],
-  activeTab: "github", // "github", "news", "hf", "fav"
+  activeTab: "github", // "github", "news", "hf", "gadget", "fav"
   activeCategory: "all",
   searchQuery: "",
   sortBy: "hot"
@@ -272,6 +312,8 @@ function toggleBookmark(itemId, type) {
       itemToAdd = state.aiNews.find(n => n.id === itemId);
     } else if (type === "model") {
       itemToAdd = state.hfModels.find(m => m.id === itemId);
+    } else if (type === "gadget") {
+      itemToAdd = state.aiGadgets.find(g => g.id === itemId);
     }
 
     if (itemToAdd) {
@@ -489,6 +531,46 @@ function createModelCard(model) {
   return card;
 }
 
+// Create AI Gadget Card
+function createGadgetCard(gadget) {
+  const isFav = isBookmarked(gadget.id);
+  const card = document.createElement("div");
+  card.className = "card";
+  card.setAttribute("data-id", gadget.id);
+
+  const tagsHtml = gadget.tags.map(t => `<span class="tag-badge">${t}</span>`).join("");
+  const starIconClass = isFav ? "fa-solid fa-star active" : "fa-regular fa-star";
+
+  card.innerHTML = `
+    <div class="card-header">
+      <div class="card-icon-container" style="background: #0ea5e9;" aria-hidden="true">
+        <i class="fa-solid fa-laptop"></i>
+      </div>
+      <button class="btn-star ${isFav ? "active" : ""}" aria-label="お気に入り登録" onclick="event.stopPropagation(); window.handleBookmarkToggle('${gadget.id}', 'gadget')">
+        <i class="${starIconClass}"></i>
+      </button>
+    </div>
+    <div class="card-tags">${tagsHtml}</div>
+    <h3 class="card-title" onclick="window.handleOpenDetail('${gadget.id}', 'gadget')">${gadget.title}</h3>
+    <p class="card-desc">${gadget.description}</p>
+    <div class="card-meta tnum">
+      <div class="meta-item">
+        <i class="fa-regular fa-calendar"></i>
+        <span>${gadget.date}</span>
+      </div>
+      <div class="meta-item">
+        <i class="fa-solid fa-microchip"></i>
+        <span>${gadget.source}</span>
+      </div>
+      <div class="meta-item">
+        <i class="fa-solid fa-arrow-trend-up"></i>
+        <span>Hot: ${gadget.hotScore}%</span>
+      </div>
+    </div>
+  `;
+  return card;
+}
+
 // Get Filtered and Sorted Data
 function getProcessedData(list, type) {
   // 1. Search Query Filter
@@ -500,6 +582,8 @@ function getProcessedData(list, type) {
       textToSearch = `${item.title} ${item.description} ${item.source} ${item.tags.join(" ")}`;
     } else if (type === "model" || item.bookmarkType === "model") {
       textToSearch = `${item.owner} ${item.name} ${item.fullName} ${item.tags.join(" ")}`;
+    } else if (type === "gadget" || item.bookmarkType === "gadget") {
+      textToSearch = `${item.title} ${item.description} ${item.source} ${item.tags.join(" ")}`;
     } else {
       textToSearch = `${item.owner || ''} ${item.name || ''} ${item.title || ''} ${item.fullName || ''} ${item.tags ? item.tags.join(" ") : ""}`;
     }
@@ -604,6 +688,26 @@ function renderActiveView() {
     }
   }
   
+  else if (state.activeTab === "gadget") {
+    const listContainer = document.getElementById("gadget-list");
+    listContainer.innerHTML = "";
+    const processed = getProcessedData(state.aiGadgets, "gadget");
+
+    if (processed.length === 0) {
+      listContainer.innerHTML = `
+        <div class="empty-state" style="grid-column: 1/-1;">
+          <div class="empty-icon"><i class="fa-solid fa-laptop"></i></div>
+          <h3>該当するガジェットニュースはありません</h3>
+          <p>別の検索条件やカテゴリを選択してみてください。</p>
+        </div>
+      `;
+    } else {
+      processed.forEach(gadget => {
+        listContainer.appendChild(createGadgetCard(gadget));
+      });
+    }
+  }
+  
   else if (state.activeTab === "fav") {
     const listContainer = document.getElementById("fav-list");
     const emptyState = document.getElementById("fav-empty");
@@ -624,6 +728,8 @@ function renderActiveView() {
           listContainer.appendChild(createRepoCard(item));
         } else if (item.bookmarkType === "model") {
           listContainer.appendChild(createModelCard(item));
+        } else if (item.bookmarkType === "gadget") {
+          listContainer.appendChild(createGadgetCard(item));
         } else {
           listContainer.appendChild(createNewsCard(item));
         }
@@ -750,6 +856,8 @@ function openDetail(itemId, type) {
     item = state.githubProjects.find(p => p.id === itemId) || state.bookmarks.find(b => b.id === itemId);
   } else if (type === "model") {
     item = state.hfModels.find(m => m.id === itemId) || state.bookmarks.find(b => b.id === itemId);
+  } else if (type === "gadget") {
+    item = state.aiGadgets.find(g => g.id === itemId) || state.bookmarks.find(b => b.id === itemId);
   } else {
     item = state.aiNews.find(n => n.id === itemId) || state.bookmarks.find(b => b.id === itemId);
   }
@@ -864,6 +972,47 @@ function openDetail(itemId, type) {
         </button>
       </div>
     `;
+  } else if (type === "gadget") {
+    body.innerHTML = `
+      <div class="modal-title-area">
+        <div class="modal-icon" style="background: #0ea5e9;" aria-hidden="true">
+          <i class="fa-solid fa-laptop"></i>
+        </div>
+        <div>
+          <h2 class="modal-title">${item.title}</h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem; margin-top: 0.25rem;">${item.source} • ${item.date}</p>
+        </div>
+      </div>
+      
+      <div class="modal-meta-grid">
+        <div class="modal-meta-card">
+          <span class="modal-meta-label">メーカー/情報源</span>
+          <span class="modal-meta-val">${item.source}</span>
+        </div>
+        <div class="modal-meta-card">
+          <span class="modal-meta-label">公開日</span>
+          <span class="modal-meta-val">${item.date}</span>
+        </div>
+        <div class="modal-meta-card">
+          <span class="modal-meta-label">急上昇度</span>
+          <span class="modal-meta-val">${item.hotScore}%</span>
+        </div>
+      </div>
+
+      <p class="modal-body-text" style="font-weight: 600; font-size: 1.05rem; margin-bottom: 1rem; color: var(--text-primary); border-left: 3px solid var(--accent-color); padding-left: 0.75rem;">
+        ${item.description}
+      </p>
+      <p class="modal-body-text" style="white-space: pre-line;">${item.content || "詳細なスペックや実機レビューは公式サイト、または情報元のテック記事をご参照ください。"}</p>
+      
+      <div class="modal-actions">
+        <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+          <i class="fa-solid fa-arrow-up-right-from-square"></i> 公式/記事サイトで開く
+        </a>
+        <button class="btn btn-secondary" onclick="window.handleBookmarkToggle('${item.id}', 'gadget'); window.handleCloseDetail();">
+          <i class="${favIconClass}"></i> ${favText}
+        </button>
+      </div>
+    `;
   } else {
     const isPaper = item.category === "research" || item.source.toLowerCase().includes("arxiv");
     const iconClass = isPaper ? "fa-solid fa-graduation-cap" : "fa-regular fa-newspaper";
@@ -955,6 +1104,9 @@ async function loadTrendsData() {
     if (data.hfModels && data.hfModels.length > 0) {
       state.hfModels = data.hfModels;
     }
+    if (data.aiGadgets && data.aiGadgets.length > 0) {
+      state.aiGadgets = data.aiGadgets;
+    }
     
     console.log(`Loaded trends data generated at: ${data.updatedAt}`);
     showToast("最新のデータを読み込みました", "success");
@@ -978,6 +1130,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "tab-github": { panelId: "github-panel", name: "github" },
     "tab-news": { panelId: "news-panel", name: "news" },
     "tab-hf": { panelId: "hf-panel", name: "hf" },
+    "tab-gadget": { panelId: "gadget-panel", name: "gadget" },
     "tab-fav": { panelId: "fav-panel", name: "fav" }
   };
 

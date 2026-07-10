@@ -78,6 +78,9 @@
         <button class="view-tab" role="tab" aria-selected="false" aria-controls="hf-panel" id="tab-hf">
           <i class="fa-solid fa-robot"></i> HF モデル
         </button>
+        <button class="view-tab" role="tab" aria-selected="false" aria-controls="gadget-panel" id="tab-gadget">
+          <i class="fa-solid fa-laptop"></i> AI ガジェット
+        </button>
         <button class="view-tab" role="tab" aria-selected="false" aria-controls="fav-panel" id="tab-fav">
           <i class="fa-solid fa-star"></i> ブックマーク一覧
         </button>
@@ -124,6 +127,13 @@
       <!-- Hugging Face Panel -->
       <section id="hf-panel" class="panel" role="tabpanel" aria-labelledby="tab-hf">
         <div class="grid-layout" id="hf-list">
+          <!-- JSで動的にカードを生成 -->
+        </div>
+      </section>
+
+      <!-- AI Gadget Panel -->
+      <section id="gadget-panel" class="panel" role="tabpanel" aria-labelledby="tab-gadget">
+        <div class="grid-layout" id="gadget-list">
           <!-- JSで動的にカードを生成 -->
         </div>
       </section>
