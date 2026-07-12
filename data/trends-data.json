@@ -1,13 +1,30 @@
 {
-  "updatedAt": "2026-07-12T01:22:12.592Z",
+  "updatedAt": "2026-07-12T12:48:02.230Z",
   "githubProjects": [
+    {
+      "id": "fetch-repo-1206615395",
+      "name": "LibreCode",
+      "owner": "re4",
+      "description": "LibreCode - A Ollama cursor like coding / Reversing Interface",
+      "stars": 1062629,
+      "forks": 0,
+      "language": "C#",
+      "category": "llm",
+      "tags": [
+        "Ai",
+        "Ai-agents",
+        "Coding"
+      ],
+      "url": "https://github.com/re4/LibreCode",
+      "hotScore": 100
+    },
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 382627,
-      "forks": 80300,
+      "stars": 382668,
+      "forks": 80308,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -16,15 +33,15 @@
         "Crustacean"
       ],
       "url": "https://github.com/openclaw/openclaw",
-      "hotScore": 100
+      "hotScore": 98
     },
     {
       "id": "fetch-repo-1073224795",
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 252463,
-      "forks": 22532,
+      "stars": 252780,
+      "forks": 22566,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -33,15 +50,15 @@
         "Coding"
       ],
       "url": "https://github.com/obra/superpowers",
-      "hotScore": 98
+      "hotScore": 96
     },
     {
       "id": "fetch-repo-1024554267",
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 213304,
-      "forks": 39447,
+      "stars": 213503,
+      "forks": 39527,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -50,15 +67,15 @@
         "Ai-agents"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "hotScore": 96
+      "hotScore": 94
     },
     {
       "id": "fetch-repo-193215554",
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 196100,
-      "forks": 59256,
+      "stars": 196143,
+      "forks": 59269,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -67,15 +84,15 @@
         "Automation"
       ],
       "url": "https://github.com/n8n-io/n8n",
-      "hotScore": 94
+      "hotScore": 92
     },
     {
       "id": "fetch-repo-614765452",
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 185480,
-      "forks": 46111,
+      "stars": 185488,
+      "forks": 46106,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -84,15 +101,15 @@
         "Ai"
       ],
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "hotScore": 92
+      "hotScore": 90
     },
     {
       "id": "fetch-repo-574523116",
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 165441,
-      "forks": 21418,
+      "stars": 165506,
+      "forks": 21427,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -101,15 +118,15 @@
         "Awesome-list"
       ],
       "url": "https://github.com/f/prompts.chat",
-      "hotScore": 90
+      "hotScore": 88
     },
     {
       "id": "fetch-repo-527591471",
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164194,
-      "forks": 30534,
+      "stars": 164193,
+      "forks": 30538,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -118,15 +135,15 @@
         "Deep-learning"
       ],
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "hotScore": 88
+      "hotScore": 86
     },
     {
       "id": "fetch-repo-132464395",
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 156954,
-      "forks": 46169,
+      "stars": 156974,
+      "forks": 46170,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -135,15 +152,15 @@
         "Context-engineering"
       ],
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "hotScore": 86
+      "hotScore": 84
     },
     {
       "id": "fetch-repo-787076358",
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 149387,
-      "forks": 8548,
+      "stars": 149665,
+      "forks": 8561,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -152,15 +169,15 @@
         "Ai-crawler"
       ],
       "url": "https://github.com/firecrawl/firecrawl",
-      "hotScore": 84
+      "hotScore": 82
     },
     {
       "id": "fetch-repo-626805178",
       "name": "dify",
       "owner": "langgenius",
       "description": "Production-ready platform for agentic workflow development.",
-      "stars": 148524,
-      "forks": 23416,
+      "stars": 148570,
+      "forks": 23426,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -169,15 +186,15 @@
         "Agentic-framework"
       ],
       "url": "https://github.com/langgenius/dify",
-      "hotScore": 82
+      "hotScore": 80
     },
     {
       "id": "fetch-repo-701547123",
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 145093,
-      "forks": 21018,
+      "stars": 145127,
+      "forks": 21025,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -186,15 +203,15 @@
         "Llm-ui"
       ],
       "url": "https://github.com/open-webui/open-webui",
-      "hotScore": 80
+      "hotScore": 78
     },
     {
       "id": "fetch-repo-943398999",
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 141814,
-      "forks": 34808,
+      "stars": 141828,
+      "forks": 34809,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -203,15 +220,15 @@
         "Cluely"
       ],
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "hotScore": 78
+      "hotScore": 76
     },
     {
       "id": "fetch-repo-552661142",
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 141554,
-      "forks": 23531,
+      "stars": 141585,
+      "forks": 23538,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -220,15 +237,15 @@
         "Ai-agents"
       ],
       "url": "https://github.com/langchain-ai/langchain",
-      "hotScore": 76
+      "hotScore": 74
     },
     {
       "id": "fetch-repo-589831718",
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 120387,
-      "forks": 14150,
+      "stars": 120431,
+      "forks": 14161,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -237,23 +254,6 @@
         "Comfyui"
       ],
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "hotScore": 74
-    },
-    {
-      "id": "fetch-repo-1042367133",
-      "name": "spec-kit",
-      "owner": "github",
-      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 119588,
-      "forks": 10602,
-      "language": "Python",
-      "category": "research",
-      "tags": [
-        "Ai",
-        "Copilot",
-        "Development"
-      ],
-      "url": "https://github.com/github/spec-kit",
       "hotScore": 72
     }
   ],
@@ -269,7 +269,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2606.26428v2",
-      "hotScore": 82,
+      "hotScore": 90,
       "content": "Multi-fingered robots promise the speed and dexterity of human hands, yet challenging problems such as precise assembly have remained out of reach. These tasks are contact-rich, making data collection for imitation learning difficult, and sparse-reward, making direct exploration with reinforcement learning (RL) intractable. Consequently, prior work has made progress by structuring the problem with specialized grippers, tool attachments, and environment fixtures. In this work, we argue that before a robot can perfect precise assembly, it must first learn to play. We further ask the question: what factors in the process of learning to play matter for precise assembly? We propose Play2Perfect, an RL framework for task-agnostic pretraining through play on diverse objects and goals, which is then perfected on precise assembly. The goal of play is to acquire reusable manipulation priors, such as grasping, in-hand reorientation and pose reaching. Finetuning then adapts this general prior to assembly, focusing exploration on the final contact-rich, high-precision interactions needed for success. We systematically study key design choices in play pretraining, including object diversity, training objective, trajectory diversity, and goal precision. We show that our prior is 33x more sample-efficient than RL training from scratch, even when provided with dense, multi-stage rewards. We demonstrate zero-shot sim-to-real transfer, achieving 60% success on tight insertions with only 0.5 mm contact clearance, and over 50% success on long-horizon multi-part assembly and screwing."
     },
     {
@@ -284,7 +284,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2607.08768v1",
-      "hotScore": 83,
+      "hotScore": 92,
       "content": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn evaluation paradigms. Moreover, their scenario-based task taxonomies mix multiple model capabilities within the same task category, making it difficult to identify the root causes of agent failures. To address these limitations, we introduce UniClawBench, the first capability-driven benchmark designed to evaluate proactive agents in dynamic, real-world settings. UniClawBench is built around five foundational model capabilities: Skill Usage, Exploration, Long-Context Reasoning, Multimodal Understanding, and Cross-Platform Coordination. Based on these capabilities, we design 400 bilingual real-world tasks. Unlike previous benchmarks that rely on static, pre-recorded answers, our benchmark evaluates agents in live Docker containers using fine-grained, step-by-step completion checkpoints. Furthermore, we design a closed-loop evaluation strategy comprising an executor agent, a hidden supervisor agent, and a user agent to simulate realistic multi-turn human feedback without leaking grading criteria. To disentangle base model capabilities from framework-level design choices, we evaluate state-of-the-art models under multiple agent frameworks. Through comprehensive comparisons across both models and frameworks, we show how base model capabilities and agent framework designs jointly shape performance in real-world environments. To facilitate future research, we make our benchmark and code publicly available at https://github.com/HKU-MMLab/UniClawBench."
     },
     {
@@ -299,7 +299,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2607.08763v1",
-      "hotScore": 85,
+      "hotScore": 80,
       "content": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): reasoning can unfold through temporally connected frames, known as Chain-of-Frame (CoF) reasoning. However, existing video generators are primarily trained on general video corpora, still lacking diverse supervision and dedicated designs for CoF reasoning. To address this gap, we introduce OpenCoF, a framework comprising the OpenCoF-17K dataset, a reasoning video dataset spanning 11 task families, and Wan-CoF, a fine-tuned video model for studying whether diverse temporal supervision improves CoF behavior. Across four video reasoning benchmarks, Wan-CoF achieves considerable gains over the Wan2.2-I2V-A14B baseline. Building on this, we empirically explore more advanced designs for CoF capabilities, i.e., equipping the model with visual and textual reasoning tokens. This mechanism respectively captures low-level visual cues and high-level semantic priors for spatial and temporal reasoning. Through performance comparisons and attention analysis, we examine how these tokens contribute across model depth, denoising steps, space, and time. Our results suggest that stronger video reasoning requires both broad temporal supervision and explicit mechanisms for organizing intermediate reasoning state. We open-source the dataset, model, and code to facilitate future research on reasoning-oriented video generation."
     },
     {
@@ -329,7 +329,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2607.08757v1",
-      "hotScore": 82,
+      "hotScore": 84,
       "content": "Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal error does not guarantee numerical stability. We construct a single smooth score field with arbitrarily small forward-marginal $L^2$ error. The learned reverse-time process is nonexplosive, has moments of every order, and can be arbitrarily close to the exact reverse-time process in path-space total variation. Yet its Euler--Maruyama discretizations converge in probability while every positive moment diverges. Thus weak convergence can hold even though every Wasserstein distance $W_p$, $p\\ge1$, diverges. The same failure can occur within one fixed finite neural architecture. We construct a family of bounded, globally Lipschitz denoisers for which both the forward-marginal error and the path-space total variation distance tend to zero, while their Euler--Maruyama endpoints diverge in every $W_p$. For compactly supported data, we also give a simple positive result. Projecting the learned denoiser onto a known bounded closed convex set containing the support preserves pointwise accuracy, gives grid-uniform moment bounds, and yields Wasserstein convergence under mild local regularity. Experiments with a small fixed DiT-style network show large growth along rare numerical trajectories and its suppression by denoiser projection, while overall trajectory errors remain small."
     },
     {
@@ -358,7 +358,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2306.02704v2",
-      "hotScore": 88,
+      "hotScore": 80,
       "content": "We introduce \\emph{Calibrated Stackelberg Games (CSGs)}, a generalization of the standard Stackelberg Games (SGs) framework. In CSGs, a principal repeatedly interacts with an agent who (contrary to standard SGs) does not have direct access to the principal's action but instead best-responds to calibrated forecasts about it. This framework provides a powerful and realistic modeling tool that goes beyond assuming that agents use ad hoc and highly specified algorithms for interacting in strategic settings and instead builds on statistical foundations of forecasts and calibration. We show that in CSGs, despite both the principal and the agent having less information than in standard SGs, the principal's optimal utility remains upper and lower bounded by the Stackelberg value of the one-shot game, in both finite and continuous settings. Alongside CSGs, we develop stronger notions of calibration and corresponding algorithms that address two central challenges for calibration in game-theoretic environments. First, achieving point-wise calibration typically incurs an error that scales exponentially with the dimension of the strategy space. Second, the principal's convergence rate in CSGs depends critically on the adaptivity of the agent's calibration algorithm. To address these challenges, we establish a meaningful, efficiently achievable relaxation of calibration based on conditioning on best-response regions. This yields the first notion of calibration in games with a statistical rate that only depends on the number of agents' actions rather than the dimension of the principal's strategy space and that leads to no-swap regret for the agent. We further develop adaptive calibration algorithms for the agents that provide fine-grained, any-time calibration guarantees against adversarial sequences, enabling the principal to achieve faster convergence in CSGs."
     },
     {
@@ -373,7 +373,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2607.08754v1",
-      "hotScore": 94,
+      "hotScore": 83,
       "content": "Low-rank factorization is widely used to compress neural networks, but modern models are often not naturally amenable to aggressive factorization without significant accuracy loss. Existing training-time low-rank regularizers can improve compressibility, but they often require SVDs of large weight matrices, modify the model architecture (introducing additional trainable parameters), or rely on stateful cached quantities. To address these limitations, we introduce SLORR, a simple, stateless, and architecture-preserving framework for in-training low-rank regularization, instantiated with two main variants based on the Hoyer sparsity metric and the nuclear norm. SLORR directly regularizes the original weight matrices using GPU-friendly approximations for the forward and backward passes of the regularizers, for which we provide approximation guarantees. We first evaluate SLORR on ImageNet-1K across short-horizon continued training of ResNet-50, ViT-B/16, and ViT-L/16, and pretraining of ResNet-18, where SLORR induces compressibility while introducing less than 8% training overhead. We further evaluate SLORR-Hoyer in LLM pretraining at 135M and 560M scales: SLORR-trained compressed models preserve performance substantially better than unregularized models while adding less than 1% average training overhead."
     },
     {
@@ -458,8 +458,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 254795723,
-      "likes": 5057,
+      "downloads": 253486874,
+      "likes": 5059,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -474,7 +474,7 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 85082315,
+      "downloads": 85011602,
       "likes": 278,
       "category": "research",
       "tags": [
@@ -490,7 +490,7 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 72165550,
+      "downloads": 72570258,
       "likes": 2703,
       "category": "research",
       "tags": [
@@ -506,7 +506,7 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 66301116,
+      "downloads": 66405423,
       "likes": 508,
       "category": "research",
       "tags": [
@@ -522,7 +522,7 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 50278369,
+      "downloads": 50198382,
       "likes": 1311,
       "category": "llm",
       "tags": [
@@ -538,7 +538,7 @@
       "name": "electra-base-discriminator",
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
-      "downloads": 47351492,
+      "downloads": 49780827,
       "likes": 138,
       "category": "research",
       "tags": [
@@ -553,8 +553,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 34659174,
-      "likes": 3220,
+      "downloads": 34659039,
+      "likes": 3221,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -569,7 +569,7 @@
       "name": "all-mpnet-base-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-mpnet-base-v2",
-      "downloads": 33241691,
+      "downloads": 32593892,
       "likes": 1325,
       "category": "llm",
       "tags": [
@@ -581,11 +581,27 @@
       "hotScore": 86
     },
     {
+      "id": "fetch-model-Qwen--Qwen3-0.6B",
+      "name": "Qwen3-0.6B",
+      "owner": "Community",
+      "fullName": "Qwen/Qwen3-0.6B",
+      "downloads": 27809311,
+      "likes": 1405,
+      "category": "image",
+      "tags": [
+        "Text-generation",
+        "Transformers",
+        "Safetensors"
+      ],
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+      "hotScore": 84
+    },
+    {
       "id": "fetch-model-timm--mobilenetv3_small_100.lamb_in1k",
       "name": "mobilenetv3_small_100.lamb_in1k",
       "owner": "Community",
       "fullName": "timm/mobilenetv3_small_100.lamb_in1k",
-      "downloads": 28739838,
+      "downloads": 27760883,
       "likes": 88,
       "category": "image",
       "tags": [
@@ -594,22 +610,6 @@
         "Pytorch"
       ],
       "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
-      "hotScore": 84
-    },
-    {
-      "id": "fetch-model-Qwen--Qwen3-0.6B",
-      "name": "Qwen3-0.6B",
-      "owner": "Community",
-      "fullName": "Qwen/Qwen3-0.6B",
-      "downloads": 28500464,
-      "likes": 1406,
-      "category": "image",
-      "tags": [
-        "Text-generation",
-        "Transformers",
-        "Safetensors"
-      ],
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "hotScore": 82
     }
   ],
@@ -626,7 +626,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
-      "hotScore": 91,
+      "hotScore": 93,
       "content": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken...."
     },
     {
@@ -641,7 +641,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
-      "hotScore": 99,
+      "hotScore": 96,
       "content": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions a..."
     },
     {
@@ -656,7 +656,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
-      "hotScore": 97,
+      "hotScore": 88,
       "content": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers...."
     }
   ]
