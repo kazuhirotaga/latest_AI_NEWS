@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-13T01:23:11.926Z",
+  "updatedAt": "2026-07-13T13:55:59.412Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. ���� ",
-      "stars": 382707,
-      "forks": 80329,
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 382802,
+      "forks": 80345,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -19,29 +19,12 @@
       "hotScore": 100
     },
     {
-      "id": "fetch-repo-1206615395",
-      "name": "LibreCode",
-      "owner": "re4",
-      "description": "LibreCode - A Ollama cursor like coding / Reversing Interface",
-      "stars": 348139,
-      "forks": 2,
-      "language": "C#",
-      "category": "llm",
-      "tags": [
-        "Ai",
-        "Ai-agents",
-        "Coding"
-      ],
-      "url": "https://github.com/re4/LibreCode",
-      "hotScore": 98
-    },
-    {
       "id": "fetch-repo-1073224795",
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 253049,
-      "forks": 22601,
+      "stars": 253575,
+      "forks": 22647,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -50,15 +33,15 @@
         "Coding"
       ],
       "url": "https://github.com/obra/superpowers",
-      "hotScore": 96
+      "hotScore": 98
     },
     {
       "id": "fetch-repo-1024554267",
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 213743,
-      "forks": 39630,
+      "stars": 214084,
+      "forks": 39726,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -67,15 +50,15 @@
         "Ai-agents"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "hotScore": 94
+      "hotScore": 96
     },
     {
       "id": "fetch-repo-193215554",
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 196207,
-      "forks": 59292,
+      "stars": 196269,
+      "forks": 59301,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -84,15 +67,15 @@
         "Automation"
       ],
       "url": "https://github.com/n8n-io/n8n",
-      "hotScore": 92
+      "hotScore": 94
     },
     {
       "id": "fetch-repo-614765452",
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 185496,
-      "forks": 46106,
+      "stars": 185510,
+      "forks": 46096,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -101,14 +84,14 @@
         "Ai"
       ],
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "hotScore": 90
+      "hotScore": 92
     },
     {
       "id": "fetch-repo-574523116",
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 165569,
+      "stars": 165617,
       "forks": 21434,
       "language": "HTML",
       "category": "llm",
@@ -118,15 +101,15 @@
         "Awesome-list"
       ],
       "url": "https://github.com/f/prompts.chat",
-      "hotScore": 88
+      "hotScore": 90
     },
     {
       "id": "fetch-repo-527591471",
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164198,
-      "forks": 30543,
+      "stars": 164216,
+      "forks": 30529,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -135,15 +118,15 @@
         "Deep-learning"
       ],
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "hotScore": 86
+      "hotScore": 88
     },
     {
       "id": "fetch-repo-132464395",
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 156974,
-      "forks": 46171,
+      "stars": 156995,
+      "forks": 46169,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -152,15 +135,15 @@
         "Context-engineering"
       ],
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "hotScore": 84
+      "hotScore": 86
     },
     {
       "id": "fetch-repo-787076358",
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 149910,
-      "forks": 8574,
+      "stars": 150217,
+      "forks": 8588,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -169,15 +152,15 @@
         "Ai-crawler"
       ],
       "url": "https://github.com/firecrawl/firecrawl",
-      "hotScore": 82
+      "hotScore": 84
     },
     {
       "id": "fetch-repo-626805178",
       "name": "dify",
       "owner": "langgenius",
       "description": "Production-ready platform for agentic workflow development.",
-      "stars": 148612,
-      "forks": 23425,
+      "stars": 148689,
+      "forks": 23434,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -186,15 +169,15 @@
         "Agentic-framework"
       ],
       "url": "https://github.com/langgenius/dify",
-      "hotScore": 80
+      "hotScore": 82
     },
     {
       "id": "fetch-repo-701547123",
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 145174,
-      "forks": 21036,
+      "stars": 145264,
+      "forks": 21044,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -203,15 +186,15 @@
         "Llm-ui"
       ],
       "url": "https://github.com/open-webui/open-webui",
-      "hotScore": 78
+      "hotScore": 80
     },
     {
       "id": "fetch-repo-943398999",
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 141843,
-      "forks": 34809,
+      "stars": 141869,
+      "forks": 34806,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -220,15 +203,15 @@
         "Cluely"
       ],
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "hotScore": 76
+      "hotScore": 78
     },
     {
       "id": "fetch-repo-552661142",
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 141609,
-      "forks": 23547,
+      "stars": 141671,
+      "forks": 23546,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -237,15 +220,15 @@
         "Ai-agents"
       ],
       "url": "https://github.com/langchain-ai/langchain",
-      "hotScore": 74
+      "hotScore": 76
     },
     {
       "id": "fetch-repo-589831718",
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 120488,
-      "forks": 14179,
+      "stars": 120585,
+      "forks": 14171,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -254,6 +237,23 @@
         "Comfyui"
       ],
       "url": "https://github.com/Comfy-Org/ComfyUI",
+      "hotScore": 74
+    },
+    {
+      "id": "fetch-repo-1042367133",
+      "name": "spec-kit",
+      "owner": "github",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stars": 120314,
+      "forks": 10669,
+      "language": "Python",
+      "category": "research",
+      "tags": [
+        "Ai",
+        "Copilot",
+        "Development"
+      ],
+      "url": "https://github.com/github/spec-kit",
       "hotScore": 72
     }
   ],
@@ -269,7 +269,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2607.09662v1",
-      "hotScore": 93,
+      "hotScore": 92,
       "content": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve (AUC) of approximately 0.70 on the DREAM database (Wong et al., 2025, Nature Communications). We introduce PHINN-EEG (Persistent Homology Inspired Neural Network for EEG), the first topological time-series framework for dream mentation analysis. Using sliding-window Takens delay embeddings and Vietoris-Rips filtrations on multichannel pre-awakening EEG epochs, we extract Dynamic Betti Curves that characterize the geometric architecture of neural activity, not merely its energy. These topological invariants, combined with topology-conditioned flow matching, are analytically projected to outperform existing PSD and catch22 benchmarks, targeting AUC = 0.82-0.90 on the 1,462-awakening open-access subset of the DREAM database (drawn from a full registry of 3,191 total awakenings from 263 participants across 20 independent laboratories). We further introduce a topology-conditioned rectified flow model for dream-state EEG synthesis-with a spectral-conditioned flow model of comparable feature dimensionality as an additional ablation baseline to isolate the value of topological conditioning specifically-and propose a set of candidate Betti transition archetypes linking topology to phenomenological dream report categories, presented as an exploratory hypothesis space pending empirical validation. If validated, this work represents a paradigm shift from spectral energy to phase-space geometry in neural rare-event detection, with potential future implications for wearable BCI dream monitoring."
     },
     {
@@ -284,7 +284,7 @@
         "LLM"
       ],
       "url": "http://arxiv.org/abs/2607.09657v1",
-      "hotScore": 82,
+      "hotScore": 87,
       "content": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, where figures, typeset equations, and page layouts carry rich information that cannot be faithfully or completely captured by text alone. Yet current pretraining approaches discard these visual cues by converting visually rich sources, such as documents and web pages, into plain text for learning language intelligence. This paper challenges the default assumption that language models must be trained on text-only representations and shows that Visual Pretraining is a scalable learner for foundation model intelligence. To this end, we conduct a systematic study of unsupervised visual pretraining paradigms that directly leverage visual documents without text extraction. Across multiple backbones and benchmarks, visual pretraining on the same underlying corpora consistently outperforms text-only pretraining, offering an efficient pathway to scalable language intelligence."
     },
     {
@@ -299,7 +299,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2607.09654v1",
-      "hotScore": 86,
+      "hotScore": 93,
       "content": "Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactions or behaviors, only a handful of non-curated human descriptions as a benchmark, and have not focused on understanding the model's error types. Here, we introduce the Complex Social Behavior (CSB) dataset, containing 100 images depicting complex social interactions/behaviors. We analyze the progression of scene descriptions over a decade (2017-2025) of VLMs (four pre-Multimodal Large Language Models, MLLMs, and five MLLMs). We evaluate the accuracy of the models and 20 human descriptions relative to a gold standard on the CSB dataset and on a sample from MS-COCO. We analyzed five visual-cognitive error types: object detection, recognition, hallucination, scene understanding, and spatial dependence. The CSB dataset showed a more pronounced improvement than MS-COCO in scene description accuracy, with pre-MLLMs achieving much lower accuracy than the bottom-ranked human descriptions and MLLMs attaining accuracies similar to the top-ranked human descriptions. We show that MLLMs have eliminated the gap in scene description accuracy between simpler MS-COCO scenes and scenes depicting complex behaviors (CSB). MLLMs have almost eliminated all error types in our tested datasets, except for occasionally relying on different image regions for scene descriptions than humans do (spatial dependence error). We also show that detection, recognition, and hallucination errors have the highest impact on scene description accuracy. Together, our findings provide a more thorough evaluation of how visual language models have advanced over the last decade."
     },
     {
@@ -314,7 +314,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2607.09653v1",
-      "hotScore": 81,
+      "hotScore": 88,
       "content": "Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testing approaches. While recent adoptions of Large Language Model (LLM) agents have demonstrated promise in penetration testing and Capture-the-Flag (CTF) environments, their application to IoT specific vulnerabilities remains unexplored. This paper presents an autonomous multi-agent framework, referred to as Vulnerability EXploitation using AI Agents (VEXAIoT), for vulnerability discovery and exploitation in IoT environments using LLM-based reasoning and offensive security tools. The framework combines a vulnerability detection agent and an attack execution agent to perform reconnaissance, plan attack sequences, and execute exploits against vulnerable IoT services. The system is evaluated in IoTGoat and Metasploitable environments across ten attack scenarios mapped to OWASP IoT vulnerabilities. Experimental results show attack success rate of up to 100% with low token overhead and average execution times under two minutes for most attacks. Across 260 attack executions, VEXAIoT achieves a 95.0% overall success rate, including 94.5% success in IoTGoat and 96.7% success in Metasploitable2. These results demonstrate the potential for LLM-driven agents to automate IoT vulnerability assessment and offensive security workflows in controlled environments"
     },
     {
@@ -344,7 +344,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2607.09649v1",
-      "hotScore": 89,
+      "hotScore": 84,
       "content": "Concept-based explainable artificial intelligence (AI) can make model reasoning more human-understandable, but concept-level outputs are not automatically trustworthy. We introduce ConceptSMILE, a model-agnostic perturbation-based auditing framework for evaluating the reliability of concept-based explanations. Rather than replacing SMILE, ConceptSMILE extends its perturbation-based logic from feature- or region-level attribution to the auditing of human-understandable concept explanations. The framework perturbs input regions, measures concept-response shifts, applies locality weighting, and fits an XGBoost surrogate to approximate local concept behaviour. Reliability is assessed through attribution accuracy, surrogate fidelity, faithfulness, stability, and consistency. We evaluate ConceptSMILE on retinal fundus images by comparing MedSAM-derived visual concepts with VLM-based semantic concepts. Results show that reliability varies across concepts and pathways: MedSAM achieves stronger spatial attribution and the highest surrogate fidelity ($R^2 = 0.8503$, $R_w^2 = 0.8465$), while the VLM pathway shows stronger vessel faithfulness and stronger stability under selected artefact conditions. ConceptSMILE provides an independent audit layer for evaluating the trustworthiness of concept-based XAI."
     },
     {
@@ -359,7 +359,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2603.17717v4",
-      "hotScore": 82,
+      "hotScore": 81,
       "content": "Supervised detection of network attacks has always been a critical part of network intrusion detection systems (NIDS). Nowadays, in a pivotal time for artificial intelligence (AI), with even more sophisticated attacks that utilize advanced techniques, such as generative artificial intelligence (GenAI) and reinforcement learning, it has become a vital component if we wish to protect our personal data, which are scattered across the web. In this paper, we address two tasks, in the first unified multi-modal NIDS dataset, which incorporates flow-level data, packet payload information and temporal contextual features, from the reprocessed CIC-IDS-2017, CIC-IoT-2023, UNSW-NB15 and CIC-DDoS-2019, with the same feature space. In the first task we use machine learning (ML) algorithms, with stratified cross validation, in order to prevent network attacks, with stability and reliability. In the second task we use adversarial learning algorithms to generate synthetic data, compare them with the real ones and evaluate their fidelity, utility and privacy using the SDV framework, f-divergences, distinguishability and non-parametric statistical tests. The findings provide stable ML models for intrusion detection and generative models with high fidelity and utility, by combining the Synthetic Data Vault framework, the TRTS and TSTR tests, with non-parametric statistical tests and f-divergence measures."
     },
     {
@@ -377,79 +377,79 @@
       "content": "Many real-world processes can be represented as compositions of functions along a directed acyclic graph (DAG). In causal modelling, these correspond to the underlying mechanisms; in engineering, to multiple fidelity levels; and in gene-regulatory networks, to transcription factors. These functions are partially observed across the DAG, with noisy and heterogeneously sampled measurements, posing significant challenges for reconstruction, uncertainty propagation, and inference. To tackle these challenges, we place priors over functions and naturally arrive at Deep Gaussian Processes over DAGs. We theoretically study their prior-collapse behaviour, and the effect of graph topology and intermediate observations on the preservation of information. We obtain almost-sure lower bounds on the asymptotic frequency of depths at which the distinction between inputs is preserved, identify broad kernel classes for which these hold, and prove an observation by \\cite{dunlop2018} on the role of input connections. We offer a structured variational approximation that retains graph dependencies, preserves compositional uncertainty, and captures the explaining-away behaviour of colliders. Finally, we empirically validate our theoretical results and our methodology, and model a latent-collider DAG, a protein signalling network, and a multi-fidelity heavy-ion collision emulation task, attaining state-of-the-art performance while recovering low-fidelity contributions and yielding interpretability of the simulator hierarchy."
     },
     {
-      "id": "fetch-hf-2607.08716",
-      "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+      "id": "fetch-hf-2607.07673",
+      "title": "MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models",
       "source": "Hugging Face Daily",
-      "date": "2026-07-08",
-      "description": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and ope...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2607.08716",
-      "hotScore": 90,
-      "content": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode \"behavioral state decay\". We study memory as an active intervention mechanism rather than passive retrieval. A separate memory agent runs alongside an unmodified action agent, updating a structured memory bank from the recent trajectory and deciding whether to inject a memory-grounded reminder or remain silent. The module is plug-and-play with frontier action agents and existing agent harnesses. Across Terminal-Bench 2.0 and τ^2-Bench, it improves pass@1 for both weaker and stronger action agents, with gains of +8.3 pp on Terminal-Bench and +6.8 pp on τ^2-Bench. Ablations show that selective intervention outperforms passive bank exposure, always-on injection, advisor-only guidance, and general retrieval. As an early step toward open-weight memory policies, we train Qwen3.5-27B on SETA using SFT and GRPO, improving validation reward and achieving partial transfer to Terminal-Bench."
-    },
-    {
-      "id": "fetch-hf-2607.04690",
-      "title": "PAST-TIDE: Prototype-Anchored Statement Tuning with Topic-Invariant Normalization for Stance Detection",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-05",
-      "description": "We introduce PAST-TIDE, our stance detection system addressing both subtasks of the StanceNakba Shared Task at NakbaNLP@LREC-COLING 2026. The main idea is statement tuning. We redefine stance as cloze-style masked language modeling (MLM), l...",
-      "category": "llm",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2607.04690",
-      "hotScore": 89,
-      "content": "We introduce PAST-TIDE, our stance detection system addressing both subtasks of the StanceNakba Shared Task at NakbaNLP@LREC-COLING 2026. The main idea is statement tuning. We redefine stance as cloze-style masked language modeling (MLM), letting a verbalizer map label words to stance categories through the pre-trained MLM head rather than appending a randomly initialized classification head. We complement this with prototypical contrastive learning, which uses learnable class prototypes for batch-size independent contrastive training, and topic-conditional layer normalization for cross-topic Arabic stance detection. PAST-TIDE achieves macro-F1 scores of 0.75 for Subtask A and 0.74 for Subtask B on the official leaderboard, indicating that minimal architectural additions to a pre-trained model can remain competitive in low-resource settings."
-    },
-    {
-      "id": "fetch-hf-2607.08688",
-      "title": "SAM-MT: Real-Time Interactive Multi-Target Video Segmentation",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-08",
-      "description": "Modern Video Object Segmentation (VOS) involves tracking and segmenting user-specified targets. While recent approaches have achieved remarkable performance in single-target scenarios, extending them to multi-target settings typically invol...",
+      "date": "2026-07-07",
+      "description": "Medicine is inherently multimodal, requiring clinicians to synthesize information across diverse data streams. Yet the development of multimodal foundation models is constrained by limited access to large-scale, high-quality clinical data. ...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.08688",
+      "url": "https://huggingface.co/papers/2607.07673",
+      "hotScore": 90,
+      "content": "Medicine is inherently multimodal, requiring clinicians to synthesize information across diverse data streams. Yet the development of multimodal foundation models is constrained by limited access to large-scale, high-quality clinical data. Although PubMed Central (PMC) offers a complementary source of expert-authored image-text data, existing PMC-derived resources remain limited in fidelity, reproducibility, and clinical validation. We introduce MedPMC, an automated, continuously updatable framework that transforms permissively licensed literature into high-fidelity infrastructure for medical multimodal models. Applied to 6.1 million PMC articles, MedPMC curated 11 million medical image-text pairs. Component evaluations showed strong performance for initial screening (F1 = 93.2), multi-panel figure detection (F1 = 96.5), figure separation (mAP = 89.8), caption separation and alignment (F1 = 81.4; ROUGE-L = 85.3), and medical figure classification (F1 = 96.5). Manual review by five annotators, three with medical training, found 95.3% of MedPMC images medically relevant, versus 19.7% in a prior PMC-derived dataset. Across 26 benchmarks spanning 11 specialties, a MedPMC-trained CLIP-style model improved average zero-shot AUC by 7.1 percentage points over the strongest architecture-matched biomedical CLIP baseline despite using fewer than half as many image-text pairs. As the vision encoder in a multimodal large language model, it improved medical visual question-answering by 1.9 and 16.9 percentage points across two benchmarks. In 10,524 Yale New Haven Health System dermatology photographs, it improved morphology-to-image retrieval Recall@5 by 11.7 percentage points. These findings show that high-fidelity literature curation strengthens medical multimodal foundation models across benchmark and clinical settings. We publicly release the framework, corpus, benchmarks, and pretrained models."
+    },
+    {
+      "id": "fetch-hf-2607.06957",
+      "title": "Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-07",
+      "description": "Realistic and diverse traffic simulation is essential to autonomous driving development. Yet prevailing benchmarks predominantly reward realism, and recent methods have optimized accordingly, leaving diversity underexplored. We introduce Fl...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.06957",
+      "hotScore": 89,
+      "content": "Realistic and diverse traffic simulation is essential to autonomous driving development. Yet prevailing benchmarks predominantly reward realism, and recent methods have optimized accordingly, leaving diversity underexplored. We introduce Flow-ERD, a multi-agent simulator that pursues realism and diversity jointly. Its backbone, Agent-Type Aware Flow Matching (AFM), couples flow matching's multi-modal expressiveness with type-specific kinematic execution. It preserves fine-grained diversity while keeping motions consistent with each agent type. A second stage, Entropy-Regularized Distillation (ERD), fine-tunes the closed-loop rollout distribution with an entropy-regularized reverse-KL objective. This mitigates covariate shift while explicitly preventing collapse onto high-density modes. We evaluate Flow-ERD with a log-free diversity metric alongside standard realism scores. Flow-ERD ranks first on the WOSAC test benchmark and dominates the realism--diversity Pareto front among reproducible baselines. Our project page is available https://seulbinhwang.github.io/flow-erd-project-page/{here}."
+    },
+    {
+      "id": "fetch-hf-2607.06374",
+      "title": "VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-06",
+      "description": "Vision-language models (VLMs) have made interactive digital museums increasingly feasible by connecting 3D digitization with natural-language artifact exploration. However, in cultural heritage domains such as ancient Greek pottery, reliabl...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.06374",
       "hotScore": 88,
-      "content": "Modern Video Object Segmentation (VOS) involves tracking and segmenting user-specified targets. While recent approaches have achieved remarkable performance in single-target scenarios, extending them to multi-target settings typically involves replicating the single-target processing for each individual object, resulting in reduced frame rates (FPS) with unbounded latency as target count increases. Built upon Segment Anything 2 (SAM2), we propose SAM-MT, which addresses this by transforming the model into an interactive framework for real-time Multi-Target video segmentation. SAM-MT uses explicit queries to represent different individual targets, in parallel with a shared representation for global context. It employs decoupled masked attention to keep individual identities distinct from cross-target interference, and sparse memory for stable temporal evolution, along with specialized strategies for occlusion handling and overlap prevention. SAM-MT successfully decouples latency from the number of targets, achieving real-time speed on par with single-target baselines (>36 FPS for 10 targets) while maintaining SAM2's robust video segmentation performance."
+      "content": "Vision-language models (VLMs) have made interactive digital museums increasingly feasible by connecting 3D digitization with natural-language artifact exploration. However, in cultural heritage domains such as ancient Greek pottery, reliable VLM assistance is limited by two challenges. First, open-ended interpretation requires grounding fine-grained 2D/3D visual evidence in specialized curatorial knowledge, yet the retrieval process may introduce weak sources and unverifiable references. Second, when the available evidence is incomplete, noisy, or ambiguous, VLMs often produce confident but unsupported answers instead of calibrated uncertainty. To address these challenges, we propose VaseMuseum, a lightweight and modular multimodal agent framework for intelligent digital museums of ancient Greek pottery. VaseMuseum combines an interactive virtual museum with VaseAgent, which supports both 2D images and 3D artifacts through multimodal perception, 3D-aware reasoning, external knowledge retrieval, and inference-time reliability control. Specifically, VaseAgent retrieves evidence from authoritative web and museum knowledge sources, and source-level control selects diverse and verifiable evidence before generation. Meanwhile, response-level control checks generated claims against the evidence pool and encourages neutral, evidence-bounded answers when support is insufficient or conflicting. Moreover, a training-free GRPO-style selection mechanism favors responses with valid references and calibrated confidence without updating the VLM backbone. Experiments in a realistic digital museum simulation show that VaseMuseum improves citation validity, reduces hallucinations on knowledge-intensive queries, and produces more neutral answers under ambiguity compared with search-enabled VLM baselines."
     },
     {
-      "id": "fetch-hf-2607.07816",
-      "title": "A Sparse and Truncated State Vector Simulator for Peaked Circuits",
+      "id": "fetch-hf-2607.07964",
+      "title": "KronQ: LLM Quantization via Kronecker-Factored Hessian",
       "source": "Hugging Face Daily",
       "date": "2026-07-07",
-      "description": "In a class of quantum circuits known as peaked circuits, the goal is to predict the most probable bit string at the output of the circuit. Since these circuits are designed to have a sharp peak in their output distribution, in principle it ...",
-      "category": "research",
+      "description": "Post-training quantization (PTQ) is a widely adopted technique for compressing large language models (LLMs) without retraining. Existing second-order PTQ methods, including GPTQ, construct quantization objectives exclusively from input acti...",
+      "category": "llm",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.07816",
+      "url": "https://huggingface.co/papers/2607.07964",
       "hotScore": 87,
-      "content": "In a class of quantum circuits known as peaked circuits, the goal is to predict the most probable bit string at the output of the circuit. Since these circuits are designed to have a sharp peak in their output distribution, in principle it should be possible to simulate them using a truncated state vector with a limited number of terms, or a fraction of the total probability mass. This approximate simulation can be carried out on a classical computer with a sparse representation that stores only the nonzero amplitudes of the state vector, in contrast to the dense representations that are common in most quantum simulators. For efficiency, all operations on the state vector should be vectorized to the furthest possible extent and, if available, hardware acceleration can also be used. This work describes how these requirements were met in an open-source implementation, and discusses its performance and limitations."
+      "content": "Post-training quantization (PTQ) is a widely adopted technique for compressing large language models (LLMs) without retraining. Existing second-order PTQ methods, including GPTQ, construct quantization objectives exclusively from input activation statistics, effectively assuming that all output channels contribute equally to the layer-wise reconstruction objective. We propose KronQ, a PTQ framework that challenges this assumption by introducing the gradient covariance into the quantization pipeline. Under the Kronecker-factored Hessian approximation, the quantization loss depends jointly on both the activation and gradient covariances, and KronQ exploits this at two complementary levels. (1) KronQ introduces bidirectional incoherence processing, extending the existing input-side random rotation to the output dimension using the gradient covariance, reducing weight magnitude variance across both input and output dimensions. (2) KronQ derives a new sensitivity metric for inter-layer mixed-precision allocation, driven by the gradient and activation Hessian traces. Notably, in the case of 2-bit weight-only quantization on LLaMA-3-70B, while GPTQ and GPTAQ diverge or produce degenerate quantizations (>2000 perplexity on WikiText-2), KronQ achieves 7.93 perplexity."
     },
     {
-      "id": "fetch-hf-2607.07953",
-      "title": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing",
+      "id": "fetch-hf-2607.08964",
+      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
       "source": "Hugging Face Daily",
-      "date": "2026-07-07",
-      "description": "Self-attention lets each token retrieve information from the full context, but its quadratic cost in sequence length limits training and inference at long context. This paper presents a comparative study of softmax attention and four recent...",
-      "category": "tooling",
+      "date": "2026-07-08",
+      "description": "AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluated only by their final outcome. This setu...",
+      "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.07953",
+      "url": "https://huggingface.co/papers/2607.08964",
       "hotScore": 86,
-      "content": "Self-attention lets each token retrieve information from the full context, but its quadratic cost in sequence length limits training and inference at long context. This paper presents a comparative study of softmax attention and four recent recurrent linear-attention architectures: DeltaNet, Gated DeltaNet, Kimi Delta Attention, and Gated DeltaNet-2. We express these mechanisms in a common recurrent-memory notation, making explicit how they differ in expressivity, memory decay, erase and write control, training throughput, and implementation complexity. Our experiments center on 350M-parameter models trained for 15B tokens, and include optimizer and learning-rate comparisons, hybrid-versus-pure stack comparisons, sequence-length runtime measurements, larger DeltaNet runs at 1.3B and 3B parameters, and a small set of downstream evaluations. The reported speed results measure training throughput and iteration time; we do not provide an empirical inference-speed benchmark. Within the reported 350M-parameter, 15B-token sweep, Kimi Delta Attention with Muon reaches the lowest final validation loss, a pure Gated DeltaNet stack trained with AdamW has the highest normalized training throughput, hybrid stacks generally improve loss at a throughput cost, and Muon consistently lowers final validation loss relative to AdamW in the matched architecture settings we evaluate. We introduce and evaluate lightweight cross-layer routing mechanisms for DeltaNet-style memories. The most natural DeltaNet-inspired formulation, forwarding a lower layer's delta-rule write error into the next layer's value target, does not improve over matched baselines. Routing into the aligned hidden stream and forwarding the write value instead yields a modest improvement in the matched runs we report: Cross-Layer Value Routing (CLVR) lowers final validation loss for both DeltaNet and Gated DeltaNet."
+      "content": "AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluated only by their final outcome. This setup overlooks intermediate progress and partial solutions, yielding sparse reward signals and an incomplete picture of agent capability. We introduce Long-Horizon-Terminal-Bench, a terminal benchmark of 46 long-horizon tasks spanning nine categories, including experiment reproduction, software engineering, multimodal analysis, interactive games, and scientific computing. Each task follows a Terminal-Bench-style setup with a reference solution or simulation engine, but is further decomposed into fine-grained graded subtasks. This design enables dense intermediate rewards and partial credit, allowing evaluation to capture not only whether an agent reaches the final goal, but also how far it progresses on open-ended workflows. Tasks in Long-Horizon-Terminal-Bench typically require hundreds of episodes and minutes to hours of execution, stressing long-horizon planning, long-context management, and iterative debugging rather than one-shot problem solving. We evaluate 15 frontier models and find that agents consume on average 9.9M tokens per task, with roughly 231 episodes and 85.3 minutes of execution time per run, making Long-Horizon-Terminal-Bench more demanding than prior terminal-based benchmarks. Even the strongest tested model achieves 15.2% pass@1 at a partial-reward threshold of 0.95 and 10.9% at a perfect-reward threshold of 1.0, while the mean pass rate across models is 4.3% and 1.7% under the two thresholds, respectively. These results reveal headroom for improvement. We further analyze failure modes and error patterns, and release Long-Horizon-Terminal-Bench to support future progress on long-horizon terminal agents."
     }
   ],
   "hfModels": [
@@ -458,8 +458,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 253486874,
-      "likes": 5060,
+      "downloads": 253402358,
+      "likes": 5063,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -474,7 +474,7 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 85011602,
+      "downloads": 85113639,
       "likes": 278,
       "category": "research",
       "tags": [
@@ -490,7 +490,7 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 72570258,
+      "downloads": 75423637,
       "likes": 2703,
       "category": "research",
       "tags": [
@@ -506,7 +506,7 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 66405423,
+      "downloads": 66697644,
       "likes": 508,
       "category": "research",
       "tags": [
@@ -518,27 +518,11 @@
       "hotScore": 94
     },
     {
-      "id": "fetch-model-sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2",
-      "name": "paraphrase-multilingual-MiniLM-L12-v2",
-      "owner": "Community",
-      "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 50198382,
-      "likes": 1312,
-      "category": "llm",
-      "tags": [
-        "Sentence-similarity",
-        "Sentence-transformers",
-        "Pytorch"
-      ],
-      "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "hotScore": 92
-    },
-    {
       "id": "fetch-model-google--electra-base-discriminator",
       "name": "electra-base-discriminator",
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
-      "downloads": 49780827,
+      "downloads": 52022122,
       "likes": 138,
       "category": "research",
       "tags": [
@@ -546,6 +530,22 @@
         "Pytorch"
       ],
       "url": "https://huggingface.co/google/electra-base-discriminator",
+      "hotScore": 92
+    },
+    {
+      "id": "fetch-model-sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2",
+      "name": "paraphrase-multilingual-MiniLM-L12-v2",
+      "owner": "Community",
+      "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "downloads": 50319501,
+      "likes": 1314,
+      "category": "llm",
+      "tags": [
+        "Sentence-similarity",
+        "Sentence-transformers",
+        "Pytorch"
+      ],
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "hotScore": 90
     },
     {
@@ -553,8 +553,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 34659039,
-      "likes": 3222,
+      "downloads": 34759199,
+      "likes": 3224,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -569,7 +569,7 @@
       "name": "all-mpnet-base-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-mpnet-base-v2",
-      "downloads": 32593892,
+      "downloads": 32079475,
       "likes": 1325,
       "category": "llm",
       "tags": [
@@ -585,7 +585,7 @@
       "name": "Qwen3-0.6B",
       "owner": "Community",
       "fullName": "Qwen/Qwen3-0.6B",
-      "downloads": 27809311,
+      "downloads": 27322220,
       "likes": 1405,
       "category": "image",
       "tags": [
@@ -597,25 +597,40 @@
       "hotScore": 84
     },
     {
-      "id": "fetch-model-timm--mobilenetv3_small_100.lamb_in1k",
-      "name": "mobilenetv3_small_100.lamb_in1k",
+      "id": "fetch-model-google-t5--t5-small",
+      "name": "t5-small",
       "owner": "Community",
-      "fullName": "timm/mobilenetv3_small_100.lamb_in1k",
-      "downloads": 27760883,
-      "likes": 88,
-      "category": "image",
+      "fullName": "google-t5/t5-small",
+      "downloads": 26837691,
+      "likes": 569,
+      "category": "research",
       "tags": [
-        "Image-classification",
-        "Timm",
+        "Translation",
+        "Transformers",
         "Pytorch"
       ],
-      "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
+      "url": "https://huggingface.co/google-t5/t5-small",
       "hotScore": 82
     }
   ],
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-07-13",
+      "description": "Washington, D.C. has become a battleground for Uber and Waymo's competing views....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
+      "hotScore": 93,
+      "content": "Washington, D.C. has become a battleground for Uber and Waymo's competing views...."
+    },
+    {
+      "id": "fetch-gadget-1",
       "title": "TechCrunch Mobility: A robotaxi ultimatum",
       "source": "TechCrunch Gadgets",
       "date": "2026-07-12",
@@ -626,11 +641,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
-      "hotScore": 96,
+      "hotScore": 95,
       "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part...."
     },
     {
-      "id": "fetch-gadget-1",
+      "id": "fetch-gadget-2",
       "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
       "source": "TechCrunch Gadgets",
       "date": "2026-07-11",
@@ -641,11 +656,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
-      "hotScore": 90,
+      "hotScore": 98,
       "content": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken...."
     },
     {
-      "id": "fetch-gadget-2",
+      "id": "fetch-gadget-3",
       "title": "Phia accused of &#8216;cookie stuffing,&#8217; taking affiliate credit on purchases it didn&#8217;t earn",
       "source": "TechCrunch Gadgets",
       "date": "2026-07-11",
@@ -656,23 +671,8 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
-      "hotScore": 90,
+      "hotScore": 91,
       "content": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions a..."
-    },
-    {
-      "id": "fetch-gadget-3",
-      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-07-10",
-      "description": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
-      "hotScore": 93,
-      "content": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers...."
     }
   ]
 }
