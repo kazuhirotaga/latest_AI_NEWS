@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-14T01:12:25.077Z",
+  "updatedAt": "2026-07-14T13:00:22.521Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 382837,
-      "forks": 80349,
+      "stars": 382904,
+      "forks": 80381,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 253890,
-      "forks": 22684,
+      "stars": 254416,
+      "forks": 22723,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 214277,
-      "forks": 39813,
+      "stars": 214657,
+      "forks": 39894,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 196333,
-      "forks": 59301,
+      "stars": 196396,
+      "forks": 59318,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 185511,
-      "forks": 46084,
+      "stars": 185528,
+      "forks": 46083,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 165648,
-      "forks": 21436,
+      "stars": 165703,
+      "forks": 21440,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164226,
-      "forks": 30520,
+      "stars": 164240,
+      "forks": 30524,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 157003,
-      "forks": 46160,
+      "stars": 157026,
+      "forks": 46162,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 150433,
-      "forks": 8594,
+      "stars": 150754,
+      "forks": 8612,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Production-ready platform for agentic workflow development.",
-      "stars": 148718,
-      "forks": 23424,
+      "stars": 148807,
+      "forks": 23432,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 145318,
-      "forks": 21038,
+      "stars": 145388,
+      "forks": 21046,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 141887,
-      "forks": 34804,
+      "stars": 141911,
+      "forks": 34807,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 141697,
-      "forks": 23542,
+      "stars": 141752,
+      "forks": 23547,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -223,29 +223,12 @@
       "hotScore": 76
     },
     {
-      "id": "fetch-repo-589831718",
-      "name": "ComfyUI",
-      "owner": "Comfy-Org",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 120626,
-      "forks": 14168,
-      "language": "Python",
-      "category": "image",
-      "tags": [
-        "Ai",
-        "Comfy",
-        "Comfyui"
-      ],
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "hotScore": 74
-    },
-    {
       "id": "fetch-repo-1042367133",
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 120594,
-      "forks": 10694,
+      "stars": 121015,
+      "forks": 10757,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -254,200 +237,220 @@
         "Development"
       ],
       "url": "https://github.com/github/spec-kit",
+      "hotScore": 74
+    },
+    {
+      "id": "fetch-repo-589831718",
+      "name": "ComfyUI",
+      "owner": "Comfy-Org",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "stars": 120698,
+      "forks": 14179,
+      "language": "Python",
+      "category": "image",
+      "tags": [
+        "Ai",
+        "Comfy",
+        "Comfyui"
+      ],
+      "url": "https://github.com/Comfy-Org/ComfyUI",
       "hotScore": 72
     }
   ],
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "Bandit PCA with Minimax Optimal Regret",
+      "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
       "source": "arXiv.org",
-      "date": "2026-07-12",
-      "description": "We study the bandit-feedback version of online principal component analysis (Bandit PCA): in each round $t = 1,\\dots,T$, the adversary selects a $d \\times d$ symmetric gain matrix $G_t$ with spectrum in $[0,1]$ and rank at most $r$; the lea...",
-      "category": "research",
+      "date": "2026-07-13",
+      "description": "Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functions far simpler than their parameter coun...",
+      "category": "image",
       "tags": [
-        "Research"
+        "Research",
+        "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2607.10936v1",
-      "hotScore": 82,
-      "content": "We study the bandit-feedback version of online principal component analysis (Bandit PCA): in each round $t = 1,\\dots,T$, the adversary selects a $d \\times d$ symmetric gain matrix $G_t$ with spectrum in $[0,1]$ and rank at most $r$; the learner simultaneously selects a unit vector $w_t \\in S^{d-1}$ and receives the reward $w_t^\\top G_t w_t$. The learner receives no other feedback, and aims to minimize the regret against the best unit vector in hindsight. This problem was introduced by Kotlowski and Neu (2019), who gave an algorithm with regret $O(d\\sqrt{rT \\log T})$ and showed the lower bound of $Ω(r\\sqrt{T/\\log T})$. We improve upon both of these bounds and essentially bridge the gap between them, establishing the minimax regret of order $r\\sqrt{dT}$ up to polylogarithmic factors in $d$ and $T$. The upper bound is attained by a novel algorithm, which combines online mirror descent on the spectrahedron of (real) density matrices with a multiscale exploration scheme in which the eigenspaces with different spectral magnitudes are updated at different rates. For the lower bound, we construct an adaptive adversary that refines a hidden large-reward subspace based on the learner's actions, in such a way that low regret is impossible without estimating the subspace; as a result, lower-bounding the regret reduces to studying the arising subspace estimation problem. Finally, we discuss connections of Bandit PCA with adaptive-measurement quantum tomography."
+      "url": "http://arxiv.org/abs/2607.11883v1",
+      "hotScore": 92,
+      "content": "Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functions far simpler than their parameter counts suggest, but it is challenging to construct codes that realize this simplicity. Parameter-based methods such as quantization produce code lengths that scale with model size, insensitive to how much information the parameters store. Prequential coding bypasses this issue by compressing the training trajectory, but codes the exact data sequence regardless of how much the model learns, yielding large codes when the data has high entropy. We introduce requential coding, where a teacher model selects training samples drawn from the student's own distribution. The student's code records only these selections, which cost bits only where teacher and student disagree. The resulting code length is independent of parameter count and data entropy, and often orders of magnitude shorter than the prequential counterpart, with an advantage that grows with scale. This compression sheds light on phenomena inaccessible to prior compressors. Holding loss fixed, larger models and ensembles compress to much smaller sizes despite more parameters. Plugged into a PAC-Bayes bound, the requential code yields state-of-the-art generalization guarantees for billion-parameter LLMs, outperforming bounds built on aggressive post-training quantization even granted zero error. The bound tightens with scale in the compute-optimal regime, as models become increasingly compressible relative to dataset size. The same code predicts that models gradually overfit when trained for multiple epochs. It also isolates the learnable information in a dataset from its unpredictable, random content, revealing that lower-entropy text holds far more learnable structure than higher-entropy image data."
     },
     {
       "id": "fetch-paper-1",
-      "title": "MUGEN: Evaluating and Improving Multi-audio Understanding of Large Audio-Language Models",
+      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
       "source": "arXiv.org",
-      "date": "2026-03-10",
-      "description": "While multi-audio understanding is critical for large audio-language models (LALMs), it remains underexplored. We introduce MUGEN, a comprehensive benchmark evaluating this capability across speech, general audio, and music. Our experiments...",
+      "date": "2026-07-13",
+      "description": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a cornerstone of capable, transpa...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2603.09714v2",
-      "hotScore": 87,
-      "content": "While multi-audio understanding is critical for large audio-language models (LALMs), it remains underexplored. We introduce MUGEN, a comprehensive benchmark evaluating this capability across speech, general audio, and music. Our experiments reveal consistent weaknesses in multi-audio settings, and performance degrades sharply as the number of concurrent audio inputs increases, identifying input scaling as a fundamental bottleneck. We further investigate training-free strategies and observe that Audio-Permutational Self-Consistency, which diversifies the order of audio candidates, helps models form more robust aggregated predictions, yielding up to 6.28% accuracy gains. Combining this permutation strategy with Chain-of-Thought further improves performance to 6.74%. These results expose blind spots in current LALMs and provide a foundation for evaluating complex auditory comprehension."
+      "url": "http://arxiv.org/abs/2607.11881v1",
+      "hotScore": 90,
+      "content": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a cornerstone of capable, transparent AI systems. Yet while LLMs have made significant progress across diverse real-world tasks, it is not yet clear when, how, or to what extent they can exhibit or be endowed with effective metacognitive abilities, nor how such abilities can be adapted to advance the fundamental capabilities, reliability, and intelligence of AI systems. This paper bridges this gap by presenting the first comprehensive overview of the current state of knowledge on metacognition for LLMs. We analyze and taxonomize the landscape of this emerging field and summarize recent technical advancements, including methods and benchmarks to measure and evaluate LLMs' metacognitive abilities, techniques to elicit, improve, and apply metacognition in LLMs, and findings and implications of ongoing research. We also discuss applications, open questions and challenges, and promising directions for future work. Our aim is to provide a detailed and up-to-date review of this topic and stimulate meaningful research and discussion. An organized list of papers can be found at https://github.com/yale-nlp/LLM-Metacognition."
     },
     {
       "id": "fetch-paper-2",
-      "title": "Fast Whole-Brain, Geometry-Aware Functional Alignment for Cross-Subject Decoding",
+      "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
       "source": "arXiv.org",
-      "date": "2026-07-12",
-      "description": "Decoding brain activity is useful for characterizing brain processes and understanding the functional architecture underlying cognition. However, the inter-individual variability in brain response patterns limits the development of decoders...",
-      "category": "tooling",
+      "date": "2026-07-13",
+      "description": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been mostly tied to specific tasks, we study a ge...",
+      "category": "llm",
       "tags": [
-        "Research"
+        "Research",
+        "LLM"
       ],
-      "url": "http://arxiv.org/abs/2607.10931v1",
-      "hotScore": 86,
-      "content": "Decoding brain activity is useful for characterizing brain processes and understanding the functional architecture underlying cognition. However, the inter-individual variability in brain response patterns limits the development of decoders that generalize across individuals. A solution to this challenge is functional alignment: aligning functional data across individuals before training population-level decoders. The core issue is to strike the balance between aligning functional features and preserving the anatomical structure, while maintaining computational efficiency. We introduce a new functional alignment method for fMRI, SpectralOT, that embeds cortical geometry into Laplace-Beltrami eigenmodes along functional data to regularize the alignment."
+      "url": "http://arxiv.org/abs/2607.11875v1",
+      "hotScore": 90,
+      "content": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been mostly tied to specific tasks, we study a generalized class of inductive tasks that unifies several synthetic tasks known in the literature, including in-context n-grams and multi-hop reasoning. In this class, we theoretically prove that the training dynamics of attention models can be confined to a highly interpretable, low-dimensional invariant manifold. On this manifold, the learning dynamics are captured by a handful of interpretable coordinates rather than millions of parameters, making both theoretical and empirical analysis more tractable. Using this framework, we characterize how data statistics govern the competition between in-context and in-weights learning, we study how random initializations determine the `winning' circuit when multiple solutions are possible, and we demonstrate that the coordinate frame associated with the manifold can be used to automatically detect which circuits have been learned in trained models. By casting circuit formation as a low-dimensional dynamical phenomenon, we take a step toward a predictive theory of how Transformers learn."
     },
     {
       "id": "fetch-paper-3",
-      "title": "The Singularity Space: A Generative Diffusion Framework for Signal Representation",
+      "title": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
       "source": "arXiv.org",
-      "date": "2026-07-12",
-      "description": "Generative models often represent signals as dense grids of amplitudes, blurring sharp transients that are crucial for the correctness of physical signals. We introduce Singularity Space, a generative framework that represents signals throu...",
+      "date": "2026-07-13",
+      "description": "Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train policies via reinforcement learning (RL) to track them. But how does this recipe transfer to ...",
       "category": "image",
       "tags": [
         "Research",
         "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2607.10930v1",
-      "hotScore": 85,
-      "content": "Generative models often represent signals as dense grids of amplitudes, blurring sharp transients that are crucial for the correctness of physical signals. We introduce Singularity Space, a generative framework that represents signals through complex-plane singularities, rooted in the classical pole-residue representation of meromorphic functions. We learn a latent space of physically constrained, per-signal singularity configurations to solve an inverse problem from degraded or partial observations. The framework has three key properties: interpretability, in which each generated singularity configuration corresponds to a set of physical parameters; structural stability, which mitigates Gibbs artifacts at discontinuities; and resolution-free output reconstruction on arbitrary grids without retraining or interpolation. Our framework employs a transformer-based diffusion model that directly predicts samples at complex-plane singularity coordinates, subject to geometric constraints during sampling. As a controlled test case for sharp-feature recovery, we evaluate our framework on 1D Burgers shocks, where each shock is represented by 32 predicted singularities (an $8\\times$ reduction versus a 1024-point grid signal). Our framework preserves signal structure ($\\text{TV ratio} \\approx 1$) under unseen test-time observation noise, achieves a $4.2\\times$ lower reconstruction error in zero-shot sub-resolution generalization than a grid-based baseline, and recovers physical parameters to $10^{-4}$ absolute error in-distribution. These results suggest that singularity-based representations may provide a practical foundation for other transient-dominated signals such as speech and biomedical signals, with potential extension to higher-dimensional domains."
+      "url": "http://arxiv.org/abs/2607.11874v1",
+      "hotScore": 91,
+      "content": "Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train policies via reinforcement learning (RL) to track them. But how does this recipe transfer to dexterous manipulation? The answer is not obvious, as manipulation involves complex, contact-rich dynamics and requires delicate regulation of contact modes and forces. We present REGRIND, a minimalist retargeting-guided RL pipeline that learns dexterous manipulation policies from a single human demonstration. REGRIND retargets human hand-object motion to a robot reference that preserves hand-object spatial and contact relationships, trains a residual RL policy in simulation to track object-centric keypoints along that reference, and transfers the resulting policy zero-shot to hardware with careful system identification. The resulting policies produce fluid, human-like behavior on two different multi-fingered hands across contact-rich tool-use tasks, including operating a pair of scissors and turning a screwdriver. Through systematic hardware experiments, we identify and analyze the key factors that govern sim-to-real transfer in dexterous manipulation, offering practical guidance for retargeting-based learning in contact-rich settings. Videos and code are available at https://yunhaifeng.com/REGRIND."
     },
     {
       "id": "fetch-paper-4",
-      "title": "The Spectral Structure of Latent Treatment Effects",
+      "title": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol",
       "source": "arXiv.org",
-      "date": "2026-07-12",
-      "description": "Identifying heterogeneous treatment effects under unobserved confounding is central in observational causal inference. In proxy models with a discrete latent confounder, prior Synthetic Potential Outcomes (SPO) [Mazaheri-Squires-Uhler '25] ...",
+      "date": "2026-07-13",
+      "description": "Institutions collect far more open-ended teaching-evaluation feedback than they read. A prior study introduced a validated protocol for classifying such comments by thematic category and sentiment, built from a documented annotation guide, ...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2607.11873v1",
+      "hotScore": 85,
+      "content": "Institutions collect far more open-ended teaching-evaluation feedback than they read. A prior study introduced a validated protocol for classifying such comments by thematic category and sentiment, built from a documented annotation guide, an intra-annotator reliability measurement, stratified cross-validation, and a held-out evaluation on a Spanish institutional corpus with a frozen-encoder design. Two questions limit its reuse: whether a protocol fixed to 2019-era frozen embeddings stays competitive as representation methods advance, and whether it transfers to a second language. We re-run it on the original Spanish data across three representation generations, sparse lexical features, frozen transformer embeddings, and prompted large language models, and transfer its sentiment task to English with a balanced 45,000-comment corpus checked against an aspect-labeled education dataset. Treating paired comparisons as descriptive, we find the protocol durable: a 2026 frontier model posts the highest thematic F1 on the hardest Spanish task, yet shows no sentiment advantage over a cheap model and no descriptive separation from it on English, so model choice is a deployment decision, not a property of the method."
+    },
+    {
+      "id": "fetch-paper-5",
+      "title": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
+      "source": "arXiv.org",
+      "date": "2026-07-13",
+      "description": "Existing studies of LLM-as-judge scoring bias work predominantly at the input-output level: they perturb inputs, measure score deltas, and propose prompt-level mitigations. We argue that the same biases admit a representation-level account ...",
+      "category": "llm",
+      "tags": [
+        "Research",
+        "LLM"
+      ],
+      "url": "http://arxiv.org/abs/2607.11871v1",
+      "hotScore": 82,
+      "content": "Existing studies of LLM-as-judge scoring bias work predominantly at the input-output level: they perturb inputs, measure score deltas, and propose prompt-level mitigations. We argue that the same biases admit a representation-level account in the judge's hidden state, complementary to the input-output view and operationally useful in ways it does not afford. We report three findings, across seven judges, seven bias types, and nine benchmarks. Geometry: baseline judging inputs occupy a tight activation manifold while biased inputs are displaced along a low-dimensional, type-specific subspace that sharpens with depth and is recovered consistently by three families of estimators. Causal control: steering hidden states along this subspace drives scoring in both directions, forward shifts reproducing biased scoring on clean inputs and reverse shifts restoring baseline scoring on biased ones, while matched-norm random directions produce shifts an order of magnitude smaller. Operational: a simple linear projection onto the same bias-direction features anticipates judge failures on three entirely unseen benchmarks, substantially outperforming text-based alternatives. Reading bias as activation geometry, rather than as input-output noise, unifies geometric structure, causal control, and operational prediction within a single framework. The project page is available at https://xzx34.github.io/unfair-judge/"
+    },
+    {
+      "id": "fetch-paper-6",
+      "title": "Evidence-Backed Video Question Answering",
+      "source": "arXiv.org",
+      "date": "2026-07-13",
+      "description": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, providing textual answers without verifiable visual grounding. Existing explainability efforts rely on textual rationales ...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2607.11862v1",
+      "hotScore": 84,
+      "content": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, providing textual answers without verifiable visual grounding. Existing explainability efforts rely on textual rationales or sparse bounding boxes, which struggle to capture complex video dynamics such as occlusions and non-rigid deformations. We propose Evidence-Backed Video Question Answering (E-VQA), a novel task requiring models to jointly output a semantic answer and precise spatio-temporal evidence: temporal segments and dense, tracked object segmentation masklets. To support this, we introduce ST-Evidence, the first human-verified benchmark for both discriminative and generative pixel-level grounding. Evaluations of state-of-the-art models reveal a critical decoupling between QA accuracy and true visual perception that scaling alone fails to bridge. To address this, we develop scalable, automated generation pipelines to create ST-Evidence-Instruct, a 160k-scale dataset bridging high-level reasoning with fine-grained grounding. Fine-tuning grounded Video LLMs on this data yields substantial gains over the corresponding size-matched UniPixel baselines (e.g., +27.2 t-mean and +13.8 J&amp;F on a 7B model), establishing a robust baseline for explainable, evidence-backed video understanding. Code and data are available at https://github.com/SalesforceAIResearch/EVQA."
+    },
+    {
+      "id": "fetch-paper-7",
+      "title": "Causal Discovery in Mixtures of Populations",
+      "source": "arXiv.org",
+      "date": "2023-11-13",
+      "description": "Causal discovery aims to learn causal structures up to certain symmetries. Diverse populations or changing environments give rise to heterogeneous data in the following sense: each population/environment is a ``source'' which idiosyncratica...",
       "category": "research",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2607.10926v1",
-      "hotScore": 85,
-      "content": "Identifying heterogeneous treatment effects under unobserved confounding is central in observational causal inference. In proxy models with a discrete latent confounder, prior Synthetic Potential Outcomes (SPO) [Mazaheri-Squires-Uhler '25] recover the mixture of treatment effects through recursively constructed scalar moments. We show that this sequence is one projection of a more fundamental object. Under the same population factorization assumptions, there is an exact compressed observable operator: after projecting onto the shared proxy signal subspace, the difference of two treatment-arm quotient operators is similar to the diagonal matrix of latent treatment effects. Its eigenvalues are the latent effects; its lifted left eigenvectors, after anchor normalization, recover the target-proxy feature matrix and then the latent mixture proportions. Every scalar SPO moment is a bilinear functional of a power of this operator. The resulting estimator handles overcomplete proxy systems, replaces high-order scalar inversion with finite-dimensional spectral analysis, and admits high-probability first-order perturbation bounds for treatment effects, feature rows, and simplex-projected mixture weights."
+      "url": "http://arxiv.org/abs/2311.07454v6",
+      "hotScore": 91,
+      "content": "Causal discovery aims to learn causal structures up to certain symmetries. Diverse populations or changing environments give rise to heterogeneous data in the following sense: each population/environment is a ``source'' which idiosyncratically determines the forms of causal effects. From this perspective, the source is a latent common cause for every observed variable. While some methods for causal discovery can work around latent confounding in special cases, a global confounder poses a significant challenge. The only known ways to deal with latent global confounding involve making assumptions that limit structural equations and/or noise functions. We demonstrate that globally confounded causal structures can still be identified with arbitrary structural equations and noise functions, so long as the number of latent classes remains small relative to the size and sparsity of the underlying DAG. The approach relies on agglomerating variables into large-enough matrices of moments, whose ranks directly reveal graphical properties of the causal structure. We also provide a statistical test to test the rank of these matrices."
     },
     {
-      "id": "fetch-paper-5",
-      "title": "Critical Damping as a Momentum Schedule: Multi-Seed Validation, a Hybrid Recipe, and an Exhaustive Negative Result on Surgical Layer Selection",
-      "source": "arXiv.org",
-      "date": "2026-03-30",
-      "description": "The critical damping condition of the damped harmonic oscillator model of SGD with momentum (Qian, 1999) yields a momentum schedule with no tuned hyperparameters: mu(t) = 1 - 2*sqrt(alpha(t)). Across five seeds on ResNet-18/CIFAR-10 (200-ep...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2603.28921v3",
-      "hotScore": 86,
-      "content": "The critical damping condition of the damped harmonic oscillator model of SGD with momentum (Qian, 1999) yields a momentum schedule with no tuned hyperparameters: mu(t) = 1 - 2*sqrt(alpha(t)). Across five seeds on ResNet-18/CIFAR-10 (200-epoch cosine schedule) it reaches 90% test accuracy 2.34x faster than constant mu=0.9 (range 1.71-2.86x, 5/5 seeds, one-sided paired t-test p=4e-4), at the cost of a real final-accuracy deficit of 0.46 pp (5/5 seeds, p=0.009). A short-schedule control rules out a schedule-length artifact: compressed baselines either pay 0.5-0.9 pp of accuracy or stay slower to 90% at equal accuracy. A hybrid recipe -- critical-damping momentum until 90%, then constant mu=0.9 -- removes the deficit and keeps the speedup: 95.45 +/- 0.05% final accuracy at 2.4x faster progress to 90% (n=5). The speedup generalizes across architectures (VGG-16 without skip connections: 1.72x, n=3); on CIFAR-100 early gains persist (2-4x to mid-training thresholds) but the accuracy cost grows (-1.7 pp), compressing the accuracy-matched gain to 1.14x. We also report an exhaustive negative result on surgical layer selection. Version 2 of this paper claimed that gradient attribution on misclassified images selects which layers to retrain; running the identical correction protocol on all 35 combinations of 3-of-7 layer groups ranks the selected triple 11th of 35 (exact p=0.31) -- no better than random. What survives is weaker but real: combinations containing the top-ranked layer outperform the rest (+6.2 vs -1.4 mean net error reduction), and the bottom of the gradient-norm ranking reliably predicts the most harmful interventions (down to -20 net errors). Gradient attribution on errors is a harm-avoidance signal, not a selector of repair targets. We release the full 35-combination landscape as a baseline for layer-selection claims."
-    },
-    {
-      "id": "fetch-paper-6",
-      "title": "Infrared Organization and Critical Cognitive Field Formation in Transformer Dynamics",
-      "source": "arXiv.org",
-      "date": "2026-07-12",
-      "description": "Large language models exhibit remarkable emergent behaviors, yet the physical mechanism governing their collective dynamics remains poorly understood. Cognitive Field Theory predicts that learning reorganizes the time-scale density of state...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2607.10923v1",
-      "hotScore": 94,
-      "content": "Large language models exhibit remarkable emergent behaviors, yet the physical mechanism governing their collective dynamics remains poorly understood. Cognitive Field Theory predicts that learning reorganizes the time-scale density of states (TDOS) through the infrared accumulation of slow relaxation modes, thereby enhancing the memory self-energy, reducing the cognitive forgetting gap, and strengthening the collective susceptibility. Using publicly available Pythia language models, we extract relaxation spectra directly from Transformer layer Jacobians throughout training, network depth, and model scale, allowing the TDOS, memory self-energy, forgetting gap, memory kernel, and infrared critical exponent to be measured quantitatively. The measurements reveal progressive infrared accumulation of slow relaxation modes, producing an approximately flat infrared TDOS with \\( ρ(λ)\\simλ^{-0.1} \\) and scale-free memory kernels \\( K(t)\\sim t^{-1}. \\) The memory self-energy exhibits a pronounced transient maximum during early optimization before relaxing toward a metastable near-critical regime, corresponding to the smallest cognitive forgetting gap and the largest collective susceptibility predicted by Cognitive Field Theory. These observations provide quantitative experimental evidence that Transformer dynamics are governed by infrared collective organization. The reproducibility of the same dynamical behavior across training, network depth, and model scales suggests that infrared slow-mode organization represents a universal collective principle of Transformer dynamics."
-    },
-    {
-      "id": "fetch-paper-7",
-      "title": "Betting on Moments: Legendre Jumper Martingales for Online Exchangeability Testing",
-      "source": "arXiv.org",
-      "date": "2026-06-18",
-      "description": "A fundamental assumption in statistics and machine learning is that ``the future looks like the past,'' formalized as exchangeability: the joint data distribution is order-invariant. In practice, this assumption is often violated due to dis...",
-      "category": "tooling",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2606.20859v2",
-      "hotScore": 94,
-      "content": "A fundamental assumption in statistics and machine learning is that ``the future looks like the past,'' formalized as exchangeability: the joint data distribution is order-invariant. In practice, this assumption is often violated due to distribution shifts over time. Early detection of exchangeability violations is crucial to prevent performance degradation and enable timely interventions like model retraining. Conformal test martingales offer a flexible, distribution-free framework for sequential exchangeability testing with guaranteed false-alarm rate control by betting against the uniformity of conformal p-values. While alternatives such as plug-in martingales and mixture-based strategies exist, computationally efficient baselines like the Simple Jumper are limited to detecting mean location shifts. We propose a family of conformal test martingales based on shifted Legendre polynomials that extend the Simple Jumper to higher-order moments. The Simple Legendre Jumper replaces linear betting functions with polynomials of arbitrary degree, enabling rapid detection of variance, skewness, and other higher-order deviations. The Product Legendre Jumper combines multiple polynomial degrees into a single betting function but suffers from exponential state-space growth, termed the jumping tax. To resolve this, we introduce the Variational Legendre Jumper, which employs a mean-field approximation to reduce complexity to constant time per step with minimal power loss, providing an expressive, scalable framework for real-time distribution shift monitoring."
-    },
-    {
-      "id": "fetch-hf-2607.07673",
-      "title": "MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models",
+      "id": "fetch-hf-2607.09701",
+      "title": "EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos",
       "source": "Hugging Face Daily",
-      "date": "2026-07-07",
-      "description": "Medicine is inherently multimodal, requiring clinicians to synthesize information across diverse data streams. Yet the development of multimodal foundation models is constrained by limited access to large-scale, high-quality clinical data. ...",
+      "date": "2026-06-21",
+      "description": "Steerability is a defining capability of generalist robot policies, yet remains largely absent in dexterous-hand systems for lack of large-scale, language-aligned, and action-accurate demonstration data. To address this bottleneck, we prese...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.07673",
+      "url": "https://huggingface.co/papers/2607.09701",
       "hotScore": 90,
-      "content": "Medicine is inherently multimodal, requiring clinicians to synthesize information across diverse data streams. Yet the development of multimodal foundation models is constrained by limited access to large-scale, high-quality clinical data. Although PubMed Central (PMC) offers a complementary source of expert-authored image-text data, existing PMC-derived resources remain limited in fidelity, reproducibility, and clinical validation. We introduce MedPMC, an automated, continuously updatable framework that transforms permissively licensed literature into high-fidelity infrastructure for medical multimodal models. Applied to 6.1 million PMC articles, MedPMC curated 11 million medical image-text pairs. Component evaluations showed strong performance for initial screening (F1 = 93.2), multi-panel figure detection (F1 = 96.5), figure separation (mAP = 89.8), caption separation and alignment (F1 = 81.4; ROUGE-L = 85.3), and medical figure classification (F1 = 96.5). Manual review by five annotators, three with medical training, found 95.3% of MedPMC images medically relevant, versus 19.7% in a prior PMC-derived dataset. Across 26 benchmarks spanning 11 specialties, a MedPMC-trained CLIP-style model improved average zero-shot AUC by 7.1 percentage points over the strongest architecture-matched biomedical CLIP baseline despite using fewer than half as many image-text pairs. As the vision encoder in a multimodal large language model, it improved medical visual question-answering by 1.9 and 16.9 percentage points across two benchmarks. In 10,524 Yale New Haven Health System dermatology photographs, it improved morphology-to-image retrieval Recall@5 by 11.7 percentage points. These findings show that high-fidelity literature curation strengthens medical multimodal foundation models across benchmark and clinical settings. We publicly release the framework, corpus, benchmarks, and pretrained models."
+      "content": "Steerability is a defining capability of generalist robot policies, yet remains largely absent in dexterous-hand systems for lack of large-scale, language-aligned, and action-accurate demonstration data. To address this bottleneck, we present a full-stack system that scales dexterous VLA pre-training from egocentric human videos and enables data-efficient real-robot post-training. It integrates EgoSmith, a data pipeline that curates in-the-wild egocentric videos into 9.6K hours of high-quality pre-training data with 9x higher throughput and better accuracy than prior SOTA; a unified robot stack for teleoperation and human-in-the-loop correction; and EgoSteer, a world-model-enhanced VLA trained on optimized infrastructure. Human-data pre-training equips EgoSteer with language-guided manipulation priors, which are grounded through robot post-training and improved by DAgger refinement. Empirically, EgoSteer robustly executes free-form instructions across 40+ diverse tasks, demonstrating failure recovery, dexterity, and generalization. The pre-trained model also few-shot adapts to complex long-horizon tasks, including box folding, on two embodiments with 75+% success. We open-source the system, data, and model at https://egosteer.github.io/."
     },
     {
-      "id": "fetch-hf-2607.06957",
-      "title": "Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation",
+      "id": "fetch-hf-2607.11885",
+      "title": "Latent-Identity Tuning in Text-to-Image Personalization Models",
       "source": "Hugging Face Daily",
-      "date": "2026-07-07",
-      "description": "Realistic and diverse traffic simulation is essential to autonomous driving development. Yet prevailing benchmarks predominantly reward realism, and recent methods have optimized accordingly, leaving diversity underexplored. We introduce Fl...",
-      "category": "agent",
+      "date": "2026-07-13",
+      "description": "Generating and editing a person's face demands high precision, as even minor modifications can significantly alter a subject's perceived identity. Current personalization and editing methods built on general-purpose text-to-image models, ho...",
+      "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.06957",
+      "url": "https://huggingface.co/papers/2607.11885",
       "hotScore": 89,
-      "content": "Realistic and diverse traffic simulation is essential to autonomous driving development. Yet prevailing benchmarks predominantly reward realism, and recent methods have optimized accordingly, leaving diversity underexplored. We introduce Flow-ERD, a multi-agent simulator that pursues realism and diversity jointly. Its backbone, Agent-Type Aware Flow Matching (AFM), couples flow matching's multi-modal expressiveness with type-specific kinematic execution. It preserves fine-grained diversity while keeping motions consistent with each agent type. A second stage, Entropy-Regularized Distillation (ERD), fine-tunes the closed-loop rollout distribution with an entropy-regularized reverse-KL objective. This mitigates covariate shift while explicitly preventing collapse onto high-density modes. We evaluate Flow-ERD with a log-free diversity metric alongside standard realism scores. Flow-ERD ranks first on the WOSAC test benchmark and dominates the realism--diversity Pareto front among reproducible baselines. Our project page is available https://seulbinhwang.github.io/flow-erd-project-page/{here}."
+      "content": "Generating and editing a person's face demands high precision, as even minor modifications can significantly alter a subject's perceived identity. Current personalization and editing methods built on general-purpose text-to-image models, however, often lack the precision required for fine-grained facial edits. We present a method for fine-grained identity tuning in text-to-image personalization models. Unlike standard image editing, which operates on a given image, identity tuning modifies the latent representation of a specific identity, enabling the generation of diverse images that consistently depict the same edited identity. To enable fine-grained latent identity tuning, we explore the latent space of a pre-trained, frozen encoder for text-to-image personalization. Our approach requires no additional training. Instead, it leverages the existing architecture of a frozen encoder to uncover latent semantic directions. This space consists of a set of latent tokens that play distinct roles in capturing different aspects of an identity and often correspond to specific spatial or semantic facial regions. We show that meaningful directions can be identified within this space and within subspaces defined by selected tokens, enabling localized, fine-grained, and semantically coherent edits. We validate our approach through qualitative and quantitative experiments that demonstrate diverse localized facial edits while preserving cross-image identity consistency. Project page at: https://garibida.github.io/IdentityTuning/"
     },
     {
-      "id": "fetch-hf-2607.06374",
-      "title": "VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery",
+      "id": "fetch-hf-2607.11505",
+      "title": "Proxy Exploration and Reusable Guidance: A Modular LLM Post-Training Paradigm via Proxy-Guided Update Signals",
       "source": "Hugging Face Daily",
-      "date": "2026-07-06",
-      "description": "Vision-language models (VLMs) have made interactive digital museums increasingly feasible by connecting 3D digitization with natural-language artifact exploration. However, in cultural heritage domains such as ancient Greek pottery, reliabl...",
-      "category": "agent",
+      "date": "2026-07-13",
+      "description": "Post-training is essential for refining the domain-specific capabilities of large language models (LLMs), yet existing reward optimization and distribution matching methods tightly couple policy exploration with distribution alignment. This...",
+      "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.06374",
+      "url": "https://huggingface.co/papers/2607.11505",
       "hotScore": 88,
-      "content": "Vision-language models (VLMs) have made interactive digital museums increasingly feasible by connecting 3D digitization with natural-language artifact exploration. However, in cultural heritage domains such as ancient Greek pottery, reliable VLM assistance is limited by two challenges. First, open-ended interpretation requires grounding fine-grained 2D/3D visual evidence in specialized curatorial knowledge, yet the retrieval process may introduce weak sources and unverifiable references. Second, when the available evidence is incomplete, noisy, or ambiguous, VLMs often produce confident but unsupported answers instead of calibrated uncertainty. To address these challenges, we propose VaseMuseum, a lightweight and modular multimodal agent framework for intelligent digital museums of ancient Greek pottery. VaseMuseum combines an interactive virtual museum with VaseAgent, which supports both 2D images and 3D artifacts through multimodal perception, 3D-aware reasoning, external knowledge retrieval, and inference-time reliability control. Specifically, VaseAgent retrieves evidence from authoritative web and museum knowledge sources, and source-level control selects diverse and verifiable evidence before generation. Meanwhile, response-level control checks generated claims against the evidence pool and encourages neutral, evidence-bounded answers when support is insufficient or conflicting. Moreover, a training-free GRPO-style selection mechanism favors responses with valid references and calibrated confidence without updating the VLM backbone. Experiments in a realistic digital museum simulation show that VaseMuseum improves citation validity, reduces hallucinations on knowledge-intensive queries, and produces more neutral answers under ambiguity compared with search-enabled VLM baselines."
+      "content": "Post-training is essential for refining the domain-specific capabilities of large language models (LLMs), yet existing reward optimization and distribution matching methods tightly couple policy exploration with distribution alignment. This coupling forces expensive exploration directly on the policy model and severely hinders the asynchronous generation, reuse, and cross-model transfer of optimization signals. In this paper, we propose Proxy-guided Update Signal Transfer (PUST), a novel post-training framework that fundamentally decouples update-signal exploration from distribution alignment. Instead of utilizing the primary model for costly exploration, PUST employs a lightweight proxy model as an efficient testbed to discover high-reward behaviors. We extract the relative improvement signal between the proxy's initial and optimized states, transferring this directional update to the primary model to guide its policy alignment. This decoupled pipeline, comprising proxy exploration, update-signal extraction, and signal transfer, significantly reduces computational overhead and enables optimization signals to be asynchronously generated, cached, and reused. Crucially, by transferring relative improvements rather than absolute policy distributions, PUST naturally supports weak-to-strong improvement and seamless cross-model transfer. Systematic evaluations on Qwen3-family models across math and code domains demonstrate that update signals extracted from substantially weaker proxies can robustly and adjustably enhance stronger primary models. Ultimately, PUST transforms post-training from a monolithic online optimization process into a highly modular, reusable, and cost-efficient paradigm."
     },
     {
-      "id": "fetch-hf-2607.07964",
-      "title": "KronQ: LLM Quantization via Kronecker-Factored Hessian",
+      "id": "fetch-hf-2607.09362",
+      "title": "CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation",
       "source": "Hugging Face Daily",
-      "date": "2026-07-07",
-      "description": "Post-training quantization (PTQ) is a widely adopted technique for compressing large language models (LLMs) without retraining. Existing second-order PTQ methods, including GPTQ, construct quantization objectives exclusively from input acti...",
+      "date": "2026-07-10",
+      "description": "Virtual try-on (VTO) has made significant progress in realistically transferring garments onto a target person. Yet most systems give the user little control over how a garment should be worn -- its size (loose or fitted), style (e.g., tuck...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.09362",
+      "hotScore": 87,
+      "content": "Virtual try-on (VTO) has made significant progress in realistically transferring garments onto a target person. Yet most systems give the user little control over how a garment should be worn -- its size (loose or fitted), style (e.g., tucked in or untucked, open or closed), and spatial placement on the body. We address this gap with two complementary contributions. First, we define and solve Visual-Instance-Prompt Segmentation via VIP-SAM: given a flatlay image of a garment, segment that specific instance in a photograph of a person wearing it. This is an instance-level task, distinct from the typically studied category-level segmentation. Second, we introduce CtrlVTON, a controllable VTO framework that recasts try-on as an image editing problem and adds segmentation masks as pixel-level control over garment layout, including style, size, and spatial placement on the body. VIP-SAM and CtrlVTON each achieve state-of-the-art results on their respective tasks. In particular, CtrlVTON generates images that follow user-provided layouts far more faithfully than the strongest proprietary editing systems while matching them on garment fidelity."
+    },
+    {
+      "id": "fetch-hf-2607.11881",
+      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-13",
+      "description": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a cornerstone of capable, transpa...",
       "category": "llm",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.07964",
-      "hotScore": 87,
-      "content": "Post-training quantization (PTQ) is a widely adopted technique for compressing large language models (LLMs) without retraining. Existing second-order PTQ methods, including GPTQ, construct quantization objectives exclusively from input activation statistics, effectively assuming that all output channels contribute equally to the layer-wise reconstruction objective. We propose KronQ, a PTQ framework that challenges this assumption by introducing the gradient covariance into the quantization pipeline. Under the Kronecker-factored Hessian approximation, the quantization loss depends jointly on both the activation and gradient covariances, and KronQ exploits this at two complementary levels. (1) KronQ introduces bidirectional incoherence processing, extending the existing input-side random rotation to the output dimension using the gradient covariance, reducing weight magnitude variance across both input and output dimensions. (2) KronQ derives a new sensitivity metric for inter-layer mixed-precision allocation, driven by the gradient and activation Hessian traces. Notably, in the case of 2-bit weight-only quantization on LLaMA-3-70B, while GPTQ and GPTAQ diverge or produce degenerate quantizations (>2000 perplexity on WikiText-2), KronQ achieves 7.93 perplexity."
-    },
-    {
-      "id": "fetch-hf-2607.08964",
-      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-08",
-      "description": "AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluated only by their final outcome. This setu...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2607.08964",
+      "url": "https://huggingface.co/papers/2607.11881",
       "hotScore": 86,
-      "content": "AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluated only by their final outcome. This setup overlooks intermediate progress and partial solutions, yielding sparse reward signals and an incomplete picture of agent capability. We introduce Long-Horizon-Terminal-Bench, a terminal benchmark of 46 long-horizon tasks spanning nine categories, including experiment reproduction, software engineering, multimodal analysis, interactive games, and scientific computing. Each task follows a Terminal-Bench-style setup with a reference solution or simulation engine, but is further decomposed into fine-grained graded subtasks. This design enables dense intermediate rewards and partial credit, allowing evaluation to capture not only whether an agent reaches the final goal, but also how far it progresses on open-ended workflows. Tasks in Long-Horizon-Terminal-Bench typically require hundreds of episodes and minutes to hours of execution, stressing long-horizon planning, long-context management, and iterative debugging rather than one-shot problem solving. We evaluate 15 frontier models and find that agents consume on average 9.9M tokens per task, with roughly 231 episodes and 85.3 minutes of execution time per run, making Long-Horizon-Terminal-Bench more demanding than prior terminal-based benchmarks. Even the strongest tested model achieves 15.2% pass@1 at a partial-reward threshold of 0.95 and 10.9% at a perfect-reward threshold of 1.0, while the mean pass rate across models is 4.3% and 1.7% under the two thresholds, respectively. These results reveal headroom for improvement. We further analyze failure modes and error patterns, and release Long-Horizon-Terminal-Bench to support future progress on long-horizon terminal agents."
+      "content": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a cornerstone of capable, transparent AI systems. Yet while LLMs have made significant progress across diverse real-world tasks, it is not yet clear when, how, or to what extent they can exhibit or be endowed with effective metacognitive abilities, nor how such abilities can be adapted to advance the fundamental capabilities, reliability, and intelligence of AI systems. This paper bridges this gap by presenting the first comprehensive overview of the current state of knowledge on metacognition for LLMs. We analyze and taxonomize the landscape of this emerging field and summarize recent technical advancements, including methods and benchmarks to measure and evaluate LLMs' metacognitive abilities, techniques to elicit, improve, and apply metacognition in LLMs, and findings and implications of ongoing research. We also discuss applications, open questions and challenges, and promising directions for future work. Our aim is to provide a detailed and up-to-date review of this topic and stimulate meaningful research and discussion. An organized list of papers can be found at https://github.com/yale-nlp/LLM-Metacognition."
     }
   ],
   "hfModels": [
@@ -456,8 +459,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 253402358,
-      "likes": 5064,
+      "downloads": 254155897,
+      "likes": 5066,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -472,8 +475,8 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 85113639,
-      "likes": 278,
+      "downloads": 85208183,
+      "likes": 279,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -488,8 +491,8 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 75423637,
-      "likes": 2703,
+      "downloads": 78962390,
+      "likes": 2704,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -504,8 +507,8 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 66697644,
-      "likes": 508,
+      "downloads": 66898960,
+      "likes": 509,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -520,7 +523,7 @@
       "name": "electra-base-discriminator",
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
-      "downloads": 52022122,
+      "downloads": 54218527,
       "likes": 138,
       "category": "research",
       "tags": [
@@ -535,8 +538,8 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 50319501,
-      "likes": 1314,
+      "downloads": 50739228,
+      "likes": 1316,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -551,8 +554,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 34759199,
-      "likes": 3225,
+      "downloads": 34986108,
+      "likes": 3227,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -567,7 +570,7 @@
       "name": "all-mpnet-base-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-mpnet-base-v2",
-      "downloads": 32079475,
+      "downloads": 31889541,
       "likes": 1325,
       "category": "llm",
       "tags": [
@@ -579,27 +582,11 @@
       "hotScore": 86
     },
     {
-      "id": "fetch-model-Qwen--Qwen3-0.6B",
-      "name": "Qwen3-0.6B",
-      "owner": "Community",
-      "fullName": "Qwen/Qwen3-0.6B",
-      "downloads": 27322220,
-      "likes": 1407,
-      "category": "image",
-      "tags": [
-        "Text-generation",
-        "Transformers",
-        "Safetensors"
-      ],
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
-      "hotScore": 84
-    },
-    {
       "id": "fetch-model-google-t5--t5-small",
       "name": "t5-small",
       "owner": "Community",
       "fullName": "google-t5/t5-small",
-      "downloads": 26837691,
+      "downloads": 27214044,
       "likes": 569,
       "category": "research",
       "tags": [
@@ -608,27 +595,58 @@
         "Pytorch"
       ],
       "url": "https://huggingface.co/google-t5/t5-small",
+      "hotScore": 84
+    },
+    {
+      "id": "fetch-model-Qwen--Qwen3-0.6B",
+      "name": "Qwen3-0.6B",
+      "owner": "Community",
+      "fullName": "Qwen/Qwen3-0.6B",
+      "downloads": 27190743,
+      "likes": 1409,
+      "category": "image",
+      "tags": [
+        "Text-generation",
+        "Transformers",
+        "Safetensors"
+      ],
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "hotScore": 82
     }
   ],
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
-      "title": "Uber&#8217;s product chief on hotels, robotaxis, and why the company doesn&#8217;t want to be &#8220;everything for everyone&#8221;",
+      "title": "Pinwheel launches a retro-inspired landline phone for kids",
       "source": "TechCrunch Gadgets",
       "date": "2026-07-14",
-      "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and ...",
+      "description": "Kid-friendly tech company Pinwheel announced the launch of a new landline phone designed to let children stay connected without the distractions of a smartphone....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
+      "hotScore": 98,
+      "content": "Kid-friendly tech company Pinwheel announced the launch of a new landline phone designed to let children stay connected without the distractions of a smartphone...."
+    },
+    {
+      "id": "fetch-gadget-1",
+      "title": "Uber&#8217;s product chief on hotels, robotaxis, and why the company doesn&#8217;t want to be &#8216;everything for everyone&#8217;",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-07-14",
+      "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and ...",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "hotScore": 88,
-      "content": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and ..."
+      "hotScore": 96,
+      "content": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and ..."
     },
     {
-      "id": "fetch-gadget-1",
+      "id": "fetch-gadget-2",
       "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
       "source": "TechCrunch Gadgets",
       "date": "2026-07-13",
@@ -639,11 +657,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "hotScore": 88,
+      "hotScore": 97,
       "content": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors...."
     },
     {
-      "id": "fetch-gadget-2",
+      "id": "fetch-gadget-3",
       "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
       "source": "TechCrunch Gadgets",
       "date": "2026-07-13",
@@ -654,11 +672,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
-      "hotScore": 90,
+      "hotScore": 98,
       "content": "Washington, D.C. has become a battleground for Uber and Waymo's competing views...."
     },
     {
-      "id": "fetch-gadget-3",
+      "id": "fetch-gadget-4",
       "title": "TechCrunch Mobility: A robotaxi ultimatum",
       "source": "TechCrunch Gadgets",
       "date": "2026-07-12",
@@ -669,7 +687,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
-      "hotScore": 97,
+      "hotScore": 89,
       "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part...."
     }
   ]
