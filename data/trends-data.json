@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-14T13:00:22.521Z",
+  "updatedAt": "2026-07-15T01:09:31.647Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 382904,
-      "forks": 80381,
+      "stars": 382945,
+      "forks": 80397,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 254416,
-      "forks": 22723,
+      "stars": 254691,
+      "forks": 22760,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 214657,
-      "forks": 39894,
+      "stars": 214894,
+      "forks": 39984,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 196396,
-      "forks": 59318,
+      "stars": 196452,
+      "forks": 59325,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 185528,
-      "forks": 46083,
+      "stars": 185539,
+      "forks": 46080,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 165703,
-      "forks": 21440,
+      "stars": 165743,
+      "forks": 21439,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164240,
-      "forks": 30524,
+      "stars": 164236,
+      "forks": 30518,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 157026,
-      "forks": 46162,
+      "stars": 157032,
+      "forks": 46163,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 150754,
-      "forks": 8612,
+      "stars": 151051,
+      "forks": 8626,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Production-ready platform for agentic workflow development.",
-      "stars": 148807,
-      "forks": 23432,
+      "stars": 148844,
+      "forks": 23436,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 145388,
-      "forks": 21046,
+      "stars": 145440,
+      "forks": 21055,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 141911,
-      "forks": 34807,
+      "stars": 141922,
+      "forks": 34805,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 141752,
-      "forks": 23547,
+      "stars": 141781,
+      "forks": 23553,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 121015,
-      "forks": 10757,
+      "stars": 121266,
+      "forks": 10781,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 120698,
-      "forks": 14179,
+      "stars": 120742,
+      "forks": 14192,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,197 +260,193 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
+      "title": "Contrastive-Collapsed Loss for Flexible and Geometrically Optimal Embeddings and Faster Convergence",
       "source": "arXiv.org",
-      "date": "2026-07-13",
-      "description": "Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functions far simpler than their parameter coun...",
-      "category": "image",
+      "date": "2026-07-14",
+      "description": "In this work, we introduce CoCo, a loss function aimed at learning normalized and well-structured representations. The proposed loss encourages intra-class collapse and inter-class contrast while preserving sufficient flexibility for neural...",
+      "category": "tooling",
       "tags": [
-        "Research",
-        "ImageGen"
+        "Research"
       ],
-      "url": "http://arxiv.org/abs/2607.11883v1",
-      "hotScore": 92,
-      "content": "Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functions far simpler than their parameter counts suggest, but it is challenging to construct codes that realize this simplicity. Parameter-based methods such as quantization produce code lengths that scale with model size, insensitive to how much information the parameters store. Prequential coding bypasses this issue by compressing the training trajectory, but codes the exact data sequence regardless of how much the model learns, yielding large codes when the data has high entropy. We introduce requential coding, where a teacher model selects training samples drawn from the student's own distribution. The student's code records only these selections, which cost bits only where teacher and student disagree. The resulting code length is independent of parameter count and data entropy, and often orders of magnitude shorter than the prequential counterpart, with an advantage that grows with scale. This compression sheds light on phenomena inaccessible to prior compressors. Holding loss fixed, larger models and ensembles compress to much smaller sizes despite more parameters. Plugged into a PAC-Bayes bound, the requential code yields state-of-the-art generalization guarantees for billion-parameter LLMs, outperforming bounds built on aggressive post-training quantization even granted zero error. The bound tightens with scale in the compute-optimal regime, as models become increasingly compressible relative to dataset size. The same code predicts that models gradually overfit when trained for multiple epochs. It also isolates the learnable information in a dataset from its unpredictable, random content, revealing that lower-entropy text holds far more learnable structure than higher-entropy image data."
+      "url": "http://arxiv.org/abs/2607.12916v1",
+      "hotScore": 83,
+      "content": "In this work, we introduce CoCo, a loss function aimed at learning normalized and well-structured representations. The proposed loss encourages intra-class collapse and inter-class contrast while preserving sufficient flexibility for neural networks to approximate geometrically optimal embeddings with large angular separation between classes. We provide a theoretical analysis positioning CoCo with respect to related objectives such as dot regression and cross-entropy, showing that the new proposed loss benefits from closer initialization to the optimal configuration, more informative gradients, and stronger incentives for class-wise representation collapse. Extensive experiments on diverse tabular datasets from the OpenML-CC18 benchmark show that CoCo achieves competitive performance with state-of-the-art methods, including kernel SVM, Random Forest, dot regression, and cross-entropy-based neural networks. In addition, both theoretical arguments and empirical analyses demonstrate that the proposal promotes tighter class clustering and faster convergence. These results highlight CoCo loss as an effective objective for learning discriminative representations while maintaining competitive predictive performance."
     },
     {
       "id": "fetch-paper-1",
-      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+      "title": "Real-time fall detection based on vision for low-power edge platforms",
       "source": "arXiv.org",
-      "date": "2026-07-13",
-      "description": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a cornerstone of capable, transpa...",
-      "category": "llm",
+      "date": "2026-07-14",
+      "description": "Falling detection is vital for elderly care and intelligent surveillance; however, prevailing vision-based approaches predominantly frame it as static pose classification or discrete temporal pattern matching, fundamentally overlooking the ...",
+      "category": "tooling",
       "tags": [
-        "Research",
-        "LLM"
+        "Research"
       ],
-      "url": "http://arxiv.org/abs/2607.11881v1",
-      "hotScore": 90,
-      "content": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a cornerstone of capable, transparent AI systems. Yet while LLMs have made significant progress across diverse real-world tasks, it is not yet clear when, how, or to what extent they can exhibit or be endowed with effective metacognitive abilities, nor how such abilities can be adapted to advance the fundamental capabilities, reliability, and intelligence of AI systems. This paper bridges this gap by presenting the first comprehensive overview of the current state of knowledge on metacognition for LLMs. We analyze and taxonomize the landscape of this emerging field and summarize recent technical advancements, including methods and benchmarks to measure and evaluate LLMs' metacognitive abilities, techniques to elicit, improve, and apply metacognition in LLMs, and findings and implications of ongoing research. We also discuss applications, open questions and challenges, and promising directions for future work. Our aim is to provide a detailed and up-to-date review of this topic and stimulate meaningful research and discussion. An organized list of papers can be found at https://github.com/yale-nlp/LLM-Metacognition."
+      "url": "http://arxiv.org/abs/2607.12909v1",
+      "hotScore": 82,
+      "content": "Falling detection is vital for elderly care and intelligent surveillance; however, prevailing vision-based approaches predominantly frame it as static pose classification or discrete temporal pattern matching, fundamentally overlooking the instability dynamics of the human support system. This paper proposes a physics-informed falling detection framework that recasts falling as a stability-loss event in a coupled dynamical system. We introduce a novel dual-LTC architecture comprising a Center-of-Mass (CoM) subsystem and a Base-of-Support (BoS) subsystem, both instantiated as Liquid Time-Constant (LTC) neural networks to continuously model inertial trajectory evolution and ground-contact adjustment through adaptive time constants, Physical interpretability of falling motion. A learnable coupling module emulates physical interaction between the two subsystems, while a Stability Manifold classifier operates in the joint latent space to detect boundary crossing via Lyapunov-inspired stability metrics. Complementary counterfactual trajectory projection and Time-to-Collision (TTC) estimation further enable irreversibility assessment and early warning. The architecture is designed to support a three-state prediction paradigm (Normal, Falling, Fallen); in this preliminary study, we validate the core stability discrimination capability on a two-class dataset (Normal vs. Falling), leaving the full three-state temporal transition to future work. Unlike conventional CNN--RNN pipelines, the proposed formulation encodes continuous-time mechanical inertia, yielding a sub-50K-parameter network capable of real-time inference on resource-constrained edge devices. Extensive experiments demonstrate competitive accuracy with superior physical interpretability, validating its efficacy for low-compute visual fall detection."
     },
     {
       "id": "fetch-paper-2",
-      "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
+      "title": "Accelerated Mixing Time of Randomized Hamiltonian Monte Carlo",
       "source": "arXiv.org",
-      "date": "2026-07-13",
-      "description": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been mostly tied to specific tasks, we study a ge...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2607.11875v1",
-      "hotScore": 90,
-      "content": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been mostly tied to specific tasks, we study a generalized class of inductive tasks that unifies several synthetic tasks known in the literature, including in-context n-grams and multi-hop reasoning. In this class, we theoretically prove that the training dynamics of attention models can be confined to a highly interpretable, low-dimensional invariant manifold. On this manifold, the learning dynamics are captured by a handful of interpretable coordinates rather than millions of parameters, making both theoretical and empirical analysis more tractable. Using this framework, we characterize how data statistics govern the competition between in-context and in-weights learning, we study how random initializations determine the `winning' circuit when multiple solutions are possible, and we demonstrate that the coordinate frame associated with the manifold can be used to automatically detect which circuits have been learned in trained models. By casting circuit formation as a low-dimensional dynamical phenomenon, we take a step toward a predictive theory of how Transformers learn."
-    },
-    {
-      "id": "fetch-paper-3",
-      "title": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
-      "source": "arXiv.org",
-      "date": "2026-07-13",
-      "description": "Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train policies via reinforcement learning (RL) to track them. But how does this recipe transfer to ...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2607.11874v1",
-      "hotScore": 91,
-      "content": "Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train policies via reinforcement learning (RL) to track them. But how does this recipe transfer to dexterous manipulation? The answer is not obvious, as manipulation involves complex, contact-rich dynamics and requires delicate regulation of contact modes and forces. We present REGRIND, a minimalist retargeting-guided RL pipeline that learns dexterous manipulation policies from a single human demonstration. REGRIND retargets human hand-object motion to a robot reference that preserves hand-object spatial and contact relationships, trains a residual RL policy in simulation to track object-centric keypoints along that reference, and transfers the resulting policy zero-shot to hardware with careful system identification. The resulting policies produce fluid, human-like behavior on two different multi-fingered hands across contact-rich tool-use tasks, including operating a pair of scissors and turning a screwdriver. Through systematic hardware experiments, we identify and analyze the key factors that govern sim-to-real transfer in dexterous manipulation, offering practical guidance for retargeting-based learning in contact-rich settings. Videos and code are available at https://yunhaifeng.com/REGRIND."
-    },
-    {
-      "id": "fetch-paper-4",
-      "title": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol",
-      "source": "arXiv.org",
-      "date": "2026-07-13",
-      "description": "Institutions collect far more open-ended teaching-evaluation feedback than they read. A prior study introduced a validated protocol for classifying such comments by thematic category and sentiment, built from a documented annotation guide, ...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2607.11873v1",
-      "hotScore": 85,
-      "content": "Institutions collect far more open-ended teaching-evaluation feedback than they read. A prior study introduced a validated protocol for classifying such comments by thematic category and sentiment, built from a documented annotation guide, an intra-annotator reliability measurement, stratified cross-validation, and a held-out evaluation on a Spanish institutional corpus with a frozen-encoder design. Two questions limit its reuse: whether a protocol fixed to 2019-era frozen embeddings stays competitive as representation methods advance, and whether it transfers to a second language. We re-run it on the original Spanish data across three representation generations, sparse lexical features, frozen transformer embeddings, and prompted large language models, and transfer its sentiment task to English with a balanced 45,000-comment corpus checked against an aspect-labeled education dataset. Treating paired comparisons as descriptive, we find the protocol durable: a 2026 frontier model posts the highest thematic F1 on the hardest Spanish task, yet shows no sentiment advantage over a cheap model and no descriptive separation from it on English, so model choice is a deployment decision, not a property of the method."
-    },
-    {
-      "id": "fetch-paper-5",
-      "title": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
-      "source": "arXiv.org",
-      "date": "2026-07-13",
-      "description": "Existing studies of LLM-as-judge scoring bias work predominantly at the input-output level: they perturb inputs, measure score deltas, and propose prompt-level mitigations. We argue that the same biases admit a representation-level account ...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2607.11871v1",
-      "hotScore": 82,
-      "content": "Existing studies of LLM-as-judge scoring bias work predominantly at the input-output level: they perturb inputs, measure score deltas, and propose prompt-level mitigations. We argue that the same biases admit a representation-level account in the judge's hidden state, complementary to the input-output view and operationally useful in ways it does not afford. We report three findings, across seven judges, seven bias types, and nine benchmarks. Geometry: baseline judging inputs occupy a tight activation manifold while biased inputs are displaced along a low-dimensional, type-specific subspace that sharpens with depth and is recovered consistently by three families of estimators. Causal control: steering hidden states along this subspace drives scoring in both directions, forward shifts reproducing biased scoring on clean inputs and reverse shifts restoring baseline scoring on biased ones, while matched-norm random directions produce shifts an order of magnitude smaller. Operational: a simple linear projection onto the same bias-direction features anticipates judge failures on three entirely unseen benchmarks, substantially outperforming text-based alternatives. Reading bias as activation geometry, rather than as input-output noise, unifies geometric structure, causal control, and operational prediction within a single framework. The project page is available at https://xzx34.github.io/unfair-judge/"
-    },
-    {
-      "id": "fetch-paper-6",
-      "title": "Evidence-Backed Video Question Answering",
-      "source": "arXiv.org",
-      "date": "2026-07-13",
-      "description": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, providing textual answers without verifiable visual grounding. Existing explainability efforts rely on textual rationales ...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2607.11862v1",
-      "hotScore": 84,
-      "content": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, providing textual answers without verifiable visual grounding. Existing explainability efforts rely on textual rationales or sparse bounding boxes, which struggle to capture complex video dynamics such as occlusions and non-rigid deformations. We propose Evidence-Backed Video Question Answering (E-VQA), a novel task requiring models to jointly output a semantic answer and precise spatio-temporal evidence: temporal segments and dense, tracked object segmentation masklets. To support this, we introduce ST-Evidence, the first human-verified benchmark for both discriminative and generative pixel-level grounding. Evaluations of state-of-the-art models reveal a critical decoupling between QA accuracy and true visual perception that scaling alone fails to bridge. To address this, we develop scalable, automated generation pipelines to create ST-Evidence-Instruct, a 160k-scale dataset bridging high-level reasoning with fine-grained grounding. Fine-tuning grounded Video LLMs on this data yields substantial gains over the corresponding size-matched UniPixel baselines (e.g., +27.2 t-mean and +13.8 J&amp;F on a 7B model), establishing a robust baseline for explainable, evidence-backed video understanding. Code and data are available at https://github.com/SalesforceAIResearch/EVQA."
-    },
-    {
-      "id": "fetch-paper-7",
-      "title": "Causal Discovery in Mixtures of Populations",
-      "source": "arXiv.org",
-      "date": "2023-11-13",
-      "description": "Causal discovery aims to learn causal structures up to certain symmetries. Diverse populations or changing environments give rise to heterogeneous data in the following sense: each population/environment is a ``source'' which idiosyncratica...",
+      "date": "2026-07-14",
+      "description": "We show the Randomized Hamiltonian Monte Carlo (RHMC) algorithm has accelerated mixing time guarantees for sampling from log-concave probability distributions. RHMC proceeds by repeatedly simulating the continuous-time Hamiltonian dynamics ...",
       "category": "research",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2311.07454v6",
-      "hotScore": 91,
-      "content": "Causal discovery aims to learn causal structures up to certain symmetries. Diverse populations or changing environments give rise to heterogeneous data in the following sense: each population/environment is a ``source'' which idiosyncratically determines the forms of causal effects. From this perspective, the source is a latent common cause for every observed variable. While some methods for causal discovery can work around latent confounding in special cases, a global confounder poses a significant challenge. The only known ways to deal with latent global confounding involve making assumptions that limit structural equations and/or noise functions. We demonstrate that globally confounded causal structures can still be identified with arbitrary structural equations and noise functions, so long as the number of latent classes remains small relative to the size and sparsity of the underlying DAG. The approach relies on agglomerating variables into large-enough matrices of moments, whose ranks directly reveal graphical properties of the causal structure. We also provide a statistical test to test the rank of these matrices."
+      "url": "http://arxiv.org/abs/2607.12902v1",
+      "hotScore": 92,
+      "content": "We show the Randomized Hamiltonian Monte Carlo (RHMC) algorithm has accelerated mixing time guarantees for sampling from log-concave probability distributions. RHMC proceeds by repeatedly simulating the continuous-time Hamiltonian dynamics for some random integration times, and resetting the velocity to be an independent Gaussian random variable between each simulation. We show that when the target distribution is log-concave and satisfies an $α$-Talagrand inequality (for example, if the target distribution is $α$-strongly log-concave), if we use a random integration time from either the triangular or the exponential distribution with mean $Θ(α^{-1/2})$, then RHMC converges exponentially fast in KL divergence, and the total integration time to reach error $\\varepsilon$ in KL divergence scales as $O(α^{-1/2} \\log(\\varepsilon^{-1}))$. We also show that when the target distribution is log-concave, if we use a sequence of random integration times from the triangular distribution with exponentially increasing means, then the total integration time to reach error $\\varepsilon$ in KL divergence scales as $O(\\varepsilon^{-1/2})$. Our analysis relies on a bound on the average KL divergence along Hamiltonian dynamics, which is inspired by an analogous result on accelerated optimization methods based on Hamiltonian dynamics."
     },
     {
-      "id": "fetch-hf-2607.09701",
-      "title": "EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos",
-      "source": "Hugging Face Daily",
-      "date": "2026-06-21",
-      "description": "Steerability is a defining capability of generalist robot policies, yet remains largely absent in dexterous-hand systems for lack of large-scale, language-aligned, and action-accurate demonstration data. To address this bottleneck, we prese...",
-      "category": "image",
+      "id": "fetch-paper-3",
+      "title": "MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations",
+      "source": "arXiv.org",
+      "date": "2026-07-14",
+      "description": "Long-term memory has become a foundational capability for LLM-based agents that accompany users across extended, multi-session interactions. Existing benchmarks, however, evaluate such memory almost exclusively through downstream question a...",
+      "category": "agent",
       "tags": [
-        "Hugging Face",
-        "Paper"
+        "Research",
+        "Agent"
       ],
-      "url": "https://huggingface.co/papers/2607.09701",
-      "hotScore": 90,
-      "content": "Steerability is a defining capability of generalist robot policies, yet remains largely absent in dexterous-hand systems for lack of large-scale, language-aligned, and action-accurate demonstration data. To address this bottleneck, we present a full-stack system that scales dexterous VLA pre-training from egocentric human videos and enables data-efficient real-robot post-training. It integrates EgoSmith, a data pipeline that curates in-the-wild egocentric videos into 9.6K hours of high-quality pre-training data with 9x higher throughput and better accuracy than prior SOTA; a unified robot stack for teleoperation and human-in-the-loop correction; and EgoSteer, a world-model-enhanced VLA trained on optimized infrastructure. Human-data pre-training equips EgoSteer with language-guided manipulation priors, which are grounded through robot post-training and improved by DAgger refinement. Empirically, EgoSteer robustly executes free-form instructions across 40+ diverse tasks, demonstrating failure recovery, dexterity, and generalization. The pre-trained model also few-shot adapts to complex long-horizon tasks, including box folding, on two embodiments with 75+% success. We open-source the system, data, and model at https://egosteer.github.io/."
+      "url": "http://arxiv.org/abs/2607.12893v1",
+      "hotScore": 84,
+      "content": "Long-term memory has become a foundational capability for LLM-based agents that accompany users across extended, multi-session interactions. Existing benchmarks, however, evaluate such memory almost exclusively through downstream question answering, scoring only the correctness of a final answer. This black-box formulation conflates the heterogeneous causes of memory failure, such as missing the introduction of a relevant fact, binding an operation to the wrong target, or relying on stale values after a correction. As a result, it can credit correct answers despite their reliance on inconsistent or unsafe memory states. In this paper, we argue that, in dynamic long-horizon interactions, memory is not a static collection of facts but a lifecycle of explicit operations, including remembering, forgetting, updating, reflecting, and their compositions. We introduce MemOps, a benchmark that reformulates conversational memory as a sequence of lifecycle operations and represents each memory event with a structured trace specifying its trigger, target, scope, state transition, and supporting evidence. A controllable generation pipeline embeds these operations into long, task-oriented conversations and produces gold operation traces together with six categories of operation-level probes, evaluated under both adjacent-evidence and long-context settings. Across long-context, retrieval-based, parametric and managed-memory systems, MemOps disentangles failure modes that final-answer accuracy alone conceals, revealing that current systems remain far from uniformly reliable. For instance, session-level retrieval outperforms turn-level retrieval, and long-context models remain notably weak at reconstructing ordered memory-state trajectories. These results move long-term memory evaluation from final-answer scoring toward interpretable, operation-level diagnosis."
     },
     {
-      "id": "fetch-hf-2607.11885",
-      "title": "Latent-Identity Tuning in Text-to-Image Personalization Models",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-13",
-      "description": "Generating and editing a person's face demands high precision, as even minor modifications can significantly alter a subject's perceived identity. Current personalization and editing methods built on general-purpose text-to-image models, ho...",
-      "category": "image",
+      "id": "fetch-paper-4",
+      "title": "UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies",
+      "source": "arXiv.org",
+      "date": "2026-07-14",
+      "description": "Modern robot learning systems increasingly rely on dense progress or value signals to evaluate intermediate states, guide policy learning, and detect task completion, making the quality of these signals critical. Since such dense labels are...",
+      "category": "tooling",
       "tags": [
-        "Hugging Face",
-        "Paper"
+        "Research"
       ],
-      "url": "https://huggingface.co/papers/2607.11885",
-      "hotScore": 89,
-      "content": "Generating and editing a person's face demands high precision, as even minor modifications can significantly alter a subject's perceived identity. Current personalization and editing methods built on general-purpose text-to-image models, however, often lack the precision required for fine-grained facial edits. We present a method for fine-grained identity tuning in text-to-image personalization models. Unlike standard image editing, which operates on a given image, identity tuning modifies the latent representation of a specific identity, enabling the generation of diverse images that consistently depict the same edited identity. To enable fine-grained latent identity tuning, we explore the latent space of a pre-trained, frozen encoder for text-to-image personalization. Our approach requires no additional training. Instead, it leverages the existing architecture of a frozen encoder to uncover latent semantic directions. This space consists of a set of latent tokens that play distinct roles in capturing different aspects of an identity and often correspond to specific spatial or semantic facial regions. We show that meaningful directions can be identified within this space and within subspaces defined by selected tokens, enabling localized, fine-grained, and semantically coherent edits. We validate our approach through qualitative and quantitative experiments that demonstrate diverse localized facial edits while preserving cross-image identity consistency. Project page at: https://garibida.github.io/IdentityTuning/"
-    },
-    {
-      "id": "fetch-hf-2607.11505",
-      "title": "Proxy Exploration and Reusable Guidance: A Modular LLM Post-Training Paradigm via Proxy-Guided Update Signals",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-13",
-      "description": "Post-training is essential for refining the domain-specific capabilities of large language models (LLMs), yet existing reward optimization and distribution matching methods tightly couple policy exploration with distribution alignment. This...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2607.11505",
-      "hotScore": 88,
-      "content": "Post-training is essential for refining the domain-specific capabilities of large language models (LLMs), yet existing reward optimization and distribution matching methods tightly couple policy exploration with distribution alignment. This coupling forces expensive exploration directly on the policy model and severely hinders the asynchronous generation, reuse, and cross-model transfer of optimization signals. In this paper, we propose Proxy-guided Update Signal Transfer (PUST), a novel post-training framework that fundamentally decouples update-signal exploration from distribution alignment. Instead of utilizing the primary model for costly exploration, PUST employs a lightweight proxy model as an efficient testbed to discover high-reward behaviors. We extract the relative improvement signal between the proxy's initial and optimized states, transferring this directional update to the primary model to guide its policy alignment. This decoupled pipeline, comprising proxy exploration, update-signal extraction, and signal transfer, significantly reduces computational overhead and enables optimization signals to be asynchronously generated, cached, and reused. Crucially, by transferring relative improvements rather than absolute policy distributions, PUST naturally supports weak-to-strong improvement and seamless cross-model transfer. Systematic evaluations on Qwen3-family models across math and code domains demonstrate that update signals extracted from substantially weaker proxies can robustly and adjustably enhance stronger primary models. Ultimately, PUST transforms post-training from a monolithic online optimization process into a highly modular, reusable, and cost-efficient paradigm."
-    },
-    {
-      "id": "fetch-hf-2607.09362",
-      "title": "CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-10",
-      "description": "Virtual try-on (VTO) has made significant progress in realistically transferring garments onto a target person. Yet most systems give the user little control over how a garment should be worn -- its size (loose or fitted), style (e.g., tuck...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2607.09362",
+      "url": "http://arxiv.org/abs/2607.12892v1",
       "hotScore": 87,
-      "content": "Virtual try-on (VTO) has made significant progress in realistically transferring garments onto a target person. Yet most systems give the user little control over how a garment should be worn -- its size (loose or fitted), style (e.g., tucked in or untucked, open or closed), and spatial placement on the body. We address this gap with two complementary contributions. First, we define and solve Visual-Instance-Prompt Segmentation via VIP-SAM: given a flatlay image of a garment, segment that specific instance in a photograph of a person wearing it. This is an instance-level task, distinct from the typically studied category-level segmentation. Second, we introduce CtrlVTON, a controllable VTO framework that recasts try-on as an image editing problem and adds segmentation masks as pixel-level control over garment layout, including style, size, and spatial placement on the body. VIP-SAM and CtrlVTON each achieve state-of-the-art results on their respective tasks. In particular, CtrlVTON generates images that follow user-provided layouts far more faithfully than the strongest proprietary editing systems while matching them on garment fidelity."
+      "content": "Modern robot learning systems increasingly rely on dense progress or value signals to evaluate intermediate states, guide policy learning, and detect task completion, making the quality of these signals critical. Since such dense labels are rarely available at scale, normalized time within a demonstration is often used as a scalable substitute: later frames are treated as higher progress. However, this time-derived label is only a noisy proxy for physical task progress. In contact-rich manipulation, a robot may make progress and then lose it through slips, failed grasps, or partial undoing, while the time-derived label continues to increase monotonically. We introduce Unsupervised Robotic Value Correction (UR-VC), an offline, training-free method for correcting time-derived progress labels. UR-VC exploits a simple regularity in demonstration data: similar states often recur across different episodes, but at different timestamps. Instead of trusting the timestamp from a single trajectory, UR-VC retrieves similar states from other episodes and aggregates their time-derived labels to obtain a corrected progress estimate. UR-VC requires no manual progress labels, reward annotations, or additional value model. We evaluate UR-VC on real bimanual cloth flatten-and-fold data, a long-horizon deformable-object manipulation task with visible intermediate progress. The corrected labels capture local regressions and non-uniform progress that normalized time cannot represent, while preserving the overall task trend. We further use the corrected signal to construct advantage labels for VLA training, following recent advantage-conditioned policy learning. UR-VC shows a positive trend in real-robot task success under matched data, model, and training settings."
     },
     {
-      "id": "fetch-hf-2607.11881",
-      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+      "id": "fetch-paper-5",
+      "title": "Energy-Based Physics-Informed Form Finding for Clustered Tensegrity Structures",
+      "source": "arXiv.org",
+      "date": "2026-07-14",
+      "description": "Tensegrity form-finding and physical property prediction are fundamental inverse problems in structural mechanics, which aim to determine equilibrium configurations and internal force distributions. These problems are challenging due to str...",
+      "category": "tooling",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2607.12888v1",
+      "hotScore": 83,
+      "content": "Tensegrity form-finding and physical property prediction are fundamental inverse problems in structural mechanics, which aim to determine equilibrium configurations and internal force distributions. These problems are challenging due to strong nonlinearity arising from the coupling between geometry and forces, the need to ensure structural stability, and the enforcement of constraints such as boundary conditions and symmetry. Moreover, traditional methods often lack robustness to noise and outliers. This paper proposes an energy-based learning framework for clustered tensegrity form finding and physical property prediction. The proposed approach incorporates total potential energy minimization and constitutive relations into the training objective, enabling the simultaneous prediction of equilibrium nodal configurations and associated physical quantities, including member forces and force densities. By incorporating energy-based physical losses directly into the learning process, the framework improves physical consistency, robustness, and data efficiency. Numerical experiments on tensegrity structures, including prism and lander systems, show the great potential of the proposed approach and demonstrate its capability for scalable form finding and accurate prediction of structural properties."
+    },
+    {
+      "id": "fetch-paper-6",
+      "title": "A Multi-Agent System for Autonomous, Fine-Tuning-Free Clinical Symptom Detection: Development and Validation Study",
+      "source": "arXiv.org",
+      "date": "2026-07-14",
+      "description": "Clinical notes contain many of the signs and symptoms that bring patients to care, yet this information rarely reaches structured fields. Existing extraction approaches either rely on context-insensitive rules that generate false positives ...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2607.12886v1",
+      "hotScore": 91,
+      "content": "Clinical notes contain many of the signs and symptoms that bring patients to care, yet this information rarely reaches structured fields. Existing extraction approaches either rely on context-insensitive rules that generate false positives or on supervised models that require substantial fine-tuning. We present Pythia, a multi-agent system that autonomously writes and optimizes extraction prompts for clinical concepts without manual prompt engineering or fine-tuning. Running on a locally hosted open-weights model, Pythia keeps clinical notes on local infrastructure and selects prompts using development-set sensitivity and specificity. We compared Pythia with a curated lexicon across 72 signs and symptoms from 400 clinical notes representing 387 patients. Development (n=300) and validation (n=100) sets were partitioned independently for each concept. Pythia achieved mean sensitivity of 0.76 and specificity of 0.95, compared with 0.82 and 0.76 for the lexicon, and matched or exceeded the lexicon on both metrics for 20 of 62 directly comparable concepts. For 14 concepts where the lexicon labeled every note positive, Pythia recovered mean specificity of 0.97 by requiring a present-tense, patient-attributed finding rather than any textual mention of a term. Specificity transferred from development to validation with minimal degradation across prevalences, whereas sensitivity transfer weakened below 5% prevalence, reaching a mean gap of 0.25 below 2% prevalence. A BERT classifier fine-tuned per concept on the same development set achieved mean sensitivity of 0.23 and collapsed to zero sensitivity for concepts below roughly 5% prevalence. These findings suggest that autonomous, fine-tuning-free prompt optimization can produce symptom extraction prompts that generalize effectively from development to validation while remaining deployable on local infrastructure."
+    },
+    {
+      "id": "fetch-paper-7",
+      "title": "LLM Judges Can Be Too Generous When There Is No Reference Answer",
+      "source": "arXiv.org",
+      "date": "2026-07-14",
+      "description": "LLM judges are increasingly being used to evaluate open-ended model responses, often in no-reference settings where a ground-truth answer is unavailable. However, can they reliably assess in such evaluation setups? We explore this question ...",
+      "category": "llm",
+      "tags": [
+        "Research",
+        "LLM"
+      ],
+      "url": "http://arxiv.org/abs/2607.12885v1",
+      "hotScore": 85,
+      "content": "LLM judges are increasingly being used to evaluate open-ended model responses, often in no-reference settings where a ground-truth answer is unavailable. However, can they reliably assess in such evaluation setups? We explore this question in this paper through a two stage pipeline with a) calibration experiments that assess the judge model's knowledge of the task it is evaluating, and b) sensitivity experiments that assess how the judge model's performance is impacted by the presence and positioning of the reference answer in the prompt. Across experiments covering three languages, we show that the judge models we evaluated tend to over-credit incorrect answers in the absence of a reference answer, and adding reference answer information to the prompt flips the judge model's correct/incorrect decisions by as much as 85% in some experimental settings. Comparison with a subset of human annotations shows that these reference-driven changes generally align with human judgments. Our results emphasize the need for calibrating the LLM judges with a sample with reference-aware evaluation before using them in reference-free setups reliably, and our methodology provides a blueprint for researchers and practitioners in doing such calibration of LLM judges for other tasks."
+    },
+    {
+      "id": "fetch-hf-2607.11250",
+      "title": "Multi-Agent LLMs Fail to Explore Each Other",
       "source": "Hugging Face Daily",
       "date": "2026-07-13",
-      "description": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a cornerstone of capable, transpa...",
+      "description": "Exploration is essential for reliable autonomy in multi-agent systems, yet it remains unclear whether large language model (LLM) agents can explore effectively when interacting with one another. We show that modern LLM agents fail to do so,...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.11250",
+      "hotScore": 90,
+      "content": "Exploration is essential for reliable autonomy in multi-agent systems, yet it remains unclear whether large language model (LLM) agents can explore effectively when interacting with one another. We show that modern LLM agents fail to do so, often exhibiting myopic and polarized interaction patterns that lead to suboptimal coordination and increased regret. We formalize this challenge as the Multi-Agent Exploration problem, modeling it as a partially observable stochastic game (POSG) problem in which agents must probe peers to infer their capabilities and identify effective interaction strategies. To address this, we introduce Multi- Agent Contextual Exploration (MACE), a lightweight framework that explicitly promotes exploration through structured peer selection. Across both contextual and parametric diversity settings, MACE substantially improves exploration behavior and downstream task performance. We further show theoretically that the value of exploration increases with agent diversity. Overall, our results highlight a fundamental limitation of current LLM agents and underscore the importance of explicitly guided exploration for reliable multi-agent autonomy. Code will be released in https://github.com/deeplearning-wisc/mace"
+    },
+    {
+      "id": "fetch-hf-2607.11862",
+      "title": "Evidence-Backed Video Question Answering",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-13",
+      "description": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, providing textual answers without verifiable visual grounding. Existing explainability efforts rely on textual rationales ...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.11862",
+      "hotScore": 89,
+      "content": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, providing textual answers without verifiable visual grounding. Existing explainability efforts rely on textual rationales or sparse bounding boxes, which struggle to capture complex video dynamics such as occlusions and non-rigid deformations. We propose Evidence-Backed Video Question Answering (E-VQA), a novel task requiring models to jointly output a semantic answer and precise spatio-temporal evidence: temporal segments and dense, tracked object segmentation masklets. To support this, we introduce ST-Evidence, the first human-verified benchmark for both discriminative and generative pixel-level grounding. Evaluations of state-of-the-art models reveal a critical decoupling between QA accuracy and true visual perception that scaling alone fails to bridge. To address this, we develop scalable, automated generation pipelines to create ST-Evidence-Instruct, a 160k-scale dataset bridging high-level reasoning with fine-grained grounding. Fine-tuning grounded Video LLMs on this data yields substantial gains over the corresponding size-matched UniPixel baselines (e.g., +27.2 t-mean and +13.8 J&F on a 7B model), establishing a robust baseline for explainable, evidence-backed video understanding. Code and data are available at https://github.com/SalesforceAIResearch/EVQA."
+    },
+    {
+      "id": "fetch-hf-2607.11736",
+      "title": "MET: Theory-Grounded and Culture-Aware Multilingual Moral Reasoning",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-13",
+      "description": "Language models are increasingly used for moral decision-making across diverse linguistic and cultural contexts, yet existing work overlooks multilinguality on three aspects: 1) multilingual evaluation benchmarks use direct translation, fai...",
       "category": "llm",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.11881",
+      "url": "https://huggingface.co/papers/2607.11736",
+      "hotScore": 88,
+      "content": "Language models are increasingly used for moral decision-making across diverse linguistic and cultural contexts, yet existing work overlooks multilinguality on three aspects: 1) multilingual evaluation benchmarks use direct translation, failing to adapt culture-specific items; 2) inference-time methods for moral reasoning rely on static, English-centric scaffolds and lack grounding in moral theory; 3) training methods for moral decision-making typically require expensive supervision from stronger models or human annotators. We address these gaps with three contributions. First, we introduce MCLASH, a multilingual moral decision-making benchmark to capture culturally situated moral intuitions and social norms across languages. Second, we propose MET (Multilingual Ethics with Theory-grounded reasoning), a two-step prompting method built on expert-curated, theory-based grounds drawn from psychology and philosophy: the model first selects situation- and culture-specific grounds, then reasons over them in the native language of the user. Third, we introduce MET-D (MET-Distillation), which enhances the second step through a self-distillation training stage that requires no external supervision. MET-D improves macro-F1 over the base model on all three models of different sizes and families (Qwen3-4B, Qwen3-8B, Gemma3-4B), by an average of 3.71 points on MCLASH and 4.23 on MMoralExceptQA, with a peak MCLASH gain of 12.94 points for Malay on Qwen3-8B. We further reveal that MET-D increases native-language reasoning by 62.13 points on average, and that beneficial grounds differ systematically across cultures. Together, these contributions open the path for culture-aligned, theory-grounded multilingual moral reasoning."
+    },
+    {
+      "id": "fetch-hf-2607.07470",
+      "title": "A Theory of Contrastive Learning with Natural Images",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-08",
+      "description": "Why does contrastive learning with simple images and augmentations yield useful representations for downstream tasks? We address this question by analytically computing the optimal representation in terms of a contrastive loss for a range o...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.07470",
+      "hotScore": 87,
+      "content": "Why does contrastive learning with simple images and augmentations yield useful representations for downstream tasks? We address this question by analytically computing the optimal representation in terms of a contrastive loss for a range of basic augmentations and any image dataset with stationary statistics. We show that for certain augmentations the optimum can be attained by a CNN whose first layer filters are sinusoids, followed by a pointwise nonlinearity, global average pooling, and a final linear layer that performs partial whitening. We also show that the optimal weights in such CNNs for more complicated augmentations are still sinusoids. The frequencies of the sinusoids and their weights can be computed using a simple waterfilling algorithm given the dataset's expected power spectrum. Experiments with different image datasets and augmentations show that such CNNs trained with SGD empirically learn sinusoids in their first layer and to perform partial whitening"
+    },
+    {
+      "id": "fetch-hf-2607.11643",
+      "title": "Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-13",
+      "description": "Recent foundation image and video generation models offer strong generalization and controllability, but their direct application to embodied scenarios is limited by requirements for multi-view consistency, geometric coherence, and robot em...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.11643",
       "hotScore": 86,
-      "content": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recognized as a cornerstone of capable, transparent AI systems. Yet while LLMs have made significant progress across diverse real-world tasks, it is not yet clear when, how, or to what extent they can exhibit or be endowed with effective metacognitive abilities, nor how such abilities can be adapted to advance the fundamental capabilities, reliability, and intelligence of AI systems. This paper bridges this gap by presenting the first comprehensive overview of the current state of knowledge on metacognition for LLMs. We analyze and taxonomize the landscape of this emerging field and summarize recent technical advancements, including methods and benchmarks to measure and evaluate LLMs' metacognitive abilities, techniques to elicit, improve, and apply metacognition in LLMs, and findings and implications of ongoing research. We also discuss applications, open questions and challenges, and promising directions for future work. Our aim is to provide a detailed and up-to-date review of this topic and stimulate meaningful research and discussion. An organized list of papers can be found at https://github.com/yale-nlp/LLM-Metacognition."
+      "content": "Recent foundation image and video generation models offer strong generalization and controllability, but their direct application to embodied scenarios is limited by requirements for multi-view consistency, geometric coherence, and robot embodiment constraints. Existing methods typically adapt foundation models with limited robot data, often sacrificing visual knowledge acquired during large-scale pre-training. We present Xiaomi-Robotics-U0, a 38-billion-parameter multimodal autoregressive model for unified embodied synthesis. It treats embodied generation as an extension of foundation image and video generation and jointly optimizes text-to-image generation, image editing, embodied scene generation, embodied transfer, and embodied video generation. This unified framework preserves the generalization of the pre-trained world foundation model while adapting it to embodied settings. Xiaomi-Robotics-U0 is the first model to support high-quality multi-view scene generation across multiple robot embodiments and to introduce structured, controllable embodied transfer for fine-grained editing while preserving multi-view consistency and interaction dynamics. It achieves state-of-the-art results on single-step and sequential generation tasks, outperforming GPT-Image-2.0 in human evaluations of embodied scene generation and transfer, ranking first on World Arena for embodied video generation, and improving the out-of-distribution success rate of pi_0.5 from 36.9% to 63.2% on challenging real-world manipulation tasks. These results show that foundation world models can serve both as embodied world models and scalable data engines for embodied intelligence. Code and checkpoints are available at https://robotics.xiaomi.com/xiaomi-robotics-u0.html."
     }
   ],
   "hfModels": [
@@ -460,7 +456,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 254155897,
-      "likes": 5066,
+      "likes": 5067,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -555,7 +551,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
       "downloads": 34986108,
-      "likes": 3227,
+      "likes": 3228,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -617,78 +613,93 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
-      "title": "Pinwheel launches a retro-inspired landline phone for kids",
+      "title": "Lorde says AI glasses are &#8216;not sexy&#8217;",
       "source": "TechCrunch Gadgets",
       "date": "2026-07-14",
-      "description": "Kid-friendly tech company Pinwheel announced the launch of a new landline phone designed to let children stay connected without the distractions of a smartphone....",
+      "description": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
-      "hotScore": 98,
-      "content": "Kid-friendly tech company Pinwheel announced the launch of a new landline phone designed to let children stay connected without the distractions of a smartphone...."
+      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "hotScore": 95,
+      "content": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage...."
     },
     {
       "id": "fetch-gadget-1",
-      "title": "Uber&#8217;s product chief on hotels, robotaxis, and why the company doesn&#8217;t want to be &#8216;everything for everyone&#8217;",
+      "title": "OpenAI&#8217;s first hardware device is reportedly a screenless speaker that can move",
       "source": "TechCrunch Gadgets",
       "date": "2026-07-14",
-      "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and ...",
+      "description": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and bec...",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "hotScore": 96,
-      "content": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and ..."
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "hotScore": 99,
+      "content": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and bec..."
     },
     {
       "id": "fetch-gadget-2",
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "title": "Anthropic&#8217;s newest ad is creeping people out",
       "source": "TechCrunch Gadgets",
-      "date": "2026-07-13",
-      "description": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors....",
-      "category": "agent",
+      "date": "2026-07-14",
+      "description": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of...",
+      "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "hotScore": 97,
-      "content": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors...."
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "hotScore": 92,
+      "content": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of..."
     },
     {
       "id": "fetch-gadget-3",
-      "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
       "source": "TechCrunch Gadgets",
-      "date": "2026-07-13",
-      "description": "Washington, D.C. has become a battleground for Uber and Waymo's competing views....",
-      "category": "research",
+      "date": "2026-07-14",
+      "description": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history....",
+      "category": "image",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
-      "hotScore": 98,
-      "content": "Washington, D.C. has become a battleground for Uber and Waymo's competing views...."
+      "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "hotScore": 94,
+      "content": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history...."
     },
     {
       "id": "fetch-gadget-4",
-      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "title": "I&#8217;m de-influencing you from buying the RingConn 3 (even though it&#8217;s pretty)",
       "source": "TechCrunch Gadgets",
-      "date": "2026-07-12",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
+      "date": "2026-07-14",
+      "description": "The RingConn 3 actually looks like real jewelry, not a wearable -- but its fitness tracking and headache detection features are disappointing....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
-      "hotScore": 89,
-      "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part...."
+      "url": "https://techcrunch.com/2026/07/14/ringconn-3-review/",
+      "hotScore": 93,
+      "content": "The RingConn 3 actually looks like real jewelry, not a wearable -- but its fitness tracking and headache detection features are disappointing...."
+    },
+    {
+      "id": "fetch-gadget-5",
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-07-14",
+      "description": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "hotScore": 96,
+      "content": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology...."
     }
   ]
 }
