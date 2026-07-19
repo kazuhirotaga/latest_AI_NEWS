@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-18T12:43:36.707Z",
+  "updatedAt": "2026-07-19T01:19:59.940Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 383356,
-      "forks": 80529,
+      "stars": 383407,
+      "forks": 80527,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 256892,
-      "forks": 22879,
+      "stars": 257121,
+      "forks": 22910,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 216663,
-      "forks": 40634,
+      "stars": 216859,
+      "forks": 40732,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 196910,
-      "forks": 59419,
+      "stars": 196975,
+      "forks": 59449,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 185594,
-      "forks": 46077,
+      "stars": 185597,
+      "forks": 46075,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 165954,
-      "forks": 21461,
+      "stars": 165982,
+      "forks": 21464,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164211,
-      "forks": 30419,
+      "stars": 164214,
+      "forks": 30418,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -124,9 +124,9 @@
       "id": "fetch-repo-132464395",
       "name": "JavaGuide",
       "owner": "Snailclimb",
-      "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 157112,
-      "forks": 46177,
+      "description": "Java 面试 & 后端通用面试指南，覆盖计��机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "stars": 157117,
+      "forks": 46178,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 152621,
-      "forks": 8717,
+      "stars": 152814,
+      "forks": 8731,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Production-ready platform for agentic workflow development.",
-      "stars": 149225,
-      "forks": 23511,
+      "stars": 149263,
+      "forks": 23516,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 145840,
-      "forks": 21136,
+      "stars": 145887,
+      "forks": 21146,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 142045,
-      "forks": 34811,
+      "stars": 142060,
+      "forks": 34810,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 142042,
-      "forks": 23617,
+      "stars": 142049,
+      "forks": 23622,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 122063,
-      "forks": 10878,
+      "stars": 122124,
+      "forks": 10877,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 121247,
-      "forks": 14256,
+      "stars": 121325,
+      "forks": 14274,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -270,7 +270,7 @@
         "LLM"
       ],
       "url": "http://arxiv.org/abs/2607.15277v1",
-      "hotScore": 84,
+      "hotScore": 91,
       "content": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic probabilistic identities. In particular, the law of total probability asserts that prior-weighted conditional distributions aggregate into population-level marginals over any valid partition of the population. In this work, we investigate to what extent LLM estimates adhere to this self-consistency principle. We use binary trees as an evaluation scaffold to recursively partition a population into increasingly fine-grained subpopulations. We then prompt LLMs with verbalized subpopulation descriptions in context, aggregate the resulting estimates back into population-level estimates, and compare them across partitions of varying granularity. Applying this protocol across problem domains and state-of-the-art frontier models, we show widespread violations of basic consistency properties. An in-depth study of persona prompting reveals a pattern we call the macro fallacy: estimates reconstructed from more fine-grained subpopulation responses are often better aligned with human reference data than direct population-level estimates. This effect persists across variations in tree structure and estimation task, and can be partially recovered through implicit prompting. Together, these findings suggest that models possess relevant subpopulation knowledge but do not reliably propagate it into aggregate estimates. This gap establishes statistical self-consistency as an unsaturated, reference-free criterion for evaluating LLMs."
     },
     {
@@ -285,7 +285,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2607.15275v1",
-      "hotScore": 80,
+      "hotScore": 91,
       "content": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, without growing inference latency. At this context length, we unlock new robot capabilities: one-shot in-context imitation from human video demonstrations, on-the-fly policy improvement, robustness to perturbations, and stronger performance on multi-stage, long-horizon tasks. We also observe, for the first time, steady gains in closed-loop performance as pretraining context length scales. At its core, RoboTTT integrates Test-Time Training into robot foundation models such as Vision-Language-Action policies, yielding a sequence model whose recurrent state consists of fast weights, parameters updated by gradient descent during both training and inference, compressing histories into weight space and retrieving contextual information for long-context conditioning. To scale training context length, the recipe combines sequence action forcing with truncated backpropagation through time. On challenging real-robot manipulation tasks, RoboTTT improves overall performance by 87% over the single-step context baseline and fully completes a five-minute, ten-stage assembly task, which no baseline ever does. RoboTTT trained with 8K-timestep context outperforms the same model pretrained with 1K timesteps by 62%, suggesting context length as a new scaling axis for robot foundation models. Videos are available at https://research.nvidia.com/labs/gear/robottt/"
     },
     {
@@ -300,7 +300,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2607.15273v1",
-      "hotScore": 83,
+      "hotScore": 93,
       "content": "MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a powerful way to align diffusion and flow models with human preferences and task-specific objectives. In particular, DiffusionNFT offers an efficient forward-process RL framework that does not require reverse-process trajectories or likelihood estimation. However, applying such RL methods to MeanFlow remains underexplored. DiffusionNFT optimizes instantaneous velocities, whereas MeanFlow samples with average velocities. To bridge this gap, we introduce MeanFlowNFT. Inspired by the MeanFlow identity, which bridges average and instantaneous velocities, we construct an induced instantaneous-velocity predictor. We apply the DiffusionNFT objective to this predictor, making reward optimization well-defined for MeanFlow. Sampling remains based on the average velocity, preserving MeanFlow's fast few-step generation. We further prove that MeanFlowNFT inherits DiffusionNFT's strict policy-improvement guarantee. Experiments on image and video generation show that MeanFlowNFT consistently improves baselines. Moreover, it outperforms prior state-of-the-art RL-tuned few-step generators on most metrics ($6$ of $8$ on SD3.5-M), and can even surpass multi-step RL-tuned diffusion while using only a few sampling steps. For instance, on Wan 2.1, $4$-step MeanFlowNFT reaches a VBench score of $84.33$, surpassing $50$-step LongCat-Video RL ($82.57$)."
     },
     {
@@ -330,7 +330,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2607.15271v1",
-      "hotScore": 86,
+      "hotScore": 93,
       "content": "Online novel view synthesis from multi-view streaming videos faces a fundamental trade-off: maintaining a persistent, long-horizon memory to reconstruct temporarily occluded regions while operating under strict real-time constraints. While Test-Time Training (TTT) offers a powerful memory mechanism, standard models mandate gradient-based memory updates at every frame to adapt to the changing motion in dynamic scenes. The computational cost of heavy memory updates precludes real-time application and can lead to instability over long contexts. Given that memory updates are more demanding than memory application and video content is largely redundant, we propose to decouple the frequencies of these two processes. Our approach performs periodic memory updates while applying the memory on a per-frame basis, using cross-view attention to manage deformations between the prior memory state and the current frame. To lock in the historical context, we introduce two critical mechanisms: an auxiliary Memory Loss that forces persistent internalization of the scene, and a Memory Caching strategy that regularizes active weights against catastrophic drift. Our method demonstrates real-time, state-of-the-art performance on scenes with dynamic human motion as well as minute-scale online memorization."
     },
     {
@@ -345,7 +345,7 @@
         "LLM"
       ],
       "url": "http://arxiv.org/abs/2607.15267v1",
-      "hotScore": 80,
+      "hotScore": 81,
       "content": "Poisoning pretraining data can introduce harmful behaviors to LMs that are difficult to detect and mitigate. Prior work on poisoning pretraining data has largely exploited established data sources such as Wikipedia, which do not represent the large scale and heterogeneity typical of pretraining corpora, and has ignored the interaction between poisoned data and data curation pipelines. We demonstrate that poisoning attacks on pretraining data are feasible beyond this limited setting through an existing web-scale content injection mechanism: public discussion interfaces. Additionally, to measure whether malicious content is included after web crawling and data curation, we introduce HalfLife, a novel analysis for estimating adversarial content inclusion in web-crawl based LM training data. We use HalfLife to explore the feasibility of poisoning pretraining corpora at web scale through open discussion interfaces. Our analysis demonstrates the importance of estimating whether poison injections are included in pretraining data, and establishes third-party webpage content as a possible vector for attacking language model pretraining."
     },
     {
@@ -359,7 +359,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2607.15265v1",
-      "hotScore": 92,
+      "hotScore": 80,
       "content": "We present SceneBind, an omni-modal representation of realistic scenes with joint semantic and 3D spatial understanding across vision, audio and language. Existing omni-modal encoders excel at instance-level semantics (i.e., what is present), but often lack explicit spatial structure (i.e., where it is). SceneBind addresses this gap by representing each scene as a semantic-spatial entity, combining a global semantic embedding with object-centric semantic-spatial slots. This representation explicitly captures object-level semantics, spatial attributes, and uncertainty. We further propose SceneBind Matching, a semantic-spatial matching scheme that integrates global scene similarity with object alignment, supporting cross-modal scene retrieval and object grounding. To train and evaluate SceneBind, we curate a novel real-world binaural audio-visual dataset with structured semantic and spatial annotations, and propose a training protocol for aligning semantic and spatial signals across modalities. SceneBind is compatible with large-scale pretrained semantic encoders, adds lightweight spatial modeling with only a few additional tokens. It achieves state-of-the-art scene and spatial retrieval while enabling strong zero-shot transfer to downstream tasks such as audio-visual localization."
     },
     {
@@ -374,7 +374,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2607.15263v1",
-      "hotScore": 84,
+      "hotScore": 86,
       "content": "Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completion. Such measurements are useful but incomplete: in operational security, every reasoning step, tool call, telemetry query, and enrichment request consumes budget. We evaluate language-model security agents through this cost-success lens on offensive Cybench challenges and defensive Splunk BOTS v1 investigation challenges. Instead of reporting only best-case success, we compare models at fixed cost levels and decompose performance by inference spend and tool spend. Our results show distinct scalingregimes for red- and blue-team tasks. Offensive CTF performance improves with additional test-time compute, and scaled open-weight models can approach frontier proprietary systems while remaining cost-competitive. Defensive SOC investigation does not scale in the same way: success depends more heavily on disciplined tool use, telemetry navigation, and selective enrichment than on raw reasoning budget alone. We argue that security-agent benchmarks should measure economic efficiency and operational fit alongside task success. Cost-aware, SOC-native evaluations provide a clearer picture of which models are practically useful today and where defensive agents still need to improve. We present an interactive website with our results https://evals.frontier.security."
     },
     {
@@ -460,7 +460,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 253402320,
-      "likes": 5080,
+      "likes": 5087,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -476,7 +476,7 @@
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
       "downloads": 85141907,
-      "likes": 284,
+      "likes": 285,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -492,7 +492,7 @@
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
       "downloads": 80425549,
-      "likes": 2708,
+      "likes": 2710,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -508,7 +508,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
       "downloads": 66509675,
-      "likes": 513,
+      "likes": 514,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -524,7 +524,7 @@
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
       "downloads": 55914888,
-      "likes": 141,
+      "likes": 142,
       "category": "research",
       "tags": [
         "Transformers",
@@ -539,7 +539,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "downloads": 49647735,
-      "likes": 1321,
+      "likes": 1324,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -555,7 +555,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
       "downloads": 35218888,
-      "likes": 3238,
+      "likes": 3241,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -571,7 +571,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-mpnet-base-v2",
       "downloads": 30437939,
-      "likes": 1330,
+      "likes": 1331,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -603,7 +603,7 @@
       "owner": "Community",
       "fullName": "Qwen/Qwen3-0.6B",
       "downloads": 26719220,
-      "likes": 1421,
+      "likes": 1426,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -617,6 +617,21 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "Federal employees can download TikTok on their work phones again",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-07-18",
+      "description": "The Department of Justice says that federal employees can now download TikTok on their government devices....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+      "hotScore": 98,
+      "content": "The Department of Justice says that federal employees can now download TikTok on their government devices...."
+    },
+    {
+      "id": "fetch-gadget-1",
       "title": "Agility Robotics plants its flag in Tesla&#8217;s backyard",
       "source": "TechCrunch Gadgets",
       "date": "2026-07-17",
@@ -627,11 +642,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "hotScore": 99,
+      "hotScore": 97,
       "content": "Agility is opening a new training center for its Digit robots in Fremont, California...."
     },
     {
-      "id": "fetch-gadget-1",
+      "id": "fetch-gadget-2",
       "title": "AI-driven memory crunch jolts India&#8217;s smartphone market",
       "source": "TechCrunch Gadgets",
       "date": "2026-07-17",
@@ -642,11 +657,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "hotScore": 98,
+      "hotScore": 99,
       "content": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy...."
     },
     {
-      "id": "fetch-gadget-2",
+      "id": "fetch-gadget-3",
       "title": "Parents want safer phones for kids. These companies are answering the call.",
       "source": "TechCrunch Gadgets",
       "date": "2026-07-17",
@@ -657,11 +672,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "hotScore": 92,
+      "hotScore": 95,
       "content": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home p..."
     },
     {
-      "id": "fetch-gadget-3",
+      "id": "fetch-gadget-4",
       "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
       "source": "TechCrunch Gadgets",
       "date": "2026-07-17",
@@ -672,38 +687,8 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "hotScore": 94,
+      "hotScore": 93,
       "content": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relyin..."
-    },
-    {
-      "id": "fetch-gadget-4",
-      "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-07-17",
-      "description": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
-      "hotScore": 96,
-      "content": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders...."
-    },
-    {
-      "id": "fetch-gadget-5",
-      "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-07-16",
-      "description": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
-      "hotScore": 88,
-      "content": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo...."
     }
   ]
 }
