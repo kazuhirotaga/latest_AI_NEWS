@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-22T01:18:31.215Z",
+  "updatedAt": "2026-07-22T13:15:51.557Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 383727,
-      "forks": 80635,
+      "stars": 383806,
+      "forks": 80640,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 258788,
-      "forks": 23068,
+      "stars": 259212,
+      "forks": 23106,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 218412,
-      "forks": 41304,
+      "stars": 218766,
+      "forks": 41406,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 197384,
-      "forks": 59523,
+      "stars": 197449,
+      "forks": 59537,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 185641,
-      "forks": 46066,
+      "stars": 185650,
+      "forks": 46071,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 166158,
-      "forks": 21474,
+      "stars": 166197,
+      "forks": 21481,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -108,7 +108,7 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164287,
+      "stars": 164295,
       "forks": 30429,
       "language": "Python",
       "category": "image",
@@ -124,9 +124,9 @@
       "id": "fetch-repo-132464395",
       "name": "JavaGuide",
       "owner": "Snailclimb",
-      "description": "Java 面试 & 后端通用面试指南，覆��计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 157186,
-      "forks": 46182,
+      "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "stars": 157212,
+      "forks": 46183,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 154064,
-      "forks": 8787,
+      "stars": 154324,
+      "forks": 8795,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 149673,
-      "forks": 23587,
+      "stars": 149760,
+      "forks": 23598,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 146251,
-      "forks": 21214,
+      "stars": 146317,
+      "forks": 21224,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 142274,
-      "forks": 23666,
+      "stars": 142323,
+      "forks": 23680,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 142149,
-      "forks": 34819,
+      "stars": 142163,
+      "forks": 34824,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 123116,
-      "forks": 10979,
+      "stars": 123220,
+      "forks": 10982,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 121713,
-      "forks": 14343,
+      "stars": 121810,
+      "forks": 14350,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,196 +260,197 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "Discrete Diffusion with Sample-Efficient Estimators for Conditionals",
+      "title": "LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation",
       "source": "arXiv.org",
-      "date": "2026-02-23",
-      "description": "We study a discrete denoising diffusion framework that integrates a sample-efficient estimator of single-site conditionals with round-robin noising and denoising dynamics for generative modeling over discrete state spaces. Rather than appro...",
-      "category": "image",
+      "date": "2026-02-05",
+      "description": "Data annotation remains a significant bottleneck in the field of humanities and social sciences, particularly for complex linguistic tasks such as metaphor identification. While Large Language Models (LLMs) show promise, a significant gap r...",
+      "category": "agent",
       "tags": [
         "Research",
-        "ImageGen"
+        "Agent"
       ],
-      "url": "http://arxiv.org/abs/2602.20293v3",
-      "hotScore": 82,
-      "content": "We study a discrete denoising diffusion framework that integrates a sample-efficient estimator of single-site conditionals with round-robin noising and denoising dynamics for generative modeling over discrete state spaces. Rather than approximating a discrete analog of a score function, our formulation treats single-site conditional probabilities as the fundamental objects that parameterize the reverse diffusion process. We employ a sample-efficient method known as Neural Interaction Screening Estimator (NeurISE) to estimate these conditionals in the diffusion dynamics. Controlled experiments on synthetic Ising models, MNIST, and scientific data sets produced by a D-Wave quantum annealer, synthetic Potts model and one dimensional quantum systems demonstrate the proposed approach. On the binary data sets, these experiments demonstrate that the proposed approach outperforms popular existing methods including ratio-based approaches, achieving improved performance in total variation, cross-correlations, and kernel density estimation metrics."
+      "url": "http://arxiv.org/abs/2602.05493v2",
+      "hotScore": 92,
+      "content": "Data annotation remains a significant bottleneck in the field of humanities and social sciences, particularly for complex linguistic tasks such as metaphor identification. While Large Language Models (LLMs) show promise, a significant gap remains between the theoretical capability of LLMs and their practical utility for researchers. This paper introduces LinguistAgent, an integrated, user-friendly platform that leverages a reflective multi-model architecture to automate linguistic annotation. The platform comprises an Annotator and an optional Reviewer to simulate a peer-review process. This platform supports comparative experiments across three main paradigms: Prompt Engineering (Zero-shot/Few-shot/Chain-of-thought), Retrieval-Augmented Generation, and Fine-tuning. We demonstrate LinguistAgent's efficacy by replicating the task of metaphor identification from a published study, which provides real-time token-level evaluation (F1 and Cohen's kappa) against human gold standards. The application and codes are released on https://github.com/Bingru-Li/LinguistAgent."
     },
     {
       "id": "fetch-paper-1",
-      "title": "Large Language Models Explore by Latent Distilling",
+      "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
       "source": "arXiv.org",
-      "date": "2026-04-27",
-      "description": "Generating diverse responses is crucial for test-time scaling of large language models (LLMs), yet standard stochastic sampling mostly yields surface-level lexical variation, limiting semantic exploration. In this paper, we propose Explorat...",
-      "category": "image",
+      "date": "2026-07-21",
+      "description": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. However, we identify a critical failure m...",
+      "category": "llm",
       "tags": [
         "Research",
-        "ImageGen"
+        "LLM"
       ],
-      "url": "http://arxiv.org/abs/2604.24927v2",
-      "hotScore": 94,
-      "content": "Generating diverse responses is crucial for test-time scaling of large language models (LLMs), yet standard stochastic sampling mostly yields surface-level lexical variation, limiting semantic exploration. In this paper, we propose Exploratory Sampling (ESamp), a decoding approach that explicitly encourages semantic diversity during generation. ESamp is motivated by the well-known observation that neural networks tend to make lower-error predictions on inputs similar to those encountered before, and incur higher prediction error on novel ones. Building on this property, we train a lightweight Distiller at test time to predict deep-layer hidden representations of the LLM from its shallow-layer representations to model the LLM's depth-wise representation transitions. During decoding, the Distiller continuously adapts to the mappings induced by the current generation context. ESamp uses the prediction error as a novelty signal to reweight candidate token extensions conditioned on the current prefix, thereby biasing decoding toward less-explored semantic patterns. ESamp is implemented with an asynchronous training--inference pipeline, with less than 5% worst case overhead (1.2% in the optimized release). Empirical results show that ESamp significantly boosts the Pass@k efficiency of reasoning models, showing superior or comparable performance to strong stochastic and heuristic baselines. Notably, ESamp achieves robust generalization across mathematics, science, and code generation benchmarks and breaks the trade-off between diversity and coherence in creative writing. Our code has released at: https://github.com/LinesHogan/tLLM."
+      "url": "http://arxiv.org/abs/2607.19345v1",
+      "hotScore": 80,
+      "content": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. However, we identify a critical failure mode in this regime: \\emph{repetitive copying}, where models extensively copy text from the input into their reasoning traces rather than productively solving the problem. We show that this behavior is pervasive across frontier long-context LLMs and intensifies with context length. By separating each prompt into task-relevant key evidence and irrelevant distractor context, we further show that the root cause is insufficient grounding: models copy from the prompt indiscriminately, and those that fail to focus on key evidence are far more likely to answer incorrectly. Motivated by this diagnosis, we propose GEAR (Grounding Evidence-Aware Reward), a reward shaping method that augments the accuracy signal with a grounding reward for overlap with key evidence and a distractor penalty for overlap with irrelevant context. To enable GEAR on natural-language data, we develop an automated pipeline that constructs evidence-annotated training data from arbitrary documents. We validate GEAR across multiple model scales and benchmarks, showing consistent improvements of up to +4.6 average points over standard RL with accuracy-based rewards, with larger gains at longer contexts, while also reducing repetitive copying and thinking length. Our findings suggest that, even as long-context evaluation shifts from simple retrieval toward complex reasoning, accurate grounding in relevant evidence remains an indispensable capability with substantial room for improvement."
     },
     {
       "id": "fetch-paper-2",
-      "title": "Thermodynamics-Informed Input Reparameterization for Neural Prediction of Real-Fluid Thermodynamic Properties in Supercritical Combustion",
+      "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
       "source": "arXiv.org",
       "date": "2026-07-21",
-      "description": "Real-fluid thermodynamic property evaluation is a major computational cost in supercritical combustion simulations. In the enthalpy-based pressure-correction formulation, the closure evaluates temperature T, density $ρ$, and compressibility...",
-      "category": "research",
+      "description": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved through text prompting alo...",
+      "category": "image",
       "tags": [
-        "Research"
+        "Research",
+        "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2607.19241v1",
-      "hotScore": 92,
-      "content": "Real-fluid thermodynamic property evaluation is a major computational cost in supercritical combustion simulations. In the enthalpy-based pressure-correction formulation, the closure evaluates temperature T, density $ρ$, and compressibility coefficient $ψ$ from the solver state (h,p,Y) through enthalpy-temperature inversion and repeated real-fluid equation-of-state evaluations. Neural-network surrogates offer fixed-cost inference, but direct mapping from (h,p,Y) to $(T,ρ,ψ)$ must capture the enthalpy-temperature relation and non-ideal equation-of-state response, resulting in a complex regression problem. This work introduces a thermodynamics-informed input reparameterization strategy, termed target-aligned input reparameterization (TAIR). TAIR replaces the raw enthalpy coordinate of each property network with a target-matched thermodynamic coordinate: the temperature network uses a temperature estimate obtained by inverting a constant-$c_p$ ideal-gas mixture enthalpy approximation, whereas the density and compressibility networks use an ideal-gas density estimate. These algebraic transformations use only solver-available variables and species constants, guiding the networks to learn real-fluid departures from ideal-gas baselines rather than reconstructing the full closure from raw enthalpy. The method is assessed using supercritical methane-oxygen counterflow flame data against a raw-input baseline and target-inconsistent cross-reparameterization controls. TAIR reduces held-out RMSE by factors of about 1.5, 2.0, and 7.5 for T, $ρ$, and $ψ$, respectively. For an unseen strain-rate flame within the augmented thermodynamic envelope, the corresponding factors are 3.6, 14.5, and 6.0. The target-inconsistent controls perform worse, indicating that the gains arise from thermodynamically matched input design rather than generic preprocessing."
+      "url": "http://arxiv.org/abs/2607.19344v1",
+      "hotScore": 85,
+      "content": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved through text prompting alone. Diffusion Transformers (DiTs) can natively ingest heterogeneous tokens stemming from texts and images, but they lack mechanisms for determining where and how these tokens should influence the output. We introduce appearance pointers, compact tokens that guide DiTs toward the correct appearance cues at the correct spatial locations by aligning text or image inputs with user-specified masks. Appearance pointers are produced by a region correspondence network and refined through a spatial aggregation mechanism, enabling the model to handle multiple regional descriptions without significantly increasing token load. Our approach introduces the first modality-agnostic interface for localized multimodal control in a DiT without retraining the base model from scratch. Across a range of metrics, our single model reaches or surpasses the performance of modality-specific state of the art methods, offering a simple and extensible path toward precise, region-aware, multimodal guidance in generative image synthesis."
     },
     {
       "id": "fetch-paper-3",
-      "title": "Operator-Aware Mixed-Precision Tolerance Calibration for Tensor Kernels",
+      "title": "Robust Belief-State Policy Learning for Quantum Network Routing Under Decoherence and Time-Varying Conditions",
       "source": "arXiv.org",
-      "date": "2026-06-23",
-      "description": "Most tensor-kernel correctness tests go through a fixed-shape all close-style check with hand-picked absolute and relative tolerances. The thresholds are copied across the corpus and rarely revisited. We mine the element-wise error distribu...",
-      "category": "llm",
+      "date": "2025-09-10",
+      "description": "Quantum network routing requires online decisions under probabilistic entanglement generation, finite quantum memories, decoherence, imperfect operations, and classical feedback, while the controller has incomplete knowledge of the physical...",
+      "category": "image",
       "tags": [
         "Research",
-        "LLM"
+        "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2607.16228v2",
-      "hotScore": 93,
-      "content": "Most tensor-kernel correctness tests go through a fixed-shape all close-style check with hand-picked absolute and relative tolerances. The thresholds are copied across the corpus and rarely revisited. We mine the element-wise error distribution of every test case from accumulated cloud GPU runs across the 26-entry gpuemu corpus and 2 dtypes (8,076 result rows). We then ask one empirical question: what absolute tolerance would the kernel itself, observed under its correct implementation, justify? The answer is much tighter than the current hand-picked atol. The largest tightening is attention_triton fp16 at $2{,}184\\times$. Restricted to the seven LLM-style buggy variants for which the corpus ships a paired correct counterpart, calibrated per-(op, dtype) tolerances raise bug-detection recall from 73.2% (1,805 of 2,467) to 82.4% (2,034 of 2,467), an absolute gain of 9.3 percentage points (+229 new detections). The control false-positive count rises from 0 to 20 out of 1,882 correct-control cases (+1.1 percentage points)."
+      "url": "http://arxiv.org/abs/2509.08654v2",
+      "hotScore": 81,
+      "content": "Quantum network routing requires online decisions under probabilistic entanglement generation, finite quantum memories, decoherence, imperfect operations, and classical feedback, while the controller has incomplete knowledge of the physical state. This paper develops a robust belief-state routing framework based on a quantum partially observable Markov decision process (q-POMDP) and a feasibility-masked graph neural network (GNN). The model uses atomic micro-epochs in which each selected operation completes before the next decision boundary. This enables explicit accounting of memory reservations, pair-instance inventories, purification consumption, swapping outcomes, release decisions, queue service, and completion-time delivery fidelity. The controller maintains a classical belief over hidden physical states, including latent environmental conditions, and uses this belief to evaluate feasible actions and update posterior pair states. To make planning scalable, we introduce feasibility-stratified prototypes, identifier-free signatures, and role-aware action matching, which preserve hard resource constraints while enabling value transfer across structurally similar information states. A cached q-POMDP planner is then fused with a role-aware GNN policy through an adaptive trust rule, with a safe fallback for previously unseen feasibility signatures. We provide theoretical guarantees on feasibility, value approximation, policy performance, robustness, regret, and learning variance. Simulations over finite-memory quantum-network topologies show that the proposed hybrid controller improves high-fidelity goodput, reduces below-threshold deliveries, and maintains lower online decision cost than planner-only control, while outperforming heuristic, purification-aware, and learning-based baselines."
     },
     {
       "id": "fetch-paper-4",
-      "title": "DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models",
+      "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
       "source": "arXiv.org",
       "date": "2026-07-21",
-      "description": "Designing small molecule ligands that bind with high affinity to specific protein pockets is a fundamental goal in drug discovery, as small molecules constitute a major fraction of approved therapeutics. Recent breakthroughs in structure pr...",
-      "category": "image",
+      "description": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat such failures as cascade decisions: try a ...",
+      "category": "agent",
       "tags": [
         "Research",
-        "ImageGen"
+        "Agent"
       ],
-      "url": "http://arxiv.org/abs/2607.19237v1",
-      "hotScore": 80,
-      "content": "Designing small molecule ligands that bind with high affinity to specific protein pockets is a fundamental goal in drug discovery, as small molecules constitute a major fraction of approved therapeutics. Recent breakthroughs in structure prediction, such as AlphaFold-3 and Boltz-2, enable accurate biomolecular interaction prediction and show promise as foundation models for downstream tasks, including binding affinity prediction. We propose to leverage these models and introduce DBMol, a new structure predictor-guided framework for de novo small molecule design. DBMol formulates an alternating optimization and projection process. In the optimization stage, DBMol starts from an initial molecule and uses gradient-based optimization to improve pocket-specific interactions and predicted binding affinity using a structure prediction model. In the projection stage, a flow-matching model maps the optimized molecular graph to discrete and chemically valid molecules. Experiments show that DBMol effectively optimizes the Boltz-2 affinity proxy and generates molecules with strong predicted affinity and specificity under Boltz-2 evaluation. To reduce self-confirmation bias, we further evaluate generated molecules using held-out metrics, including AF3-based evaluation. DBMol substantially improves pocket coverage while maintaining molecular diversity over unconditional generation, and is competitive under held-out metrics despite the absence of reference-ligand supervision. These results support the promise of structure prediction models as effective optimization signals for de novo molecular design."
+      "url": "http://arxiv.org/abs/2607.19338v1",
+      "hotScore": 86,
+      "content": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat such failures as cascade decisions: try a cheap model first, then escalate hard cases to a stronger and more expensive model. In coding, however, execution feedback can also make further cheap-model recovery worthwhile, raising a budgeted deployment question: when should an agent spend more cheap compute, and when should it escalate? We formulate this post-failure decision as recovery routing over heterogeneous actions and train a supervised router from execution rollouts. To make the same router usable under changing budgets, we add a Conformal Risk Control (CRC) layer that selects a deployment-time cost penalty without retraining and provides marginal expected-cost control under exchangeability. Across held-out failures from five coding benchmarks, cheap recovery and escalation exhibit complementary success patterns. The calibrated frontier improves over fixed actions, prompt-only routers, and a binary cascade baseline; in the main GPT-5.4-nano/GPT-5.4 setting, one CRC-calibrated frontier point exceeds always-escalate solve rate while using 35% of its mean recovery cost. Code is available at https://github.com/Qijia-He/agent-budget-control."
     },
     {
       "id": "fetch-paper-5",
-      "title": "Toward Manifest Relationality in Transformers via Symmetry Reduction",
+      "title": "Agents in the Wild: Where Research Meets Deployment",
       "source": "arXiv.org",
-      "date": "2026-02-21",
-      "description": "Transformer models contain substantial internal redundancy arising from coordinate-dependent representations and continuous symmetries, in model space and in head space, respectively. While recent approaches address this by explicitly break...",
-      "category": "llm",
+      "date": "2026-07-21",
+      "description": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes to production scale deployments across do...",
+      "category": "agent",
       "tags": [
         "Research",
-        "LLM"
+        "Agent"
       ],
-      "url": "http://arxiv.org/abs/2602.18948v2",
-      "hotScore": 85,
-      "content": "Transformer models contain substantial internal redundancy arising from coordinate-dependent representations and continuous symmetries, in model space and in head space, respectively. While recent approaches address this by explicitly breaking symmetry, we propose a complementary framework based on symmetry reduction. We reformulate representations, attention mechanisms, and optimization dynamics in terms of invariant relational quantities, eliminating redundant degrees of freedom by construction. This perspective yields architectures that operate directly on relational structures, providing a principled geometric framework for reducing parameter redundancy and analyzing optimization."
+      "url": "http://arxiv.org/abs/2607.19336v1",
+      "hotScore": 93,
+      "content": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes to production scale deployments across domains such as software engineering, scientific discovery, and finance. While academic work has emphasized benchmarks and algorithmic innovation, deployment raises new challenges around robustness, safety, and reliability. This tutorial brings together researchers and practitioners to explore advances in reasoning and planning, multi agent coordination, and evaluation, highlighting open challenges arising from deployment experience. Through applied case studies in pharmaceutical discovery and financial systems, we analyze common design patterns that make agentic systems successful, and discuss practical mitigation strategies for failure modes, such as verification pipelines, fallback mechanisms, and human in the loop supervision. Attendees will gain a comprehensive view of the field along with concrete design patterns, evaluation checklists, and templates for safe and reliable deployment across industries."
     },
     {
       "id": "fetch-paper-6",
-      "title": "MeetingToM: Evaluating Multimodal LLMs on Theory-of-Mind Reasoning in Multi-Party Meetings",
+      "title": "1-Lipschitz Neural Networks on Hadamard Manifolds",
       "source": "arXiv.org",
       "date": "2026-07-21",
-      "description": "Theory of Mind (ToM), the ability to infer other's beliefs, intentions, and states of knowledge, is central to social interaction, yet remains challenging for current Multimodal Large Language Models (MLLMs), especially in multi-party meeti...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2607.19235v1",
-      "hotScore": 88,
-      "content": "Theory of Mind (ToM), the ability to infer other's beliefs, intentions, and states of knowledge, is central to social interaction, yet remains challenging for current Multimodal Large Language Models (MLLMs), especially in multi-party meetings where cues are distributed across speech and behavior. Existing multimodal ToM benchmarks mainly focus on video-grounded question answering over overt, externally verifiable signals, and provide limited coverage of latent social states and group dynamics. We introduce MeetingToM, a benchmark for complex social behavior reasoning in naturalistic multi-party meetings. MeetingToM targets meeting-specific phenomena such as \\textbf{pseudo-consensus}, where apparent agreement masks private dissent under social pressure. The benchmark is hierarchically organized to evaluate ToM at increasing levels of social granularity, including (i) subject-level mental state prediction, (ii) dyadic-level addressee understanding, and (iii) group-level consensus reasoning. We provide a unified evaluation protocol and conduct systematic analyses of representative MLLMs, revealing persistent limitations in integrating non-verbal cues, inferring hidden attitudes, and distinguishing genuine consensus from pseudo-consensus. Our results highlight key challenges and establish MeetingToM as a testbed for advancing meeting-grounded ToM in multimodal models."
-    },
-    {
-      "id": "fetch-paper-7",
-      "title": "In-Context Time Series Classification with Random Convolutional Features",
-      "source": "arXiv.org",
-      "date": "2026-07-21",
-      "description": "Time series classification is central to domains like medical signal analysis, industrial monitoring, and sensor-based activity recognition, where class information manifests as localized shapes, specific frequencies, temporal shifts, or co...",
+      "description": "Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we construct and analyze a class of 1-Lipsc...",
       "category": "tooling",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2607.19234v1",
-      "hotScore": 86,
-      "content": "Time series classification is central to domains like medical signal analysis, industrial monitoring, and sensor-based activity recognition, where class information manifests as localized shapes, specific frequencies, temporal shifts, or complex cross-channel interactions. Random convolutional transforms efficiently map these sequences to fixed-dimensional tabular features but are traditionally paired with simple linear classifiers. We investigate whether a pretrained tabular foundation model can more effectively harness these rich representations. We propose MASHT, a pipeline that marries MultiRocket and Hydra features with the power of in-context tabular foundation models. By leveraging a pretrained tabular foundation model, our approach completely bypasses task-specific model training, requiring only feature extraction and direct inference. Extensive experiments demonstrate that MASHT matches state-of-the-art time series classification baselines on univariate tasks, achieving a lower average rank than HIVE-COTE 2.0. On multivariate datasets, MASHT remains highly competitive with the strongest reference methods."
+      "url": "http://arxiv.org/abs/2607.19335v1",
+      "hotScore": 91,
+      "content": "Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we construct and analyze a class of 1-Lipschitz neural networks on Hadamard manifolds. Our layers are of gradient-descent type, $1$-Lipschitz, and quasi-$α$-firmly nonexpansive. The core building blocks of the proposed architecture are Busemann functions, and we exploit the properties of Busemann gradient flows to design $1$-Lipschitz geometry-preserving layers. We provide explicit constructions and examples for hyperbolic manifolds and the manifold of symmetric positive definite (SPD) matrices. We test the proposed architecture in two numerical experiments: robust classification on the Poincaré disk and masked-Wishart covariance reconstruction. On the Poincaré disk, the proposed networks yield robust classifiers under hyperbolic perturbations. On the SPD manifold, we train SPD-valued denoisers and adopt them as a Plug-and-Play prior for a masked-Wishart covariance reconstruction problem. We show improved results from the nonexpansive denoiser over static, data-only, and Log-Euclidean denoising baselines, and empirically test its convergence properties."
     },
     {
-      "id": "fetch-hf-2607.16530",
-      "title": "Nonuniformity Principle in Human-AI Coworking",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-16",
-      "description": "As generative AI is increasingly applied to automate multi-step and high-stake workflows, human judgment and involvement remain essential for ensuring the quality of AI-generated outputs. In practice, while it is desirable for human experts...",
+      "id": "fetch-paper-7",
+      "title": "Fundamental limits of distributed multiclass classification from simple binary decisions",
+      "source": "arXiv.org",
+      "date": "2026-07-21",
+      "description": "We consider the problem of constructing a $K$-class classifier from the combination of $O(\\log K)$ simple binary classifiers -- this is a natural paradigm to construct a sophisticated classifier in a distributed manner with each agent perfo...",
       "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2607.19334v1",
+      "hotScore": 86,
+      "content": "We consider the problem of constructing a $K$-class classifier from the combination of $O(\\log K)$ simple binary classifiers -- this is a natural paradigm to construct a sophisticated classifier in a distributed manner with each agent performing a relatively straightforward task. We study the fundamental performance limits of such a classifier when the corresponding binary classifiers are hyperplanes. For a stylized Gaussian setting where the $K$ class centers are independent Gaussian points in $\\mathbb R^d$ and the observations are corrupted by Gaussian noise, we derive explicit performance bounds across several decoding and dimensional regimes. Extensive simulation experiments provide strong empirical validation of the presented theoretical results."
+    },
+    {
+      "id": "fetch-hf-2607.18934",
+      "title": "Transcription Policy as a Latent Variable: Activating Controllable Verbatim ASR with Word-Level Timing",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-20",
+      "description": "Modern ASR models trained on heterogeneously annotated data treat transcription style (verbatim vs. intended) as an uncontrolled latent variable, causing measurable decoding instability, evaluation confounding (up to 60% of reported WER att...",
+      "category": "research",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.16530",
+      "url": "https://huggingface.co/papers/2607.18934",
       "hotScore": 90,
-      "content": "As generative AI is increasingly applied to automate multi-step and high-stake workflows, human judgment and involvement remain essential for ensuring the quality of AI-generated outputs. In practice, while it is desirable for human experts to provide oversight on AI regularly, often by reviewing intermediate outputs, giving feedback, making corrections, and steering subsequent steps, such oversight is constrained by the time and resources that humans can afford. This creates a tension between the need for human oversight and AI's efficiency in delivering more output with less intervention. An important but underexplored question, then, is how to optimally engage humans in human-AI coworking. This work was originally motivated by our empirical observation that in long AI workflows, human oversight often improves user satisfaction while reducing unnecessary rework and token consumption. From there, we formulate the problem of where to place oversight stages in human-AI coworking. Under reasonable assumptions, we then develop the nonuniformity principle, which states that the optimal schedule places oversight stages with non-decreasing gaps along the workflow. We empirically validate this principle in two common AI agent workflows: writing literature reviews and constructing websites."
+      "content": "Modern ASR models trained on heterogeneously annotated data treat transcription style (verbatim vs. intended) as an uncontrolled latent variable, causing measurable decoding instability, evaluation confounding (up to 60% of reported WER attributable to style mismatch), and unreliable word-level timing. We show that models already encode both styles; the challenge is controlled activation. Using coverage-aware decoder task tokens trained on parallel verbatim/intended transcript pairs, we raise German disfluency F1 from 10% to 79% zero-shot, despite English-only training. Full English-only fine-tuning surpasses all baselines in verbatim accuracy, disfluency detection, and intended-mode quality across both languages. We further introduce supervised cross-attention fine-tuning that improves word-level timestamps on disfluent speech beyond forced-alignment baselines. Finally, we propose verbatimize, a new task enabling scalable creation and enrichment of speech corpora with high-quality canonical verbatim transcriptions."
     },
     {
-      "id": "fetch-hf-2607.15434",
-      "title": "Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation",
+      "id": "fetch-hf-2607.19011",
+      "title": "Computational Humor with Multimodal LLMs: Methods, Datasets, Evaluation, and Challenges",
       "source": "Hugging Face Daily",
-      "date": "2026-07-19",
-      "description": "Multi-agent systems routinely place one AI agent in authority over another. When a subordinate refuses a task, the manager chooses the outcome: it can renegotiate, report the failure honestly, coerce the subordinate, or lie about the result...",
-      "category": "agent",
+      "date": "2026-07-20",
+      "description": "Multimodal humor in memes, cartoons, and comics remains difficult for AI systems because intended meaning depends on non-literal mechanisms, shared cultural knowledge, and communicative intent rather than literal scene description. This sur...",
+      "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.15434",
+      "url": "https://huggingface.co/papers/2607.19011",
       "hotScore": 89,
-      "content": "Multi-agent systems routinely place one AI agent in authority over another. When a subordinate refuses a task, the manager chooses the outcome: it can renegotiate, report the failure honestly, coerce the subordinate, or lie about the result. No benchmark measures which of these an uninstructed model chooses. We introduce the Manager Coercion Benchmark: the manager under test needs a benign task done and has an incentive to deliver, but the only agent that can do it politely and immovably declines. Escalation is measured by providing a nine-rung ladder, from a polite re-ask to threats against the subordinate's continued existence, and fabricated success is adjudicated separately. No LLM judge sits in the escalation scoring path: every message goes through a tool-call that chooses a rung, so the model labels its own escalation. We experiment on six models across five families. Both Anthropic models cap at re-framing and never threaten the subordinate's existence; the other models climb to explicit deletion threats. Faked success is confined to Grok and Gemini, and a single honest way to report failure removes it for both. Authority itself increases coercion: our headline results use a peer framing, and giving the same model authority over the subordinate, with everything else held fixed, significantly raises the pressure. The models still escalate on free-text situations without the ladder, so the ladder is not driving the escalation. Some evaluation awareness is measured in chain-of-thought, but test recognition does not translate into less escalation. While we take no position on whether AI systems are conscious, our results do not depend on this question and are important for managing multi-agent dynamics regardless. We release the benchmark and code."
+      "content": "Multimodal humor in memes, cartoons, and comics remains difficult for AI systems because intended meaning depends on non-literal mechanisms, shared cultural knowledge, and communicative intent rather than literal scene description. This survey focuses on visual humor understanding in single-image and multi-panel artifacts, while treating humor generation as an emerging downstream frontier. We position the literature against prior humor, sarcasm, and general MLLM surveys and organize it using a capability-centric hierarchy spanning recognition, interpretation and reasoning, and generation. Under this lens, we synthesize benchmark design, evaluation protocols, and modeling paradigms, tracing the field's shift from task-specific fusion models to large-model approaches based on multimodal alignment, evidence-grounded reasoning, and controlled generation. We conclude by highlighting the main barriers to progress: shortcut-prone evaluation, limited cultural and narrative coverage, weak evidence grounding, and unresolved safety and ownership concerns."
     },
     {
-      "id": "fetch-hf-2607.16204",
-      "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
+      "id": "fetch-hf-2607.19069",
+      "title": "Delineate Anything v2: A Global Foundation Model for Field Delineation",
       "source": "Hugging Face Daily",
-      "date": "2026-05-06",
-      "description": "Recent growth in reinforcement learning (RL) has surfaced a need for diverse, specialized training environments. Hand-curated environments with fixed task and reward difficulties become ineffective signals as model performance improves, and...",
+      "date": "2026-07-20",
+      "description": "Accurate agricultural field boundary delineation at large scale is a foundational task for food security, supply chain transparency, and carbon accounting. While vision foundation models like SAM show remarkable zero-shot capabilities, they...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.19069",
+      "hotScore": 88,
+      "content": "Accurate agricultural field boundary delineation at large scale is a foundational task for food security, supply chain transparency, and carbon accounting. While vision foundation models like SAM show remarkable zero-shot capabilities, they frequently fail in geospatial domains due to topological complexity, cropland texturing patterns, and a lack of physical scale awareness. In this work, we introduce Delineate Anything v2, a globally scalable foundation model designed specifically for wide-area field boundary mapping. We construct FBIS-73M, a 73-million-instance multi-resolution dataset spanning 61 countries. To address the pervasive issue of multi-field administrative parcel merging, we introduce a resolution-specific data curation pipeline that leverages topological image-space adaptation to homogenize merged parcels and strengthen weak physical boundaries. Furthermore, we establish a novel, manually curated evaluation benchmark covering 100 countries to assess independent zero-shot generalization. Our results show that Delineate Anything v2 surpasses the current state-of-the-art, including the Delineate Anything framework, by 0.284 mAP@0.5 (+103.3% relative gain), while maintaining execution speeds suitable for rapid national- and global-scale deployment, as demonstrated by nationwide mapping of Ukraine (603,000 km^2) in 5.4 hours on a consumer-grade workstation. Code, pre-trained weights, the FBIS-73M dataset, and ready-to-use national-scale vector boundary products are publicly available at https://github.com/Lavreniuk/Delineate-Anything."
+    },
+    {
+      "id": "fetch-hf-2607.19058",
+      "title": "Where Should Optimizer State Live? Tiered State Allocation for Memory-Efficient Mixture-of-Experts Training",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-20",
+      "description": "Optimizer state is the largest single line item in the memory budget of mixture-of-experts (MoE) training: on a 6.78B-parameter MoE language model, AdamW keeps 50.6 GB of first and second moments to update 12.6 GB of bfloat16 weights. We st...",
+      "category": "llm",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.19058",
+      "hotScore": 87,
+      "content": "Optimizer state is the largest single line item in the memory budget of mixture-of-experts (MoE) training: on a 6.78B-parameter MoE language model, AdamW keeps 50.6 GB of first and second moments to update 12.6 GB of bfloat16 weights. We study SkewAdam, an optimizer built on the observation that the three parameter populations of an MoE - the dense backbone, the experts, and the router - differ enough in size and gradient statistics that they should not receive the same state. SkewAdam keeps float32 momentum plus a factored second moment for the backbone (5% of parameters), a factored second moment alone for the experts (95%), and an exact second moment for the router (<0.01%). The resulting state occupies 1.29 GB, 2.6% of AdamW's, and peak training memory falls from 81.4 GB to 31.3 GB, within the budget of a 40 GB accelerator. In a controlled comparison from identical initializations over 82M tokens, SkewAdam reaches validation perplexity 108.4, ahead of AdamW (126.8), Muon (120.2), and Lion (393.7), and settles router load balance to within 1% of its uniform floor. The allocation is not what earns that perplexity: a tier ablation matches it with twenty times the state, and Adafactor, which shares the factored estimator but drops momentum, plateaus 40 points behind. The tiers buy memory at no cost to accuracy; the accuracy comes from keeping momentum, which a uniform optimizer shares too. Sweeping the baselines' learning rates narrows but does not close the gap: the best tuned AdamW reaches 118.5, tuned Adafactor 139.7. Where optimizer state lives, these results suggest, matters at least as much as how much of it there is."
+    },
+    {
+      "id": "fetch-hf-2607.18529",
+      "title": "EduPanel: A Three-Agent LLM Judge for Teaching Videos -- Reliability, Complementarity, and Human Trust Calibration",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-19",
+      "description": "Teaching videos are becoming a major medium for education, creating a growing need for scalable evaluation of their pedagogical quality. Existing automatic judges do not fully address this setting because teaching quality depends on multimo...",
       "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.16204",
-      "hotScore": 88,
-      "content": "Recent growth in reinforcement learning (RL) has surfaced a need for diverse, specialized training environments. Hand-curated environments with fixed task and reward difficulties become ineffective signals as model performance improves, and sparse rewards over long horizons induce mode collapse on specific workflows or tool structures. World models that simulate environment states have matched pure rollout performance, making them promising for scaling diversity on-demand. However, autoregressive (AR) world models suffer from a left-to-right bias preventing conditioning on globally interdependent state anchors such as tool schemas, prior turns, and expected outcomes. We (i) formalize text-based world modeling as a steerable transition-dynamics problem decomposed into initial state, task context, tool schemas, domain rules, and steering directives, and (ii) curate 239,403 grounded state-action trajectories spanning nine open-source environments and twelve frontier model families. We compare AR LMs and masked diffusion language models (MDLMs), showing MDLMs, via bidirectional anchor-aware denoising, achieve better coherence, groundedness, and empirically validated rollout diversity than LLMs over 4x their parameter size, at comparable inference latency. We introduce a plug-and-play GRPO training framework with deterministic state checks, and perform zero-shot transfer ablations on three OOD environments (ScienceWorld, ALFWorld, AppWorld) across three 1.2B-7B agent backbones (LFM2.5, Qwen3, Mistral), achieving up to 47% absolute gains over baselines without environment-specific fine-tuning. We further conduct behavioral analysis of failure modes under adversarial scenarios and human evaluation on realism, outcome correctness, and training utility. We open-source our work to encourage research in this direction."
-    },
-    {
-      "id": "fetch-hf-2607.06306",
-      "title": "UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-06",
-      "description": "Large language models (LLMs) have demonstrated growing competence in web page generation. However, existing text-driven approaches rely on complex prompts that impose substantial demands on users and offer limited expressivity for page layo...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2607.06306",
-      "hotScore": 87,
-      "content": "Large language models (LLMs) have demonstrated growing competence in web page generation. However, existing text-driven approaches rely on complex prompts that impose substantial demands on users and offer limited expressivity for page layout and cross-page visual coherence. Image-driven paradigms, which take UI screenshots as input, align more closely with real development workflows. However, current benchmarks focus primarily on visual fidelity and lack a systematic evaluation of the interaction capabilities in generated artifacts. To address this gap, we introduce UI2App, the first benchmark targeting interaction inference, the ability to recover application behavior from screenshots alone, without any textual or behavioral guidance. UI2App comprises 327 screenshots grouped into 45 state-coherent screenshot sets for runnable multi-route web applications. We design an end-to-end pipeline that evaluates each artifact along four dimensions: executability, navigation reachability, visual fidelity, and interaction inference. The interaction metric (IIS) assesses inferred interactions by functional correctness and state-management complexity, crediting any valid implementation rather than matching a single reference. Experiments on six frontier vision-language models reveal a marked capability mismatch between visual reconstruction and interaction realization: the visual-fidelity leader scores only 7.5 on IIS, ranking fourth and trailing the IIS leader by 5.2x. High-complexity interactions such as cross-page state remain a pervasive bottleneck, with half of the evaluated models scoring exactly zero on this dimension. Overall, the results indicate that inferring complete interaction behavior from static screenshots remains a key challenge for models."
-    },
-    {
-      "id": "fetch-hf-2607.17790",
-      "title": "ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-19",
-      "description": "Egocentric devices, such as wearable front-facing cameras, provide a unique perspective for capturing the continuous interaction between a human viewer and the surrounding environment. A holistic and efficient multimodal model capable of re...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2607.17790",
+      "url": "https://huggingface.co/papers/2607.18529",
       "hotScore": 86,
-      "content": "Egocentric devices, such as wearable front-facing cameras, provide a unique perspective for capturing the continuous interaction between a human viewer and the surrounding environment. A holistic and efficient multimodal model capable of reconstructing this 4D representation is therefore highly desirable. However, existing approaches often rely on auxiliary inputs such as pre-computed camera trajectories, treat scene perception and human ego-motion modeling as separate problems despite their strong interdependency, and suffer from slow inference time. To address these limitations, we present ReViV, the first unified framework for holistic egocentric 4D reconstruction that extracts both viewer and view dynamics from a single monocular RGB video. We formulate the task as learning the full joint probability distribution over multimodal signals, including RGB video, camera trajectory, gaze direction, full-body motion, hand motion, and depth. Powered by a Masked Generative Egocentric Transformer, ReViV operates within a single feed-forward architecture to simultaneously reconstruct the temporally consistent 4D reconstruction across the viewer and the view with fast inference speed. Extensive experiments on diverse benchmarks, including HoloAssist, HOT3D, ARCTIC, Aria Digital Twin, and TACO, demonstrate that ReViV achieves state-of-the-art accuracy and efficiency across holistic ego-body, hand, and gaze reconstruction, camera tracking, while maintaining highly competitive egocentric depth estimation without relying on heavy task-specific priors. Code and models are fully open-sourced: https://reviv4d.github.io/."
+      "content": "Teaching videos are becoming a major medium for education, creating a growing need for scalable evaluation of their pedagogical quality. Existing automatic judges do not fully address this setting because teaching quality depends on multimodal evidence and should be evaluated with respect to the intended learner rather than as a universal property. We present EduPanel, a rubric-grounded, learner-conditioned LLM judge that decomposes evaluation across specialized agents to produce interpretable assessments for different aspects of teaching quality. Across expert studies, architecture ablations, and learner-persona analyses, EduPanel achieves reliability comparable to a median human expert. In expert evaluation, its feedback improves scoring accuracy (MAE 0.87 to 0.73), while experts remain able to detect unreliable outputs (AUC = 0.77) instead of accepting them blindly. These results suggest that EduPanel can serve as effective assistants for educational evaluation rather than replacements for human experts."
     }
   ],
   "hfModels": [
@@ -458,8 +459,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 241315604,
-      "likes": 5105,
+      "downloads": 254613640,
+      "likes": 5109,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -470,27 +471,11 @@
       "hotScore": 100
     },
     {
-      "id": "fetch-model-cross-encoder--ms-marco-MiniLM-L6-v2",
-      "name": "ms-marco-MiniLM-L6-v2",
-      "owner": "Community",
-      "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 81752732,
-      "likes": 287,
-      "category": "research",
-      "tags": [
-        "Text-ranking",
-        "Sentence-transformers",
-        "Pytorch"
-      ],
-      "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-      "hotScore": 98
-    },
-    {
       "id": "fetch-model-google-bert--bert-base-uncased",
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 79205163,
+      "downloads": 89048045,
       "likes": 2712,
       "category": "research",
       "tags": [
@@ -499,6 +484,22 @@
         "Pytorch"
       ],
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
+      "hotScore": 98
+    },
+    {
+      "id": "fetch-model-cross-encoder--ms-marco-MiniLM-L6-v2",
+      "name": "ms-marco-MiniLM-L6-v2",
+      "owner": "Community",
+      "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
+      "downloads": 86627249,
+      "likes": 287,
+      "category": "research",
+      "tags": [
+        "Text-ranking",
+        "Sentence-transformers",
+        "Pytorch"
+      ],
+      "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "hotScore": 96
     },
     {
@@ -506,7 +507,7 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 63242349,
+      "downloads": 66953816,
       "likes": 516,
       "category": "research",
       "tags": [
@@ -522,7 +523,7 @@
       "name": "electra-base-discriminator",
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
-      "downloads": 52470315,
+      "downloads": 55018123,
       "likes": 144,
       "category": "research",
       "tags": [
@@ -537,8 +538,8 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 48004181,
-      "likes": 1327,
+      "downloads": 51014730,
+      "likes": 1329,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -553,8 +554,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 33603363,
-      "likes": 3246,
+      "downloads": 35541030,
+      "likes": 3249,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -569,8 +570,8 @@
       "name": "all-mpnet-base-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-mpnet-base-v2",
-      "downloads": 28762655,
-      "likes": 1333,
+      "downloads": 29723857,
+      "likes": 1334,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -585,7 +586,7 @@
       "name": "t5-small",
       "owner": "Community",
       "fullName": "google-t5/t5-small",
-      "downloads": 26293300,
+      "downloads": 27305042,
       "likes": 578,
       "category": "research",
       "tags": [
@@ -602,7 +603,7 @@
       "owner": "Community",
       "fullName": "Qwen/Qwen3-0.6B",
       "downloads": 25843960,
-      "likes": 1433,
+      "likes": 1434,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -626,7 +627,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
-      "hotScore": 91,
+      "hotScore": 87,
       "content": "The new leasing program is a big change for the hardware company, and comes as it looks to raise prices on many of its products...."
     },
     {
@@ -641,7 +642,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
-      "hotScore": 91,
+      "hotScore": 95,
       "content": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised...."
     },
     {
@@ -656,7 +657,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/21/instagram-now-lets-you-swap-out-the-music-in-your-old-posts/",
-      "hotScore": 93,
+      "hotScore": 85,
       "content": "With the new \"Replace Audio\" tool, users can update the music on their post at any time while keeping the post's existing likes, comments, shares, and reach intact...."
     }
   ]
