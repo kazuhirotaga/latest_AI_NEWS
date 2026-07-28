@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-28T01:17:45.877Z",
+  "updatedAt": "2026-07-28T13:24:51.476Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 384353,
-      "forks": 80746,
+      "stars": 384409,
+      "forks": 80765,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 262140,
-      "forks": 23405,
+      "stars": 262505,
+      "forks": 23441,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 221425,
-      "forks": 42295,
+      "stars": 221713,
+      "forks": 42388,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 198267,
-      "forks": 59678,
+      "stars": 198370,
+      "forks": 59692,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 185718,
-      "forks": 46069,
+      "stars": 185734,
+      "forks": 46066,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 166438,
-      "forks": 21501,
+      "stars": 166476,
+      "forks": 21502,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164292,
-      "forks": 30454,
+      "stars": 164301,
+      "forks": 30450,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 157342,
-      "forks": 46181,
+      "stars": 157361,
+      "forks": 46177,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 157034,
-      "forks": 8931,
+      "stars": 157334,
+      "forks": 8950,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 150460,
-      "forks": 23704,
+      "stars": 150547,
+      "forks": 23722,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 146979,
-      "forks": 21367,
+      "stars": 147058,
+      "forks": 21382,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 142713,
-      "forks": 23755,
+      "stars": 142795,
+      "forks": 23768,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 142359,
-      "forks": 34815,
+      "stars": 142377,
+      "forks": 34813,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 124143,
-      "forks": 11083,
+      "stars": 124254,
+      "forks": 11092,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 122511,
-      "forks": 14459,
+      "stars": 122583,
+      "forks": 14468,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,195 +260,194 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "On the post-hoc Evaluation of PDE Discovery: A Multifaceted Challenge of Scientific Advancement",
+      "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
       "source": "arXiv.org",
-      "date": "2026-07-26",
-      "description": "Partial differential equation (PDE) discovery aims to identify from data the governing law of a physical system. Constituting a cornerstone of scientific advancement, it has become during the past decade a major line of research in the rapi...",
-      "category": "research",
+      "date": "2026-07-27",
+      "description": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and...",
+      "category": "agent",
       "tags": [
-        "Research"
+        "Research",
+        "Agent"
       ],
-      "url": "http://arxiv.org/abs/2607.23753v1",
-      "hotScore": 85,
-      "content": "Partial differential equation (PDE) discovery aims to identify from data the governing law of a physical system. Constituting a cornerstone of scientific advancement, it has become during the past decade a major line of research in the rapidly evolving field of Physics-informed Machine Learning (PiML). Among the remaining open problems to address in this domain, the post-hoc evaluation of discovered PDEs raises the particular difficulty of being multifaceted. Indeed, it requires jointly considering predictive accuracy, physical consistency, interpretability, and out-of-distribution generalization capacity. Given that some of these properties are conflicting, it is worth noting that the wide range of existing evaluation metrics only partially address the overall problem, potentially leading to overly interpreted conclusions about the validity of a presumed new physical theory. From an abundant literature spanning machine learning, numerical analysis, information theory or symbolic regression, we propose, to our knowledge, the first taxonomy of PDE evaluation metrics, and discuss their advantages and limitations in depth. Based on the observation that evaluation is often achieved on a case-by-case basis and that a universally accepted methodology remains elusive, we further provide recommendations with the aim of promoting standardized and reliable practices, before sketching promising future lines of research in this field. We argue that this paper is intended both for ML experts who design new PDE discovery algorithms and for users of these methods aiming, in real applications, to discover and validate well-founded scientific laws."
+      "url": "http://arxiv.org/abs/2607.24743v1",
+      "hotScore": 82,
+      "content": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align with radiologists' clinical practice and provide an accurate, fine-grained and factualness-driven assessment. In this paper, we introduce ClinFusion, a vision-centric MLLM designed for holistic medical understanding that systematically addresses these limitations. We propose a compositional and cascaded vision encoder architecture featuring a Cascade Spatial-Aware Locality Fusion operator that unifies diverse 2D and native 3D medical image understanding within a fused encoder. We further introduce a vision-grounded evaluation framework, including MedIF-Bench for instruction-following assessment and a region-of-interest-grounded method for clinically aligned and factualness-driven report generation evaluation. We show that ClinFusion sets a new state-of-the-art across a comprehensive suite of 2D and 3D multimodal medical benchmarks---spanning visual question answering, report generation, and instruction following---as well as textual medical tasks, outperforming leading open-source medical MLLMs (\\textit{e.g.}, Hulu-Med, Lingshu) on 20 out of 24 benchmarks and demonstrating multimodal capabilities better than powerful proprietary models such as GPT-5.2 and Gemini-3-Flash on 13 out of 16 benchmarks, and can be further augmented with agentic tool use for retrieval-augmented and tool-assisted clinical workflows. A blinded evaluation by board-certified radiologists confirms that ClinFusion produces the highest-ranked reports, and validates our RoI-grounded metric as achieving the strongest correlation with expert judgment among all automatic evaluation metrics examined."
     },
     {
       "id": "fetch-paper-1",
-      "title": "Soft-Constrained Optimization of Latent Space in Variational Autoencoders",
+      "title": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
       "source": "arXiv.org",
-      "date": "2026-07-26",
-      "description": "The usefulness of a variational autoencoder (VAE) depends on two properties of its latent space that are hard to obtain together: high encoding capacity in the individual latent variables, and a low-dimensional, disentangled organization of...",
+      "date": "2026-07-27",
+      "description": "Dynamic applications, including optimal-transport Flow Matching, repeatedly solve related entropic optimal transport problems, yet conventional distributed Sinkhorn processes frames sequentially and synchronizes after every iteration. We pr...",
       "category": "research",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2607.23751v1",
-      "hotScore": 87,
-      "content": "The usefulness of a variational autoencoder (VAE) depends on two properties of its latent space that are hard to obtain together: high encoding capacity in the individual latent variables, and a low-dimensional, disentangled organization of those variables. Weakening the Kullback-Leibler regularization raises capacity but degrades disentanglement, while strengthening it prunes latent variables away entirely. We formulate VAE training as a soft-constrained optimization problem that addresses both. First, we impose an entropy-based constraint (EC) on individual latent variables, showing that the entropy of a latent code upper-bounds the mutual information it carries about the generative factors of the data. Second, we propose a weight-filter method that exploits the slack of the soft constraint to prune low-entropy dimensions during downstream training. On dSprites, the EC raises the aggregate latent-variable activation score by 43-62% over a vanilla VAE, attains the highest FactorVAE score among the \\b{eta} \\b{eta}-VAE variants (0.891 vs 0.847), and lowers reconstruction error by up to 38%. On MNIST, the weight filter reduces the latent dimensionality supplied to a downstream classifier from ten to two while holding accuracy above 90%, converging in 37% fewer epochs than the same procedure without the EC. We also find that low-entropy discrete factors tend to merge into a single latent variable, whereas high-entropy continuous factors are distributed across several."
+      "url": "http://arxiv.org/abs/2607.24741v1",
+      "hotScore": 92,
+      "content": "Dynamic applications, including optimal-transport Flow Matching, repeatedly solve related entropic optimal transport problems, yet conventional distributed Sinkhorn processes frames sequentially and synchronizes after every iteration. We present TemporalSinkhorn, a parallel-in-time executor that batches future candidates and their repairs without making output accuracy speculative. A centered, row-sharded certificate accepts only a deterministic safe prefix. The remaining candidates share packed Sinkhorn updates; an online projective forgetting rate places audit milestones, while a posteriori residual checks recover from every depth underestimate. Prediction can therefore change work placement but cannot authorize an inaccurate output. On 4 A100 GPUs, a 60-run, five-seed grid at n = 2048 shows that forgetting-guided milestones reduce wall time by 1.15x-1.47x relative to auditing every packed iteration in five statistically resolved regime cells. Against a sequential soft c-transform warm start, temporal execution is 1.42x-3.55x faster across six synthetic streams, with zero marginal-tolerance violations. On Flow Matching minibatch streams, temporal execution is 3.054x-3.632x faster than sequential carry at n = 2048, with no tolerance violations. A separate fixed-kernel test on an RTX 4060 Laptop GPU gives a 4.315x geometric-mean speedup. These are complementary deployment studies rather than a controlled hardware comparison. End-to-end Flow Matching integration, optimized-solver comparisons, and multi-node validation remain open."
     },
     {
       "id": "fetch-paper-2",
-      "title": "How College Students Use AI to Navigate Course Readings: Evidence from an Eight-Week Study",
+      "title": "Fourier Weak SINDy: Spectral Test Function Selection for Robust Model Identification",
       "source": "arXiv.org",
-      "date": "2026-02-10",
-      "description": "College students increasingly use AI chatbots to support academic reading, yet we lack granular understanding of how these interactions shape their reading experience and cognitive engagement. We conducted an eight-week longitudinal study w...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2602.09907v3",
-      "hotScore": 93,
-      "content": "College students increasingly use AI chatbots to support academic reading, yet we lack granular understanding of how these interactions shape their reading experience and cognitive engagement. We conducted an eight-week longitudinal study with 15 undergraduates who used AI to support assigned readings in a course. We collected 838 prompts across 239 reading sessions and developed a coding schema categorizing prompts into four cognitive themes: Decoding, Comprehension, Reasoning, and Metacognition. Comprehension prompts dominated (59.6%), with Reasoning (29.8%), Metacognition (8.5%), and Decoding (2.1%) less frequent. Most sessions (72%) contained exactly three prompts, the required minimum of the reading assignment. Within sessions, students showed natural cognitive progression from comprehension toward reasoning, but this progression was truncated. Across eight weeks, students' engagement patterns remained stable, with substantial individual differences persisting throughout. Qualitative analysis revealed an intention-behavior gap: students recognized that effective prompting required effort but rarely applied this knowledge, with efficiency emerging as the primary driver. Students also strategically triaged their engagement based on interest and academic pressures, exhibiting a novel pattern of reading through AI rather than with it: using AI-generated summaries as primary material to filter which sections merited deeper attention. We discuss design implications for AI reading systems that scaffold sustained cognitive engagement."
-    },
-    {
-      "id": "fetch-paper-3",
-      "title": "Zing: Social Mind for LLMs",
-      "source": "arXiv.org",
-      "date": "2026-07-26",
-      "description": "As large language models move from isolated task solving toward long-term service in human environments, they require social intelligence: the ability to infer mental states, track social relations, reason over norms, and adapt behavior und...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2607.23740v1",
-      "hotScore": 87,
-      "content": "As large language models move from isolated task solving toward long-term service in human environments, they require social intelligence: the ability to infer mental states, track social relations, reason over norms, and adapt behavior under context. This report presents Zhijing, an integrated framework for measuring, internalizing, and grounding social intelligence. For measurement, we introduce SoMBench, a psychology-grounded benchmark spanning 3 primary dimensions, 17 secondary dimensions, and 71 task paradigms. It controls question format, narrative perspective, and context length across 284 shared scenarios and 3,481 expert-verified instances. Evaluation of 20 representative LLMs reveals substantial headroom: the best model achieves only 72.08% overall accuracy, and none of the 17 secondary dimensions reaches the 90% near-ceiling band. For internalization, we develop Zing, a diagnosis-driven training recipe combining supervised fine-tuning, on-policy distillation, and rubric-based reinforcement learning. Across five social-cognition benchmarks, Zing consistently outperforms its base models, with Zing-27B-Stage2 achieving the best average score and Zing-32B-Stage2 remaining competitive with DeepSeek-V4-Pro. For deployment-time grounding, we build Actio, a harness-controlled inference architecture that routes four typed supports into reasoning: PRISM for procedural guidance, Starling for runtime mental-state representation, SAGE for reusable experience, and gated RAG for external social and normative knowledge. Across five base models and three benchmarks, the full harness improves 14 of 15 model-benchmark pairs and is best or tied for best in 8, demonstrating the effectiveness of typed runtime support. Together, these results show that socially intelligent LLMs require coordinated advances in evaluation, parametric internalization, and deployment-time grounding."
-    },
-    {
-      "id": "fetch-paper-4",
-      "title": "LLM-Ideoplasticity: Measuring Ideological Plasticity in the Political Behavior of LLMs as a Context-Conditioned Distribution",
-      "source": "arXiv.org",
-      "date": "2026-05-26",
-      "description": "We argue, with systematic empirical evidence, that a large language model's political ideology is not a fixed point, but a conditional distribution $\\mathbb{P}($position$\\mid$context$)$ over a real political space. We evaluate nine current ...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2606.28335v2",
-      "hotScore": 80,
-      "content": "We argue, with systematic empirical evidence, that a large language model's political ideology is not a fixed point, but a conditional distribution $\\mathbb{P}($position$\\mid$context$)$ over a real political space. We evaluate nine current LLMs using a unified measurement framework anchored by VAA-CHES projection models, which map responses onto three validated dimensions (lrgen, lrecon, galtan) across six contextual axes. Our findings reveal high sensitivity to context: persuasive framing and under-represented languages displace coordinates by up to 0.57 and 0.52 units, respectively, while chain-of-thought reasoning often amplifies rather than dampens paraphrase instability. Despite this local plasticity, the model cohort occupies a remarkably narrow Overton envelope overall, occupying roughly one-third the spread of major European parties. Supported by a multi-trait multi-method (MTMM) analysis, we conclude that a single point cannot summarize LLM political behavior; it must be characterized as a shape. Our code and data are publicly available at https://github.com/sakhadib/LLM-Ideoplasticity."
-    },
-    {
-      "id": "fetch-paper-5",
-      "title": "Reading Between the Signs: Predicting Future Suicidal Ideation from Adolescent Social Media Texts",
-      "source": "arXiv.org",
-      "date": "2025-08-25",
-      "description": "Suicide is a leading cause of death, yet predicting it remains a significant challenge. Risk factors such as depression or substance use are commonly used for prediction, but their predictive performance is often only slightly better than c...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2509.03530v2",
-      "hotScore": 93,
-      "content": "Suicide is a leading cause of death, yet predicting it remains a significant challenge. Risk factors such as depression or substance use are commonly used for prediction, but their predictive performance is often only slightly better than chance. Additionally, many cases go undetected due to a lack of contact with mental health services. Social media, however, offers a unique opportunity, as people often share their thoughts and struggles online in real time. In this work, we propose a novel task and method for early identification: predicting suicidal ideation and behavior (SIB) before a user ever expresses it on an online forum. We introduce Early-SIB, a transformer-based model that sequentially processes the posts a user writes and engages with to predict whether they will write a SIB post. Our model achieves a balanced accuracy of 0.73 in predicting future SIB on a Dutch youth forum, demonstrating that such tools can offer a meaningful addition to traditional methods. Finally, we use Shapley Additive Explanations to make the model's predictions more interpretable."
-    },
-    {
-      "id": "fetch-paper-6",
-      "title": "Some hypotheses on how chatbots work in problem-solving-driven conversations. Large Language Models as confirmation of the Innovation Illusion",
-      "source": "arXiv.org",
-      "date": "2026-06-05",
-      "description": "We discuss the nature of chatbots as conversation partners in problem-solving. What can chatbots do and what can't they do? We develop hypotheses on how this can this be explained. Our argument draws on insights from Aggregation Dynamics, C...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2606.07722v3",
-      "hotScore": 84,
-      "content": "We discuss the nature of chatbots as conversation partners in problem-solving. What can chatbots do and what can't they do? We develop hypotheses on how this can this be explained. Our argument draws on insights from Aggregation Dynamics, Cognitive Linguistics, Neuropsychology and Psychology. We establish that chatbots are multifaceted and composite systems. Our argument focuses on basic chatbots in the hope of thereby making statements about the core functionality of more advanced chatbots. Basic chatbots are assumed to consist of a Large Language Model (LLM) with a simple interface. The main results of our research are: a description of human imagination, understanding and thinking based on so-called metaphorical problem propagations; the hypothesis that the texts in the text dataset used for training LLMs have specific characteristics and that these texts only partially imitate human thinking and understanding; the hypothesis that the LLM training process encodes artificial metaphorical problem propagations into an LLM from these text datasets. Our conclusions are that a basic chatbot cannot be a thinking partner capable of matching the cognitive flexibility of humans, and that further development of the Large Language Model will not lead to this either. But chatbots exist, they are being used on a massive scale, by both individuals and organisations. It is therefore socially and politically important to understand them. Our article aims to contribute to the discussion on the functioning, benefits and drawbacks of chatbots. Cognitive Linguistics shows how the use of metaphor is an expression of our thinking. Aggregation Dynamics, is an attempt at a comprehensive systems theory. We believe that the concept of metaphorical problem propagation could provide an interesting addition for both. Chatbots a solution? For what?"
-    },
-    {
-      "id": "fetch-paper-7",
-      "title": "Source-Free Controlled Adaptation of Teachers for Continual Test-Time Adaptation",
-      "source": "arXiv.org",
-      "date": "2026-07-26",
-      "description": "In many real-world scenarios, encountering continual shifts in domain during inference is very common. Consequently, continual test-time adaptation (CTTA) techniques leveraging a teacher-student framework have gained prominence, allowing mo...",
+      "date": "2026-04-22",
+      "description": "We introduce Fourier Weak SINDy, a minimal noise-robust and interpretable derivative-free equation learning method that combines weak-form sparse equation learning with spectral density estimation for data-driven test function selection. By...",
       "category": "tooling",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2607.23735v1",
-      "hotScore": 83,
-      "content": "In many real-world scenarios, encountering continual shifts in domain during inference is very common. Consequently, continual test-time adaptation (CTTA) techniques leveraging a teacher-student framework have gained prominence, allowing models to adapt continuously even after deployment. In such a framework, a weight-averaged mean teacher is used to produce pseudo-labels from test data for self-training. The mean teacher gets updated as an exponential moving average of the student parameters using a high value of momentum that is kept fixed even if different distributions of test data are encountered. To combat the resulting drift of the model, we propose a novel controlled teacher adaptation methodology that dynamically sets a proper momentum value depending on the quality of the incoming data. Additionally, we estimate class prototypes from the source pretrained model to help align the target data as they come in. Importantly, our method does not require access to source data or its statistics at any stage of the pipeline, making it truly source-free. We perform extensive experiments on benchmark datasets to demonstrate that our approach outperforms different state-of-the-art adaptation frameworks, many of which require access to source data."
+      "url": "http://arxiv.org/abs/2604.20141v2",
+      "hotScore": 87,
+      "content": "We introduce Fourier Weak SINDy, a minimal noise-robust and interpretable derivative-free equation learning method that combines weak-form sparse equation learning with spectral density estimation for data-driven test function selection. By using orthogonal sinusoidal test functions inspired by their prevalence in Modulating Function-based system identification, the weak-form sparse regression problem reduces to a regression over Fourier coefficients. Dominant frequencies are then selected via multitaper estimation of the frequency spectrum of the data. This formulation unifies weak-form learning and spectral estimation within a compact and flexible framework. We illustrate the effectiveness of this approach in numerical experiments across multiple chaotic and hyperchaotic ODE benchmarks."
     },
     {
-      "id": "fetch-hf-2607.18314",
-      "title": "Interactive Training 2: Auditable Control Plane for Live Model Training",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-16",
-      "description": "Experiment trackers show how training is progressing, but changing a live run still usually requires trainer-specific code. We present Interactive Training 2, an open-source control plane for steering training through a shared protocol. Tra...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2607.18314",
-      "hotScore": 90,
-      "content": "Experiment trackers show how training is progressing, but changing a live run still usually requires trainer-specific code. We present Interactive Training 2, an open-source control plane for steering training through a shared protocol. Training applications declare which settings and actions they expose, humans and automated controllers submit requests through the same interface, and the training loop validates and applies them at safe control points. A customized Aim workspace combines live metrics and controls with a chronological record of requests and outcomes. We demonstrate the system across five NLP and reinforcement-learning workflows. The released code and traces provide a reusable foundation for auditable human- and agent-guided training."
-    },
-    {
-      "id": "fetch-hf-2607.18142",
-      "title": "O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-19",
-      "description": "Industrial Video Anomaly Detection (IVAD) aims to identify anomalous objects and events in an industrial process, which is crucial for modern manufacturing and quality control systems. Existing VLM-based anomaly reasoning methods are capabl...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2607.18142",
-      "hotScore": 89,
-      "content": "Industrial Video Anomaly Detection (IVAD) aims to identify anomalous objects and events in an industrial process, which is crucial for modern manufacturing and quality control systems. Existing VLM-based anomaly reasoning methods are capable of detecting open-ended anomalies in general domains. However, their performance declines in industrial settings characterized by intricate object transformations, strict physics, and procedural constraints. To tackle the complexity of such interaction-intensive detection, we introduce a training-free agentic framework for anomaly detection free of domain-specific knowledge, emphasizing object state evolution like humans inspectors. It is designed to track spatial-temporal dynamics and underlying transformations of detected objects over time, and then reason over the object-wise temporal state trajectories to identify abnormal objects in grounded frames. Our method overcomes limitations of prior approaches that rely on retraining on normal clips or injecting domain knowledge as context for test-time inference. Extensive experiments on three IVAD datasets demonstrate that our method outperforms frontier VLMs, agentic frameworks, and traditional VAD methods fine-tuned on the respective datasets, while providing interpretable reports over anomaly processes and types."
-    },
-    {
-      "id": "fetch-hf-2607.19636",
-      "title": "Multimodal Speaker Verification as a Threat to Speaker Anonymization",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-21",
-      "description": "Most automatic speaker verification (ASV) systems operate on individual utterances, despite real-world interactions typically consisting of multiple utterances. As speech accumulates, increasingly rich speaker information becomes available ...",
+      "id": "fetch-paper-3",
+      "title": "Learning Distributions from Multiple Data Providers",
+      "source": "arXiv.org",
+      "date": "2026-07-27",
+      "description": "Motivated by learning from heterogeneous and overlapping data providers, we study a stylized model of distribution learning from restricted conditional samples. The goal is to learn an unknown distribution $p$ on a finite domain $[n]$. The ...",
       "category": "research",
       "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2607.24732v1",
+      "hotScore": 84,
+      "content": "Motivated by learning from heterogeneous and overlapping data providers, we study a stylized model of distribution learning from restricted conditional samples. The goal is to learn an unknown distribution $p$ on a finite domain $[n]$. The learner is given a fixed family of queryable sets $\\mathscr{S} \\subseteq 2^{[n]}$, and each query to $S \\in \\mathscr{S}$ returns an independent sample from the conditional distribution $p(\\cdot \\mid S)$. Learnability is governed by the co-occurrence graph associated with $\\mathscr{S}$: two domain elements are adjacent if they appear together in some queryable set. Pointwise consistency is achievable when this graph is connected on the target support. PAC learning requires more: it is possible when the co-occurrence graph is complete. The optimal sample complexity of PAC learning ranges from nearly linear to quadratic. Every query family with complete co-occurrence graph admits sample complexity $\\widetilde O(n^2/ε^2)$, and this bound is tight in the worst case. On the other hand, if $[n]$ is queryable then ordinary sampling improves the bound to $Θ(n/ε^2)$, and this cannot be improved further even if every set is queryable. More generally, we identify hierarchical comparabilityas a sufficient structural condition on $\\mathscr S$ under which the optimal complexity is nearly linear, $\\widetilde Θ(n/ε^2)$, with pairwise query families as a canonical example. Finally, the full range of polynomial rates between linear and quadratic is attainable: for every $α\\in (1,2)$, there exists a query family with optimal PAC rate $\\widetilde Θ(n^α/ε^2)$."
+    },
+    {
+      "id": "fetch-paper-4",
+      "title": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
+      "source": "arXiv.org",
+      "date": "2026-07-27",
+      "description": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, ...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2607.24731v1",
+      "hotScore": 80,
+      "content": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods naturally extend velocity matching to the CFG-composed prediction, directly matching teacher and student guided velocities. We show that this objective is under-identified at the branch level: positive- and negative-branch errors can compensate in the guided prediction. Through two contrasting cases, we find that naive matching remains effective under shared negative conditioning, where both branch errors decrease jointly. When the model's native CFG schema retains privileged information in the teacher's negative branch that is unavailable to the student, however, this joint reduction breaks down and the composed objective induces antagonistic branch-error dynamics, reducing the positive-branch error while increasing the negative-branch error. We term this failure mode Negative Branch Asymmetry (NBA). To address NBA, we introduce Positive--Direction Matching (PDM), a branch-aware OPD objective that separately constrains the positive prediction and the CFG conditional direction. We apply PDM to dense-to-sparse video control, where naive guided matching is highly sensitive to inference guidance scales, while branch-aware supervision enables more robust and effective knowledge transfer."
+    },
+    {
+      "id": "fetch-paper-5",
+      "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+      "source": "arXiv.org",
+      "date": "2026-07-27",
+      "description": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are increasingly paired with Vision-Language Mod...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2607.24730v1",
+      "hotScore": 90,
+      "content": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are increasingly paired with Vision-Language Models (VLMs) to generate natural-language explanations. However, these systems add linguistic fluency without addressing the underlying opacity of the visual model. With the emergence of Kolmogorov-Arnold Networks (KANs), whose spline-based components provide inherently interpretable functional units, we investigate whether this architectural transparency can be leveraged to produce more trustworthy textual explanations. We introduce KANEx, the first ever framework that leverages the symbolic transparency of KANs to ground VLM reasoning. This interpretability also made it possible to design KAN-Map, a novel heatmap generation method derived directly from KAN models rather than gradient approximations. We feed these grounded contexts into downstream VLMs for enhanced explainability. Benchmarked on the MIMIC-CXR dataset, we demonstrate that KAN-based architectures with ResNet/ViT baselines demonstrate improved semantic similarity while producing significantly more faithful saliency maps. KAN architectures improve visual localization and downstream reasoning quality by 10%. Our findings suggest that grounding linguistic explanations and visual attributions in mathematically interpretable units is a necessary step toward trustworthy medical AI."
+    },
+    {
+      "id": "fetch-paper-6",
+      "title": "Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs",
+      "source": "arXiv.org",
+      "date": "2026-07-27",
+      "description": "The Deep Galerkin Method (DGM) and Physics Informed Neural Networks (PINNs) have become widely-used methods for solving partial differential equations (PDEs) in the rapidly growing field of scientific machine learning. In these methods, a n...",
+      "category": "research",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2607.24726v1",
+      "hotScore": 93,
+      "content": "The Deep Galerkin Method (DGM) and Physics Informed Neural Networks (PINNs) have become widely-used methods for solving partial differential equations (PDEs) in the rapidly growing field of scientific machine learning. In these methods, a neural network is trained to approximate the PDE solution by using (stochastic) gradient descent to minimize the PDE residual of the neural network. Due to the non-convexity of the PDE residual objective function, the trained neural network may, in principle, only converge to a local minimizer of the objective function (which would not be a solution of the PDE). Therefore, there is a longstanding question regarding the mathematical foundations of these algorithms, and it is highly valuable to establish that the trained neural network will converge to the PDE solution. For a class of semi-linear PDEs (nonlinear in the solution and its first derivative), we prove that neural networks trained with gradient descent to minimize the PDE residual objective function will converge to the PDE solution."
+    },
+    {
+      "id": "fetch-paper-7",
+      "title": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
+      "source": "arXiv.org",
+      "date": "2026-07-27",
+      "description": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how plann...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2607.24720v1",
+      "hotScore": 91,
+      "content": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. To address this challenge, we introduce a unified and controlled multi-turn environment that enables precise control. It allows systematically study long-horizon planning across three stages. (1) Planning ability acquisition during pre-training. We study data format, distribution, and quality. Explicit world model construction through CoT state transition modeling yields stronger long-horizon generalization. Atomic skills alone are insufficient for compositional generalization, whereas a litte long-horizon data works. Moreover, suboptimal trajectories severely impair performance because errors amplify over long horizons. (2) Planning ability shaping via GRPO and OPD post-training. Through mutual information, we distinguish general planning patterns from task-specific planning knowledge. For planning patterns, we identify three application regions of post-training: unnecessary, effective, and unsupported. OPD has a broader effective region than GRPO under low-quality and long-horizon settings, as it provides more consistent update directions. For planning knowledge, distilling unseen procedures from a teacher with different knowledge may impair student's prior world modeling without fully establishing new knowledge. (3) Planning ability integration through MOPD post-training. We show that multi-teacher on-policy distillation (MOPD) integrates capabilities by converging to shared planning-pattern across environments. Compatible patterns enable cross-environment generalization, partially shared patterns support continual learning, while completely conflicting patterns cause severe interference."
+    },
+    {
+      "id": "fetch-hf-2607.22639",
+      "title": "TRACE: Business Rule-Grounded Reasoning Curriculum for Knowledge-Preserving Parametric Tool Retrieval in Enterprise LLMs",
+      "source": "Hugging Face Daily",
+      "date": "2026-06-21",
+      "description": "Parametric retrieval enables LLMs to retrieve tools implicitly by assigning each API a unique virtual token and training the model to generate it via constrained beam search. Toolsense shows that this regime has two critical drawbacks: it d...",
+      "category": "llm",
+      "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.19636",
-      "hotScore": 88,
-      "content": "Most automatic speaker verification (ASV) systems operate on individual utterances, despite real-world interactions typically consisting of multiple utterances. As speech accumulates, increasingly rich speaker information becomes available through acoustic, prosodic, and linguistic cues, potentially challenging speaker anonymization methods that primarily target vocal characteristics. We investigate ASV in a multi-utterance, multimodal setting and examine whether aggregating information across anonymized speech impacts privacy. We first study audio-only aggregation across multiple anonymized utterances and observe consistent performance improvements as more speech becomes available. We then incorporate prosodic and linguistic information, showing that multimodal systems outperform unimodal approaches. Finally, we compare aggregation strategies and find that frame-level aggregation yields the lowest EERs. Even with only five anonymized utterances, combining audio and text reduces EER by over 15% relative to audio-only aggregation, demonstrating that substantial speaker-discriminative information remains accessible despite anonymization."
+      "url": "https://huggingface.co/papers/2607.22639",
+      "hotScore": 90,
+      "content": "Parametric retrieval enables LLMs to retrieve tools implicitly by assigning each API a unique virtual token and training the model to generate it via constrained beam search. Toolsense shows that this regime has two critical drawbacks: it destroys parametric tool knowledge during training, and its beam-search decoding is too slow for real-time deployment. We introduce TRACE (Tool Retrieval via Augmented Chain-of-thought and Enterprise rules), a two-stage curriculum that resolves this dissociation. Stage 1 reuses the multi-format memorization SFT from ToolSense to seed tool knowledge with LoRA. Stage 2 is our core contribution: the model is trained to emit a thinking trace before producing a JSON list of tool tokens, using two data sources -- RRB pairs from ToolSense and queries synthesized to target business rules curated by domain experts -- both augmented with reasoning traces. This training objective preserves Stage 1 MCQ and QA probing accuracy while enabling single-beam greedy decoding at production latency. Evaluated on a combined enterprise catalog of 8,300+ tools across two enterprise product lines, TRACE training for Stage 2 not only preserves but improves tool understanding: MCQ accuracy gains +3.2 pp and QA probing gains +9 pp over Stage 1. On retrieval, TRACE achieves ~86% recall on Domain A and ~60% on Domain B -- compared to embedding baseline performance of ~27% & ~52% -- both with single-beam greedy decoding, making it directly deployable at production latency."
     },
     {
-      "id": "fetch-hf-2607.22091",
-      "title": "Spectral Prior for Reducing Exposure Bias in Diffusion Models",
+      "id": "fetch-hf-2607.23402",
+      "title": "Characterizing Warp Divergence from Pascal to Blackwell",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-25",
+      "description": "Since Volta introduced Independent Thread Scheduling (ITS), NVIDIA GPUs have been widely assumed to handle warp divergence in a fixed manner. We test this assumption across Ampere, Hopper, and datacenter and consumer Blackwell GPUs, using p...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.23402",
+      "hotScore": 89,
+      "content": "Since Volta introduced Independent Thread Scheduling (ITS), NVIDIA GPUs have been widely assumed to handle warp divergence in a fixed manner. We test this assumption across Ampere, Hopper, and datacenter and consumer Blackwell GPUs, using pre-ITS Pascal as a baseline. Combining cycle-accurate microbenchmarks, hardware counters, and static analysis of compiler-generated SASS, we separate stable behavior from architectural change. Across all tested generations, divergent paths serialize linearly with the number of paths k, following T(k) approx sk with no super-linear reconvergence penalty. Warp execution efficiency falls as 32/k, the penalty is independent of occupancy, and predication removes the serialization cost. The same behavior appears on Pascal, showing that this programmer-visible cost model predates ITS. The compiler-emitted reconvergence machinery, however, has changed substantially. Pascal uses a per-warp SSY/SYNC instruction stack, whereas later generations use barrier-register instructions. Deferred reconvergence beyond the immediate post-dominator falls from 29 cases on Ampere to 2 on Blackwell. Blackwell also introduces a two-tier convergence-barrier classification, uniform-branch instructions, and explicit partial-mask warp synchronization, none of which appear on Ampere or Hopper. Controlled bit-flip experiments indicate that the new barrier class is a static compiler classification with no observable runtime effect in our tests. Thus, divergence retains a stable and predictable performance cost even as NVIDIA's control-flow ISA and reconvergence mechanisms continue to evolve."
+    },
+    {
+      "id": "fetch-hf-2607.22098",
+      "title": "Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models",
       "source": "Hugging Face Daily",
       "date": "2026-07-23",
-      "description": "Diffusion models typically suffer from error accumulation during iterative sampling, commonly referred to as exposure bias. We reveal systematic frequency-dependent discrepancies between training and inference, which can be interpreted as f...",
-      "category": "image",
+      "description": "Large reasoning models (LRMs) generate long reasoning traces before producing final answers. While these traces may contain useful signals for hallucination detection, harnessing them is non-trivial because long trajectories often include n...",
+      "category": "tooling",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.22091",
-      "hotScore": 87,
-      "content": "Diffusion models typically suffer from error accumulation during iterative sampling, commonly referred to as exposure bias. We reveal systematic frequency-dependent discrepancies between training and inference, which can be interpreted as frequency-dependent SNR error. Crucially, the direction of this mismatch varies across models and timesteps, indicating that fixed correction rules do not generalize. We propose Spectral Alignment (SPA), a lightweight, guidance-based method that calibrates the power spectrum of intermediate predictions to a pre-computed prior. Our approach consists of two stages: (1) offline fitting of a parametric spectrum model from training data, and (2) inference-time guidance via efficient FFT-based gradient computation. SPA introduces minimal computational overhead (3-4\\%) and is complementary to Classifier-Free Guidance (CFG). We demonstrate consistent improvements across diverse architectures, from pixel-space models (DDPM, ADM) to latent diffusion models (SD2.0, SDXL) and flow-matching models (SD3.5, FLUX). Our implementation is available at https://github.com/SonyResearch/SPA."
+      "url": "https://huggingface.co/papers/2607.22098",
+      "hotScore": 88,
+      "content": "Large reasoning models (LRMs) generate long reasoning traces before producing final answers. While these traces may contain useful signals for hallucination detection, harnessing them is non-trivial because long trajectories often include noisy steps that obscure the cues relevant to truthfulness assessment. In this paper, we identify two prevalent forms of reasoning noises, i.e., irrelevant steps and repetitive steps, and show that both substantially degrade hallucination detection performance. Existing confidence-based scores and naive embedding-based filtering fail to reliably separate noisy from informative steps. To address this challenge, we propose REDE, a novel learning framework for denoising reasoning traces for hallucination detection. Specifically, REDE leverages final-answer attention as an automatic supervision signal to shape the step-level representation space, yielding refined embeddings in which noisy steps can be reliably identified and filtered. REDE can be readily plugged into diverse hallucination detectors by operating on the filtered reasoning trajectory after removing noisy steps. Extensive experiments on multiple reasoning benchmarks show that REDE consistently improves detection performance over competitive baselines."
     },
     {
-      "id": "fetch-hf-2607.18198",
-      "title": "Three-Body Scattering for Generative Modeling",
+      "id": "fetch-hf-2607.24027",
+      "title": "Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification",
       "source": "Hugging Face Daily",
-      "date": "2026-07-19",
-      "description": "Modern generative models typically rely on an adversarial critic, a prescribed noise-to-data path, or an autoregressive factorization. Instead, we show that a proper distributional energy can induce sample-level motion and provide direct re...",
+      "date": "2026-07-26",
+      "description": "Diffusion transformers are essential for high-fidelity video generation, but long token sequences make attention a dominant inference bottleneck. Training-free dynamic sparse attention alleviates this bottleneck by computing only selected k...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.18198",
+      "url": "https://huggingface.co/papers/2607.24027",
+      "hotScore": 87,
+      "content": "Diffusion transformers are essential for high-fidelity video generation, but long token sequences make attention a dominant inference bottleneck. Training-free dynamic sparse attention alleviates this bottleneck by computing only selected key-value blocks, yet existing methods struggle to sparsify attention both efficiently and accurately for two reasons: (1) Rigid, unpredictable, and costly routing: selecting a fixed fraction of top-ranked blocks by proxy score imposes fixed budgets, whereas retaining blocks to reach a target cumulative proxy probability mass yields dynamic but potentially imbalanced budgets; both incur non-negligible overhead from computing and materializing proxy scores. (2) Lossy keep-or-drop sparsification: unselected blocks are discarded entirely, degrading accuracy under aggressive sparsity. These limitations motivate cheaper dynamic-budget routing while limiting accuracy degradation. In this paper, we introduce training-free Sol-Attn (Sparsifying online attention), which unifies dynamic routing, sparse computation, and approximation correction in a single online-softmax pass, achieving a better accuracy-efficiency trade-off in sparse attention. The core of Sol-Attn is on-the-fly block thresholding with proxy-score reuse, which selects critical blocks by comparing block proxy scores against a threshold during online softmax. This design enables dynamic yet controllable block budgets without materializing the proxy map, while directly reusing the proxy scores of unselected blocks to approximate their contribution. Experiments across image and video generation tasks show that Sol-Attn advances the quality-efficiency frontier of training-free sparse attention, delivering 2.1 times and 2.3 times end-to-end speedups for video generation and editing, respectively, while preserving visual quality."
+    },
+    {
+      "id": "fetch-hf-2607.23518",
+      "title": "Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-25",
+      "description": "The rapid evolution of generative models has unlocked new potentials in protein binder design, a pivotal task in structural biology, by facilitating end-to-end generation via joint sequence-structure modeling or hallucination. However, exis...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.23518",
       "hotScore": 86,
-      "content": "Modern generative models typically rely on an adversarial critic, a prescribed noise-to-data path, or an autoregressive factorization. Instead, we show that a proper distributional energy can induce sample-level motion and provide direct regression supervision for a one-step generator. Three-Body Scattering Modeling (TBSM) for generation turns the energy distance into a constant-size per-projectile interaction: each projectile is attracted toward one real source and repelled from one independently generated source. Conditioned on the projectile and its condition, its expectation equals the 2-Wasserstein gradient-flow velocity of frac12D_E^2(P_θ,Q). A batch of B frozen-target events yields O(B) sample-level losses, each using one reference for its condition instead of the minibatch-wide all-pairs field used by methods such as Drifting Models. Tracking this conditional expectation online can reduce field noise. Using scattering in frozen image features, TBSM trains one-step generators on ImageNet-256, achieving FID{}=2.23 with pixel-space PixelDiT-XL and FID{}=1.63 with latent-space DiT-XL at NFE{}=1. We provide a design map relating diffusion-related supervision, Drift-like dynamics, and GAN-like objectives. These results establish tracked scattering as a route to high-dimensional one-step generation. Code: https://github.com/sp12138/TBSM."
+      "content": "The rapid evolution of generative models has unlocked new potentials in protein binder design, a pivotal task in structural biology, by facilitating end-to-end generation via joint sequence-structure modeling or hallucination. However, existing approaches are predominantly implemented under a single-target, single-state assumption, limiting their ability to model multi-target or multi-state interactions required for advanced function-oriented protein design. Here, we introduce Chamaileon, which unifies multi-target and multi-state binder design by formulating the problem as cross-context binding landscape modeling. The framework is underpinned by a training paradigm termed In-Context Complex Co-Design (I3CD) for context-aware sequence-structure co-modeling. During inference, we employ Mixture-of-Paths Sampling (MoPS), a scalable strategy that optimizes a single sequence across contexts while alleviating the scarcity of high-quality multi-conformational paired data. Extensive evaluation on our newly constructed benchmark, CROSS, demonstrates that Chamaileon effectively generates sequences adaptable to diverse conformational landscapes and multi-target requirements. The code is available on https://github.com/caohengyuan/Chamaileon."
     }
   ],
   "hfModels": [
@@ -457,8 +456,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 253094980,
-      "likes": 5130,
+      "downloads": 253941670,
+      "likes": 5135,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -473,7 +472,7 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 95783043,
+      "downloads": 96981785,
       "likes": 2714,
       "category": "research",
       "tags": [
@@ -489,7 +488,7 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 87587244,
+      "downloads": 87782018,
       "likes": 291,
       "category": "research",
       "tags": [
@@ -505,7 +504,7 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 68390818,
+      "downloads": 69019134,
       "likes": 519,
       "category": "research",
       "tags": [
@@ -521,7 +520,7 @@
       "name": "electra-base-discriminator",
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
-      "downloads": 55098141,
+      "downloads": 55031007,
       "likes": 145,
       "category": "research",
       "tags": [
@@ -536,7 +535,7 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 51811524,
+      "downloads": 52121879,
       "likes": 1333,
       "category": "llm",
       "tags": [
@@ -552,8 +551,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 35453220,
-      "likes": 3277,
+      "downloads": 35491258,
+      "likes": 3281,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -564,11 +563,27 @@
       "hotScore": 88
     },
     {
+      "id": "fetch-model-Qwen--Qwen3-0.6B",
+      "name": "Qwen3-0.6B",
+      "owner": "Community",
+      "fullName": "Qwen/Qwen3-0.6B",
+      "downloads": 28383533,
+      "likes": 1458,
+      "category": "image",
+      "tags": [
+        "Text-generation",
+        "Transformers",
+        "Safetensors"
+      ],
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+      "hotScore": 86
+    },
+    {
       "id": "fetch-model-sentence-transformers--all-mpnet-base-v2",
       "name": "all-mpnet-base-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-mpnet-base-v2",
-      "downloads": 28313150,
+      "downloads": 28001182,
       "likes": 1335,
       "category": "llm",
       "tags": [
@@ -577,22 +592,6 @@
         "Pytorch"
       ],
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
-      "hotScore": 86
-    },
-    {
-      "id": "fetch-model-Qwen--Qwen3-0.6B",
-      "name": "Qwen3-0.6B",
-      "owner": "Community",
-      "fullName": "Qwen/Qwen3-0.6B",
-      "downloads": 28062952,
-      "likes": 1453,
-      "category": "image",
-      "tags": [
-        "Text-generation",
-        "Transformers",
-        "Safetensors"
-      ],
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "hotScore": 84
     },
     {
@@ -600,7 +599,7 @@
       "name": "t5-small",
       "owner": "Community",
       "fullName": "google-t5/t5-small",
-      "downloads": 26376727,
+      "downloads": 26174190,
       "likes": 579,
       "category": "research",
       "tags": [
@@ -615,33 +614,18 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
-      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+      "title": "Lyft and Baidu enter London&#8217;s robotaxi battleground as testing begins",
       "source": "TechCrunch Gadgets",
-      "date": "2026-07-27",
-      "description": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners....",
+      "date": "2026-07-28",
+      "description": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "hotScore": 89,
-      "content": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners...."
-    },
-    {
-      "id": "fetch-gadget-1",
-      "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-07-26",
-      "description": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
-      "hotScore": 90,
-      "content": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns...."
+      "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+      "hotScore": 91,
+      "content": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025...."
     },
     {
       "id": "fetch-gadget-fb1",
