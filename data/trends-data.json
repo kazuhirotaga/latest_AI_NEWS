@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-02T12:51:25.858Z",
+  "updatedAt": "2026-08-03T01:25:33.263Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 384899,
-      "forks": 80890,
+      "stars": 384959,
+      "forks": 80904,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 264974,
-      "forks": 23665,
+      "stars": 265160,
+      "forks": 23681,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 224084,
-      "forks": 43277,
+      "stars": 224330,
+      "forks": 43382,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 199035,
-      "forks": 59847,
+      "stars": 199094,
+      "forks": 59860,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 185764,
-      "forks": 46054,
+      "stars": 185774,
+      "forks": 46053,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 166624,
-      "forks": 21521,
+      "stars": 166642,
+      "forks": 21527,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164349,
-      "forks": 30492,
+      "stars": 164355,
+      "forks": 30491,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 159314,
-      "forks": 9049,
+      "stars": 159556,
+      "forks": 9056,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 157465,
-      "forks": 46174,
+      "stars": 157474,
+      "forks": 46175,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 151058,
-      "forks": 23839,
+      "stars": 151107,
+      "forks": 23846,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 147584,
-      "forks": 21445,
+      "stars": 147646,
+      "forks": 21456,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 143220,
-      "forks": 23856,
+      "stars": 143255,
+      "forks": 23862,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 142511,
-      "forks": 34827,
+      "stars": 142515,
+      "forks": 34824,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 124979,
-      "forks": 11166,
+      "stars": 125043,
+      "forks": 11179,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 123196,
-      "forks": 14552,
+      "stars": 123259,
+      "forks": 14559,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,120 +260,120 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "Learning to Trace Seiberg Dualities",
+      "title": "Evolving language compositionality in a frequency-structured meaning space",
       "source": "arXiv.org",
-      "date": "2026-07-30",
-      "description": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two systems are dual, even when...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2607.28628v1",
-      "hotScore": 86,
-      "content": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two systems are dual, even when all of the \"rules of the game\" are well-known. Said differently, when confronted with two systems, how can one efficiently establish that they are in fact dual? In this paper we use machine learning methods to address this question for Seiberg dualities of supersymmetric quiver gauge theories. Mathematically, this involves establishing mutations of quivers, which is in turn a variation on the theme of \"learning to unknot\". On the one hand, this leads us to a practical tool for establishing the computational complexity of different dualities. On the other hand, it also allows us to study how different network architectures learn how to trace Seiberg dualities. We find that for quivers with a modest number of quiver nodes (of order $10$), different network architectures consisting of transformers and multi-layer perceptrons tend to outperform deterministic algorithms. Supplementing the network by well-established pathfinder algorithms (essentially \"Google Maps for quivers\") leads to an additional improvement in the efficiency and accuracy of the search strategy. We anticipate that this class of questions can serve as a useful benchmark for frontier AI models applied to theoretical physics."
-    },
-    {
-      "id": "fetch-paper-1",
-      "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
-      "source": "arXiv.org",
-      "date": "2026-07-30",
-      "description": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU memory constraints. We present ReToken, a s...",
+      "date": "2026-07-31",
+      "description": "The iterated learning model was introduced to investigate language evolution: the way in which the characteristic properties of human languages have been shaped, at least partly, by repeated transmission from one language user to another. T...",
       "category": "image",
       "tags": [
         "Research",
         "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2607.28627v1",
-      "hotScore": 88,
-      "content": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU memory constraints. We present ReToken, a single learnable embedding trained as an explicit retrieval target that selects a sparse set of query-relevant visual tokens from a pre-filled visual KV cache. Trained on only a small image-QA dataset, ReToken yields consistent gains across image and video benchmarks: on Visual Haystacks it improves Qwen3VL-8B by 13.4 points and InternVL3.5 by 12.4 points (&gt;20% relative), and on LVBench it transfers zero-shot to long video for an 8.0-point gain with Qwen3VL-8B. Thanks to its lightweight design, both training and long-video inference fit on a single H100. Code is available at: https://github.com/avaxiao/ReToken"
+      "url": "http://arxiv.org/abs/2607.29642v1",
+      "hotScore": 84,
+      "content": "The iterated learning model was introduced to investigate language evolution: the way in which the characteristic properties of human languages have been shaped, at least partly, by repeated transmission from one language user to another. The key finding is that language compositionality can arise spontaneously as a consequence of language being passed repeatedly through a language learning bottleneck. Here we explore how changing the frequency of different meanings, so that some meanings occur much more frequently than others, affects the character of its compositionality. We find that, as observed in natural languages, high-frequency meanings can escape the pressure to conform to the grammar that characterizes lower-frequency meanings. However, when the frequency structure is instead imposed on parts rather than on whole meaning vectors, the language fails to transmit across generations. This occurs despite the fact that the most frequent elements are reliably learned. These results suggest that frequency can shape emergent linguistic structure only when the frequency distribution is defined over form-meaning units that learners can acquire holistically. When frequency is instead distributed over smaller units, it fails to support the relational structure required for compositional generalisation, thereby preventing stable language transmission."
     },
     {
-      "id": "fetch-paper-2",
-      "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
+      "id": "fetch-paper-1",
+      "title": "Contravariance Theory: Strong Alignment for Minimal Solutions to Hard Tasks",
       "source": "arXiv.org",
-      "date": "2026-07-30",
-      "description": "We present PAC-MAN, a perception-aware CBF-RL framework that couples control-barrier safety with deployment-realistic onboard sensing for whole-body humanoid dodgeball. The deployed policy sees the ball only as segmentation-masked depth fro...",
-      "category": "tooling",
+      "date": "2026-07-09",
+      "description": "A series of results from the NeuroAI over the past fifteen years have raised core questions both about how to compare Deep Neural Network (DNN) models to the brain, and about how much convergent evolution to expect between artificial networ...",
+      "category": "research",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2607.28623v1",
+      "url": "http://arxiv.org/abs/2607.08561v2",
       "hotScore": 92,
-      "content": "We present PAC-MAN, a perception-aware CBF-RL framework that couples control-barrier safety with deployment-realistic onboard sensing for whole-body humanoid dodgeball. The deployed policy sees the ball only as segmentation-masked depth from a head-mounted camera, while training-time CBF guidance represents clearance to every body link, and an adversarial motion prior regularizes the resulting evasive reflexes. We evaluate on a controlled any-link contact benchmark with seeded throws in two regimes: single throws and a deployment loop in which the robot walks back to its station and recovers between throws. On this benchmark, the policy comes within a few points of a privileged state oracle: a fixed onboard camera alone is adequate for evasion. We find that usable barrier structure depends on perceptual observability: Joint-CBF gives the best performance with accurate ball states, degrades under fixed-camera observations when used only as training guidance, and recovers with a ball-tracking gimbal or privileged runtime filter. We therefore deploy a lightweight Link-CBF policy zero-shot on the Unitree G1 in the real world, where it tolerates imperfect perception, succeeds on 95% of throws, and uses semantic segmentation to dodge different balls."
+      "content": "A series of results from the NeuroAI over the past fifteen years have raised core questions both about how to compare Deep Neural Network (DNN) models to the brain, and about how much convergent evolution to expect between artificial networks and real brain networks. Here, we show that for any two minimal DNN solutions to a sufficiently hard task: (i) \"weak\" alignment of network representations based on affine mappings guarantees \"strong\" alignment of privileged axes, and (ii) alignment \"zippers\" up the network hierarchy, causing the emergence of privileged axes from end-to-end task optimization. These results formalize the notion of contravariance from Cao and Yamins [2024], and illustrate important consequences for the theory of NeuroAI: with sufficiently strong tasks, choice of metric for inter-network comparison is not all that sensitive, and that convergent evolution is probably inevitable."
     },
     {
-      "id": "fetch-paper-3",
-      "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
+      "id": "fetch-paper-2",
+      "title": "Reproducing Human Individual Motor Signatures: A Data-Driven Approach for Repetitive Motion",
       "source": "arXiv.org",
-      "date": "2026-07-30",
-      "description": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a result, scientists and AI agents need to loca...",
+      "date": "2025-03-19",
+      "description": "The deployment of autonomous virtual avatars (in extended reality) and robots in human group activities---such as rehabilitation therapy, sports, and manufacturing---is expected to increase as these technologies become more pervasive. Desig...",
       "category": "agent",
       "tags": [
         "Research",
         "Agent"
       ],
-      "url": "http://arxiv.org/abs/2607.28618v1",
-      "hotScore": 93,
-      "content": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a result, scientists and AI agents need to locate relevant information, verify their provenance, and assemble cross-paper answers manually. We present AskChem, a claim-centered infrastructure for cross-paper chemistry search. AskChem changes the unit of retrieval from the paper to the provenance-carrying claim: each paper is converted into atomic, typed claims, each grounded by a source DOI and a verbatim quote or an explicit evidence locator. Over this shared claim store, AskChem exposes complementary structures for search and synthesis: a stabilized faceted taxonomy for hierarchical retrieval and browsing, an evidence graph linking claims through relations, and an exploratory living taxonomy that situates indexed papers under scientific principles. AskChem currently indexes 2.4M claims from 147K papers and provides a web interface, as well as REST, SDK, and MCP access for AI agents. On AskChem-Bench, grounding a GPT-5.5 reader in AskChem yields 100% resolvable DOIs, compared with 88.3% without retrieval, and the highest citation density among five tested systems. AskChem is live at https://askchem.org."
+      "url": "http://arxiv.org/abs/2503.15225v3",
+      "hotScore": 82,
+      "content": "The deployment of autonomous virtual avatars (in extended reality) and robots in human group activities---such as rehabilitation therapy, sports, and manufacturing---is expected to increase as these technologies become more pervasive. Designing cognitive architectures and control strategies to drive these agents requires realistic models of human motion. Furthermore, recent research has shown that each person exhibits a unique velocity signature, highlighting how individual motor behaviors are both rich in variability and internally consistent. However, existing models only provide simplified descriptions of human motor behavior, hindering the development of effective cognitive architectures. In this work, we first show that motion amplitude provides a useful characterization of individual motor signatures, complementary to existing ones. Then, we propose a fully data-driven approach to generate original one-dimensional motion that captures the unique features of specific individuals, based on long short-term memory neural networks. We validate the architecture using real human data from participants performing spontaneous oscillatory motion. Thorough statistical analyses support that our model reproduces the velocity distribution and amplitude envelopes of the individual it was trained on, while remaining distinct from others."
+    },
+    {
+      "id": "fetch-paper-3",
+      "title": "AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers",
+      "source": "arXiv.org",
+      "date": "2026-07-31",
+      "description": "As LLMs evolve from code completion systems into autonomous scientific agents, evaluating their ability to conduct experiments has become increasingly important. Existing benchmarks typically focus on static code generation, paper replicati...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2607.29626v1",
+      "hotScore": 90,
+      "content": "As LLMs evolve from code completion systems into autonomous scientific agents, evaluating their ability to conduct experiments has become increasingly important. Existing benchmarks typically focus on static code generation, paper replication, or final answer correctness, but do not directly assess whether agents can interpret experimental evidence and use it to guide subsequent hyperparameter decisions. To address this gap, we introduce AgentHPOBench, a sequential benchmark comprising 30 executable machine learning tasks across seven research categories. Each task begins with a validated baseline run, after which an agent performs several sequential interventions. At each step, the agent observes the accumulated configurations, metrics, and logs before proposing the next valid configuration. We evaluate 12 widely used agents and conventional HPO baselines under a unified protocol. The results show that current agents exhibit measurable experimental optimization ability across domains, but still face clear limitations in sustained iterative refinement, complex log diagnosis, and consistent progress toward reported reference performance."
     },
     {
       "id": "fetch-paper-4",
-      "title": "Neurosymbolic Imitation Learning with Human Guidance: A Privileged Information Approach",
+      "title": "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations",
       "source": "arXiv.org",
-      "date": "2026-05-08",
-      "description": "Imitation learning is widely used for learning to act in complex environments. While pure neural-based methods handle high dimensional data effectively, they suffer from the requirement of large number of samples and are prone to overfittin...",
+      "date": "2026-07-31",
+      "description": "Traditional static assessments rely on a subtractive, deficit-based grading model that often penalizes ambition and obscures diagnostic feedback. Conversely, traditional face-to-face oral examinations introduce severe construct-irrelevant v...",
       "category": "research",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2605.07166v2",
-      "hotScore": 93,
-      "content": "Imitation learning is widely used for learning to act in complex environments. While pure neural-based methods handle high dimensional data effectively, they suffer from the requirement of large number of samples and are prone to overfitting. Pure symbolic approaches, while generalize well, do not handle high-dimensional data effectively. We propose a neurosymbolic approach that achieves the best of both worlds, i.e, handling high-dimensional data while achieving generalization. The key advantage of our approach is that it can effectively exploit additional privileged information that is available only during training (in our case, gaze data). Our empirical evaluations demonstrate the effectiveness, efficiency and the generalization capability of our proposed approach."
+      "url": "http://arxiv.org/abs/2607.29624v1",
+      "hotScore": 94,
+      "content": "Traditional static assessments rely on a subtractive, deficit-based grading model that often penalizes ambition and obscures diagnostic feedback. Conversely, traditional face-to-face oral examinations introduce severe construct-irrelevant variance by exacerbating performative anxiety and the sociological power imbalances inherent to academic hierarchies. This paper presents the theoretical foundation for the \"Socratic Test,\" an automated, computer-mediated conversational assessment. By integrating Dynamic Assessment principles, multimodal workspaces, Bloom's Taxonomy for real-time proctoring, and the SOLO Taxonomy for structural evaluation, the Socratic Test actively maps a student's cognitive boundaries. This paper formalizes the use of graduated scaffolding to quantify the Zone of Proximal Development (ZPD) and details a non-compensatory, additive grading architecture that prioritizes mastery over penalty and human-AI alignment to ensure unprecedented measurement reliability."
     },
     {
       "id": "fetch-paper-5",
-      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+      "title": "Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization",
       "source": "arXiv.org",
-      "date": "2026-07-30",
-      "description": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to the public or regulators, creating a seri...",
+      "date": "2026-03-01",
+      "description": "Layer-wise capacity in large language models is highly non-uniform: some layers contribute disproportionately to loss reduction, whereas others are nearly redundant. Existing layer-scoring methods provide sensitivity estimates but do not gi...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2607.28617v1",
-      "hotScore": 87,
-      "content": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to the public or regulators, creating a serious trust and accountability gap in the wide deployment of AI systems. In this paper, we introduce Artificial Intelligence System Prompt Assurance (AISPA), a user-centric framework for systematically auditing system prompts in AI systems. AISPA examines specific parts of a system prompt and evaluates them along eight dimensions that matter to users. We then use this framework to review 3,249 instructions from system prompts in 88 commercial AI products, classifying each instruction as either protective (of users) or problematic. Our audit surfaces four core findings. First, system prompt design varies substantially across products and developers, with some organizations averaging over 60 protective instructions per product while others average fewer than 5. Second, protective instructions are widely adopted but shallow in scope: 98.9% of products contain at least one, yet only 24% cover all eight dimensions of the AISPA taxonomy. Third, system prompts have grown steadily longer and more protective of users, suggesting that user protection is becoming a more visible concern in commercial prompt design. Fourth, despite this progress, problematic instructions remain pervasive: roughly 40% of products contain at least one instruction that works against user interests, and protective and problematic instructions frequently coexist within the same prompt. Our findings highlight the need for greater transparency, standardization, and independent oversight for system prompts in commercial AI products."
+      "url": "http://arxiv.org/abs/2603.00910v3",
+      "hotScore": 82,
+      "content": "Layer-wise capacity in large language models is highly non-uniform: some layers contribute disproportionately to loss reduction, whereas others are nearly redundant. Existing layer-scoring methods provide sensitivity estimates but do not give a principled rule for converting those estimates into allocation or pruning decisions under a global hardware budget. We introduce a curvature-aware, MDL-inspired framework built around the layer gain $ζ_k^2=g_k^\\top\\widetilde H_{kk}^{-1}g_k$. This quantity equals twice the maximal decrease predicted by the regularized layer-restricted quadratic model and incorporates inverse local curvature; it is therefore a local surrogate for reducible risk, not a universal dominance claim over gradient-norm scores. After normalizing the gains into scores $q_k$, we formulate two convex programs: one allocates expert slots under diminishing returns, and the other assigns layer-wise pruning ratios while protecting high-score layers. Both continuous programs have unique globally optimal solutions characterized by one dual variable and computable in $O(K\\log(1/\\varepsilon))$ time by bisection. We also prove a quadratic transfer-regret bound: when source and target score vectors differ by at most $δ$, the target surrogate cost of the transferred decision is within $O(δ^2)$ of the target optimum. Experiments on Mistral-7B and Gemma-7B show clear allocation gains in some settings and competitive, though mixed, pruning performance. The framework therefore replaces an empirical score-to-decision heuristic with a budget-feasible optimization procedure whose guarantees apply to the stated continuous surrogates. Code is available on github repo - [TKAI-LAB-Mali/Curvature-Weighted-Capacity-Allocation](https://github.com/TKAI-LAB-Mali/Curvature-Weighted-Capacity-Allocation.git)"
     },
     {
       "id": "fetch-paper-6",
-      "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+      "title": "CENDRe: Concept Extraction with Natural Domain Representations",
       "source": "arXiv.org",
-      "date": "2026-07-30",
-      "description": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is central to CUA evaluation, data curatio...",
-      "category": "agent",
-      "tags": [
-        "Research",
-        "Agent"
-      ],
-      "url": "http://arxiv.org/abs/2607.28609v1",
-      "hotScore": 82,
-      "content": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is central to CUA evaluation, data curation, and reinforcement learning. Neither human-written verifiers nor human annotators can provide such verification at scale, so the field increasingly turns to vision-language models (VLMs) as judges of CUA trajectories. But a fundamental question has long gone unexamined: are these VLM judges reliable enough? To study it systematically, we introduce OSReward, a realistic, high-quality benchmark that evaluates VLM judges on CUA trajectories. The trajectories come from diverse agent backbones executing human-verified instructions across platforms, then rigorously labeled with ground-truth verdicts through multi-stage human annotation. Building on it, we derive OSReward-Hard, a challenge set concentrating genuinely hard cases, and OSReward-Multi for fine-grained efficiency and alignment scoring. The most comprehensive evaluation of VLM judges to date finds even state-of-the-art models fall short of an ideal judge, sharing a systematic leniency bias that mislabels failed runs as successes. The few reliable enough to trust are too expensive to run at scale, while affordable open models trail far behind. To close this gap, we construct and release OS-Shepherd-100K, an open corpus of reasoning-annotated trajectory judgments for the CUA community. On it, we train OS-Shepherd (9B and 35B), open reward models that supply low-cost, stable, and reliable reward signals, matching commercial judges at 30-60% lower cost than the frontier. Extensive analyses further inform the design of reliable CUA reward at scale. Our code, benchmark, dataset, and model checkpoints are available at https://os-copilot.github.io/OSReward-Home/."
-    },
-    {
-      "id": "fetch-paper-7",
-      "title": "Functional Percolation: Criticality of Form and Function",
-      "source": "arXiv.org",
-      "date": "2025-12-10",
-      "description": "Understanding how network structure constrains and enables information processing is a central problem in the statistical mechanics of interacting systems. Here we study random networks across the structural percolation transition and analy...",
-      "category": "research",
+      "date": "2026-07-31",
+      "description": "Convolutional neural networks (CNNs) are widely used for time-series classification, but their deployment in critical domains requires understanding the temporal and spectral patterns that drive their predictions. Concept extraction (CE) me...",
+      "category": "tooling",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2512.09317v5",
-      "hotScore": 83,
-      "content": "Understanding how network structure constrains and enables information processing is a central problem in the statistical mechanics of interacting systems. Here we study random networks across the structural percolation transition and analyze how connectivity governs realizable input-output transformations under cascade dynamics. Using Erdos-Renyi networks as a minimal ensemble, we examine structural, functional, and information-theoretic observables as functions of mean degree. We find that the emergence of the giant connected component coincides with a sharp transition in realizable information processing: complex input-output response functions become accessible, functional diversity increases rapidly, output entropy rises, and directed information flow, quantified by transfer entropy, extends beyond local neighborhoods. We term this coincidence of structural, functional, and informational transitions functional percolation, referring to a sharp expansion of the space of realizable input-output functions at the percolation threshold. Near criticality, networks exhibit a Pareto-optimal tradeoff between functional complexity and diversity, suggesting that percolation criticality may provide a general organizing principle of information processing capacity in systems with local interactions and propagating influences."
+      "url": "http://arxiv.org/abs/2607.29621v1",
+      "hotScore": 80,
+      "content": "Convolutional neural networks (CNNs) are widely used for time-series classification, but their deployment in critical domains requires understanding the temporal and spectral patterns that drive their predictions. Concept extraction (CE) methods identify such patterns by analyzing representations within the models' latent space. However, existing time-series CE methods have three limitations: they operate only in the time domain and overlook frequency features, predefine the number of concepts, and produce localizations misaligned with the regions the model uses. We address these limitations by proposing CENDRe, a concept extraction method for CNNs. It first discovers concepts by clustering per-timestep latent representations in two stages, where silhouette-guided aggregation selects the number of concepts automatically. Then, it localizes each concept through gradients of a presence score that contrasts the latent representations with their prototypes, producing masks that concentrate on the regions driving the concept. These gradients, propagated through a differentiable invertible mapping of the input such as a Fourier transform, yield localizations for the same concepts in the frequency domain. Finally, each concept receives a relevance score that quantifies its contribution to each class. On synthetic benchmarks, CENDRe achieves representation correctness comparable to state-of-the-art CE methods and significantly higher importance correctness. On real bearing-fault data, CENDRe extracts the frequency bands driving the model's predictions, located in regions commonly inspected for fault diagnosis, producing evidence to assess the model that time-domain CE methods cannot."
+    },
+    {
+      "id": "fetch-paper-7",
+      "title": "When Iterative RAG Beats Ideal Evidence: A Diagnostic Study in Scientific Multi-hop Question Answering",
+      "source": "arXiv.org",
+      "date": "2026-01-27",
+      "description": "Retrieval-Augmented Generation (RAG) extends large language models (LLMs) beyond parametric knowledge, yet it is unclear when iterative retrieval-reasoning loops meaningfully outperform static RAG, particularly in scientific domains requiri...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2601.19827v5",
+      "hotScore": 86,
+      "content": "Retrieval-Augmented Generation (RAG) extends large language models (LLMs) beyond parametric knowledge, yet it is unclear when iterative retrieval-reasoning loops meaningfully outperform static RAG, particularly in scientific domains requiring multi-hop reasoning over sparse, heterogeneous evidence. We provide the first controlled, mechanism-level diagnostic evaluation of whether synchronized iterative retrieval and reasoning can surpass even an idealized static upper bound (Gold Context) RAG. We benchmark eleven state-of-the-art LLMs under three regimes: (i) No Context, measuring reliance on parametric memory; (ii) Gold Context, where all oracle evidence is supplied at once; and (iii) Iterative RAG, a training-free controller that alternates retrieval, hypothesis refinement, and evidence-aware stopping. Using the chemistry-focused ChemKGMultiHopQA dataset, we isolate questions requiring genuine retrieval and analyze retrieval coverage gaps, anchor carry drop, query quality, composition fidelity, and control calibration. Iterative RAG consistently outperforms Gold Context, with gains up to 25.6 percentage points, especially for non-reasoning fine-tuned models. Staged retrieval reduces late-hop failures, mitigates context overload, and enables dynamic correction of early hypothesis drift, but failure modes remain, including incomplete hop coverage, distractor latch trajectories, early stopping miscalibration, and high composition failure rates even with perfect retrieval. Overall, the process of staged retrieval is often more influential than the mere presence of ideal evidence. We provide practical guidance for deploying and diagnosing RAG in specialized scientific settings. Code and evaluation results are available at https://github.com/Matroid1998/Iterative-rag"
     },
     {
       "id": "fetch-hf-2607.23193",
@@ -458,7 +458,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 257323673,
-      "likes": 5160,
+      "likes": 5161,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -584,7 +584,7 @@
       "owner": "Community",
       "fullName": "Qwen/Qwen3-0.6B",
       "downloads": 28903185,
-      "likes": 1473,
+      "likes": 1475,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -600,7 +600,7 @@
       "owner": "Community",
       "fullName": "amazon/chronos-2",
       "downloads": 27567777,
-      "likes": 386,
+      "likes": 387,
       "category": "research",
       "tags": [
         "Time-series-forecasting",
@@ -614,6 +614,36 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-08-02",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+      "hotScore": 98,
+      "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it...."
+    },
+    {
+      "id": "fetch-gadget-1",
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-08-02",
+      "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital ...",
+      "category": "agent",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "hotScore": 93,
+      "content": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital ..."
+    },
+    {
+      "id": "fetch-gadget-2",
       "title": "What&#8217;s the best handheld mini fan?",
       "source": "TechCrunch Gadgets",
       "date": "2026-08-01",
@@ -624,11 +654,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
-      "hotScore": 95,
+      "hotScore": 94,
       "content": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable...."
     },
     {
-      "id": "fetch-gadget-1",
+      "id": "fetch-gadget-3",
       "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
       "source": "TechCrunch Gadgets",
       "date": "2026-07-31",
@@ -639,11 +669,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-      "hotScore": 87,
+      "hotScore": 86,
       "content": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon...."
     },
     {
-      "id": "fetch-gadget-2",
+      "id": "fetch-gadget-4",
       "title": "Silicon Valley loves young founders. Until it doesn&#8217;t.",
       "source": "TechCrunch Gadgets",
       "date": "2026-07-31",
@@ -654,7 +684,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "hotScore": 88,
+      "hotScore": 94,
       "content": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company...."
     }
   ]
