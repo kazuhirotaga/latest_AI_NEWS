@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-04T01:15:59.184Z",
+  "updatedAt": "2026-08-04T13:39:53.082Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 385048,
-      "forks": 80936,
+      "stars": 385108,
+      "forks": 80947,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 265730,
-      "forks": 23767,
+      "stars": 266126,
+      "forks": 23794,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 224906,
-      "forks": 43578,
+      "stars": 225263,
+      "forks": 43719,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 199225,
-      "forks": 59882,
+      "stars": 199295,
+      "forks": 59892,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 185793,
-      "forks": 46051,
+      "stars": 185806,
+      "forks": 46053,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 166695,
-      "forks": 21534,
+      "stars": 166723,
+      "forks": 21532,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164372,
-      "forks": 30537,
+      "stars": 164387,
+      "forks": 30540,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 160110,
-      "forks": 9077,
+      "stars": 160668,
+      "forks": 9085,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -142,7 +142,7 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 157501,
+      "stars": 157510,
       "forks": 46175,
       "language": "JavaScript",
       "category": "research",
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 151232,
-      "forks": 23865,
+      "stars": 151314,
+      "forks": 23884,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 147745,
-      "forks": 21491,
+      "stars": 147812,
+      "forks": 21489,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 143354,
-      "forks": 23876,
+      "stars": 143401,
+      "forks": 23879,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,7 +210,7 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 142543,
+      "stars": 142551,
       "forks": 34825,
       "language": "Python",
       "category": "agent",
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 125190,
-      "forks": 11190,
+      "stars": 125260,
+      "forks": 11192,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 123420,
-      "forks": 14585,
+      "stars": 123568,
+      "forks": 14599,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,196 +260,197 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth",
+      "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
       "source": "arXiv.org",
-      "date": "2026-08-02",
-      "description": "Depth-routing residual architectures allow Transformer layers to retrieve earlier representations instead of inheriting only the immediately preceding state. Existing Block Attention Residuals, however, use a single content-dependent depth ...",
-      "category": "llm",
+      "date": "2026-08-03",
+      "description": "Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens. Existing continuous language models eith...",
+      "category": "image",
       "tags": [
         "Research",
-        "LLM"
+        "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2608.01075v1",
-      "hotScore": 87,
-      "content": "Depth-routing residual architectures allow Transformer layers to retrieve earlier representations instead of inheriting only the immediately preceding state. Existing Block Attention Residuals, however, use a single content-dependent depth mixture to construct the inputs to queries, keys, and values. This design couples two functionally different decisions: queries and keys determine where attention matches, whereas values determine what content is retrieved. We therefore ask whether matching and content retrieval should be forced to read from the same depth. We introduce Role-Decoupled Attention Residuals (RD-AttnRes), a minimal extension that shares one depth route between queries and keys while learning an independent value route over the same residual sources. Tying the two routing queries exactly recovers the parent architecture, while decoupling them adds only one model-width vector per layer and introduces no additional token-to-token attention operation. We evaluate RD-AttnRes using a frozen, paired pretraining protocol on FineWeb-Edu with five matched seeds for both 120M- and 343M-parameter models and a 2.0B-token training budget. RD-AttnRes improves validation negative log-likelihood in all 10 matched comparisons. The mean reductions are 0.0301 and 0.0247, corresponding to perplexity reductions of 2.97 percent and 2.43 percent at 120M and 343M parameters, respectively. Early-budget controls indicate that neither the additional parameter count, duplicated routing execution, nor a fixed value route reproduces the improvement. Routing diagnostics further reveal persistent divergence between the query-key and value depth distributions. These results suggest that, within the evaluated training regime, attention matching and content retrieval benefit from distinct reads over the residual hierarchy."
+      "url": "http://arxiv.org/abs/2608.02602v1",
+      "hotScore": 91,
+      "content": "Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens. Existing continuous language models either inherit embedding spaces not designed for joint generation and decoding, or compress autoencoded latents to ease diffusion, sacrificing token-level fidelity. Instead of simplifying the representation to suit the generative model, we preserve a high-capacity, decodable text latent and design the diffusion model to learn its distribution directly. We introduce AURORA-LM, a continuous-latent diffusion language model that separates the construction of a decodable text representation from the modeling of its distribution. A Query-based Encoder-Decoder organizes text into a high-capacity, prefix-aligned latent sequence, and a Block-causal Diffusion Transformer learns its distribution through flow matching, generating blocks left to right while denoising positions within each block in parallel. Because such a latent is harder for diffusion to model, AURORA-LM restricts only the noisy-input pathway while retaining the full clean-latent prediction target, accommodating full-width latents without reducing decoder-facing capacity. We further calibrate the noise-level distribution to the latent width, and introduce self-trajectory consistency to bridge independently sampled training noise and iterative denoising at inference. AURORA-LM achieves the strongest performance among evaluated continuous and diffusion-based language models on OpenWebText free generation and XSum summarization. Scaling to 1B parameters with about 1500 EFLOPs of total compute yields further gains, surpassing a larger publicly released latent-diffusion language model under a matched evaluation protocol. All experiments are conducted on Ascend NPUs."
     },
     {
       "id": "fetch-paper-1",
-      "title": "Logit-Origin Centering for Singleton Test-Time Adaptation",
+      "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
       "source": "arXiv.org",
-      "date": "2026-08-02",
-      "description": "Tabular data is used extensively in many real-world use cases. Deep learning models have been developed to deal with tabular data, but generally perform poorly when the test data distribution differs from that of the training data. Research...",
+      "date": "2026-08-03",
+      "description": "Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2608.01074v1",
-      "hotScore": 87,
-      "content": "Tabular data is used extensively in many real-world use cases. Deep learning models have been developed to deal with tabular data, but generally perform poorly when the test data distribution differs from that of the training data. Researchers have proposed test-time adaptation approaches to deal with this problem. The fully test-time adaptation (FTTA) setting involves adapting deployed classifiers to shifted target distributions using only unlabeled test data. Leading FTTA methods inherit a batch-dependent approach from computer vision literature. This paper demonstrates for the first time that such approaches degrade sharply in strict streaming regimes where examples arrive and must be classified one at a time. This occurs because at a batch size of one, batch-level statistics become unavailable or poorly estimated. We argue that singleton tabular FTTA is not merely a small-batch variant of ordinary FTTA, but a distinct identifiability problem where only the location of the model's score stream remains directly observable. To address this, we propose Prequential Logit-Origin Centering (PLOC), a lightweight approach that keeps the source model frozen and shifts the logit space at each step. PLOC stores only a single running number (the mean of past logits), requires no labels, estimates no priors, and bypasses weight updates entirely. A deferred variant applies a static shift that preserves the source ranking, and thus the AUROC, exactly. Evaluated across five tabular benchmarks, three architectures (MLP, FT-Transformer, and TabTransformer), and five independent source checkpoints, PLOC significantly outperforms strong tabular and entropy-based baselines."
+      "url": "http://arxiv.org/abs/2608.02599v1",
+      "hotScore": 81,
+      "content": "Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for newcomers or interdisciplinary learners, who increasingly rely on large language models rather than building their own. This gap points to a need for engineering-grounded AI (EGAI), in which AI workflows follow established engineering and power-system domain rules rather than acting as task-agnostic black boxes. Motivated by a community survey of researchers and practitioners, which shows 92% report at least one barrier before running an AI model and 94% want a power-specific hands-on course. This paper presents a framework consisting of open, executable module library that lowers the entry barrier for AI in power systems. The modules follow a progressive difficulty ladder that maps core AI concepts onto representative power-system tasks: (i) foundational deep neural network (DNN) templates for function approximation and load-curve fitting; (ii) a domain-coupled convolutional neural network (CNN) power-flow surrogate for a 5-bus system; and (iii) frontier modules on DNN-assisted optimization, deep reinforcement learning (DRL) for battery storage control, and physics-informed neural networks (PINNs) for the swing equation. All modules are released as Jupyter notebooks that run locally or on Google Colab and are delivered through an IEEE online course and IEEE Power &amp; Energy Society (PES) webinar series. The webinar drew more than 590 live attendees, which is among the ten most-attended IEEE PES webinars, and over 344 repository visits within two weeks, reinforcing the survey-based motivation."
     },
     {
       "id": "fetch-paper-2",
-      "title": "DAG-FM: A Foundation Model for Causal Discovery under Heterogeneous Causal Mechanisms",
+      "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks",
       "source": "arXiv.org",
-      "date": "2026-07-13",
-      "description": "Causal discovery from observational tabular data remains fundamentally challenging, primarily due to the heterogeneity of underlying causal mechanisms and the high-dimensional combinatorial search space of Directed Acyclic Graphs (DAGs). In...",
+      "date": "2026-08-03",
+      "description": "Language models are playing an increasingly important role in laboratory science, performing tasks such as experiment planning, execution, and post-hoc analysis. However, precisely measuring their abilities is difficult, as scientific capab...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2607.11510v2",
-      "hotScore": 86,
-      "content": "Causal discovery from observational tabular data remains fundamentally challenging, primarily due to the heterogeneity of underlying causal mechanisms and the high-dimensional combinatorial search space of Directed Acyclic Graphs (DAGs). In this paper, we propose \\textbf{DAG-FM}, a novel foundation model architecture that amortizes causal discovery. Unlike direct matrix prediction, DAG-FM decomposes the causal discovery process into two auto-regressive stages using two specialized Transformer-based sub-modules: a leaf-node predictor and a parent-node predictor. To effectively model complex row-column interactions, we adopt a robust tabular interaction block to output feature-wise representations. Crucially, to handle diverse and unknown Functional Causal Model (FCM) assumptions in real-world scenarios, we introduce Mixture-of-Leaf-Experts (MoLE), allowing the model to dynamically route and adapt to identifiable mechanism families. Through an iterative inference algorithm, DAG-FM seamlessly extracts causal orderings and constructs valid DAGs. Extensive experiments demonstrate that DAG-FM achieves state-of-the-art performance on both synthetic benchmarks and complex real-world datasets, significantly outperforming traditional classical algorithms and recent foundation models in both accuracy and scalability."
+      "url": "http://arxiv.org/abs/2608.02595v1",
+      "hotScore": 90,
+      "content": "Language models are playing an increasingly important role in laboratory science, performing tasks such as experiment planning, execution, and post-hoc analysis. However, precisely measuring their abilities is difficult, as scientific capabilities require a mixture of both problem-solving skills and domain-specific intuition. Existing evaluations rarely measure the capabilities required to make reliable decisions in a physical laboratory and often rely on public data that may have appeared in model training corpora. We introduce onepot-Bench 0, a proprietary benchmark suite for evaluating language models on synthetic chemistry capabilities relevant to wet-lab execution. onepot-Bench 0 comprises three complementary evaluations: ChemAbacus measures tool-free cheminformatics literacy and numerical reasoning; SynthRefusal characterizes safety and refusal behavior across a variety of benign, controlled, and designer-drug targets; and SynthBench evaluates reaction-outcome prediction and catalyst selection using private experimental data generated in our laboratory. Together, these evaluations probe basic competency, reliability, and deeper knowledge, all skills which are required for reliable performance in the lab."
     },
     {
       "id": "fetch-paper-3",
-      "title": "Characterizing Bias in Post-Bandit Inference under Index Algorithms",
+      "title": "MetaHOPE: A Metaphor-Oriented Evaluation Framework for Analysing MT and LLM Translation Errors",
       "source": "arXiv.org",
-      "date": "2026-08-02",
-      "description": "Bandit algorithms generate data for downstream inference, but adaptive sampling biases post-bandit sample means. We analyze this bias for stable index algorithms, including UCB1 and its generalizations, and derive sharp leading-order expres...",
-      "category": "research",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2608.01069v1",
-      "hotScore": 86,
-      "content": "Bandit algorithms generate data for downstream inference, but adaptive sampling biases post-bandit sample means. We analyze this bias for stable index algorithms, including UCB1 and its generalizations, and derive sharp leading-order expressions for the sample-mean bias and expected $Z$-statistic. Our characterization reveals the algorithmic origin of bias through a key index-function-dependent quantity, which we term effective exploration rate. For example, under UCB1, the effective exploration rate is of order $\\sqrt{\\log T}$, and the standardized bias of any arm (that is not uniquely optimal) decays at the extremely slow rate $1/\\sqrt{\\log T}$. We also show how the choice of the index function affects both regret and bias, which reveals a regret-bias trade-off: more exploratory algorithm reduces bias but increases regret. Our sharp characterization for bias uses a novel empirical fluid approximation of the algorithm's sampling dynamics, which may be of independent interest."
-    },
-    {
-      "id": "fetch-paper-4",
-      "title": "Beyond Scaffold Splits: Structural-Frontier Evaluation Reveals Hidden Failures in ADMET Models",
-      "source": "arXiv.org",
-      "date": "2026-07-12",
-      "description": "Molecular property models are commonly evaluated by holding out Bemis-Murcko scaffolds, yet a scaffold identifier is only one notion of chemical unfamiliarity. We introduce a label-free structural-frontier split that reserves the sparsest a...",
-      "category": "research",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2607.10729v2",
-      "hotScore": 89,
-      "content": "Molecular property models are commonly evaluated by holding out Bemis-Murcko scaffolds, yet a scaffold identifier is only one notion of chemical unfamiliarity. We introduce a label-free structural-frontier split that reserves the sparsest and most physicochemically remote scaffold groups, and evaluate it on six public experimental or curated ADMET tasks. Against a 70/10/20 scaffold control with identical acyclic grouping, the frontier inflates equally weighted primary error with a taskwise median of 87.0% and a skew-sensitive mean of 130.3% (descriptive task/seed bootstrap interval, 52.1-246.0%). The mean falls to 75.9% once BBB is removed; that endpoint is the one whose score ranking inverts at the frontier. A message-passing graph-network control still shows a large gap (mean 82.8% over four tasks) and does not invert, so a low-capacity head does not explain the effect. We also test Multi-View Frontier Risk Extrapolation (MV-FREX), a count-adjusted tail-risk penalty over four molecular views, and treat it as a falsifiable probe. It changes normalized frontier error by only 0.16% relative to empirical risk minimization for the perceptron head (interval, -0.43-0.84%) and by -1.9% for the graph network; three fixed robust-penalty controls are likewise inconclusive. Against the published Lo-Hi and DataSAIL splitters, the frontier inflates error more on average, though no split is uniformly hardest. An audit of 31,561 marine natural products further shows that OOD status and agreement with legacy ADMET predictions depend on the molecular view, endpoint, and teacher coverage. Split construction and label provenance are important evaluation constraints in their own right, and the tested training penalties do not resolve the frontier failures we observe."
-    },
-    {
-      "id": "fetch-paper-5",
-      "title": "Contextual Slate GLM Bandits with Limited Adaptivity",
-      "source": "arXiv.org",
-      "date": "2026-06-30",
-      "description": "We investigate the contextual slate bandit problem with generalized linear rewards under limited adaptivity. At each round, the learner is presented with $N$ sets of items, where each item is represented by a $d$-dimensional feature vector....",
+      "date": "2026-07-01",
+      "description": "In this opinion paper, we propose MetaHOPE, an error severity-aware annotation framework for evaluating metaphor translations. Metaphors present challenges for machine translation (MT) and natural language understanding and processing (NLU,...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2606.31449v2",
-      "hotScore": 86,
-      "content": "We investigate the contextual slate bandit problem with generalized linear rewards under limited adaptivity. At each round, the learner is presented with $N$ sets of items, where each item is represented by a $d$-dimensional feature vector. The learner then constructs a slate by selecting one item per set; the resulting slate yields a scalar reward sampled from a Generalized Linear Model (GLM). We propose algorithms under two limited-adaptivity settings: (a) Batched and (b) Rarely-Switching. For the batched setting, we introduce B-SlateGLinCB, which partitions the time horizon into $\\mathcal{O}(\\log\\log T)$ batches such that each batch's policy relies only on data from previous batches. For the rarely-switching setting, we propose RS-SlateGLinCB, which adaptively performs only $\\mathcal{O}(Nd\\log T)$ parameter updates. Under a diversity assumption on the item sequences, we prove that B-SlateGLinCB and RS-SlateGLinCB achieve regret bounds of $\\mathcal{O}(Nd^{3/2}\\sqrt{T})$ and $\\mathcal{O}(Nd\\sqrt{T})$, respectively. Notably, both bounds are independent of the non-linearity parameter $κ$ that is typically found to scale the regret of GLM bandit algorithms. Our algorithms are computationally efficient, requiring only $\\text{poly}(N)$ time per round despite $2^{Ω(N)}$ possible slates. Simulations show our algorithms outperform existing baselines with limited adaptivity and remain competitive with Slate-GLM-OFU, a fully adaptive state-of-the-art algorithm. Notably, a slightly modified B-SlateGLinCB empirically matches this baseline. Finally, we demonstrate strong performance in a practical in-context example selection task for language models."
+      "url": "http://arxiv.org/abs/2607.00848v3",
+      "hotScore": 81,
+      "content": "In this opinion paper, we propose MetaHOPE, an error severity-aware annotation framework for evaluating metaphor translations. Metaphors present challenges for machine translation (MT) and natural language understanding and processing (NLU, NLP), because it presents the features of semantic complexity, contextual dependency, and cultural embeddings that can lead to ambiguity issues for NLP models. To investigate how state-of-the-art NLP models perform on translating metaphors, we select three representative systems, i.e., GoogleMT, GPT5.4, and Hunyuan-7b as Neural MT (NMT) models and LLMs. We used two human-annotated metaphor corpora, including VUAMC and PSUCMC for English-to-Chinese and Chinese-to-English translation purposes. The original corpora we used are monolingual, where we carried out error annotation using the MetaHOPE framework, and also produced the human post-edited gold reference for bilingual use as a new resource. We believe the MetaHOPE evaluation framework for metaphor translation annotation, the parallel corpora resources, and the error analysis on SOTA automatic translation models can be useful and shed some light for the field of metaphor translation study. We share our resources publicly at github.com/Jiahui84/MetaHOPE"
     },
     {
-      "id": "fetch-paper-6",
-      "title": "Control Under Compression: Reliability Frontiers for Tool-Using Agents",
+      "id": "fetch-paper-4",
+      "title": "The Condition-Number Barrier in Sparse Least Squares",
       "source": "arXiv.org",
-      "date": "2026-08-02",
-      "description": "Tool-using language-model agents are governed not only by task prompts but also by persistent system-side instructions that specify tools, arguments, policies, execution protocols, and recovery. Compressing these agent control contexts (ACC...",
+      "date": "2026-08-03",
+      "description": "In [AS21], Axiotis and Sviridenko conjectured that the linear dependence on the restricted condition number in sparse convex optimization cannot be improved by a polynomial-time algorithm. We establish their conjectured lower bound for leas...",
       "category": "agent",
       "tags": [
         "Research",
         "Agent"
       ],
-      "url": "http://arxiv.org/abs/2608.01056v1",
-      "hotScore": 92,
-      "content": "Tool-using language-model agents are governed not only by task prompts but also by persistent system-side instructions that specify tools, arguments, policies, execution protocols, and recovery. Compressing these agent control contexts (ACCs) can reduce input cost and context use, yet existing prompt-compression evaluations do not reveal whether the resulting control remains operationally reliable. We introduce CompressAgent, an environment-verified benchmark for ACC compression across nine independently constructed ACCs, three task families, three fixed Qwen API model identifiers, six retained-context budgets, and 15,525 runs. We uncover a nonlinear, method-dependent reliability frontier. At 75% retained context, generic rewriting and section-based compression achieve 92.7% and 92.4% success, close to the 93.8% full-context baseline. Between 50% and 35%, methods diverge sharply; at 35%, section-based, obligation-aware, and generic rewriting achieve 47.0%, 39.0%, and 19.9%. At retained-context budgets from 25% to 10%, executable protocols become fragile. Reliability also varies substantially across ACCs, making universal compressor rankings inappropriate and motivating per-context qualification. Failure analysis shows that compression primarily surfaces as tool-execution and action-parsing errors. These findings recast ACC compression from token reduction into a runtime-reliability problem that must be evaluated through executable outcomes."
+      "url": "http://arxiv.org/abs/2608.02588v1",
+      "hotScore": 86,
+      "content": "In [AS21], Axiotis and Sviridenko conjectured that the linear dependence on the restricted condition number in sparse convex optimization cannot be improved by a polynomial-time algorithm. We establish their conjectured lower bound for least-squares objectives, conditional on the randomized exact-volume Small-Set Expansion Hypothesis in the weighted regular-graph formulation of Raghavendra, Steurer, and Tulsiani [RST12]. Concretely, for every fixed $γ\\in(0,1]$, there is no randomized polynomial-time algorithm that, with probability at least $2/3$, returns a vector $x$ such that, writing $s=\\lVert x\\rVert_0$, \\[ \\lVert Ax-b\\rVert_2^2 \\leq \\min_{\\lVert z\\rVert_0\\leq k}\\lVert Az-b\\rVert_2^2+\\varepsilon \\quad\\text{and}\\quad s=O\\!\\left(k\\,κ_{s+k}^{\\,1-γ}\\right), \\] where $κ_r$ is the restricted condition number at sparsity level $r$. The result holds even on rational instances with $A$ of full column rank. The proof was first obtained using a fully automated Gemini-based agentic system developed internally at Google. The authors have verified the proof and edited it for clarity of presentation."
     },
     {
-      "id": "fetch-paper-7",
-      "title": "Credit the Right Box: Marginal Contribution Assignment for Structured Visual Perception",
+      "id": "fetch-paper-5",
+      "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
       "source": "arXiv.org",
-      "date": "2026-08-02",
-      "description": "Multimodal Large Language Models (MLLMs) are increasingly expected to solve structured perception tasks that require visual recognition, language-to-object binding, object cardinality preservation, and precisely localized grounding and segm...",
+      "date": "2026-08-03",
+      "description": "Optimization-based latent reasoning improves large language model outputs by optimizing instance-specific continuous states at test time while keeping model parameters frozen. Existing methods, however, typically connect these states to the...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2608.01055v1",
-      "hotScore": 90,
-      "content": "Multimodal Large Language Models (MLLMs) are increasingly expected to solve structured perception tasks that require visual recognition, language-to-object binding, object cardinality preservation, and precisely localized grounding and segmentation outputs. However, existing group-relative reinforcement learning methods provide only response-level supervision, creating a granularity mismatch for structured multi-object prediction: a single advantage is broadcast to all tokens in a response, without distinguishing individual box contributions. To address this mismatch, we propose MCR-GRPO, a marginal contribution assignment framework that derives box-level credit directly from each sampled response. Specifically, Marginal Contribution Reward (MCR) estimates each predicted box's contribution through a leave-one-out comparison, measuring how the matched set value changes when the box is removed from the response. After within-response normalization, records that improve the set value receive positive credit, while redundant or harmful ones are suppressed. To make marginal attribution stable and informative, we further introduce a Continuous Matched Set Value Evaluator that integrates permutation-invariant matching, count-aware normalization, and graded localization. MCR-GRPO maps normalized box-level marginal advantages to the token spans that generated each box, preserving GRPO's response-level comparison while enabling box-aware optimization of structured multi-object grounding. Experiments across REC, DOD, segmentation, and counting benchmarks show state-of-the-art performance over prior GRPO-based baselines."
+      "url": "http://arxiv.org/abs/2608.02585v1",
+      "hotScore": 92,
+      "content": "Optimization-based latent reasoning improves large language model outputs by optimizing instance-specific continuous states at test time while keeping model parameters frozen. Existing methods, however, typically connect these states to the reasoning trajectory through decoded tokens, making sequence-level credit assignment indirect and obscuring how latent updates shape subsequent reasoning. We introduce GradCuit (gradient through circuit), which inserts optimizable latent states at a selected Transformer layer between the hidden representations of the prompt and the generated continuation. Causal self-attention provides every continuation-token log-probability with a differentiable path to every preceding latent state through the remaining Transformer blocks, enabling reward-weighted gradients from the entire continuation to be assigned directly to the latents. Across five instruction-tuned backbones, three reasoning benchmarks, and two answer formats, GradCuit achieves an average accuracy of 64.5%, outperforming chain-of-thought prompting by 6.6 percentage points and the strongest competing method by 2.4 points. GradCuit also demonstrates greater robustness: across seven learning-rate settings, it consistently outperforms LatentSeek while reducing the standard deviation of accuracy from 1.53 to 0.82, and even its random-walk variant remains competitive with LatentSeek. For interpretability, token-level gradient attribution reveals that latent influence concentrates on reasoning-connector tokens, while layer analysis identifies early-to-middle Transformer layers as the most effective optimization space. By directly optimizing internal reasoning from outcome feedback, GradCuit opens a new axis of robust and interpretable test-time scaling, where LLMs adapt how they reason rather than merely regenerate, sample, or rerank outputs."
     },
     {
-      "id": "fetch-hf-2607.26246",
-      "title": "Weak-to-Strong On-Policy Distillation",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-27",
-      "description": "On-policy distillation (OPD), which aligns a student with the teacher's token-level distribution on the student's own rollouts, is an effective paradigm for transferring capabilities across LLMs. Prevailing approaches assume a teacher at le...",
-      "category": "llm",
+      "id": "fetch-paper-6",
+      "title": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
+      "source": "arXiv.org",
+      "date": "2026-08-03",
+      "description": "Sparse retrieval underpins modern search systems, from web search to retrieval-augmented generation. Existing work has introduced Learned Sparse Retrieval (LSR) to push beyond exact lexical matching toward richer semantics. Yet LSR has so f...",
+      "category": "agent",
       "tags": [
-        "Hugging Face",
-        "Paper"
+        "Research",
+        "Agent"
       ],
-      "url": "https://huggingface.co/papers/2607.26246",
-      "hotScore": 90,
-      "content": "On-policy distillation (OPD), which aligns a student with the teacher's token-level distribution on the student's own rollouts, is an effective paradigm for transferring capabilities across LLMs. Prevailing approaches assume a teacher at least as capable as the student: they either distill a larger model into a smaller one, which fails at the frontier where no larger teacher exists, or consolidate multiple domain experts trained from a shared base, which requires costly training at the student's scale. We introduce Weak-to-Strong On-Policy Distillation (W2S-OPD), a simple yet effective OPD framework that improves the strong student by distilling from multiple weak models. W2S-OPD constructs a proxy teacher in logit space from a contrast pair of a positive and a negative model, both smaller than the student and cheap to obtain. Their logit difference isolates the capability direction, which is added to the student's own base model, yielding a proxy teacher that couples this direction while staying distributionally adjacent to the student. The student then distills it by minimizing the per-token reverse KL on its own rollouts. We instantiate the contrast pair as i) a post-RL expert against its pre-RL initialization, isolating the skill RL instills, ii) a larger against a smaller base model, isolating the capability from scale, and iii) a small base model with correct versus wrong hints, isolating the instance-level direction toward the solution. Across four math and three code benchmarks, W2S-OPD outperforms OPD, enables the student to surpass the domain teacher, and keeps improving the student even when every supervision source is weaker. Analysis shows different contrasts yield distinct signals: the post-RL and hint contrasts emphasize reasoning frameworks, while the scale contrast emphasizes the solving procedure. Our code will be available at https://github.com/Yu-Fangxu/W2S-OPD."
+      "url": "http://arxiv.org/abs/2608.02583v1",
+      "hotScore": 88,
+      "content": "Sparse retrieval underpins modern search systems, from web search to retrieval-augmented generation. Existing work has introduced Learned Sparse Retrieval (LSR) to push beyond exact lexical matching toward richer semantics. Yet LSR has so far remained tied to encoder-style bidirectional architectures, and its extension to multimodal settings still relies heavily on auxiliary cross-modal modules. To address these limitations, we introduce UEmbed (Unified Embedding), a decoder-only multimodal embedding model that produces both sparse lexical and dense representations in one causal forward pass. UEmbed appends N learnable special tokens to the input and partitions the vocabulary into N disjoint subsets. Each token's causal hidden state predicts sparse weights over its assigned subset, and the N subsets are concatenated into the full sparse vector. Trained on public data, we release UEmbed at 2B, 4B, and 9B scales. UEmbed-9B reaches 71.8 (dense) and 71.0 (sparse) on MMEB-v2, outperforming multimodal embedding models trained on publicly available data (e.g., RzenEmbed). On BEIR, UEmbed also remains competitive with strong dense and sparse baselines. Furthermore, we demonstrate the practical utility of UEmbed across three dimensions: effectiveness, efficiency, and agentic applications. Overall, UEmbed offers a new paradigm: it unifies dense and sparse embeddings in one model, while further extending sparse retrieval to unify text and multimodal inputs."
     },
     {
-      "id": "fetch-hf-2607.26654",
-      "title": "Constitutional Midtraining: Content Presence Drives Alignment Gains",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-28",
-      "description": "Post-training alignment is often shallow, eroding under fine-tuning. Whether midtraining interventions, cleanly isolated from post-training, can produce durable alignment remains untested. We test this via constitutional midtraining: insert...",
-      "category": "tooling",
+      "id": "fetch-paper-7",
+      "title": "CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs",
+      "source": "arXiv.org",
+      "date": "2026-08-03",
+      "description": "World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute. We present CoWAM, a selective intervention ...",
+      "category": "research",
       "tags": [
-        "Hugging Face",
-        "Paper"
+        "Research"
       ],
-      "url": "https://huggingface.co/papers/2607.26654",
-      "hotScore": 89,
-      "content": "Post-training alignment is often shallow, eroding under fine-tuning. Whether midtraining interventions, cleanly isolated from post-training, can produce durable alignment remains untested. We test this via constitutional midtraining: inserting principled, values-based content into midtraining against a replay-only control at 120B scale. Our 394M-token constitutional corpus, built from Anthropic's Constitution, uses a 2x2 factorial design (curriculum ordering x deliberative reasoning) to produce four constitutionally midtrained conditions plus a control, evaluated on self-generated and established benchmarks including alignment under pressure, value conflict resolution, blackmail, and emergent misalignment across three stages: post-midtraining, post-SFT, and post-benign fine-tuning. Constitutionally midtrained models outperform the control on alignment generalization and durability, notably on blackmail: SFT instills a blackmail propensity in all models, but constitutional midtraining blunts it, with the advantage surviving benign fine-tuning (-17.5pp). This durability does not extend to settings requiring active resistance to in-context pressure or conflict, where the advantage attenuates after SFT. The presence of constitutional content at midtraining also matters more than its structure, and constitutional midtraining incurs no cost, on average, on the capabilities we test (MMLU, ARC-Easy, piqa, GSM8K) at any stage. A modest amount of constitutional content at midtraining could therefore yield broad, persistent alignment gains, offering a cheap, complementary addition to SFT-centered pipelines. Code, data, and models are available."
+      "url": "http://arxiv.org/abs/2608.02578v1",
+      "hotScore": 83,
+      "content": "World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute. We present CoWAM, a selective intervention layer that expresses synchronization, role compatibility, and collision convergence as coordination contracts. Each contract combines typed admissibility checks with event-conditioned verification and calibrated intervention gates. CoWAM preserves the nominal action unless an alternative satisfies every active obligation and provides a clear, low-risk improvement; when the nominal action is also inadmissible, it invokes a predefined abstention fallback. To separate selector quality from proposal quality, all methods operate on identical candidate pools and commit their decisions before shared oracle labeling. Across eight simulated bimanual tasks, CoWAM improves coordination-valid selection by 16.7 percentage points over the contract-only variant and raises closed-loop success by 9.6 percentage points over the strongest selective baseline, while keeping harmful interventions below 1%. Together, these results establish coordination contracts as an effective interface for conservative policy intervention with predicted world-action evidence across coordination-rich bimanual tasks."
     },
     {
-      "id": "fetch-hf-2607.28229",
-      "title": "EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents",
+      "id": "fetch-hf-2607.23693",
+      "title": "Compute Globally, Materialize Locally: The Memory Contract of Sparse Event-KV",
       "source": "Hugging Face Daily",
-      "date": "2026-07-30",
-      "description": "The web is increasingly accessed by AI agents rather than humans. Every agent needs knowledge, especially in the life-sciences, where agentic pipelines are growing fast. Access to the literature is a crucial part of that need, and resources...",
+      "date": "2026-07-25",
+      "description": "Long-horizon agents increasingly reuse their KV cache as memory: a serving system keeps a subset of cached entries and drops the rest. Eviction and episodic-memory schemes therefore rest on a premise rarely tested directly, that a retained ...",
       "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.28229",
-      "hotScore": 88,
-      "content": "The web is increasingly accessed by AI agents rather than humans. Every agent needs knowledge, especially in the life-sciences, where agentic pipelines are growing fast. Access to the literature is a crucial part of that need, and resources such as Europe PMC, with over 40M indexed records, are widely used to meet it. Yet these resources were not built for AI agents: they take keywords and complex syntax and return whole papers, so every agent must learn the syntax, issue several searches, and read full papers to find the evidence it needs. We introduce EMBL AI Librarian, a knowledge layer that upgrades the Europe PMC interface for AI agents: an agent asks in natural language and receives evidence that answers it. A single LLM orchestrates the whole knowledge retrieval process: it plans complementary subqueries executed by the live Europe PMC search engine, then reads the selected papers and locates the relevant evidence. We evaluate Librarian across four benchmarks: literature synthesis, claim verification, open-domain question answering, and downstream biology tasks such as protocol questions and sequence manipulation. On ScholarQABench, Librarian improves Citation F1 by more than 16 points over strong recently published baselines. Used as the retrieval layer of an existing claim-verification pipeline, it increases agreement with expert consensus; and on the open-form LitQA2 benchmark, a GPT-5.4 agent scores about 8 points higher when grounded in Librarian than with web search. Overall, our results show that equipping life-science agents with the Librarian knowledge layer improves performance across a range of tasks. We release our code publicly at https://github.com/petroni-lab/librarian"
+      "url": "https://huggingface.co/papers/2607.23693",
+      "hotScore": 90,
+      "content": "Long-horizon agents increasingly reuse their KV cache as memory: a serving system keeps a subset of cached entries and drops the rest. Eviction and episodic-memory schemes therefore rest on a premise rarely tested directly, that a retained event is still informative once the observations that produced it are gone. We test it by omitting one earlier observation from what is served, across otherwise identical agent histories. Among items sensitive to that observation, the answer overwhelmingly follows the omitted value, though no served span says which value is correct. We call this semantic materialization: a downstream event's cached rows act as an independently servable view of computation whose inputs are gone. It can also be written on purpose. A deliberately phrased, answer-free event raises donor-aligned recovery from 6% to 51% on Qwen3-8B without ever naming the value, whereas passively harvesting natural mentions from long-term dialog yields no detected advantage. What such a row carries is specific and bounded. Compact state survives, larger payloads decay toward chance, and whether a construction writes at all turns on phrasing rather than on meaning alone, so two phrasings the model comprehends equally well can diverge sharply. The result is a memory contract for sparse event-KV serving: what to write, where it lands, and what survives once the source is gone. For anyone who evicts the corollary is that dropping a source event and observing no accuracy loss does not show the source was unnecessary."
     },
     {
-      "id": "fetch-hf-2607.27851",
-      "title": "Beyond Feeling Better: Capability-Sustaining Emotional Dialogue as a Longitudinal Research Paradigm",
+      "id": "fetch-hf-2607.26848",
+      "title": "ICDAR 2026 Competition on Information Extraction from Atomic Layer Deposition/Etching (ALD/E) Scientific Figures",
       "source": "Hugging Face Daily",
-      "date": "2026-07-29",
-      "description": "Emotional dialogue research includes two influential strategy traditions. Empathetic dialogue prioritizes understanding a speaker's emotional experience. Emotional support conversation selects and sequences support for the seeker's current ...",
-      "category": "research",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2607.27851",
-      "hotScore": 87,
-      "content": "Emotional dialogue research includes two influential strategy traditions. Empathetic dialogue prioritizes understanding a speaker's emotional experience. Emotional support conversation selects and sequences support for the seeker's current needs. Sustained use introduces a further goal. Effective support should sustain users' capacities for emotion regulation, coping, self-endorsed decisions, and social connection across the interaction lifecycle. We propose capability-sustaining emotional dialogue (CSED) as a longitudinal research paradigm that aligns supportive strategy with this goal and organizes data, models, system design, evaluation, and governance around repeated use, non-use, transition, and termination. A targeted literature-and-corpus audit motivates this position. In a PRISMA-ScR-guided sample, 95% of 60 system-building papers pursue relief-oriented goals. None evaluates capability or longitudinal outcomes, and only 1 considers dependency, autonomy, or termination risk. In 300 ESConv supporter turns, capability-relevant functions appear in 43.0%, while generic suggestions account for 22.0%, compared with 4.0% reappraisal, 6.7% self-efficacy support, and 0.3% boundary behavior. We release a protocol for extending the audit to model behavior. An illustrative process model connects latent user capability to six design commitments, four evaluation timescales, and lifecycle constraints. The resulting agenda makes CSED testable across data, policy design, training, evaluation, and governance."
-    },
-    {
-      "id": "fetch-hf-2607.29209",
-      "title": "SAF-OPD: Stable Advantage Fusion for On-Policy Distillation",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-30",
-      "description": "Reinforcement learning with verifiable rewards (RLVR) broadcasts a single response-level reward to every token, while on-policy distillation (OPD) scores each token against a stronger teacher for a dense advantage but caps performance at te...",
+      "date": "2026-07-28",
+      "description": "Scientific figure comprehension and reasoning using multimodal AI requires integrating visual perception with domain-specific reasoning to extract meaningful knowledge, often not presented in the text of a research publication. The Sci-Imag...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.29209",
+      "url": "https://huggingface.co/papers/2607.26848",
+      "hotScore": 89,
+      "content": "Scientific figure comprehension and reasoning using multimodal AI requires integrating visual perception with domain-specific reasoning to extract meaningful knowledge, often not presented in the text of a research publication. The Sci-ImageMiner benchmark dataset, accompanied by a community-driven competition, raises the bar over prior scientific competitions by curating a comprehensive, expert-annotated dataset across four end-to-end complementary tasks. The competition attracted 68 active participants and 1,263 public/private submissions from 9th January 2026 to 8th April 2026. Our results show that state-of-the-art multimodal models perform well on classification and summarization tasks but struggle with data extraction and scientific reasoning, particularly in visual question-answering. These findings reveal key limitations and highlight challenges and opportunities for improving domain-aware multimodal AI systems. Overall, the Sci-ImageMiner benchmark and competition establish a rigorous platform for advancing research in scientific figure comprehension and reasoning and demonstrate the potential of state-of-the-art approaches for a challenging and complex research area."
+    },
+    {
+      "id": "fetch-hf-2608.02315",
+      "title": "GEOID-Flood: A Large-Scale Multi-Modal Benchmark Dataset for Flood Segmentation",
+      "source": "Hugging Face Daily",
+      "date": "2026-08-02",
+      "description": "Geospatial foundation models aim to learn representations that transfer across regions and sensors, yet evaluating them on specific tasks requires large, high-quality, multi-modal benchmarks that measure how well such models extract value f...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2608.02315",
+      "hotScore": 88,
+      "content": "Geospatial foundation models aim to learn representations that transfer across regions and sensors, yet evaluating them on specific tasks requires large, high-quality, multi-modal benchmarks that measure how well such models extract value from data. Concerning flood mapping, existing datasets rarely combine bi-temporal SAR and co-registered optical imagery at scale, leaving the value of foundation models for this downstream task largely untested. We introduce GEOID-Flood, a large-scale multi-modal flood segmentation benchmark, derived from Copernicus Emergency Management Service activations, spanning 219 events across 65 countries over ten years. The dataset provides more than 14,000 tiles with co-registered pre- and post-event Sentinel-1, in GRD and RTC format, pre-event Sentinel-2 composite, and DEM, including manually validated labels that separate background from permanent water and flooded water. Using this benchmark, we evaluate foundation models against conventional encoders across single-image, multi-temporal, and multi-modal protocols. We report three main findings: foundation models offer a consistent but modest advantage; optical-SAR fusion with finetuning best resolves transient flooding; and models trained on GEOID-Flood transfer to unseen events better than those trained on existing datasets. Dataset and code available at https://github.com/links-ads/geoid-flood."
+    },
+    {
+      "id": "fetch-hf-2607.29122",
+      "title": "A Frozen Pixel-Space Diffusion Model Can Guide Itself with Its Own Samples",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-30",
+      "description": "Pixel-space diffusion models aim to learn an end-to-end generator directly over raw pixels. This is challenging because a single model must capture both global structure and local texture in the same high-dimensional space. While recent wor...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.29122",
+      "hotScore": 87,
+      "content": "Pixel-space diffusion models aim to learn an end-to-end generator directly over raw pixels. This is challenging because a single model must capture both global structure and local texture in the same high-dimensional space. While recent work improves pixel diffusion through alternative prediction targets, training objectives, and architectures, these advances typically require training a new model from scratch. We show there is a cheaper, complementary strategy: a frozen, pretrained pixel diffusion model can guide itself. Our key observation is that intermediate layers of a pretrained pixel diffusion transformer can be decoded into coarse predictions that capture the main low-frequency structure, while the final layers progressively refine local, high-frequency details. We therefore attach a lightweight prediction head to an intermediate layer, keep the backbone frozen, and use the discrepancy between the intermediate and final predictions as a self-guidance direction during sampling. To train this head, we further find that real images are not necessary. Instead, model-generated samples suffice and even outperform real images for training the head, especially in enhancing the high-frequency components that pixel diffusion tends to underfit. Across multiple pixel diffusion models on ImageNet, our Synthetic Self-Guidance (SSG) consistently improves generation while adapter training requires less than 1% of full-model training compute: it reduces FID by over 50% across the evaluated JiT variants without classifier-free guidance (CFG) and further improves strong baselines with CFG, e.g., JiT-H/16 from 1.86 to 1.67 and PixelREPA-H/16 from 1.81 to 1.59. Our code is available at https://github.com/zfu006/SSG."
+    },
+    {
+      "id": "fetch-hf-2607.28802",
+      "title": "Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-29",
+      "description": "Existing evaluations often reduce agent failures to system-level outcomes, obscuring where the fault originated and which intervention would improve the agent system. This creates a repair-assignment problem: the same visible failure may ca...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.28802",
       "hotScore": 86,
-      "content": "Reinforcement learning with verifiable rewards (RLVR) broadcasts a single response-level reward to every token, while on-policy distillation (OPD) scores each token against a stronger teacher for a dense advantage but caps performance at teacher quality and discourages exploration beyond it. Their complementarity makes combining RLVR and OPD promising, but we find that fusing the two advantages with a fixed coefficient triggers entropy collapse from two miscalibrations: a magnitude mismatch, where token-level OPD advantages can spike far beyond the bounded RLVR advantage and erase its signal, and a temporal mismatch, where sustained full-strength OPD keeps pulling the student toward the teacher and limits exploration needed to surpass it. We propose SAF, a Stable Advantage Fusion framework that resolves both issues via a lightweight, four-stage pipeline applied only to the OPD advantage: a sparsify-then-compress mechanism for magnitude control paired with a warm-up-then-anneal mechanism for temporal control, with each stage independently switchable and adding negligible overhead. Instantiating RLVR with GRPO, we evaluate SAF across seven mathematical reasoning and code generation benchmarks with Qwen3-1.7B/4B/8B: SAF avoids entropy collapse and consistently outperforms fixed-coefficient GRPO+OPD fusion, improving the aggregate score by 0.51-2.70% across all six model-domain settings while achieving more stable training."
+      "content": "Existing evaluations often reduce agent failures to system-level outcomes, obscuring where the fault originated and which intervention would improve the agent system. This creates a repair-assignment problem: the same visible failure may call for model post-training, harness engineering, environment redesign, or benchmark repair depending on its source. Because agent behavior emerges from interactions among models, harnesses, users, tools, memory, and environments, outcome-level labels are often insufficient for improvement. Most failure taxonomies do little to resolve this problem because they are benchmark-specific and lack a shared structure. We introduce an interaction-centric taxonomy that localizes failures to the interactions in which they originate and identifies the responsible component. It organizes 41 failure modes by assigning each to an edge between two components and a fault side indicating where the repair belongs. This makes the taxonomy actionable: model-side failures identify targets for post-training, harness-side failures point to scaffolding and tool-integration fixes, and environment or grader failures reveal evaluation conditions requiring redesign. The schema applies across agent architectures, from coding assistants to long-horizon personal assistants and multi-agent systems. We ground the taxonomy in worked examples from public benchmarks, model system cards, published reports, and logged agent trajectories, and evaluate its reproducibility using independent reasoning agents as judges. Across four frontier models, the strongest judge reaches Cohen's κ=0.76 against human category labels, suggesting that the categories capture shared structure rather than annotator-specific preferences."
     }
   ],
   "hfModels": [
@@ -458,8 +459,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 257599358,
-      "likes": 5167,
+      "downloads": 259564359,
+      "likes": 5173,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -474,8 +475,8 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 114894026,
-      "likes": 2726,
+      "downloads": 119489278,
+      "likes": 2727,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -490,8 +491,8 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 89120995,
-      "likes": 294,
+      "downloads": 89315748,
+      "likes": 296,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -506,8 +507,8 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 72470174,
-      "likes": 522,
+      "downloads": 72855959,
+      "likes": 524,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -522,8 +523,8 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 59964437,
-      "likes": 1339,
+      "downloads": 60011748,
+      "likes": 1340,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -538,8 +539,8 @@
       "name": "electra-base-discriminator",
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
-      "downloads": 55807204,
-      "likes": 148,
+      "downloads": 56560021,
+      "likes": 149,
       "category": "research",
       "tags": [
         "Transformers",
@@ -553,8 +554,8 @@
       "name": "unidepth-v2-vitl14",
       "owner": "Community",
       "fullName": "lpiccinelli/unidepth-v2-vitl14",
-      "downloads": 36226053,
-      "likes": 47,
+      "downloads": 38231194,
+      "likes": 49,
       "category": "research",
       "tags": [
         "UniDepth",
@@ -568,8 +569,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 35237628,
-      "likes": 3305,
+      "downloads": 35231255,
+      "likes": 3332,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -584,8 +585,8 @@
       "name": "Qwen3-0.6B",
       "owner": "Community",
       "fullName": "Qwen/Qwen3-0.6B",
-      "downloads": 29023065,
-      "likes": 1481,
+      "downloads": 29699637,
+      "likes": 1485,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -600,8 +601,8 @@
       "name": "chronos-2",
       "owner": "Community",
       "fullName": "amazon/chronos-2",
-      "downloads": 28420483,
-      "likes": 389,
+      "downloads": 29542402,
+      "likes": 390,
       "category": "research",
       "tags": [
         "Time-series-forecasting",
@@ -625,7 +626,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "hotScore": 92,
+      "hotScore": 85,
       "content": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models...."
     },
     {
