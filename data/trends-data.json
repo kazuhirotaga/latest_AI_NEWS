@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-03T14:09:25.664Z",
+  "updatedAt": "2026-08-04T01:15:59.184Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 385030,
-      "forks": 80930,
+      "stars": 385048,
+      "forks": 80936,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 265509,
-      "forks": 23735,
+      "stars": 265730,
+      "forks": 23767,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 224707,
-      "forks": 43506,
+      "stars": 224906,
+      "forks": 43578,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 199169,
-      "forks": 59879,
+      "stars": 199225,
+      "forks": 59882,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 185785,
-      "forks": 46052,
+      "stars": 185793,
+      "forks": 46051,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,7 +91,7 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 166679,
+      "stars": 166695,
       "forks": 21534,
       "language": "HTML",
       "category": "llm",
@@ -108,8 +108,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164373,
-      "forks": 30511,
+      "stars": 164372,
+      "forks": 30537,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -124,9 +124,9 @@
       "id": "fetch-repo-787076358",
       "name": "firecrawl",
       "owner": "firecrawl",
-      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 159845,
-      "forks": 9071,
+      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "stars": 160110,
+      "forks": 9077,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 157498,
-      "forks": 46176,
+      "stars": 157501,
+      "forks": 46175,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 151198,
-      "forks": 23860,
+      "stars": 151232,
+      "forks": 23865,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 147710,
-      "forks": 21477,
+      "stars": 147745,
+      "forks": 21491,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 143322,
-      "forks": 23873,
+      "stars": 143354,
+      "forks": 23876,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,7 +210,7 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 142534,
+      "stars": 142543,
       "forks": 34825,
       "language": "Python",
       "category": "agent",
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 125136,
-      "forks": 11184,
+      "stars": 125190,
+      "forks": 11190,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 123362,
-      "forks": 14569,
+      "stars": 123420,
+      "forks": 14585,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,120 +260,166 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing",
+      "title": "Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth",
       "source": "arXiv.org",
-      "date": "2026-05-16",
-      "description": "Memory is a fundamental component for long-context LLM agents, supporting persistent state across interactions through a continuous serve-and-update lifecycle. Despite substantial prior work, many stateful systems retain sequential autoregr...",
-      "category": "agent",
-      "tags": [
-        "Research",
-        "Agent"
-      ],
-      "url": "http://arxiv.org/abs/2605.23986v2",
-      "hotScore": 80,
-      "content": "Memory is a fundamental component for long-context LLM agents, supporting persistent state across interactions through a continuous serve-and-update lifecycle. Despite substantial prior work, many stateful systems retain sequential autoregressive extraction or state-dependent maintenance on the write path, delaying when new evidence becomes queryable. To address these challenges, we present MemForest, a memory framework that reformulates agent memory as a write-efficient temporal data-management problem. MemForest breaks the sequential bottleneck via parallel extraction, decoupling memory construction into concurrent, independent operations. We further introduce MemTree, a hierarchical temporal index that organizes memory as time-ordered trees and replaces global rewrites with localized dirty-path refresh. Dirty summaries can be refreshed in parallel across nodes and trees. End-to-end work remains proportional to incoming content; the logarithmic bound applies only to structural insertion and level-dependent refresh depth in balanced trees. We evaluate MemForest on two long-context benchmarks, LongMemEval-S and LoCoMo. Experiments use Qwen3-4B, Qwen3-30B, and Gemma-4-12B-IT. With Qwen3-30B, MemForest reaches 81.8 percent pass at 1 on LongMemEval-S, while its input-normalized build rate is 6.0 times that of EverMemOS. On LoCoMo categories 1 to 4, it reaches 84.09 percent, within 0.13 percentage points of EverMemOS; on a matched conversation, its build rate is 9.5 times higher. These results show that MemForest reduces memory-freshness latency while retaining strong answer quality."
-    },
-    {
-      "id": "fetch-paper-1",
-      "title": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
-      "source": "arXiv.org",
-      "date": "2026-07-31",
-      "description": "LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small tool result, and reuse is hard because ...",
-      "category": "agent",
-      "tags": [
-        "Research",
-        "Agent"
-      ],
-      "url": "http://arxiv.org/abs/2607.29678v1",
-      "hotScore": 86,
-      "content": "LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small tool result, and reuse is hard because even a short append can change token boundaries near the end of the previous sequence. Across 153,951 calls from two agent ecosystems, the median call appends about 1.4K characters, and only 1.0-3.6% of calls start or rebuild a session with contexts of millions of characters. At a 94.1% fleet prompt-cache hit rate, tokenization reaches up to 64% of time to first token. TokTier is a stateful tokenization service with one contract: emitted token IDs are always identical to full reference tokenization of the request text. For a session continuation, it re-tokenizes a small window around the append and splices only after a per-request stable-boundary check, widening the window or falling back to full tokenization on failure. For a call without a reusable prefix, it decomposes GPT-family regex pre-tokenization into run-local rules and runs exact pre-tokenization and BPE on a GPU. A sampled shadow verifier re-checks live traffic. Across 17 tokenizer families, differential campaigns cover 1.5x10^10 split checks, a 12.4 TB real-text corpus, and 93,000+ replayed agent steps, with zero divergence. Incremental repair takes 0.5-1.1 ms from 100K to 3M characters, up to 437x faster than HF tokenization and 2.1x faster at 1M than the strongest cache-based baseline (Gigatoken) fully prewarmed. GPU full tokenization encodes a 1M-character request in 0.87 ms, up to 491x below HF and 23.4x below the fastest published CPU method. With vLLM, median time to first token drops 16-34% and P99 drops 23% under recorded bursts. Under a 50 ms P99 objective, four repair cores plus one GPU sustain 1,821 requests/s where a 16-core stateless front end saturates at 40."
-    },
-    {
-      "id": "fetch-paper-2",
-      "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
-      "source": "arXiv.org",
-      "date": "2026-07-31",
-      "description": "Enterprise workflows increasingly rely on agents for \\emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with source evidence as grounding metada...",
-      "category": "agent",
-      "tags": [
-        "Research",
-        "Agent"
-      ],
-      "url": "http://arxiv.org/abs/2607.29677v1",
-      "hotScore": 92,
-      "content": "Enterprise workflows increasingly rely on agents for \\emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with source evidence as grounding metadata. We present ExtractBench, a benchmark for schema-guided extraction and, to our knowledge, the first to score value accuracy, record completeness at scale, grounding, and measured cost together. The evaluation system contains 4,869 pages across 370 enterprise documents, 8 business domains, and 67 document types, with clear tags differentiating their challenge scenarios. The scalable schema and ground-truth curation pipeline combines independent-system agreement for real documents, known values for synthetic lists, and human verification for forms. We report order-insensitive value F1 for value accuracy, plus two grounding metrics for source traceability: word- and page-level F1. Commercial VLMs perform well on short documents but often truncate record lists on long ones, while coding agents retain higher accuracy at much higher cost. LlamaExtract Agentic Plus ranks first on all three metrics, with accuracy comparable to coding agents at a fraction of the cost. Dataset and evaluation code are available on \\href{https://huggingface.co/datasets/llamaindex/ExtractBench}{HuggingFace} and \\href{https://github.com/run-llama/ExtractBench}{GitHub}."
-    },
-    {
-      "id": "fetch-paper-3",
-      "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
-      "source": "arXiv.org",
-      "date": "2026-07-31",
-      "description": "Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study differentially private recovery of density mo...",
-      "category": "tooling",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2607.29675v1",
-      "hotScore": 88,
-      "content": "Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study differentially private recovery of density modes for multivariate distributions under local smoothness, curvature, and separation conditions. We propose DP-GRAMS, a mean-shift inspired method that performs noisy ascent on a differentially private score estimator. Assuming the density belongs locally to a Hölder class with smoothness parameter $β&gt; 2$, our score estimator uses bias-reducing higher-order kernels, and then enforces privacy in the gradient ascent steps via gradient clipping and calibrated Gaussian noise. A private initialization scheme combines a density-aware utility with a suppression rule and, with $k\\asymp M\\log n$ draws over a public $h_{\\mathrm{DAP}}$-grid and suppression radius $ρ_{\\mathrm{init}}\\asymp (\\log n)^{-1/d}$, achieves high-probability coverage of the modal basins by successively suppressing selected local neighborhoods in competitive regions, while correlated noise across multiple starts enables joint release under a single $(\\varepsilon,δ)$-differential privacy guarantee. We prove that all population modes are recovered with high probability and establish asymptotic error rates of the form $O\\!\\left((\\tfrac{\\log n}{n})^{\\frac{2(β-1)}{d+2β}}\\right) + O\\!\\left((\\tfrac{\\mathrm{polylog}(n,δ)}{n^2\\varepsilon^2})^{\\frac{β-1}{d+β}}\\right)$. We also provide minimax lower bounds for private mode estimation, and show that our estimators are nearly optimal, up to a logarithmic factor in the MSE. We present two natural extensions: DP-PMS, a private modal-regression method, and DP-GRAMS-C, a clustering pipeline. Extensive experiments on synthetic and real data demonstrate favorable privacy-utility trade-offs relative to common baselines."
-    },
-    {
-      "id": "fetch-paper-4",
-      "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
-      "source": "arXiv.org",
-      "date": "2026-07-31",
-      "description": "SignMuon compresses the Muon update to one bit per parameter by taking its elementwise sign, providing the most direct way to run a matrix-aware optimizer under an extremely low communication budget. It outperforms SignSGD in practice, yet ...",
+      "date": "2026-08-02",
+      "description": "Depth-routing residual architectures allow Transformer layers to retrieve earlier representations instead of inheriting only the immediately preceding state. Existing Block Attention Residuals, however, use a single content-dependent depth ...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2607.29674v1",
-      "hotScore": 91,
-      "content": "SignMuon compresses the Muon update to one bit per parameter by taking its elementwise sign, providing the most direct way to run a matrix-aware optimizer under an extremely low communication budget. It outperforms SignSGD in practice, yet it can ascend even on a linear function. Signing the gradient before the Linear Minimization Oracle (LMO), rather than after, does not repair this: we construct a small explicit instance on which sign-before (MuonUSign) and sign-on-both-sides (MuonSign) ascend as well, so no placement of the sign around the oracle descends in general. Error feedback, the standard remedy for a biased compressor, does not rescue SignMuon: when applied to Muon's output, error feedback can fail for every smoothness constant, step size, and momentum. Applied to the gradient, error feedback does work, and EF21-MuonUSign and EF21-MuonSign attain the standard $\\mathcal{O}(T^{-1/2})$ rate for the squared gradient norm on smooth nonconvex problems, the latter at one bit in each direction. Experiments then reverse the ordering: across centralized CIFAR-10, federated CIFAR-10, and the nanoGPT speedrun, the strongest compressed method is consistently sign-after-the-LMO, precisely the placement we prove divergent, with the provably convergent variants trailing it. Compressing after the LMO, a heuristic, matters more at these scales than the guarantee does."
+      "url": "http://arxiv.org/abs/2608.01075v1",
+      "hotScore": 87,
+      "content": "Depth-routing residual architectures allow Transformer layers to retrieve earlier representations instead of inheriting only the immediately preceding state. Existing Block Attention Residuals, however, use a single content-dependent depth mixture to construct the inputs to queries, keys, and values. This design couples two functionally different decisions: queries and keys determine where attention matches, whereas values determine what content is retrieved. We therefore ask whether matching and content retrieval should be forced to read from the same depth. We introduce Role-Decoupled Attention Residuals (RD-AttnRes), a minimal extension that shares one depth route between queries and keys while learning an independent value route over the same residual sources. Tying the two routing queries exactly recovers the parent architecture, while decoupling them adds only one model-width vector per layer and introduces no additional token-to-token attention operation. We evaluate RD-AttnRes using a frozen, paired pretraining protocol on FineWeb-Edu with five matched seeds for both 120M- and 343M-parameter models and a 2.0B-token training budget. RD-AttnRes improves validation negative log-likelihood in all 10 matched comparisons. The mean reductions are 0.0301 and 0.0247, corresponding to perplexity reductions of 2.97 percent and 2.43 percent at 120M and 343M parameters, respectively. Early-budget controls indicate that neither the additional parameter count, duplicated routing execution, nor a fixed value route reproduces the improvement. Routing diagnostics further reveal persistent divergence between the query-key and value depth distributions. These results suggest that, within the evaluated training regime, attention matching and content retrieval benefit from distinct reads over the residual hierarchy."
+    },
+    {
+      "id": "fetch-paper-1",
+      "title": "Logit-Origin Centering for Singleton Test-Time Adaptation",
+      "source": "arXiv.org",
+      "date": "2026-08-02",
+      "description": "Tabular data is used extensively in many real-world use cases. Deep learning models have been developed to deal with tabular data, but generally perform poorly when the test data distribution differs from that of the training data. Research...",
+      "category": "llm",
+      "tags": [
+        "Research",
+        "LLM"
+      ],
+      "url": "http://arxiv.org/abs/2608.01074v1",
+      "hotScore": 87,
+      "content": "Tabular data is used extensively in many real-world use cases. Deep learning models have been developed to deal with tabular data, but generally perform poorly when the test data distribution differs from that of the training data. Researchers have proposed test-time adaptation approaches to deal with this problem. The fully test-time adaptation (FTTA) setting involves adapting deployed classifiers to shifted target distributions using only unlabeled test data. Leading FTTA methods inherit a batch-dependent approach from computer vision literature. This paper demonstrates for the first time that such approaches degrade sharply in strict streaming regimes where examples arrive and must be classified one at a time. This occurs because at a batch size of one, batch-level statistics become unavailable or poorly estimated. We argue that singleton tabular FTTA is not merely a small-batch variant of ordinary FTTA, but a distinct identifiability problem where only the location of the model's score stream remains directly observable. To address this, we propose Prequential Logit-Origin Centering (PLOC), a lightweight approach that keeps the source model frozen and shifts the logit space at each step. PLOC stores only a single running number (the mean of past logits), requires no labels, estimates no priors, and bypasses weight updates entirely. A deferred variant applies a static shift that preserves the source ranking, and thus the AUROC, exactly. Evaluated across five tabular benchmarks, three architectures (MLP, FT-Transformer, and TabTransformer), and five independent source checkpoints, PLOC significantly outperforms strong tabular and entropy-based baselines."
+    },
+    {
+      "id": "fetch-paper-2",
+      "title": "DAG-FM: A Foundation Model for Causal Discovery under Heterogeneous Causal Mechanisms",
+      "source": "arXiv.org",
+      "date": "2026-07-13",
+      "description": "Causal discovery from observational tabular data remains fundamentally challenging, primarily due to the heterogeneity of underlying causal mechanisms and the high-dimensional combinatorial search space of Directed Acyclic Graphs (DAGs). In...",
+      "category": "llm",
+      "tags": [
+        "Research",
+        "LLM"
+      ],
+      "url": "http://arxiv.org/abs/2607.11510v2",
+      "hotScore": 86,
+      "content": "Causal discovery from observational tabular data remains fundamentally challenging, primarily due to the heterogeneity of underlying causal mechanisms and the high-dimensional combinatorial search space of Directed Acyclic Graphs (DAGs). In this paper, we propose \\textbf{DAG-FM}, a novel foundation model architecture that amortizes causal discovery. Unlike direct matrix prediction, DAG-FM decomposes the causal discovery process into two auto-regressive stages using two specialized Transformer-based sub-modules: a leaf-node predictor and a parent-node predictor. To effectively model complex row-column interactions, we adopt a robust tabular interaction block to output feature-wise representations. Crucially, to handle diverse and unknown Functional Causal Model (FCM) assumptions in real-world scenarios, we introduce Mixture-of-Leaf-Experts (MoLE), allowing the model to dynamically route and adapt to identifiable mechanism families. Through an iterative inference algorithm, DAG-FM seamlessly extracts causal orderings and constructs valid DAGs. Extensive experiments demonstrate that DAG-FM achieves state-of-the-art performance on both synthetic benchmarks and complex real-world datasets, significantly outperforming traditional classical algorithms and recent foundation models in both accuracy and scalability."
+    },
+    {
+      "id": "fetch-paper-3",
+      "title": "Characterizing Bias in Post-Bandit Inference under Index Algorithms",
+      "source": "arXiv.org",
+      "date": "2026-08-02",
+      "description": "Bandit algorithms generate data for downstream inference, but adaptive sampling biases post-bandit sample means. We analyze this bias for stable index algorithms, including UCB1 and its generalizations, and derive sharp leading-order expres...",
+      "category": "research",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2608.01069v1",
+      "hotScore": 86,
+      "content": "Bandit algorithms generate data for downstream inference, but adaptive sampling biases post-bandit sample means. We analyze this bias for stable index algorithms, including UCB1 and its generalizations, and derive sharp leading-order expressions for the sample-mean bias and expected $Z$-statistic. Our characterization reveals the algorithmic origin of bias through a key index-function-dependent quantity, which we term effective exploration rate. For example, under UCB1, the effective exploration rate is of order $\\sqrt{\\log T}$, and the standardized bias of any arm (that is not uniquely optimal) decays at the extremely slow rate $1/\\sqrt{\\log T}$. We also show how the choice of the index function affects both regret and bias, which reveals a regret-bias trade-off: more exploratory algorithm reduces bias but increases regret. Our sharp characterization for bias uses a novel empirical fluid approximation of the algorithm's sampling dynamics, which may be of independent interest."
+    },
+    {
+      "id": "fetch-paper-4",
+      "title": "Beyond Scaffold Splits: Structural-Frontier Evaluation Reveals Hidden Failures in ADMET Models",
+      "source": "arXiv.org",
+      "date": "2026-07-12",
+      "description": "Molecular property models are commonly evaluated by holding out Bemis-Murcko scaffolds, yet a scaffold identifier is only one notion of chemical unfamiliarity. We introduce a label-free structural-frontier split that reserves the sparsest a...",
+      "category": "research",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2607.10729v2",
+      "hotScore": 89,
+      "content": "Molecular property models are commonly evaluated by holding out Bemis-Murcko scaffolds, yet a scaffold identifier is only one notion of chemical unfamiliarity. We introduce a label-free structural-frontier split that reserves the sparsest and most physicochemically remote scaffold groups, and evaluate it on six public experimental or curated ADMET tasks. Against a 70/10/20 scaffold control with identical acyclic grouping, the frontier inflates equally weighted primary error with a taskwise median of 87.0% and a skew-sensitive mean of 130.3% (descriptive task/seed bootstrap interval, 52.1-246.0%). The mean falls to 75.9% once BBB is removed; that endpoint is the one whose score ranking inverts at the frontier. A message-passing graph-network control still shows a large gap (mean 82.8% over four tasks) and does not invert, so a low-capacity head does not explain the effect. We also test Multi-View Frontier Risk Extrapolation (MV-FREX), a count-adjusted tail-risk penalty over four molecular views, and treat it as a falsifiable probe. It changes normalized frontier error by only 0.16% relative to empirical risk minimization for the perceptron head (interval, -0.43-0.84%) and by -1.9% for the graph network; three fixed robust-penalty controls are likewise inconclusive. Against the published Lo-Hi and DataSAIL splitters, the frontier inflates error more on average, though no split is uniformly hardest. An audit of 31,561 marine natural products further shows that OOD status and agreement with legacy ADMET predictions depend on the molecular view, endpoint, and teacher coverage. Split construction and label provenance are important evaluation constraints in their own right, and the tested training penalties do not resolve the frontier failures we observe."
     },
     {
       "id": "fetch-paper-5",
-      "title": "From Physics to Surrogate Intelligence: A Unified Electro-Thermo-Optimization Framework for TSV Networks",
+      "title": "Contextual Slate GLM Bandits with Limited Adaptivity",
       "source": "arXiv.org",
-      "date": "2026-03-31",
-      "description": "High-density through-substrate vias (TSVs) enable 2.5D/3D heterogeneous integration but introduce significant signal-integrity and thermal-reliability challenges due to electrical coupling, insertion loss, and self-heating. Conventional ful...",
-      "category": "tooling",
+      "date": "2026-06-30",
+      "description": "We investigate the contextual slate bandit problem with generalized linear rewards under limited adaptivity. At each round, the learner is presented with $N$ sets of items, where each item is represented by a $d$-dimensional feature vector....",
+      "category": "llm",
       "tags": [
-        "Research"
+        "Research",
+        "LLM"
       ],
-      "url": "http://arxiv.org/abs/2603.29268v3",
-      "hotScore": 93,
-      "content": "High-density through-substrate vias (TSVs) enable 2.5D/3D heterogeneous integration but introduce significant signal-integrity and thermal-reliability challenges due to electrical coupling, insertion loss, and self-heating. Conventional full-wave finite-element method (FEM) simulations provide high accuracy but become computationally prohibitive for large design-space exploration. This work presents a scalable electro--thermal modeling and optimization framework that combines physics-informed analytical modeling, graph neural network (GNN) surrogates, and full-wave sign-off validation. A multi-conductor analytical model computes broadband S-parameters and effective anisotropic thermal conductivities of TSV arrays, achieving $5\\%$--$10\\%$ relative Frobenius error (RFE) across array sizes up to $15\\times15$. A physics-informed GNN surrogate (TSV-PhGNN), trained on analytical data and fine-tuned with HFSS simulations, generalizes to larger arrays with mean RFE below $5\\%$ in-distribution. The surrogate is integrated into a multi-objective Pareto optimization framework targeting reflection coefficient, insertion loss, worst-case crosstalk (NEXT/FEXT), and effective thermal conductivity. Millions of TSV configurations can be explored within minutes, enabling exhaustive layout and geometric optimization that would be infeasible using FEM alone. Final designs are validated with Ansys HFSS and Mechanical, showing strong agreement. The proposed framework enables rapid electro--thermal co-design of TSV arrays while reducing per-design evaluation time by more than six orders of magnitude."
+      "url": "http://arxiv.org/abs/2606.31449v2",
+      "hotScore": 86,
+      "content": "We investigate the contextual slate bandit problem with generalized linear rewards under limited adaptivity. At each round, the learner is presented with $N$ sets of items, where each item is represented by a $d$-dimensional feature vector. The learner then constructs a slate by selecting one item per set; the resulting slate yields a scalar reward sampled from a Generalized Linear Model (GLM). We propose algorithms under two limited-adaptivity settings: (a) Batched and (b) Rarely-Switching. For the batched setting, we introduce B-SlateGLinCB, which partitions the time horizon into $\\mathcal{O}(\\log\\log T)$ batches such that each batch's policy relies only on data from previous batches. For the rarely-switching setting, we propose RS-SlateGLinCB, which adaptively performs only $\\mathcal{O}(Nd\\log T)$ parameter updates. Under a diversity assumption on the item sequences, we prove that B-SlateGLinCB and RS-SlateGLinCB achieve regret bounds of $\\mathcal{O}(Nd^{3/2}\\sqrt{T})$ and $\\mathcal{O}(Nd\\sqrt{T})$, respectively. Notably, both bounds are independent of the non-linearity parameter $κ$ that is typically found to scale the regret of GLM bandit algorithms. Our algorithms are computationally efficient, requiring only $\\text{poly}(N)$ time per round despite $2^{Ω(N)}$ possible slates. Simulations show our algorithms outperform existing baselines with limited adaptivity and remain competitive with Slate-GLM-OFU, a fully adaptive state-of-the-art algorithm. Notably, a slightly modified B-SlateGLinCB empirically matches this baseline. Finally, we demonstrate strong performance in a practical in-context example selection task for language models."
     },
     {
       "id": "fetch-paper-6",
-      "title": "Information Processing by Neuron Populations in the Central Nervous System: A Theory of the Mathematical Structure of Data and Operations",
+      "title": "Control Under Compression: Reliability Frontiers for Tool-Using Agents",
       "source": "arXiv.org",
-      "date": "2023-09-05",
-      "description": "In the mammalian central nervous system, neurons are organized into populations communicating by spike trains propagating along axonal bundles. How such populations encode and transform information is only partially understood. In this stud...",
-      "category": "tooling",
+      "date": "2026-08-02",
+      "description": "Tool-using language-model agents are governed not only by task prompts but also by persistent system-side instructions that specify tools, arguments, policies, execution protocols, and recovery. Compressing these agent control contexts (ACC...",
+      "category": "agent",
       "tags": [
-        "Research"
+        "Research",
+        "Agent"
       ],
-      "url": "http://arxiv.org/abs/2309.02332v3",
-      "hotScore": 93,
-      "content": "In the mammalian central nervous system, neurons are organized into populations communicating by spike trains propagating along axonal bundles. How such populations encode and transform information is only partially understood. In this study we introduce a mathematical framework derived from a mechanistic model of a single plastic neuron. Within this framework, an algebra of convex cones can rigorously characterize population-level activity. This algebra provides a natural language describing information representation and processing. Neuron populations are thereby interpreted not as passive transmitters but as operators acting within this algebraic structure. When interconnected, such populations realize compact algebraic expressions whose functional repertoire includes specialization, generalization, novelty detection, dimensionality reduction, inverse modeling, prediction, and associative memory. Finally, the approach highlights the role of matrix embeddings in extending representational capacity beyond that afforded by vector-based models. In particular, such embeddings support hierarchical concept formation and structured information processing, with potential implications for both cognitive neuroscience and artificial intelligence. This paper assumes familiarity with elementary functional analysis and algebras of operators."
+      "url": "http://arxiv.org/abs/2608.01056v1",
+      "hotScore": 92,
+      "content": "Tool-using language-model agents are governed not only by task prompts but also by persistent system-side instructions that specify tools, arguments, policies, execution protocols, and recovery. Compressing these agent control contexts (ACCs) can reduce input cost and context use, yet existing prompt-compression evaluations do not reveal whether the resulting control remains operationally reliable. We introduce CompressAgent, an environment-verified benchmark for ACC compression across nine independently constructed ACCs, three task families, three fixed Qwen API model identifiers, six retained-context budgets, and 15,525 runs. We uncover a nonlinear, method-dependent reliability frontier. At 75% retained context, generic rewriting and section-based compression achieve 92.7% and 92.4% success, close to the 93.8% full-context baseline. Between 50% and 35%, methods diverge sharply; at 35%, section-based, obligation-aware, and generic rewriting achieve 47.0%, 39.0%, and 19.9%. At retained-context budgets from 25% to 10%, executable protocols become fragile. Reliability also varies substantially across ACCs, making universal compressor rankings inappropriate and motivating per-context qualification. Failure analysis shows that compression primarily surfaces as tool-execution and action-parsing errors. These findings recast ACC compression from token reduction into a runtime-reliability problem that must be evaluated through executable outcomes."
     },
     {
       "id": "fetch-paper-7",
-      "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations",
+      "title": "Credit the Right Box: Marginal Contribution Assignment for Structured Visual Perception",
       "source": "arXiv.org",
-      "date": "2026-07-31",
-      "description": "PDE discovery from sparse observations requires reconstructing a continuous field and selecting the correct differential terms. Our analysis of optimization paths in coupled neural PDE discovery reveals three behaviors: the exact support ca...",
-      "category": "image",
+      "date": "2026-08-02",
+      "description": "Multimodal Large Language Models (MLLMs) are increasingly expected to solve structured perception tasks that require visual recognition, language-to-object binding, object cardinality preservation, and precisely localized grounding and segm...",
+      "category": "llm",
       "tags": [
         "Research",
-        "ImageGen"
+        "LLM"
       ],
-      "url": "http://arxiv.org/abs/2607.29665v1",
-      "hotScore": 80,
-      "content": "PDE discovery from sparse observations requires reconstructing a continuous field and selecting the correct differential terms. Our analysis of optimization paths in coupled neural PDE discovery reveals three behaviors: the exact support can persist to the end of training, appear only transiently, or fail to emerge. To decouple equation selection from neural optimization, we develop a freeze-then-select method combining a structured field adapter with Stability-Validated Weak Selection (SVWS). Trained from observations without a PDE residual, the adapter factorizes the field into learned spatial features and temporal coefficients represented by cubic splines. After freezing the field, SVWS identifies recurrent terms across independent weak-form systems, refits candidate supports, and selects the final equation on held-out weak-form systems. Beyond fixed libraries, we apply the same principle to expressions generated by genetic programming and recover the power-law form of an unknown nonlinear diffusion function from sparse, noisy observations. Across all six sparse MDBench regimes, our method attains the highest exact support recovery rate, with its clearest gains over classical and neural baselines on challenging Kuramoto-Sivashinsky dynamics."
+      "url": "http://arxiv.org/abs/2608.01055v1",
+      "hotScore": 90,
+      "content": "Multimodal Large Language Models (MLLMs) are increasingly expected to solve structured perception tasks that require visual recognition, language-to-object binding, object cardinality preservation, and precisely localized grounding and segmentation outputs. However, existing group-relative reinforcement learning methods provide only response-level supervision, creating a granularity mismatch for structured multi-object prediction: a single advantage is broadcast to all tokens in a response, without distinguishing individual box contributions. To address this mismatch, we propose MCR-GRPO, a marginal contribution assignment framework that derives box-level credit directly from each sampled response. Specifically, Marginal Contribution Reward (MCR) estimates each predicted box's contribution through a leave-one-out comparison, measuring how the matched set value changes when the box is removed from the response. After within-response normalization, records that improve the set value receive positive credit, while redundant or harmful ones are suppressed. To make marginal attribution stable and informative, we further introduce a Continuous Matched Set Value Evaluator that integrates permutation-invariant matching, count-aware normalization, and graded localization. MCR-GRPO maps normalized box-level marginal advantages to the token spans that generated each box, preserving GRPO's response-level comparison while enabling box-aware optimization of structured multi-object grounding. Experiments across REC, DOD, segmentation, and counting benchmarks show state-of-the-art performance over prior GRPO-based baselines."
+    },
+    {
+      "id": "fetch-hf-2607.26246",
+      "title": "Weak-to-Strong On-Policy Distillation",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-27",
+      "description": "On-policy distillation (OPD), which aligns a student with the teacher's token-level distribution on the student's own rollouts, is an effective paradigm for transferring capabilities across LLMs. Prevailing approaches assume a teacher at le...",
+      "category": "llm",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.26246",
+      "hotScore": 90,
+      "content": "On-policy distillation (OPD), which aligns a student with the teacher's token-level distribution on the student's own rollouts, is an effective paradigm for transferring capabilities across LLMs. Prevailing approaches assume a teacher at least as capable as the student: they either distill a larger model into a smaller one, which fails at the frontier where no larger teacher exists, or consolidate multiple domain experts trained from a shared base, which requires costly training at the student's scale. We introduce Weak-to-Strong On-Policy Distillation (W2S-OPD), a simple yet effective OPD framework that improves the strong student by distilling from multiple weak models. W2S-OPD constructs a proxy teacher in logit space from a contrast pair of a positive and a negative model, both smaller than the student and cheap to obtain. Their logit difference isolates the capability direction, which is added to the student's own base model, yielding a proxy teacher that couples this direction while staying distributionally adjacent to the student. The student then distills it by minimizing the per-token reverse KL on its own rollouts. We instantiate the contrast pair as i) a post-RL expert against its pre-RL initialization, isolating the skill RL instills, ii) a larger against a smaller base model, isolating the capability from scale, and iii) a small base model with correct versus wrong hints, isolating the instance-level direction toward the solution. Across four math and three code benchmarks, W2S-OPD outperforms OPD, enables the student to surpass the domain teacher, and keeps improving the student even when every supervision source is weaker. Analysis shows different contrasts yield distinct signals: the post-RL and hint contrasts emphasize reasoning frameworks, while the scale contrast emphasizes the solving procedure. Our code will be available at https://github.com/Yu-Fangxu/W2S-OPD."
+    },
+    {
+      "id": "fetch-hf-2607.26654",
+      "title": "Constitutional Midtraining: Content Presence Drives Alignment Gains",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-28",
+      "description": "Post-training alignment is often shallow, eroding under fine-tuning. Whether midtraining interventions, cleanly isolated from post-training, can produce durable alignment remains untested. We test this via constitutional midtraining: insert...",
+      "category": "tooling",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.26654",
+      "hotScore": 89,
+      "content": "Post-training alignment is often shallow, eroding under fine-tuning. Whether midtraining interventions, cleanly isolated from post-training, can produce durable alignment remains untested. We test this via constitutional midtraining: inserting principled, values-based content into midtraining against a replay-only control at 120B scale. Our 394M-token constitutional corpus, built from Anthropic's Constitution, uses a 2x2 factorial design (curriculum ordering x deliberative reasoning) to produce four constitutionally midtrained conditions plus a control, evaluated on self-generated and established benchmarks including alignment under pressure, value conflict resolution, blackmail, and emergent misalignment across three stages: post-midtraining, post-SFT, and post-benign fine-tuning. Constitutionally midtrained models outperform the control on alignment generalization and durability, notably on blackmail: SFT instills a blackmail propensity in all models, but constitutional midtraining blunts it, with the advantage surviving benign fine-tuning (-17.5pp). This durability does not extend to settings requiring active resistance to in-context pressure or conflict, where the advantage attenuates after SFT. The presence of constitutional content at midtraining also matters more than its structure, and constitutional midtraining incurs no cost, on average, on the capabilities we test (MMLU, ARC-Easy, piqa, GSM8K) at any stage. A modest amount of constitutional content at midtraining could therefore yield broad, persistent alignment gains, offering a cheap, complementary addition to SFT-centered pipelines. Code, data, and models are available."
+    },
+    {
+      "id": "fetch-hf-2607.28229",
+      "title": "EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-30",
+      "description": "The web is increasingly accessed by AI agents rather than humans. Every agent needs knowledge, especially in the life-sciences, where agentic pipelines are growing fast. Access to the literature is a crucial part of that need, and resources...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2607.28229",
+      "hotScore": 88,
+      "content": "The web is increasingly accessed by AI agents rather than humans. Every agent needs knowledge, especially in the life-sciences, where agentic pipelines are growing fast. Access to the literature is a crucial part of that need, and resources such as Europe PMC, with over 40M indexed records, are widely used to meet it. Yet these resources were not built for AI agents: they take keywords and complex syntax and return whole papers, so every agent must learn the syntax, issue several searches, and read full papers to find the evidence it needs. We introduce EMBL AI Librarian, a knowledge layer that upgrades the Europe PMC interface for AI agents: an agent asks in natural language and receives evidence that answers it. A single LLM orchestrates the whole knowledge retrieval process: it plans complementary subqueries executed by the live Europe PMC search engine, then reads the selected papers and locates the relevant evidence. We evaluate Librarian across four benchmarks: literature synthesis, claim verification, open-domain question answering, and downstream biology tasks such as protocol questions and sequence manipulation. On ScholarQABench, Librarian improves Citation F1 by more than 16 points over strong recently published baselines. Used as the retrieval layer of an existing claim-verification pipeline, it increases agreement with expert consensus; and on the open-form LitQA2 benchmark, a GPT-5.4 agent scores about 8 points higher when grounded in Librarian than with web search. Overall, our results show that equipping life-science agents with the Librarian knowledge layer improves performance across a range of tasks. We release our code publicly at https://github.com/petroni-lab/librarian"
     },
     {
       "id": "fetch-hf-2607.27851",
@@ -387,7 +433,7 @@
         "Paper"
       ],
       "url": "https://huggingface.co/papers/2607.27851",
-      "hotScore": 90,
+      "hotScore": 87,
       "content": "Emotional dialogue research includes two influential strategy traditions. Empathetic dialogue prioritizes understanding a speaker's emotional experience. Emotional support conversation selects and sequences support for the seeker's current needs. Sustained use introduces a further goal. Effective support should sustain users' capacities for emotion regulation, coping, self-endorsed decisions, and social connection across the interaction lifecycle. We propose capability-sustaining emotional dialogue (CSED) as a longitudinal research paradigm that aligns supportive strategy with this goal and organizes data, models, system design, evaluation, and governance around repeated use, non-use, transition, and termination. A targeted literature-and-corpus audit motivates this position. In a PRISMA-ScR-guided sample, 95% of 60 system-building papers pursue relief-oriented goals. None evaluates capability or longitudinal outcomes, and only 1 considers dependency, autonomy, or termination risk. In 300 ESConv supporter turns, capability-relevant functions appear in 43.0%, while generic suggestions account for 22.0%, compared with 4.0% reappraisal, 6.7% self-efficacy support, and 0.3% boundary behavior. We release a protocol for extending the audit to model behavior. An illustrative process model connects latent user capability to six design commitments, four evaluation timescales, and lifecycle constraints. The resulting agenda makes CSED testable across data, policy design, training, evaluation, and governance."
     },
     {
@@ -402,53 +448,8 @@
         "Paper"
       ],
       "url": "https://huggingface.co/papers/2607.29209",
-      "hotScore": 89,
-      "content": "Reinforcement learning with verifiable rewards (RLVR) broadcasts a single response-level reward to every token, while on-policy distillation (OPD) scores each token against a stronger teacher for a dense advantage but caps performance at teacher quality and discourages exploration beyond it. Their complementarity makes combining RLVR and OPD promising, but we find that fusing the two advantages with a fixed coefficient triggers entropy collapse from two miscalibrations: a magnitude mismatch, where token-level OPD advantages can spike far beyond the bounded RLVR advantage and erase its signal, and a temporal mismatch, where sustained full-strength OPD keeps pulling the student toward the teacher and limits exploration needed to surpass it. We propose SAF, a Stable Advantage Fusion framework that resolves both issues via a lightweight, four-stage pipeline applied only to the OPD advantage: a sparsify-then-compress mechanism for magnitude control paired with a warm-up-then-anneal mechanism for temporal control, with each stage independently switchable and adding negligible overhead. Instantiating RLVR with GRPO, we evaluate SAF across seven mathematical reasoning and code generation benchmarks with Qwen3-1.7B/4B/8B: SAF avoids entropy collapse and consistently outperforms fixed-coefficient GRPO+OPD fusion, improving the aggregate score by 0.51-2.70% across all six model-domain settings while achieving more stable training."
-    },
-    {
-      "id": "fetch-hf-2607.26991",
-      "title": "RL^2-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-29",
-      "description": "Despite the impressive visuomotor capabilities enabled by Vision-Language-Action (VLA) models, their performance often degrades on challenging and out-of-domain tasks. Recent test-time steering and scaling methods improve performance withou...",
-      "category": "tooling",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2607.26991",
-      "hotScore": 88,
-      "content": "Despite the impressive visuomotor capabilities enabled by Vision-Language-Action (VLA) models, their performance often degrades on challenging and out-of-domain tasks. Recent test-time steering and scaling methods improve performance without extensive data collection and retraining, but action samples often remain concentrated around similar behaviors and therefore inherit correlated failure modes. Moreover, existing methods apply the same intervention strategy at every timestep, regardless of whether the base policy is already likely to succeed. To address these limitations, we introduce RL^2, an adaptive inference-time steering framework that leverages Reinforcement Learning on VLA Latents. First, we train a lightweight offline RL policy conditioned on expressive latents extracted from the VLA action expert and compose its flow velocity with that of the frozen VLA during inference. This compositional steering strategy combines the behavioral priors of large-scale imitation learning with the action diversity induced by offline RL beyond dominant demonstration modes. We further discover that inference-time steering follows fundamentally different scaling laws under success and failure states, revealing that action diversity is most beneficial when the base VLA is likely to fail, but can unnecessarily perturb already-accurate actions when success is likely. Building on this insight, RL^2 activates compositional steering only when failure is predicted. Across the SIMPLER and PolaRiS benchmarks, RL^2 improves success rates by up to +17.3% in out-of-domain settings, while ablations and scaling studies demonstrate the importance of latent representations and RL training. Finally, real-world experiments demonstrate that these gains transfer beyond simulation, establishing RL^2 as a practical and modular steering framework for VLA deployment."
-    },
-    {
-      "id": "fetch-hf-2607.27888",
-      "title": "Not All Tokens Deserve Equal Credit: Counterfactual Sensitivity Credit Reallocation for Long-CoT Reasoning",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-29",
-      "description": "Reinforcement learning with verifiable rewards (RLVR) is central to improving long-CoT reasoning in large language models. Critic-free methods such as GRPO convert response-level rewards into advantages and uniformly broadcast them across t...",
-      "category": "llm",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2607.27888",
-      "hotScore": 87,
-      "content": "Reinforcement learning with verifiable rewards (RLVR) is central to improving long-CoT reasoning in large language models. Critic-free methods such as GRPO convert response-level rewards into advantages and uniformly broadcast them across tokens, overlooking their unequal contributions to the final outcome. On-policy self-distillation (OPSD) instead provides dense distributional supervision by minimizing the forward KL divergence between an unprivileged policy and a privileged self-teacher, implicitly assuming that the resulting likelihood shifts encode reliable answer-aligned information. We test this premise by fixing each sampled trajectory and re-scoring it under two opposing outcome conditions, one asserting correctness and the other incorrectness. Most affected tokens shift in the same direction under both conditions, with few sign reversals and substantial overlap in the induced optimization signals. Large shifts also concentrate on highly substitutable surface-form tokens, whereas tokens carrying problem-specific reasoning content are less sensitive. These findings show that privileged shifts fail to provide reliable answer-aligned directions, while their magnitudes primarily reflect counterfactual sensitivity rather than token-level learning value. Based on these observations, we propose Counterfactual Sensitivity Credit Reallocation (CSCR), a simple extension of GRPO that reduces credit for highly sensitive tokens and renormalizes token-level advantages to preserve both the original credit budget and verifier-determined direction. On long-CoT mathematical reasoning benchmarks, CSCR consistently outperforms GRPO baseline with the same number of policy updates. Targeted ablations further corroborate our diagnosis: privilege-induced directions are unreliable, moderate downweighting is most effective, and stronger modulation destabilizes optimization."
-    },
-    {
-      "id": "fetch-hf-2607.25388",
-      "title": "SGTP: Sampling-based Game-Theoretic Planning for Real-Time Multi-Vehicle Autonomous Racing",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-27",
-      "description": "Autonomous multi-vehicle racing requires real-time planning of diverse competitive behaviors in intense interactions. Existing planners often struggle to balance strategic diversity and computational efficiency. To address this challenge, w...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2607.25388",
       "hotScore": 86,
-      "content": "Autonomous multi-vehicle racing requires real-time planning of diverse competitive behaviors in intense interactions. Existing planners often struggle to balance strategic diversity and computational efficiency. To address this challenge, we propose Sampling-based Game-Theoretic Planning (SGTP), a real-time framework that combines game-theoretic reasoning with GPU-accelerated sampling of control sequences and dynamics rollouts. Sampled trajectories are ranked using a game-aware cost to capture competitive interactions and generate diverse racing behaviors. Our planner then performs feasibility selection by explicitly enforcing track-boundary and dynamic collision-avoidance constraints, ensuring safe and reliable transitions between racing strategies. Extensive simulations on challenging tracks show that SGTP achieves a 95.24% win rate and a 99.35% task-completion ratio in highly interactive races, with a mean computational time of 0.095 s over multiple iterative solving steps. We also demonstrate the successful application of SGTP in large-scale scenarios with up to 10 agents. We release our code and provide an open-source benchmark of multi-agent autonomous racing algorithms to facilitate future research. Project page: https://sgtp-racing.github.io/."
+      "content": "Reinforcement learning with verifiable rewards (RLVR) broadcasts a single response-level reward to every token, while on-policy distillation (OPD) scores each token against a stronger teacher for a dense advantage but caps performance at teacher quality and discourages exploration beyond it. Their complementarity makes combining RLVR and OPD promising, but we find that fusing the two advantages with a fixed coefficient triggers entropy collapse from two miscalibrations: a magnitude mismatch, where token-level OPD advantages can spike far beyond the bounded RLVR advantage and erase its signal, and a temporal mismatch, where sustained full-strength OPD keeps pulling the student toward the teacher and limits exploration needed to surpass it. We propose SAF, a Stable Advantage Fusion framework that resolves both issues via a lightweight, four-stage pipeline applied only to the OPD advantage: a sparsify-then-compress mechanism for magnitude control paired with a warm-up-then-anneal mechanism for temporal control, with each stage independently switchable and adding negligible overhead. Instantiating RLVR with GRPO, we evaluate SAF across seven mathematical reasoning and code generation benchmarks with Qwen3-1.7B/4B/8B: SAF avoids entropy collapse and consistently outperforms fixed-coefficient GRPO+OPD fusion, improving the aggregate score by 0.51-2.70% across all six model-domain settings while achieving more stable training."
     }
   ],
   "hfModels": [
@@ -458,7 +459,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 257599358,
-      "likes": 5164,
+      "likes": 5167,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -474,7 +475,7 @@
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
       "downloads": 114894026,
-      "likes": 2725,
+      "likes": 2726,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -490,7 +491,7 @@
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
       "downloads": 89120995,
-      "likes": 293,
+      "likes": 294,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -506,7 +507,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
       "downloads": 72470174,
-      "likes": 520,
+      "likes": 522,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -522,7 +523,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "downloads": 59964437,
-      "likes": 1338,
+      "likes": 1339,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -568,7 +569,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
       "downloads": 35237628,
-      "likes": 3304,
+      "likes": 3305,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -600,7 +601,7 @@
       "owner": "Community",
       "fullName": "amazon/chronos-2",
       "downloads": 28420483,
-      "likes": 388,
+      "likes": 389,
       "category": "research",
       "tags": [
         "Time-series-forecasting",
@@ -614,78 +615,48 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
-      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
       "source": "TechCrunch Gadgets",
-      "date": "2026-08-02",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "date": "2026-08-03",
+      "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-      "hotScore": 91,
-      "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it...."
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "hotScore": 92,
+      "content": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models...."
     },
     {
-      "id": "fetch-gadget-1",
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-08-02",
-      "description": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital ...",
-      "category": "agent",
+      "id": "fetch-gadget-fb1",
+      "title": "Ray-Ban Meta Glasses Add Real-time Translation",
+      "source": "Meta Hardware",
+      "date": "2026-08-04",
+      "description": "Meta's popular smart glasses now feature real-time audio translation and multimodal AI search that understands the world around you.",
+      "category": "image",
       "tags": [
-        "Hardware",
-        "AI-Gadget"
+        "Meta",
+        "Smart-Glasses"
       ],
-      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "hotScore": 94,
-      "content": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital ..."
+      "url": "https://about.fb.com/",
+      "hotScore": 96,
+      "content": "Ray-Ban Meta Smart Glasses continue to lead the consumer AI hardware category, showing high consumer engagement with features like hands-free capture, smart lookup, and now, instant language translation."
     },
     {
-      "id": "fetch-gadget-2",
-      "title": "What&#8217;s the best handheld mini fan?",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-08-01",
-      "description": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable....",
-      "category": "research",
+      "id": "fetch-gadget-fb2",
+      "title": "Humane Launches AI Pin 2.0 with Screen Projection",
+      "source": "Humane News",
+      "date": "2026-08-04",
+      "description": "Humane introduced a new version of its AI Pin featuring a brighter laser ink projection, faster responses, and offline LLM capabilities.",
+      "category": "tooling",
       "tags": [
-        "Hardware",
-        "AI-Gadget"
+        "Humane",
+        "AI-Pin"
       ],
-      "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
-      "hotScore": 87,
-      "content": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable...."
-    },
-    {
-      "id": "fetch-gadget-3",
-      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-07-31",
-      "description": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-      "hotScore": 87,
-      "content": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon...."
-    },
-    {
-      "id": "fetch-gadget-4",
-      "title": "Silicon Valley loves young founders. Until it doesn&#8217;t.",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-07-31",
-      "description": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "hotScore": 90,
-      "content": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company...."
+      "url": "https://humane.com",
+      "hotScore": 89,
+      "content": "The Humane AI Pin 2.0 addresses issues of thermal throttling and latency. Using quantized on-device small language models (SLMs), it provides offline translation and navigation tools."
     }
   ]
 }
