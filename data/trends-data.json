@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-05T13:29:49.538Z",
+  "updatedAt": "2026-08-06T01:16:03.702Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 385219,
-      "forks": 80975,
+      "stars": 385260,
+      "forks": 80986,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 266996,
-      "forks": 23861,
+      "stars": 267319,
+      "forks": 23884,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 225851,
-      "forks": 43906,
+      "stars": 226077,
+      "forks": 44002,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 199421,
-      "forks": 59920,
+      "stars": 199486,
+      "forks": 59932,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 185829,
-      "forks": 46052,
+      "stars": 185835,
+      "forks": 46049,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 166766,
-      "forks": 21533,
+      "stars": 166784,
+      "forks": 21535,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164400,
-      "forks": 30544,
+      "stars": 164412,
+      "forks": 30540,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 161448,
-      "forks": 9110,
+      "stars": 161756,
+      "forks": 9121,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 157541,
-      "forks": 46177,
+      "stars": 157549,
+      "forks": 46178,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 151433,
-      "forks": 23903,
+      "stars": 151463,
+      "forks": 23907,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 147930,
-      "forks": 21521,
+      "stars": 147978,
+      "forks": 21538,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 143483,
-      "forks": 23900,
+      "stars": 143509,
+      "forks": 23912,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,7 +210,7 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 142581,
+      "stars": 142600,
       "forks": 34827,
       "language": "Python",
       "category": "agent",
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 125411,
-      "forks": 11206,
+      "stars": 125473,
+      "forks": 11210,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 123783,
-      "forks": 14634,
+      "stars": 123975,
+      "forks": 14661,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,198 +260,197 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs",
+      "title": "VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild",
       "source": "arXiv.org",
-      "date": "2026-08-04",
-      "description": "Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead. More importantly, most existing methods...",
-      "category": "llm",
+      "date": "2026-05-27",
+      "description": "LLM-based agents score well on search benchmarks, yet real users consistently find results unsatisfying, revealing a persistent evaluation-experience gap. We attribute this gap to existing benchmarks' reliance on over-specified queries, sin...",
+      "category": "agent",
       "tags": [
         "Research",
-        "LLM"
+        "Agent"
       ],
-      "url": "http://arxiv.org/abs/2608.04010v1",
-      "hotScore": 88,
-      "content": "Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead. More importantly, most existing methods fail to alter the rigid, fixed computation allocation between the Vision Transformer and the Large Language Model components, limiting task-specific optimization. To address this, we introduce the Parallel Vision-Language (ParVL) scaling framework for MLLMs, which scales parallel computation by reusing the existing ViT and LLM backbone parameters across multiple vision and language branches. This framework raises a central question: given a fixed backbone parameter budget, how should additional shared-backbone computation be allocated between the vision and language modalities? We instantiate each parallel computational stream with branch-specific prefix parameters over a shared backbone, and train the entire model end-to-end via full-parameter supervised fine-tuning on roughly 13B tokens. We systematically study the computation-allocation trade-off between the ViT encoder and LLM decoder. ParVL improves overall multimodal performance over same-recipe single-branch baselines, and the best evaluated vision--language allocation varies across tasks. Code is available at https://github.com/YangYangGirl/ParVL."
+      "url": "http://arxiv.org/abs/2605.27882v2",
+      "hotScore": 85,
+      "content": "LLM-based agents score well on search benchmarks, yet real users consistently find results unsatisfying, revealing a persistent evaluation-experience gap. We attribute this gap to existing benchmarks' reliance on over-specified queries, single-turn interactions, and fixed-schema evaluation, none of which reflect real search behavior where users and agents collaboratively refine vague intent through multi-turn dialogue. We term this paradigm VibeSearch and introduce VibeSearchBench, a benchmark comprising 200 manually curated bilingual (Chinese and English) tasks across 20 domains, split into VibeSearch-Pro (professional) and VibeSearch-Daily (daily-life) subsets. Each task pairs a user persona with a schema-free ground-truth knowledge graph, and is evaluated through a progressive-disclosure user simulator and a graph-matching evaluation framework. We benchmark seven frontier models under both the ReAct framework and the OpenClaw agent harness. Results show that all models remain substantially inadequate for VibeSearch (best F1: 30.30), highlighting the need for fundamental advances in long-context reasoning, proactive intent elicitation, and structured knowledge construction."
     },
     {
       "id": "fetch-paper-1",
-      "title": "SocietyBench: Forecasting Counterfactual Social-World Evolution",
+      "title": "When Outputs Disperse, Does Epistemic Revision Follow? A Black-Box Diagnostic for Machine Collectives",
       "source": "arXiv.org",
       "date": "2026-08-04",
-      "description": "Large language models (LLMs), and the agents built on top of them, are now benchmarked heavily on whether they can finish a task -- fix a bug, drive a browser, operate a GUI. A complementary social ability, namely how well a model understan...",
+      "description": "Collective intelligence research treats disagreement as evidence of epistemic diversity: if agents express different views, the group should retain capacity to revise. In LLM collectives this proxy can break: agents can produce diverse-look...",
       "category": "agent",
       "tags": [
         "Research",
         "Agent"
       ],
-      "url": "http://arxiv.org/abs/2608.04009v1",
+      "url": "http://arxiv.org/abs/2608.03722v2",
       "hotScore": 90,
-      "content": "Large language models (LLMs), and the agents built on top of them, are now benchmarked heavily on whether they can finish a task -- fix a bug, drive a browser, operate a GUI. A complementary social ability, namely how well a model understands and forecasts the way real social events unfold, has barely been measured. We introduce SocietyBench, an end-to-end benchmark that takes a one-line event topic, collects Web news and social-media posts across five platforms, distills them into a date-indexed timeline that keeps factual events and a public-opinion layer separate, and then turns every cutoff date on that timeline into an audited bank of forecasting questions. Questions are scored on two orthogonal 100-point axes: probability calibration and temporal accuracy. Before any model sees a timeline, a three-phase procedure replaces every named entity and shifts every date by a per-event constant, turning a real arc into a counterfactual social world -- structurally identical to what happened, but stripped of the surface labels a model could match against pre-training memory. On five heterogeneous events and 125 prediction points in Chinese and English editions, the strongest of six frontier LLMs reaches only 75.0 out of 100, against a trivial anchor of 50. The two axes come apart: a model can be calibration-strong but time-weak, or the reverse. Three agent frameworks built on a shared base model fail to improve on that base, and two model-free heuristics trail every LLM. Per-event gaps reach 21.4 points on a single axis, which is our main argument for evaluating on several events rather than one. All anonymized timelines, question banks, ground truth, and scoring code are released."
+      "content": "Collective intelligence research treats disagreement as evidence of epistemic diversity: if agents express different views, the group should retain capacity to revise. In LLM collectives this proxy can break: agents can produce diverse-looking arguments while preserving the same conclusion. We operationalize dispersion-revision coupling: the degree to which an intervention that verifiably increases the dispersion of a collective's outputs in embedding space is accompanied by genuine revision of its epistemic stance rather than premise-preserving reformulation. The diagnostic is black-box: it operates on generated text alone and makes no claims about the internal representations of the generating models. Two channels are measured independently: an output channel, the Coherence Index (CI), verifies that the intervention changed output dispersion; an epistemic channel, per-turn stance annotation, measures whether the collective revised. We propose CI with the Meta-Predictive Clarity System (MPCS), which inserts a Re-Differentiation Protocol (RDP) when outputs over-converge, as a reusable method for estimating this coupling regime. We evaluate five-agent collectives from two configurations (gpt-4o-mini and gemini-2.5-flash; 310 paired episodes per condition). On gpt-4o-mini, conditional dissent improves false-premise recovery by +17.7 points (p&lt;1e-6) while static persona diversity harms recovery (-8.1, p=.007). On gemini-2.5-flash, the same intervention at a comparable budget yields no gain (26.1% vs 27.1%, p=.84) despite a verified dispersion drop; the two treatment effects differ from each other (z=3.79, p&lt;.001). Mechanism tagging shows Gemini preserves the false premise via intra-framework dissent: 94% of tagged post-RDP responses reformulate rather than concede (vs 24% on GPT). We recommend reporting per-intervention stance shift and premise-preservation rate alongside accuracy."
     },
     {
       "id": "fetch-paper-2",
-      "title": "WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament",
+      "title": "Terminal Agents Suffice for Enterprise Automation",
       "source": "arXiv.org",
-      "date": "2026-08-04",
-      "description": "Benchmarks that measure the forecasting ability of large language models are almost always retrospective: the event has happened, the answer is somewhere on the Web, and the evaluation must defend itself against memorisation. We report the ...",
-      "category": "image",
+      "date": "2026-03-31",
+      "description": "There has been growing interest in building agents that can interact with digital platforms to execute meaningful enterprise tasks autonomously. Among the approaches explored are tool-augmented agents built on abstractions such as Model Con...",
+      "category": "agent",
       "tags": [
         "Research",
-        "ImageGen"
+        "Agent"
       ],
-      "url": "http://arxiv.org/abs/2608.04008v1",
-      "hotScore": 88,
-      "content": "Benchmarks that measure the forecasting ability of large language models are almost always retrospective: the event has happened, the answer is somewhere on the Web, and the evaluation must defend itself against memorisation. We report the opposite design. Over the 39 days of the 2026 FIFA World Cup, six frontier LLMs -- all with extended thinking and native server-side web search -- were asked before every kickoff, one match at a time, to fill in a seven-market prediction card for all 104 matches, plus 12 group winners and a pre-tournament outright pool; no answer existed when the question was asked, so the evaluation is leakage-free by construction rather than by filtering, and the frozen archive holds 4,494 scored predictions. What the tournament establishes is a set of behaviours the six systems share. On match outcome they average 63.9%, level with backing the bookmaker's favourite -- which is in fact what they usually do. They agree with one another far more often than they are right, so a majority vote adds nothing. They under-commit to draws and to goals, and crowd their scoreline picks onto a single prototypical result. Accuracy tracks how lopsided a fixture is rather than how much is known about it: it collapses in the closest ties, where the dossiers are richest, while questions about the tournament as a whole are answered well. On this task the current generation of frontier systems is not sharply differentiated: the standings hold up at the top and the bottom across the run and churn in the middle, and the margins stay narrow throughout. The briefing dossiers, fixtures and official results are released as a benchmark, together with the scoring code."
+      "url": "http://arxiv.org/abs/2604.00073v3",
+      "hotScore": 81,
+      "content": "There has been growing interest in building agents that can interact with digital platforms to execute meaningful enterprise tasks autonomously. Among the approaches explored are tool-augmented agents built on abstractions such as Model Context Protocol (MCP) and web agents that operate through graphical interfaces. Yet, it remains unclear whether such complex agentic systems are necessary given their cost and operational overhead. We argue that a coding agent equipped only with a terminal and a filesystem can solve many enterprise tasks more effectively by interacting directly with platform APIs. We evaluate this hypothesis across diverse real-world systems and show that these low-level terminal agents match or outperform more complex agent architectures at a fraction of the cost. Our findings suggest that simple, flexible programmatic interfaces combined with strong foundation models should be the backbone of enterprise automation."
     },
     {
       "id": "fetch-paper-3",
-      "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
+      "title": "SparseDitto: Customizing GPU Kernels for Different Sparsity Patterns with LLM-Based Agentic System",
       "source": "arXiv.org",
-      "date": "2026-08-04",
-      "description": "Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, limiting fine-grained credit assignment in...",
+      "date": "2026-08-05",
+      "description": "Sparse matrix kernels are fundamental to scientific computing, graph analytics, and machine learning. Their GPU performance depends strongly on the input sparsity pattern and execution strategy. For the same SpMM on the same matrix, cuSPARS...",
       "category": "agent",
       "tags": [
         "Research",
         "Agent"
       ],
-      "url": "http://arxiv.org/abs/2608.04007v1",
-      "hotScore": 94,
-      "content": "Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, limiting fine-grained credit assignment in long-horizon TIR scenarios. On-policy self-distillation offers denser signals through teacher branches with privileged context, but existing approaches typically derive such context from ground-truth answers or retrieved skills, which may not reflect the states actually visited by the agent. Moreover, token-level supervision fails to capture the turn-level structure of tool interactions. To address this, we propose TurnSight, a turn-level hindsight self-distillation framework that derives supervision directly from execution-conditioned hindsight. It then constructs multiple hindsight views with different lookahead horizons and selects reliable supervision through cross-horizon directional agreement. Finally, the selected hindsight signal is normalized across sibling rollouts and used to adaptively modulate RL advantages while preserving their original optimization direction. Extensive experiments on three benchmarks demonstrate the effectiveness of TurnSight. Our codes are available at https://github.com/quchangle1/TurnSight."
+      "url": "http://arxiv.org/abs/2608.05033v1",
+      "hotScore": 81,
+      "content": "Sparse matrix kernels are fundamental to scientific computing, graph analytics, and machine learning. Their GPU performance depends strongly on the input sparsity pattern and execution strategy. For the same SpMM on the same matrix, cuSPARSE exhibits a 350x performance gap between CSR and Blocked-ELL. Our study of multiple data formats, specialized systems, and sparse compilers shows that no single implementation consistently dominates across sparsity patterns and operators. This motivates a system that can adapt its representation, execution strategy, and hardware mapping to each workload and target GPU. We present SparseDitto, an LLM-based system that constructs a GPU kernel for each matrix, operator, and target GPU. SparseDitto supports SpMV, SpMM, and SpGEMM within a unified design framework. A lightweight additive model ranks established strategies using structural features of the input matrix. An architecture-aware planner then proposes several candidate designs. Coding and verification agents implement and refine them using measurements from the target GPU. Across three sparse operators and a diverse set of matrices, SparseDitto achieves a geometric-mean speedup of 2.68x over cuSPARSE on an NVIDIA RTX PRO 6000 GPU, with a maximum of 146.61x. On an NVIDIA H200 GPU, it achieves 2.79x, with a maximum of 78.5x. Its generated SpMM kernels also accelerate full-batch GCN training by up to 3.39x."
     },
     {
       "id": "fetch-paper-4",
-      "title": "Do VLMs Align Better with Humans than LLMs during Natural Reading?",
+      "title": "Stabilizing Multi-Attack Adversarial Training via Bandit Optimization",
       "source": "arXiv.org",
-      "date": "2026-05-27",
-      "description": "Large language models have become increasingly useful computational models of human language processing, but it remains open whether vision-language learning makes text representations more human-like during natural reading. We address this...",
-      "category": "llm",
+      "date": "2025-11-15",
+      "description": "Deep Neural Networks (DNNs) remain vulnerable to diverse adversarial perturbations, motivating multi-attack adversarial training (AT) for improved robustness. However, existing methods either incur prohibitive overhead by computing all atta...",
+      "category": "tooling",
       "tags": [
-        "Research",
-        "LLM"
+        "Research"
       ],
-      "url": "http://arxiv.org/abs/2605.28818v2",
-      "hotScore": 80,
-      "content": "Large language models have become increasingly useful computational models of human language processing, but it remains open whether vision-language learning makes text representations more human-like during natural reading. We address this question by comparing matched LLM and vision-language model pairs under strictly text-only input and evaluating alignment with human brain activity (whole-cortex fMRI) and human behavior (synchronized regressive saccades). We identify a selective, rather than global, effect of vision-language training on human-model alignment. In the two within-lineage model pairs, VLMs more accurately predicted human regressive saccades, whereas VLMs and LLMs showed comparable whole-cortex fMRI alignment. However, sentence-level analyses revealed that the VLM advantage in fMRI alignment increased with the visual evocative strength of the sentences. Together, these findings provide a controlled in-silico comparison of multimodal training histories, showing that vision-language pretraining selectively improves model-human alignment via reading behavior and visually grounded content."
+      "url": "http://arxiv.org/abs/2511.12265v2",
+      "hotScore": 85,
+      "content": "Deep Neural Networks (DNNs) remain vulnerable to diverse adversarial perturbations, motivating multi-attack adversarial training (AT) for improved robustness. However, existing methods either incur prohibitive overhead by computing all attacks at each iteration, or rely on stochastic sampling over adversarial examples, which may cause excessive parameter drift. To address these issues, we propose Calibrated Adversarial Sampling (CAS), an efficient and stable framework that reformulates multi-attack AT as a multi-armed bandit optimization problem. By sampling a single attack per iteration that dynamically balances exploration and exploitation, CAS significantly reduces training cost while mitigating optimization conflicts across attacks and controlling excessive parameter drifts. Extensive experiments demonstrate that CAS achieves superior overall robustness at low computational cost, offering a scalable and principled approach to robust generalization against multi-attack settings. Our code is available at https://github.com/1240148048/CAS."
     },
     {
       "id": "fetch-paper-5",
-      "title": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
+      "title": "Can Post-Training Transform LLMs into Causal Reasoners?",
       "source": "arXiv.org",
-      "date": "2026-08-04",
-      "description": "Recursive self-improvement requires agents to turn accumulated experience into better future behavior. Personal AI agents offer a concrete setting for studying this capability because they retain preferences, task histories, tool routines, ...",
-      "category": "agent",
-      "tags": [
-        "Research",
-        "Agent"
-      ],
-      "url": "http://arxiv.org/abs/2608.04003v1",
-      "hotScore": 93,
-      "content": "Recursive self-improvement requires agents to turn accumulated experience into better future behavior. Personal AI agents offer a concrete setting for studying this capability because they retain preferences, task histories, tool routines, and learned skills across sessions. Yet whether retained experience actually improves them over time has not been systematically tested. We introduce PAST-Bench, a benchmark designed to isolate this question. Each agent runs through ordered sequences of fresh-session tasks under matched conditions that turn retained experience on and off. It spans 26 scenarios and 204 episodes across memory, procedural reuse, information gathering, and update. We report both later-task gains and whether those gains follow the intended save, retrieve, and update pathway. Across seven base models and four agent frameworks, improvement is real but uneven across capabilities. Agents with the same headline gain can differ markedly in whether that gain is supported by evidence of the intended pathway. Guided by these findings, we develop Hermes+, which extends Hermes with five targeted interventions across stages of the agent loop. Hermes+ raises the average gain from retained experience and provides clearer pathway evidence, with its strongest improvement on tasks requiring outdated state to be replaced, although the effect remains capability- and model-dependent. Together, PAST-Bench and Hermes+ provide an evaluation and diagnostic foundation for studying how persistent agents can progress from retaining experience to systematically improving through it. Code: https://github.com/Gen-Verse/PAST-Bench"
-    },
-    {
-      "id": "fetch-paper-6",
-      "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
-      "source": "arXiv.org",
-      "date": "2026-08-04",
-      "description": "Large language models can solve substantially harder reasoning problems with more inference-time compute. The term \"test-time scaling,\" however, now covers diverse inference algorithms that extend deliberation along a single trajectory, sam...",
+      "date": "2026-02-06",
+      "description": "Causal inference is essential for decision-making but remains challenging for non-experts. While large language models (LLMs) show promise in this domain, their precise causal estimation capabilities are still limited, and the impact of pos...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2608.04001v1",
-      "hotScore": 86,
-      "content": "Large language models can solve substantially harder reasoning problems with more inference-time compute. The term \"test-time scaling,\" however, now covers diverse inference algorithms that extend deliberation along a single trajectory, sample completed candidates and aggregate them through voting or verification, or search over unfinished partial states. These algorithms differ in their statistical structure, compute accounting, and failure modes. Treating these procedures as interchangeable under a single scalar \"budget,\" or reporting accuracy without the inference protocol that produced it, makes results difficult to compare across studies. We develop a systematic account of test-time scaling along three axes. First, we formalize test-time scaling as budgeted inference over the implicit prefix tree of an autoregressive model and distinguish three structural regimes: single-trajectory sequential scaling, leaf-level scaling with terminal reduction, and prefix-level scaling. Second, we treat the evaluated object as the entire inference system and develop evaluation principles that separate end-to-end system performance from candidate-bank diagnostics. We introduce an evaluation profile whose coordinates and simple functionals recover or bound common repeated-sampling metrics, and prescribe protocol-matched reporting of compute and uncertainty. Third, we specify reproducibility requirements for inference protocols, distinguishing exact replay from distributional reproducibility and identifying the artifacts needed to support each. We also organize the open-weight reasoning ecosystem by model-side and interface mechanisms, apply these principles to broad-knowledge, symbolic-reasoning, and competition-mathematics benchmarks, and assemble over 2 billion full reasoning traces for release with progressively richer verifier and token-level signals."
+      "url": "http://arxiv.org/abs/2602.06337v2",
+      "hotScore": 88,
+      "content": "Causal inference is essential for decision-making but remains challenging for non-experts. While large language models (LLMs) show promise in this domain, their precise causal estimation capabilities are still limited, and the impact of post-training on these abilities is insufficiently explored. This paper examines the extent to which post-training can enhance LLMs' capacity for causal inference. We introduce CauGym, a comprehensive dataset comprising seven core causal tasks for training and five diverse test sets. Using this dataset, we systematically evaluate five post-training approaches: SFT, DPO, KTO, PPO, and GRPO. Across five in-domain and four existing benchmarks, our experiments demonstrate that appropriate post-training enables smaller LLMs to perform causal inference competitively, often surpassing much larger models. Our 14B parameter model achieves 93.5% accuracy on the CaLM benchmark, compared to 55.4% by OpenAI o3. Furthermore, the post-trained LLMs exhibit strong generalization and robustness under real-world conditions such as distribution shifts and noisy data. Collectively, these findings provide the first systematic evidence that targeted post-training can produce reliable and robust LLM-based causal reasoners. Our data and GRPO-model are available at https://github.com/OpenCausaLab/CauGym."
+    },
+    {
+      "id": "fetch-paper-6",
+      "title": "From Score Matrices to Football-Aware Match-State Simulation: An Auditable LLM Harness for Exact-Score Reranking",
+      "source": "arXiv.org",
+      "date": "2026-08-05",
+      "description": "Football score forecasting combines a strong statistical core with a difficult contextual edge. Dynamic Poisson-family models estimate team strength, expected goals, and coherent score probabilities, but do not directly understand roles, ta...",
+      "category": "llm",
+      "tags": [
+        "Research",
+        "LLM"
+      ],
+      "url": "http://arxiv.org/abs/2608.05030v1",
+      "hotScore": 89,
+      "content": "Football score forecasting combines a strong statistical core with a difficult contextual edge. Dynamic Poisson-family models estimate team strength, expected goals, and coherent score probabilities, but do not directly understand roles, tactical matchups, motivation, or how a first goal changes behaviour. Large language models (LLMs) can reason about such concepts, yet are not calibrated probability engines. We combine both components through an auditable information harness. This paper documents four iterations: V1, a dynamic score-driven Dixon-Coles baseline; V2, which maps LLM contextual ratings back into expected-goal parameters; V3, which replaces scalar correction with goal-by-goal simulations over a frozen score-candidate set; and V4, which adds shared first-breakthrough and post-goal cascade judgments, time-aware stopping, and deterministic tail candidates. The harness defines input semantics, supplies pre-match evidence, and constrains the LLM to an inspectable reasoning route. On a chronological replay of the first 150 matches of the 2025-26 English Premier League, V1 achieved 10.0% Top-1 and 26.7% Top-3 exact-score accuracy. V3 reached 12.0% and 30.0%, while V4 reached 14.7% and 30.7%. V4 increased candidate coverage from 77.3% to 84.7%, although no added tail candidate became a Top-3 exact hit. V1's native 1X2 distribution achieved 53.3% argmax accuracy, 0.9878 log loss, 0.5870 Brier score, and 0.2095 ranked probability score. These results are exploratory: the development slice is not an untouched benchmark, and temporal input isolation cannot exclude outcome memory in a closed LLM. The contribution is an auditable hybrid architecture, a clear design evolution, and negative findings showing where football-aware simulation does and does not improve score selection."
     },
     {
       "id": "fetch-paper-7",
-      "title": "Moral Hazard in Multi-Agent Language Models",
+      "title": "Language Models Generalize to Human-like Word Order Preferences",
       "source": "arXiv.org",
-      "date": "2026-07-27",
-      "description": "Cooperation can fail when socially valuable effort is costly, weakly observable, and mainly benefits others. Drawing on Holmström's team moral-hazard model, we introduce the Dialogue Moral Hazard Game, a controlled textual game that operati...",
-      "category": "agent",
+      "date": "2026-08-05",
+      "description": "A central question in language acquisition is whether linguistic biases can emerge from general learning mechanisms operating over underdetermined input. Artificial Language Learning (ALL) studies have shown that human learners reliably gen...",
+      "category": "llm",
       "tags": [
         "Research",
-        "Agent"
+        "LLM"
       ],
-      "url": "http://arxiv.org/abs/2607.23982v3",
-      "hotScore": 82,
-      "content": "Cooperation can fail when socially valuable effort is costly, weakly observable, and mainly benefits others. Drawing on Holmström's team moral-hazard model, we introduce the Dialogue Moral Hazard Game, a controlled textual game that operationalizes this hidden-action structure for language agents. In each episode, an agent can preserve an immediate local reward or pay a query cost to reveal a hidden safety fact that primarily helps another agent's downstream decision. We evaluate nine open-weight language models and one frontier API model, decomposing behavior into query use, realized information transfer, local-reward preservation, unsafe choice, format validity, and team success. Base open-weight models commonly preserve local reward without team success or query without communicating information that changes the final decision. GPT-5.6 Sol reaches ceiling behavior in the primary setting, and autonomous sweeps respond strongly to query cost and team reward. In a 3,015-decision incentive-isolation experiment with scripted partners, its empirical query threshold tracks the Holmström-derived private-share boundary across nine query costs with mean absolute error 0.013. We then use supervised fine-tuning, RLOO, sequential SFT+RLOO, and GEPA prompt optimization as diagnostic update mechanisms where coverage permits. Their effects are heterogeneous: SmolLM3-3B and OLMo-7B show the clearest mechanism-consistent weight-level improvements, whereas GEPA sometimes improves team success while reducing or eliminating costly queries. Thus, optimization can shift aggregate reward without recovering the designated cooperative mechanism, motivating evaluations that report mechanism-level behavior rather than team success alone."
+      "url": "http://arxiv.org/abs/2608.05028v1",
+      "hotScore": 83,
+      "content": "A central question in language acquisition is whether linguistic biases can emerge from general learning mechanisms operating over underdetermined input. Artificial Language Learning (ALL) studies have shown that human learners reliably generalize beyond the evidence provided, including by preferring scope-homomorphic noun phrase modifier orders. In this work, we investigate whether language models exhibit the same bias under similar conditions. We create a controlled learning environment in which models are trained on a corpus where all noun phrases containing multiple modifiers have been removed, eliminating direct evidence about modifier ordering, and are then evaluated on multiple modifier sentences. Across three model sizes, we find that they consistently prefer scope-homomorphic orders despite never observing them during training. These preferences vary in strength by modifier type. To investigate the source of these preferences, we examine noun-modifier association strength using pointwise mutual information (PMI). While PMI reflects known modifier-ordering patterns, it does not explain the models' ordering preferences. These findings demonstrate that LMs can recover human-like linguistic generalizations from impoverished input and provide a controlled framework for investigating the mechanisms underlying such biases."
     },
     {
-      "id": "fetch-hf-2608.02791",
-      "title": "Better, Stronger, Faster, and Broader: Structured All-Mask Prediction for MLLM-Based Segmentation",
-      "source": "Hugging Face Daily",
-      "date": "2026-08-02",
-      "description": "MLLM-based segmentation faces a core segmentation trilemma: high segmentation performance, preserved dialogue ability, and fast inference. Embedding-prediction methods may disrupt language modeling through pixel-level objectives, whereas ne...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2608.02791",
-      "hotScore": 90,
-      "content": "MLLM-based segmentation faces a core segmentation trilemma: high segmentation performance, preserved dialogue ability, and fast inference. Embedding-prediction methods may disrupt language modeling through pixel-level objectives, whereas next-token generation is inefficient for dense masks. We propose All-Mask Prediction, decoupling autoregressive dialogue from non-autoregressive mask prediction. Its binary instantiation, STAMP (Simultaneous Textual All-Mask Prediction), emits an in-vocabulary <SEG> trigger, fuses image-aligned mask tokens with corresponding patch features, and uses hybrid attention to classify all tokens as foreground or background in one pass. It thereby combines strong referring and reasoning segmentation with preserved multimodal ability and efficient inference. However, binary masks cannot retain multiple semantic or instance identities without repeated target-specific predictions. We therefore propose Structured All-Mask Prediction and develop STAMPlus. It generates a target list with explicit IDs and optional boxes, binds these IDs to a shared multi-class mask space, and jointly predicts all targets in one non-autoregressive pass. A single unified checkpoint retains STAMP's referring and reasoning capabilities while extending to open-vocabulary semantic, instance-aware, and remote-sensing small-target segmentation, where high-resolution mask-token scaling preserves finer spatial evidence. Across these settings, STAMPlus achieves state-of-the-art segmentation performance, preserves general multimodal instruction following, and reduces 12-category latency from 13.50s for repeated STAMP inference to 5.16s. Further analyses show that accurate target cues improve segmentation and learned spatial grounding benefits look-twice reasoning. Overall, STAMPlus resolves the trilemma beyond single-target prediction."
-    },
-    {
-      "id": "fetch-hf-2608.03994",
-      "title": "When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings",
+      "id": "fetch-hf-2607.00482",
+      "title": "Know When to Stop: Segment-Level Credit Assignment for Reducing Overthinking",
       "source": "Hugging Face Daily",
       "date": "2026-08-03",
-      "description": "We identify a previously overlooked failure mode of ALiBi positional encoding: its linear bias scaling underflows floating-point precision, which zeroes out a large fraction of attention weights and renders the affected attention heads part...",
-      "category": "tooling",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2608.03994",
-      "hotScore": 89,
-      "content": "We identify a previously overlooked failure mode of ALiBi positional encoding: its linear bias scaling underflows floating-point precision, which zeroes out a large fraction of attention weights and renders the affected attention heads partially blind. We analyze this failure mode, characterize its impact, and examine four mitigation strategies. We further demonstrate its occurrence in state-of-the-art pretrained models based on ALiBi. Comprehensive pretraining experiments with 148M-parameter decoder models help us to disentangle its effects from out-of-context degradation. We find that ALiBi's failure mode can substantially impair token retrieval while having only a minor effect on standard decoder benchmarks. We propose four training-time mitigation strategies and evaluate them individually and in combinations, finding that log-scaled distances yield the most consistent improvements in passkey retrieval. Despite this problem, default ALiBi slopes remain a surprisingly strong baseline, particularly for needle-in-a-haystack retrieval. Based on these findings we provide concrete recommendations on how to train models with ALiBi."
-    },
-    {
-      "id": "fetch-hf-2608.03419",
-      "title": "Multi-Task Multi-Frame Visual Piano Transcription",
-      "source": "Hugging Face Daily",
-      "date": "2026-08-03",
-      "description": "Audio-based piano transcription performs well on onset, pitch, and velocity, but the sustain pedal lets sound persist long after key release, so audio systems predict pedal-extended offsets rather than physical key release. Yet existing Vis...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2608.03419",
-      "hotScore": 88,
-      "content": "Audio-based piano transcription performs well on onset, pitch, and velocity, but the sustain pedal lets sound persist long after key release, so audio systems predict pedal-extended offsets rather than physical key release. Yet existing Visual Piano Transcription (VPT) systems focus on onset detection from short video windows, offset accuracy lags onset by a wide margin, and note-level velocity has not been reported. To address these gaps, we present V2N (Video to Notes), the first complete VPT system: a shared temporal backbone feeds task-specific heads for onset, offset, key hold, and velocity, jointly trained with per-frame supervision rather than only at the window center. Ablations show that multi-task supervision enables offset and velocity prediction while improving onset accuracy; longer temporal context yields further improvements. V2N sets new state-of-the-art results on PianoVAM and R3."
-    },
-    {
-      "id": "fetch-hf-2607.28661",
-      "title": "Are the Financial Reasoning from LLMs Credible? A Real World Test over Long-Horizon Statements",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-21",
-      "description": "Do Large Language Models (LLMs) possess genuine structural reasoning, or merely rely on surface-level pattern matching? The financial domain, demanding numerical precision and multi-step logic over long contexts, is an ideal testbed. Existi...",
+      "description": "Reasoning language models frequently overthink: generating extended chains of behaviors such as hedging, approach abandonment, and self contradiction that consume tokens without improving answers. We show that these behaviors are not merely...",
       "category": "llm",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2607.28661",
-      "hotScore": 87,
-      "content": "Do Large Language Models (LLMs) possess genuine structural reasoning, or merely rely on surface-level pattern matching? The financial domain, demanding numerical precision and multi-step logic over long contexts, is an ideal testbed. Existing benchmarks fail to capture real-world industrial complexity, predominantly relying on multiple-choice questions or single-hop QA over cropped tables while ignoring intricate cross-statement dynamics and temporal de-cumulation.\n  To bridge this gap, we introduce FinIndices, a large-scale benchmark evaluating data-processing fidelity over uncropped financial statements (up to 32K tokens). Utilizing an automated synthesis pipeline with adversarial traps, FinIndices encompasses Single-Index computation and Table-Index tabulation to test complex domain, temporal, and caliber reasoning.\n  Our evaluation reveals two severe LLM vulnerabilities. First, a \"Knowledge Bottleneck\": despite memorizing formulas during pre-training, models demonstrate fragile pattern matching. Removing explicit formula hints causes performance to collapse (e.g., Gemini-3.1-Pro drops from 70.70% to 38.22% on table tasks), exposing fatal flaws in temporal de-cumulation and stock-flow caliber mismatch. Second, a \"Structural Bottleneck\": the intense cognitive load of generating multi-metric, multi-period tables actively drains reasoning capacity. Under structural pressure, LLMs that flawlessly execute isolated derivations regress to shallow heuristics, such as fetching incorrect adjacent columns or substituting deep accounting adjustments with lazy literal arithmetic. Finally, Supervised Fine-Tuning (SFT) yields substantial zero-hint gains (+8.54% Single, +3.82% Table), validating that structured logic can be partially restored via data-centric alignment."
+      "url": "https://huggingface.co/papers/2607.00482",
+      "hotScore": 90,
+      "content": "Reasoning language models frequently overthink: generating extended chains of behaviors such as hedging, approach abandonment, and self contradiction that consume tokens without improving answers. We show that these behaviors are not merely a consequence of length; even when controlling for response length, incorrect traces exhibit higher rates of unproductive self-reflection than correct ones. Addressing this requires identifying where self-reflection helps vs hurts, but obtaining these step-level annotations is costly. We observe that intermediate answer commitments within reasoning traces can provide a cheap proxy: by comparing each final answer candidate in the trace to the ground truth, we can determine whether subsequent reflection is productive without any additional supervision. Building on this insight, we propose DASH (Drift Aware advantage SHaping), which assigns segment-level credit based on whether each reasoning segment leads toward or away from correctness. On competition-level math benchmarks, DASH achieves the highest accuracy where overthinking is prevalent (Average Accuracy: 59.45% vs. 58.1% Dr.GRPO vs. 56.95% GRPO) while reducing overthinking behaviors and achieving more productive self-correction than baselines."
     },
     {
-      "id": "fetch-hf-2608.00371",
-      "title": "Decoding Children's Gait Behavior",
+      "id": "fetch-hf-2608.03506",
+      "title": "When Many Answers Are Valid, Voting Fails: Symbolic Verification for Best-of-K Causal Reasoning in LLMs",
       "source": "Hugging Face Daily",
-      "date": "2026-07-31",
-      "description": "We introduce a new problem domain for human action recognition: the fine-grained analysis of children's gait behaviors from standard RGB video. We specifically target the ambulatory patterns of children aged 3-17 years. Such behaviors arise...",
-      "category": "image",
+      "date": "2026-08-03",
+      "description": "Self-consistency assumes the most frequent answer among sampled reasoning traces is the most reliable, but this can fail in causal reasoning: samples often repeat the same confounding error, and votes fragment across multiple valid answers,...",
+      "category": "llm",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2608.00371",
+      "url": "https://huggingface.co/papers/2608.03506",
+      "hotScore": 89,
+      "content": "Self-consistency assumes the most frequent answer among sampled reasoning traces is the most reliable, but this can fail in causal reasoning: samples often repeat the same confounding error, and votes fragment across multiple valid answers, letting an invalid answer win despite a valid minority trace. We introduce CALVER (Causal Axiom-Level VERification), a training-free symbolic verifier that scores structured traces against Pearl's causal criteria, including -separation, backdoor adjustment, and intervention, and selects the highest-scoring candidate without consulting a reference answer. On CLEAR find-one-valid queries that admit multiple graph-valid answers, CALVER reaches 42.1% where plurality, a reward model, an LLM judge, and model confidence remain near 30% on identical frozen pools. Scaling the judge to 72B does not close the gap. In an audited clean-core subset, 11 of 21 graph-valid CALVER selections differ from the benchmark's listed answer while still satisfying the requested predicate. The advantage widens with the sampling budget and reproduces across ten published Bayesian networks, a second model family, and settings where the model must build the graph from text. CALVER also improves thresholded average-treatment-effect decisions against exact ground truth, generalizes to logic under a truth-table checker, and scores each candidate in milliseconds on CPU. CALVER needs only a causal structure, supplied outright or built from the text; wherever that holds, selection can aggregate via causal validity."
+    },
+    {
+      "id": "fetch-hf-2608.02703",
+      "title": "ARCHead: Activation-Metric Residual Correction for Large Language Model Output Heads",
+      "source": "Hugging Face Daily",
+      "date": "2026-08-02",
+      "description": "Weight-only quantization substantially reduces the storage of large language model (LLM) transformer blocks, but practical backends often retain the final language-modeling head (LM-head) in BF16 or FP16. Quantizing this projection naively ...",
+      "category": "llm",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2608.02703",
+      "hotScore": 88,
+      "content": "Weight-only quantization substantially reduces the storage of large language model (LLM) transformer blocks, but practical backends often retain the final language-modeling head (LM-head) in BF16 or FP16. Quantizing this projection naively can strongly perturb the vocabulary-logit distribution. We present ARCHead, a packed LM-head compressor that combines a quantized low-rank core, group-wise INT4 residuals, and a low-rank correction fitted in an activation-derived metric. ARCHead stores no dense BF16 head and reduces persistent LM-head storage by 3.7-3.9x. On Qwen3-8B-Base, it uses 25.6% of BF16 head storage while attaining 1.007 relative perplexity; storage-matched naive INT4 yields 1.14-1.16. Replacing the BF16 head left by AWQ or bitsandbytes adds only 0.006-0.007 cross-entropy, with less than 2% throughput change in our measurements. ARCHead therefore complements block quantizers by compressing the large output projection they can leave untouched. Code is available at https://github.com/suayptalha/archead."
+    },
+    {
+      "id": "fetch-hf-2608.03756",
+      "title": "LegalPincite: Multi-level Legal Information Retrieval Dataset",
+      "source": "Hugging Face Daily",
+      "date": "2026-08-03",
+      "description": "A common task in legal Information Retrieval (IR) is to find relevant legal sources from case-law collections. While legal practice often requires pinpoint citations (pincites) to specific case paragraphs, most existing public legal IR data...",
+      "category": "research",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2608.03756",
+      "hotScore": 87,
+      "content": "A common task in legal Information Retrieval (IR) is to find relevant legal sources from case-law collections. While legal practice often requires pinpoint citations (pincites) to specific case paragraphs, most existing public legal IR datasets lack paragraph-level citation annotations. Yet, publicly available datasets with such information contain data leakage in the query text and exclude paragraphs that are neither citing nor cited from the corpora, creating an unrealistic and oversimplified retrieval setting, potentially leading to inflated performance. To address these limitations, we contribute a large-scale legal IR dataset constructed from Court of Justice of the European Union (CJEU) judgments. The dataset contains: (i) masked case/paragraph queries, with removed citation information; (ii) a corpus that includes all paragraphs; and (iii) case- and paragraph-level ground-truth citations, with partial human expert validation. Our dataset supports both the development and rigorous evaluation of legal IR methods, at multiple query-document levels (case-to-case, paragraph-to-case, and paragraph-to-paragraph retrieval). Link to dataset: https://huggingface.co/datasets/theresiavr/legalpincite"
+    },
+    {
+      "id": "fetch-hf-2608.03972",
+      "title": "ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning",
+      "source": "Hugging Face Daily",
+      "date": "2026-08-03",
+      "description": "On-policy training has emerged as a powerful post-training paradigm for improving the reasoning capabilities of large language models, and is often enhanced by golden trajectories from stronger expert models. However, when the expert fails ...",
+      "category": "llm",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2608.03972",
       "hotScore": 86,
-      "content": "We introduce a new problem domain for human action recognition: the fine-grained analysis of children's gait behaviors from standard RGB video. We specifically target the ambulatory patterns of children aged 3-17 years. Such behaviors arise naturally in the diagnosis and treatment of several critical developmental and neuromuscular disorders, such as cerebral palsy and hemiplegia. Despite their clinical value, current 3D sensor-based gait analysis systems are expensive, intrusive, and often impractical for young subjects. To address this, we introduce a new dataset comprising over 1,100 high-frame-rate (60 FPS) video sequences from 110 subjects, accompanied by synchronized, anonymized pose sequences. In each session, the child performs a 5-second \"walk-around\" task, capturing the gait cycle from multiple viewpoints. Crucially, we demonstrate that current state-of-the-art approaches, including gait foundation models and Multimodal Large Language Models (MLLMs), fail to effectively resolve these clinical nuances. We identify the key technical challenges in analyzing these erratic and subtle motor patterns and describe a unified end-to-end framework for decoding fundamental components of pediatric gait. Through comprehensive experimental results, we demonstrate the potential of this dataset to drive novel research questions and establish a rigorous baseline for automated child gait assessment."
+      "content": "On-policy training has emerged as a powerful post-training paradigm for improving the reasoning capabilities of large language models, and is often enhanced by golden trajectories from stronger expert models. However, when the expert fails on harder problems, existing trajectory-guided methods lose their main source of supervision, and these failed trajectories are typically discarded as negative samples. We argue that such failures, which we call Golden Negative Trajectories, can still provide valuable reasoning signals when treated not as demonstrations to imitate, but as flawed trajectories to reflect upon. We identify a Reflection Advantage: for hard problems, reflecting on a flawed trajectory can be easier and more effective than solving the problem directly from scratch. Motivated by this, we propose ReflectRL, a lightweight plug-and-play framework that learns from Golden Negative Trajectories during on-policy training. ReflectRL first uses these trajectories to elicit Reflective Reasoning, then applies Reflective-to-Direct Policy Transition to transfer the acquired reasoning behavior back to Direct Reasoning. Experiments across 9 benchmarks, 4 LLM backbones, and 4 on-policy training methods show that ReflectRL consistently improves reasoning performance with minimal overhead."
     }
   ],
   "hfModels": [
@@ -461,7 +460,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 257806986,
-      "likes": 5180,
+      "likes": 5182,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -571,7 +570,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
       "downloads": 34991851,
-      "likes": 3364,
+      "likes": 3366,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -617,63 +616,93 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
-      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "title": "Nikita Bier steps down as X&#8217;s head of product",
       "source": "TechCrunch Gadgets",
       "date": "2026-08-05",
-      "description": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models....",
+      "description": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "hotScore": 99,
-      "content": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models...."
+      "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+      "hotScore": 89,
+      "content": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X...."
     },
     {
       "id": "fetch-gadget-1",
-      "title": "Saudi Aramco backs India&#8217;s Mitti Labs to make Asia&#8217;s rice farming more water-resilient",
+      "title": "Travis Kalanick&#8217;s robotics startup Atoms taps former Uber finance chief as CFO",
       "source": "TechCrunch Gadgets",
       "date": "2026-08-05",
-      "description": "Mitti Labs plans to expand beyond India and enter the Philippines and Indonesia while growing its carbon credits and agricultural data business....",
+      "description": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/",
-      "hotScore": 90,
-      "content": "Mitti Labs plans to expand beyond India and enter the Philippines and Indonesia while growing its carbon credits and agricultural data business...."
+      "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+      "hotScore": 96,
+      "content": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber...."
     },
     {
       "id": "fetch-gadget-2",
-      "title": "Lucid&#8217;s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
       "source": "TechCrunch Gadgets",
-      "date": "2026-08-04",
-      "description": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis....",
+      "date": "2026-08-05",
+      "description": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+      "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
       "hotScore": 97,
-      "content": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis...."
+      "content": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis...."
     },
     {
       "id": "fetch-gadget-3",
-      "title": "Waymo opens up robotaxi service in Dallas to everyone",
+      "title": "Lucid Motors just delayed its affordable EV. Now what?",
       "source": "TechCrunch Gadgets",
-      "date": "2026-08-04",
-      "description": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe....",
+      "date": "2026-08-05",
+      "description": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silvio Napoli said he's focused on getting the EV right, as well as its nearer-term robotaxi project with Uber and Nuro....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
-      "hotScore": 90,
-      "content": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe...."
+      "url": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
+      "hotScore": 86,
+      "content": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silvio Napoli said he's focused on getting the EV right, as well as its nearer-term robotaxi project with Uber and Nuro...."
+    },
+    {
+      "id": "fetch-gadget-4",
+      "title": "Zoox to start charging for robotaxi rides in Las Vegas",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-08-05",
+      "description": "This marks the official launch of Zoox's commercial operations....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
+      "hotScore": 85,
+      "content": "This marks the official launch of Zoox's commercial operations...."
+    },
+    {
+      "id": "fetch-gadget-5",
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-08-05",
+      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "hotScore": 86,
+      "content": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two...."
     }
   ]
 }
