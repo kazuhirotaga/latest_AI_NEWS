@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-06T13:28:21.790Z",
+  "updatedAt": "2026-08-07T01:58:18.551Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 385340,
-      "forks": 81009,
+      "stars": 385392,
+      "forks": 81018,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 267794,
-      "forks": 23923,
+      "stars": 268121,
+      "forks": 23964,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 226413,
-      "forks": 44129,
+      "stars": 226620,
+      "forks": 44226,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 199562,
-      "forks": 59954,
+      "stars": 199630,
+      "forks": 59964,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 185871,
-      "forks": 46049,
+      "stars": 186029,
+      "forks": 46056,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 166810,
-      "forks": 21540,
+      "stars": 166819,
+      "forks": 21541,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164422,
-      "forks": 30547,
+      "stars": 164428,
+      "forks": 30556,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 162097,
-      "forks": 9137,
+      "stars": 162380,
+      "forks": 9149,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 157573,
-      "forks": 46176,
+      "stars": 157583,
+      "forks": 46178,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 151549,
-      "forks": 23928,
+      "stars": 151599,
+      "forks": 23935,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 148032,
-      "forks": 21542,
+      "stars": 148082,
+      "forks": 21547,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 143550,
-      "forks": 23916,
+      "stars": 143579,
+      "forks": 23923,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 142623,
-      "forks": 34831,
+      "stars": 142628,
+      "forks": 34835,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,7 +227,7 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 125554,
+      "stars": 125626,
       "forks": 11217,
       "language": "Python",
       "category": "research",
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 124241,
-      "forks": 14696,
+      "stars": 124405,
+      "forks": 14731,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,198 +260,194 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training",
+      "title": "Accelerating Dynamic Graph Clustering on GPU Architectures with cuGraph",
       "source": "arXiv.org",
-      "date": "2026-08-05",
-      "description": "Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection of 50 generators spanning mathematics, lo...",
-      "category": "image",
+      "date": "2026-08-04",
+      "description": "This work addresses community detection in temporal networks through GPU-accelerated extensions of spectral clustering and modularity-based algorithms originally designed for static graphs. Built on the NVIDIA RAPIDS ecosystem, the framewor...",
+      "category": "tooling",
       "tags": [
-        "Research",
-        "ImageGen"
+        "Research"
       ],
-      "url": "http://arxiv.org/abs/2608.05148v1",
-      "hotScore": 94,
-      "content": "Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection of 50 generators spanning mathematics, logic, planning, state tracking, formal languages, structured data, games, causality, and code, with semantic scorers, difficulty controls, and task evaluators. Under a matched completion-supervised protocol, we compare Reasoning Core with Procedural Warmup, Reasoning Gym, and SynLogic across four base-model settings and multiple training durations. In the primary 3B comparison, Reasoning Core achieves the highest mean scores on DROP, LogiQA, and ARC-Challenge, exceeding both the baseline without procedural data and all three alternative procedural collections. Task-level analyses show that semantic validity alone does not ensure training utility, highlighting compact targets and calibrated difficulty as important design factors. We ran audits combining model-assisted review, human adjudication, and regression testing. Applied throughout Reasoning Core development and to the other collections, they reveal subtle mismatches among generation, rendering, targets, and scoring, a reminder that procedural generation alone does not guarantee correctness. The library, generated datasets, and audit material are publicly available."
+      "url": "http://arxiv.org/abs/2608.03695v2",
+      "hotScore": 82,
+      "content": "This work addresses community detection in temporal networks through GPU-accelerated extensions of spectral clustering and modularity-based algorithms originally designed for static graphs. Built on the NVIDIA RAPIDS ecosystem, the framework enables the characterization and tracking of communities in snapshot-based dynamic graphs, either by Leiden greedy optimization with multi-GPU support via Dask-based workload distribution, or eigendecomposition of a symmetric Bethe-Hessian operator. Our multislice modularity backend achieves up to roughly three orders of magnitude speedup over the CPU reference under an equal-work budget, depending on graph density and snapshot count, while preserving compatibility with existing graph analytics pipelines. We demonstrate its applicability on real-world and synthetic datasets, facilitating exploratory analysis of structural network properties over time. Such capabilities are relevant across several application domains, such as epidemic spreading, financial systems, cybersecurity, and trajectory and mobility analysis. We release our implementation as free and open-source software, including Python bindings through the NetworkX-Temporal library for ease of use and zero-code acceleration with existing codebases."
     },
     {
       "id": "fetch-paper-1",
-      "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
+      "title": "Stochastic Dynamics on Persistence Diagram Space via Reinforcement Learning",
       "source": "arXiv.org",
-      "date": "2026-08-05",
-      "description": "Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified objective. We present Argus, a persistent, sel...",
-      "category": "agent",
+      "date": "2026-08-06",
+      "description": "Persistence diagrams (PDs) provide stable and interpretable summaries of multiscale topological structure. While substantial progress has been made in the statistical analysis of PDs, existing literature often treats diagrams as static obje...",
+      "category": "tooling",
       "tags": [
-        "Research",
-        "Agent"
+        "Research"
       ],
-      "url": "http://arxiv.org/abs/2608.05144v1",
-      "hotScore": 89,
-      "content": "Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified objective. We present Argus, a persistent, self-evolving runtime in which Manager, Planner, Engineer, and Reviewer execute bounded missions over durable project state. Argus separates stable user intent from operational objectives, constraints, and verification criteria, and admits memories, skills, procedures, verifiers, routing decisions, and rejected routes only after role-owned review and, when available, task-native verification. Model weights remain fixed; self-evolution occurs through persistent runtime state and control policy, with autonomous execution between operator-owned escalation points. Across seven GPT-5.5 benchmark arenas, Argus achieves about 78% on SWE-Bench Pro versus 59% for Direct Copilot while using 1.41 times the aggregate tokens. After verification-gated self-evolution, mature SWE-Bench waves use 21% fewer solve-input tokens and 15% less active workflow time per task than startup waves, while recording 34 verifier recoveries and 22 strict review-loop rescues. Argus also reaches 76.8% on AARRI-Bench and a 28.0-point gap on mathematical data synthesis, with competitive GPU-kernel and language-model-training results. Beyond benchmarks, an optimized RWKV6 kernel was merged upstream; a multi-day mathematics campaign retained falsified routes and proof-backed frontier updates; and six paper pipelines completed 254 missions with 16 stage rollbacks. These results show that a fixed-weight, self-evolving harness can revise, recover, and accumulate verified approaches while producing structured trajectories for future supervised and reinforcement learning."
+      "url": "http://arxiv.org/abs/2608.06276v1",
+      "hotScore": 81,
+      "content": "Persistence diagrams (PDs) provide stable and interpretable summaries of multiscale topological structure. While substantial progress has been made in the statistical analysis of PDs, existing literature often treats diagrams as static objects and provide limited frameworks for probabilistic modeling and stochastic evolution on PD space. We introduce a reinforcement learning framework for stochastic dynamics on PD space, where diagrams evolve through topology aware local edit operations. The dynamics define controlled Markov processes on spaces of finite PDs with variable cardinality. We establish conditions under which the induced Markov chains are irreducible, aperiodic, and geometrically ergodic, implying the existence of unique stationary probability laws on PD space. To guide the dynamics toward scientifically relevant topological targets, we formulate objectives that encompass distribution matching, task specific topological statistics, and structure-preserving compression. The resulting rewards balance task specific distributional targets, diagram fidelity, and complexity reduction, and yield a framework for adaptive topological simplification and probabilistic modeling. Experiments on synthetic and neuroimaging PDs demonstrate that the proposed framework can preserve dominant topological structure while reducing diagram complexity."
     },
     {
       "id": "fetch-paper-2",
-      "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+      "title": "Field Aware Agent Skill Retrieval",
       "source": "arXiv.org",
-      "date": "2026-08-05",
-      "description": "Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora, however, are dominated by books, acade...",
+      "date": "2026-08-03",
+      "description": "As lifelong learning agents accumulate lifelong growing skill banks, retrieving the correct skill becomes an increasingly important bottleneck. Most current skill retrieval methods treat each skill as one flat document by concatenating fiel...",
       "category": "agent",
       "tags": [
         "Research",
         "Agent"
       ],
-      "url": "http://arxiv.org/abs/2608.05141v1",
-      "hotScore": 85,
-      "content": "Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora, however, are dominated by books, academic articles, and code repositories, which are finite resources and often scarce in long-distance dependencies. In this work, we introduce OctoLong, a context engineering pipeline that instruments an AST parser, a language server backend, and a package manager to facilitate the recursive retrieval of code references, enabling the curation of dependency-rich code contexts of millions of tokens in length. We then train OctoLong-Instruct, a suite of capable long-context open LMs, derived from base models ranging in size from 600M to 14B parameters, via context-extension mid-training on a ~50B-token mixture containing ~6.2B tokens of OctoLong code contexts, followed by ~10B tokens of instruction tuning. Our training ablations and experimental evaluations against 18 state-of-the-art open-weight long-context LMs show that supplanting just 12% of traditional context-extension corpora with OctoLong data yields substantial gains in long-range retrieval, long-term state tracking, repository-level code understanding, and downstream agentic tasks, while also enhancing API usage in short-context coding scenarios."
+      "url": "http://arxiv.org/abs/2608.02880v2",
+      "hotScore": 80,
+      "content": "As lifelong learning agents accumulate lifelong growing skill banks, retrieving the correct skill becomes an increasingly important bottleneck. Most current skill retrieval methods treat each skill as one flat document by concatenating fields such as the name, description, and body. However, skills are naturally structured, multi-field objects, where each field provides different information about when and how the skill should be used. In this work, we study whether preserving this structure improves skill retrieval. We represent each skill as its separate components, and compute sparse and dense similarities for each field independently, exposing a naturally tensorized, field-aware representation of the skill bank. We then combine these field-level scores either with uniform weights or with a small learned MLP. Across two different skill retrieval benchmarks, SkillRet and SRA-Bench, we find that keeping fields separate improves hybrid retrieval, and learning over the field-level scores gives the strongest and most consistent results. Our field-aware MLP reaches $77.95$ Recall@10 on SkillRet and $83.78$ Recall@10 on SRA-Bench, outperforming the corresponding concatenated learned baselines. We also find that the advantage grows as the skill bank becomes larger, suggesting that field-aware skill retrieval becomes especially useful in the setting where retrieval is most difficult. Our results show that skill representation itself matters, and that simply preserving the structure already present in skill files can substantially improve retrieval."
     },
     {
       "id": "fetch-paper-3",
-      "title": "Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness",
+      "title": "The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images",
       "source": "arXiv.org",
-      "date": "2026-07-21",
-      "description": "Rubric-based evaluation of open-ended generation faces a fundamental tension between expressiveness and reliability. Authoring a faithful rubric requires expressing the structure of the space of good answers: open-ended sets of acceptable o...",
+      "date": "2026-08-06",
+      "description": "The \"thinking-with-images\" paradigm equips multimodal LLMs with active visual operations such as crop-and-zoom. However, models using these operations often achieve only marginal or negative gains over direct inference at substantially high...",
       "category": "image",
       "tags": [
         "Research",
         "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2607.19322v2",
-      "hotScore": 89,
-      "content": "Rubric-based evaluation of open-ended generation faces a fundamental tension between expressiveness and reliability. Authoring a faithful rubric requires expressing the structure of the space of good answers: open-ended sets of acceptable options, ordered processes, and the relative importance of facts. Grading with the rubric requires a judge to score consistently, and judges are far more reliable on flat, binary checks than on rich structure. We resolve this tension with a two-level meta-rubric framework. A structured meta-rubric captures the grading criteria at authoring time, and fixed mechanical rules compile it into a flat checklist of binary, machine-gradable checks that an LLM judge scores reliably at evaluation time. We instantiate the framework as Gamut (Grounded Assessment of Multimodal Factuality), a benchmark for factual completeness in long-form generation. Gamut comprises 1,813 questions grounded in real wearable imagery across 10 diverse domains, each paired with an evidence-backed rubric verified by expert human annotators. Evaluating 14 frontier and open-weight models, we find Gamut genuinely challenging (best score 58.7% from Gemini 3.1 Pro), highly discriminative, and robust to the choice of judge."
+      "url": "http://arxiv.org/abs/2608.06270v1",
+      "hotScore": 84,
+      "content": "The \"thinking-with-images\" paradigm equips multimodal LLMs with active visual operations such as crop-and-zoom. However, models using these operations often achieve only marginal or negative gains over direct inference at substantially higher token cost. They may also repeatedly crop irrelevant regions and fail on questions that direct inference answers correctly. We ask whether the returned visual evidence causally affects the answer. To answer this question, we formulate visual tool-use as a causal graph that separates observation-mediated paths from action-induced shortcuts. We then audit it through interventions at the three levels: policy (comparing tool-use with direct inference), trajectory (corrupting all observations during rollout), and step (counterfactually replacing one individual observation under a fixed prefix). Our step-level estimand, Visual Evidence Gain, isolates the contribution of each returned observation. Across six representative models and five fine-grained perception benchmarks, we uncover policy miscalibration with two failure modes. In Calling Without Looking, returned observations have no causal effect on the answer. In Looking Without Planning, observations are informative but the call schedule is incoherent. A trajectory-level diagnostic decomposes the policy-level accuracy gain and shows that the gain is concentrated in a Calibrated minority. We term this discrepancy the illusion of visual tool-use: despite aggregate accuracy gains, visual tool-use is not causally effective across a broad range of rollouts. The code is available at https://github.com/OpenCausaLab/CauAudit."
     },
     {
       "id": "fetch-paper-4",
-      "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
+      "title": "Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints",
       "source": "arXiv.org",
-      "date": "2026-08-05",
-      "description": "Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule. We call such problems cross-skill long-ho...",
-      "category": "llm",
+      "date": "2026-08-06",
+      "description": "Synthetic clinical benchmarks for enterprise AI agents can pass existing utility checks and still remain structurally unrealistic, especially in privacy-sensitive healthcare settings where operational data are hard to access. We study how t...",
+      "category": "agent",
       "tags": [
         "Research",
-        "LLM"
+        "Agent"
       ],
-      "url": "http://arxiv.org/abs/2608.05139v1",
-      "hotScore": 81,
-      "content": "Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule. We call such problems cross-skill long-horizon tasks: multi-step tasks whose steps require different reasoning skills and depend on earlier outputs. Existing benchmarks often evaluate individual skills, lacking a principled way to measure how well a model switches between skills. We address this gap from both the evaluation and training sides. We introduce Skill Entropy, a measure of the difficulty of switching from one skill to another. We then propose Skill^2-Bench, a benchmark of cross-skill long-horizon tasks built over 558 skills across 9 verifiable and open-ended domains. Each task is assigned a task-level skill-entropy score and grouped into three difficulty levels. Evaluating 8 frontier and 4 open-source models on Skill^2-Bench reveals a skill-switching gap: accuracy decreases on higher-entropy tasks. We then turn skill entropy from a benchmark scale into a training signal. We propose Skill-Entropy RL, an RL framework where the model predicts not only the answer at each step but also the skill used to produce it. The reward combines step-level correctness with a skill-entropy reward that measures the alignment between the model-predicted skill sequence and the gold skill sequence. On Qwen3-4B-Instruct and Qwen3-1.7B, Skill-Entropy RL improves the Skill^2-Bench score from 34.4% to 68.4% and from 14.6% to 40.1%, respectively, outperforming competitive baselines. The same pipeline can be applied to off-the-shelf training data such as OpenR1-Math, indicating that skill entropy is a reusable training signal. Code available at: https://github.com/Gen-Verse/Skill-Entropy-RL"
+      "url": "http://arxiv.org/abs/2608.06265v1",
+      "hotScore": 92,
+      "content": "Synthetic clinical benchmarks for enterprise AI agents can pass existing utility checks and still remain structurally unrealistic, especially in privacy-sensitive healthcare settings where operational data are hard to access. We study how to improve such benchmarks without breaking the downstream utility checks already used in practice. We formulate benchmark revision as utility-constrained realism improvement: dataset changes should increase realism while staying above an operational utility floor. We instantiate this idea on a care-gap benchmark derived from Synthea-generated patients exercised through demonstration electronic health record workflows and then processed by the same downstream pipeline as operational data. Realism is measured through missingness structure, simplicity, structural plausibility, and population alignment. The baseline benchmark is extremely thin: sampled-pair missingness is 79.44%, only 12.75% of rows are actionable, 38.94% of patients have zero actionable measures, and top-three token concentration reaches 100.0%. Two deterministic revisions improve these panels while remaining above the current utility floor, whereas a naive densification control preserves unrealistic templating. We further show that internal benchmark realism and source fidelity to an aggregate operational reference are related but distinct objectives. These results suggest that synthetic benchmark quality should be optimized explicitly, with utility treated as one constraint rather than as sufficient evidence of realism."
     },
     {
       "id": "fetch-paper-5",
-      "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
+      "title": "OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations",
       "source": "arXiv.org",
-      "date": "2026-08-05",
-      "description": "Modern Greek is absent from NVIDIA's Nemotron retrieval models and from major multilingual retrieval benchmarks, despite being important for retrieval-augmented generation (RAG) in legal, energy, financial, and medical applications. We pres...",
+      "date": "2026-08-06",
+      "description": "The development of deep learning over the past decade has revolutionized medical imaging segmentation, allowing the extraction of precise descriptors from large volumes to characterize pathologies. Data augmentation is a technique widely re...",
       "category": "image",
       "tags": [
         "Research",
         "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2608.05138v1",
-      "hotScore": 81,
-      "content": "Modern Greek is absent from NVIDIA's Nemotron retrieval models and from major multilingual retrieval benchmarks, despite being important for retrieval-augmented generation (RAG) in legal, energy, financial, and medical applications. We present an end-to-end adaptation of the Nemotron retrieval stack for Modern Greek, including corpus mining, synthetic supervision, retrieval model training, reranker adaptation, reader fine-tuning, and a new benchmark called HERA. Our study shows that a parameter-free BM25 baseline outperforms several off-the-shelf multilingual dense retrieval models on specialist Greek corpora. After fine-tuning on 65,773 Greek retrieval pairs, a Nemotron 1B embedder improves nDCG@10 from 0.362 to 0.835 and substantially outperforms its unadapted counterpart. The learned language competence transfers to general-domain Greek, although the advantage over BM25 remains domain-dependent. We further adapt a cross-encoder reranker and demonstrate consistent improvements across specialist domains. Finally, we LoRA-tune a Nemotron 30B-A3B mixture-of-experts reader for grounded generation, increasing judged answer correctness from 29.4% to 66.9% while significantly improving faithfulness and citation quality. We also introduce HERA, the first large-scale Greek benchmark for retrieval-augmented generation, and release our adapted models and benchmark to support future research on Greek-language RAG systems."
+      "url": "http://arxiv.org/abs/2608.06264v1",
+      "hotScore": 89,
+      "content": "The development of deep learning over the past decade has revolutionized medical imaging segmentation, allowing the extraction of precise descriptors from large volumes to characterize pathologies. Data augmentation is a technique widely regarded as a way to improve model training. It includes simple transformations like spatial operations or intensity modifications, but also more advanced synthesis techniques. Their goal is to generate new realistic samples from an existing dataset to diversify the images used during training. Among them, several propose different mixing strategies to combine real samples. However, one of their major shortcomings is to yield limited variability in terms of generated lesion shapes and locations. In this work, we introduce a novel image synthesis method, called OTLesMix, that leverages Wasserstein barycenter and optimal transport plan to generate realistic and diverse samples. We evaluated our method on three brain lesion segmentation tasks, on which it improves the Dice score compared to a model trained without synthetic data by 2.9 to 6.6 points, and outperforms state-of-the-art mix-based methods."
     },
     {
       "id": "fetch-paper-6",
-      "title": "The Loss Does Not See the Basis, but Adam Does",
+      "title": "Hypothesis Testing with Conditional Queries: Learnability and the Value of Interaction",
       "source": "arXiv.org",
-      "date": "2026-08-05",
-      "description": "Gradient descent on a factored model $W = UV^\\top$ is implicitly biased toward low-rank solutions, while Adam, starting from the same small initialization, is not. We trace the difference to the gauge symmetry of the loss, its invariance un...",
-      "category": "llm",
+      "date": "2026-08-06",
+      "description": "Model evaluations may fix all tests before observing any responses or select later tests using earlier responses. We study this choice in a conditional-query model on a finite outcome space $\\mathcal{X}$ with $|\\mathcal{X}|=N$. We first ask...",
+      "category": "tooling",
       "tags": [
-        "Research",
-        "LLM"
+        "Research"
       ],
-      "url": "http://arxiv.org/abs/2608.05136v1",
-      "hotScore": 87,
-      "content": "Gradient descent on a factored model $W = UV^\\top$ is implicitly biased toward low-rank solutions, while Adam, starting from the same small initialization, is not. We trace the difference to the gauge symmetry of the loss, its invariance under $(U, V) \\mapsto (UQ, VQ)$. Gradient flow's low-rank mechanism is available to an optimizer only if that optimizer is gauge-equivariant, a condition necessary for the transfer but not sufficient for low-rank recovery. Gradient descent, momentum, \"shared-scalar\" Adam, Muon, and Shampoo satisfy it. Adam, RMSProp, and the other coordinate-wise methods do not. A structure theorem characterizes the memoryless equivariant rules as exactly the Gram-determined left preconditioners, and a transfer theorem carries gradient flow's pathwise properties to common-scalar flows. We then sort nine update rules on underdetermined matrix sensing by recovery error against the planted ground truth. A one-parameter family from coordinate-wise to shared-scalar preconditioning restores the bias monotonically, isolating anisotropy as the cause. A \"spectral schedule\" reconciles two opposing reports about Muon: equal-rate updates recover exactly low-rank targets but lose their edge as the spectral tail grows. In transformers, Adam separates two gauge-equivalent initializations at the first step, where the equivariant optimizers stay at float precision, and ends with the per-head invariants $W_Q^\\top W_K$ 56% apart in relative Frobenius distance, a gap no per-head rotation can close. On two hyperspectral datasets at matched training loss, gradient descent cuts held-out error by 43-44% at the lowest sampling density, and at lower effective rank. Basis choice is therefore not a tuning detail but a decision about which interpolant the optimizer selects."
+      "url": "http://arxiv.org/abs/2608.06262v1",
+      "hotScore": 94,
+      "content": "Model evaluations may fix all tests before observing any responses or select later tests using earlier responses. We study this choice in a conditional-query model on a finite outcome space $\\mathcal{X}$ with $|\\mathcal{X}|=N$. We first ask which pairs of distribution classes can be reliably distinguished. We then ask how many additional queries are required to match an adaptive tester when all queried events must be fixed in advance. We show that learnability holds if and only if the two classes have positive separation in their pairwise conditional probabilities. When this separation is zero, the optimal worst-case error is exactly $1/2$ at every finite query budget. For any $T$-query adaptive policy and any $ρ\\in (0,1)$, we construct a randomized non-adaptive procedure using $O(N^2(T + \\log(1/ρ)))$ pair queries chosen before any response is observed. Its simulated transcript is within $ρ$ in total variation of the adaptive transcript, uniformly over all distributions in the model. We also construct a matching family with constant adaptive query complexity and $Ω_\\varepsilon(N^2)$ non-adaptive query complexity. Consequently, the worst-case fixed-error adaptivity gap is $Θ_\\varepsilon(N^2)$. Thus interaction can reduce the required number of tests by a quadratic factor, but the apparent exponential branching of an interactive evaluation does not yield an exponential query advantage."
     },
     {
       "id": "fetch-paper-7",
-      "title": "Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings",
+      "title": "RxnCLF: Contrastive Transformation-Aware Reaction Foundation Model for Improved Reactivity Prediction",
       "source": "arXiv.org",
+      "date": "2026-08-06",
+      "description": "Reaction yield prediction remains challenging because labeled data are scarce and reaction space is both combinatorially large and sparsely populated, limiting the generalization of existing reaction representations. String-, fingerprint-, ...",
+      "category": "tooling",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2608.06259v1",
+      "hotScore": 90,
+      "content": "Reaction yield prediction remains challenging because labeled data are scarce and reaction space is both combinatorially large and sparsely populated, limiting the generalization of existing reaction representations. String-, fingerprint-, and graph-based reaction encodings only partially capture chemical transformations, making accurate prediction difficult for reactions with complex substrates. We propose reaction contrastive learning foundation (RxnCLF), a self-supervised contrastive framework for reaction representation learning. RxnCLF is built on a condensed reaction graph (CRG) that unifies reactant and product information into a single graph, enabling the model to learn explicit and enriched transformation structure rather than disconnected graphs. Pretrained on 1.7 million Pistachio reactions, RxnCLF learns a compact and continuous latent space that captures both reaction-center features and broader side chain contexts, making it transformation-aware and chemically interpretable. Fine-tuned on multiple yield prediction benchmarks, including Buchwald-Hartwig, Pd-catalyzed BH coupling, and proprietary HTE C-N coupling and amide formation datasets, RxnCLF consistently outperforms graph and sequence-based baselines, improving R2 and achieving the best performance overall. Our results highlight the promise of CRG-based RxnCLF as a scalable reaction foundation model, with the potential to generalize across broader reaction spaces and support diverse downstream reaction informatics tasks, including regioselectivity prediction, enantioselectivity prediction, and reaction condition optimization."
+    },
+    {
+      "id": "fetch-hf-2608.06301",
+      "title": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization",
+      "source": "Hugging Face Daily",
       "date": "2026-08-05",
-      "description": "Predicting how a subcortical structure's shape will evolve from a few prior scans could support prognosis and clinical-trial enrichment. Existing longitudinal mesh predictors either extrapolate shape trajectories via high-dimensional embedd...",
+      "description": "As LLMs are increasingly deployed within agentic systems, their capabilities depend not only on the model weights but also on the harness: the prompts, tools, control flow, memory, and orchestration code surrounding them. This makes automat...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2608.06301",
+      "hotScore": 90,
+      "content": "As LLMs are increasingly deployed within agentic systems, their capabilities depend not only on the model weights but also on the harness: the prompts, tools, control flow, memory, and orchestration code surrounding them. This makes automated harness optimization -- the iterative and evaluation-guided improvement of a harness by an AI system -- both an important route to improving AI systems and a demanding capability for AI systems themselves. Yet the community lacks a common protocol for measuring how well frontier LLMs perform at this task. We introduce HarnessOpt-Bench, a benchmark for end-to-end harness optimization under expensive and stochastic evaluation. An optimizer, an LLM paired with a coding harness, receives a target agent's seed harness, graded evaluation feedback, and a fixed target-evaluation budget. It edits the harness and nominates a final candidate, which is scored by its normalized gain over the seed on a held-out test partition that remains inaccessible throughout search. A trusted execution environment enforces the evaluation boundary, meters target-agent resource use, and preserves candidate versions for audit. We evaluate 5 frontier LLMs as optimizers both under a shared coding harness and under their native harnesses across 4 downstream tasks, over 111 scored runs. Experiment results show that optimizer models separate more than the coding harnesses they act through, native harnesses are not consistently superior, and gains vary substantially across tasks and seed regimes. These results establish harness optimization as a measurable and discriminative capability with large space for improvement."
+    },
+    {
+      "id": "fetch-hf-2608.06374",
+      "title": "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
+      "source": "Hugging Face Daily",
+      "date": "2026-08-05",
+      "description": "Vision-Language-Action (VLA) models have become a powerful paradigm for robot manipulation, but training a single generalist policy for heterogeneous robot embodiments remains an open problem. Existing methods have two main limitations. Fir...",
       "category": "llm",
       "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2608.05132v1",
-      "hotScore": 89,
-      "content": "Predicting how a subcortical structure's shape will evolve from a few prior scans could support prognosis and clinical-trial enrichment. Existing longitudinal mesh predictors either extrapolate shape trajectories via high-dimensional embeddings or regress vertex deformations directly. We instead predict the surface's intrinsic geometry in continuous time: a single per-structure graph network predicts the future per-vertex first fundamental form (metric tensor) for an arbitrary causal multiple-visit history and an arbitrary prediction horizon, conditioned on a Fourier encoding of the lead time. The predicted metric is decoded into a surface by a differentiable As-Rigid-As-Possible solver, and the model is trained end-to-end on the rigid-aligned vertex error. Training through the reconstruction keeps the decoded prediction a valid surface and consistently improves it. On 14 subcortical structures from the ADNI dataset, the proposed mesh evolution model (MT-GNN) predicts best among the evaluated methods at every horizon ($-2.29\\%$ mean vertex error vs. the temporal mean, $p{=}6.1{\\times}10^{-5}$, beating it on 14/14 structures), ahead of geodesic shape regression (DCM, $-0.19\\%$) and a mesh transformer (TransforMesh, $-0.45\\%$; $p{=}1.2{\\times}10^{-4}$), with the lead widening as the horizon grows."
-    },
-    {
-      "id": "fetch-hf-2608.03207",
-      "title": "DRIFT: Derailing Denoising Trajectories of Flow-Matching VLAs with Adversarial Patch Attack",
-      "source": "Hugging Face Daily",
-      "date": "2026-08-03",
-      "description": "Flow-matching vision-language-action (VLA) models such as pi0 generate robot actions by integrating a learned denoising velocity field, and have been reported to resist adversarial perturbations that readily fool autoregressive VLAs. We sho...",
-      "category": "research",
-      "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2608.03207",
-      "hotScore": 90,
-      "content": "Flow-matching vision-language-action (VLA) models such as pi0 generate robot actions by integrating a learned denoising velocity field, and have been reported to resist adversarial perturbations that readily fool autoregressive VLAs. We show that this robustness is largely illusory: it stems from prior attacks ignoring the multi-step denoising ODE. We introduce DRIFT (Denoising Redirection via Input perturbation of the Flow-matching Trajectory), a test-time universal adversarial patch placed on the robot's gripper that attacks the denoising velocity field of an off-the-shelf policy. Our central finding is counterintuitive: attacking only the first denoising step is both stronger and cheaper than attacking a wider window of steps, which we explain through a gradient conflict unique to input-space optimization and which is exactly opposite to the training-time backdoor regime. On pi0 and pi0.5 across four LIBERO suites, DRIFT breaks essentially all originally-solvable tasks with a small single patch, far exceeding action- and embedding-space attack baselines."
-    },
-    {
-      "id": "fetch-hf-2608.03392",
-      "title": "Self-Evolving Coding Agents",
-      "source": "Hugging Face Daily",
-      "date": "2026-08-03",
-      "description": "Large language models are increasingly embedded in software engineering workflows as coding agents that can inspect repositories, invoke tools, execute tests, debug failures, and generate patches. Yet most existing agents remain largely sta...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2608.03392",
+      "url": "https://huggingface.co/papers/2608.06374",
       "hotScore": 89,
-      "content": "Large language models are increasingly embedded in software engineering workflows as coding agents that can inspect repositories, invoke tools, execute tests, debug failures, and generate patches. Yet most existing agents remain largely static after deployment, even though software development is a dynamic, feedback-rich process in which repositories evolve, dependencies change, tests fail, and repair attempts leave reusable experience. This tension has motivated a growing body of work on self-evolving coding agents, where the agent improves its future behavior by updating its framework, memory, skills, tools, models, or collaboration structures from prior coding interactions. In this survey, we provide a systematic synthesis of this emerging area. We first define self-evolving coding agents and distinguish them from conventional coding agents and general self-evolving agents. We then develop an object-centered taxonomy that characterizes what evolves in these systems, and complement it with two orthogonal perspectives: when evolution occurs and what software-specific evidence drives it. Across the literature, we find that executable feedback, repository-level context, and coding trajectories give software engineering a distinctive role as a natural domain for agent self-evolution, but also introduce new challenges in feedback reliability, benchmark overfitting, safety, maintainability, cost, and generalization. By organizing existing work around these dimensions, this survey aims to clarify the conceptual boundaries of self-evolving coding agents and provide a foundation for designing more adaptive, reliable, and software-aware agentic systems. The papers we collect can be found at https://github.com/zhouhao1024/Awesome-Self-Evolving-Coding-Agents."
+      "content": "Vision-Language-Action (VLA) models have become a powerful paradigm for robot manipulation, but training a single generalist policy for heterogeneous robot embodiments remains an open problem. Existing methods have two main limitations. First, they underuse dynamics priors shared across diverse visual and interaction data, limiting cross-embodiment transfer. Second, they require extensive manual preprocessing to convert embodiment-specific actions into a common format. To overcome these limitations, we propose DyPES-VLA, a cross-embodiment VLA that learns shared Dynamics Priors and Embodiment-Specific control. First, we learn shared dynamics priors by training the vision-language model (VLM) with a future-prediction objective on cross-embodiment data, driving the shared query representation to capture object motion, contact, and interaction-induced scene changes. Second, an embodiment-specific Mixture-of-Experts (MoE) action head translates these shared dynamics priors into executable controls directly in each embodiment's native action space, without manually pre-aligning heterogeneous actions into a common format. This head shares attention layers to capture common temporal action structures, while its embodiment-specific feed-forward experts resolve the unique kinematic constraints and control semantics of distinct embodiments. As a generalist policy, our \\ourmethod achieves state-of-the-art performance across simulation and real-world evaluations, reaching 98.0% success on LIBERO, 59.25% on RoboCasa-GR1, and 89.02% on RoboTwin~2.0."
     },
     {
-      "id": "fetch-hf-2608.05102",
-      "title": "ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment",
+      "id": "fetch-hf-2608.05466",
+      "title": "Recursive Synthesis for Long-Horizon Terminal Tasks",
       "source": "Hugging Face Daily",
       "date": "2026-08-04",
-      "description": "Long-horizon search agents must make multiple sequential actions (steps) to search, retrieve, verify, and integrate evidence to reach a final answer. However, existing methods for training these agents typically treat all steps within a tra...",
+      "description": "High-quality long-horizon training data for terminal agents is expensive to produce, often costing hundreds to thousands of dollars per task, because each task must keep the instruction, environment, reference solution, and verifier mutuall...",
       "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2608.05102",
+      "url": "https://huggingface.co/papers/2608.05466",
       "hotScore": 88,
-      "content": "Long-horizon search agents must make multiple sequential actions (steps) to search, retrieve, verify, and integrate evidence to reach a final answer. However, existing methods for training these agents typically treat all steps within a trajectory uniformly during both supervised fine-tuning (SFT) and reinforcement learning (RL), failing to distinguish useful actions from erroneous or redundant ones. In this paper, we propose Answer-Backtracked Credit Assignment (ABC), a fine-grained credit assignment framework for training long-horizon search agents by converting sparse trajectory-level outcomes into dense step-level supervision that rewards useful actions (even in failed trajectories) while suppressing erroneous or redundant actions. Specifically, given a potentially obscure query and its corresponding ground-truth answer, ABC first performs Answer-Backtracked Clue Recovery, which traces back from the answer to recover intermediate clues required to solve the question. It then applies Clue-Anchored Step Scoring to evaluate each search step against these clues, converting sparse binary outcome supervision into dense step-level rewards. Based on these rewards, we develop ABC-SFT, which reweights the loss of each turn, and ABC-GRPO, which uses the step-level scores as rewards in GRPO. Building on this framework, we train ABSeeker based on Qwen3.5-4B with only 8.5k examples. ABSeeker achieves 37.3% on BrowseComp and 39.1% on BrowseComp-ZH. With context management, the scores further improve to 55.3% and 52.9%, respectively, significantly outperforming same-scale (4B) agents and even matching the performance of larger ones (approximately 30B). These results demonstrate the effectiveness of answer-backtracked step-level credit assignment for training long-horizon search agents."
+      "content": "High-quality long-horizon training data for terminal agents is expensive to produce, often costing hundreds to thousands of dollars per task, because each task must keep the instruction, environment, reference solution, and verifier mutually consistent. Human authoring does not scale, and direct generation with large language models (LLMs) often breaks these dependencies. We present Recursive Synthetic Terminal Tasks (RST), a recursive verified synthesis framework for constructing long-horizon terminal-agent tasks at scale. Starting from verified seed tasks, RST extends the reference solution, realigns the verifier and instruction to the new workflow, validates the result in a fresh sandbox, and reuses accepted tasks as seeds for subsequent rounds. Across fifteen recursive rounds, RST produces 37,484 synthesized terminal-agent tasks at roughly \\0.05 per task. Task difficulty increases substantially over rounds: the median reference solution grows from 67 to 374 lines, the median number of executed commands grows from 40 to 244, and DeepSeek-V4-Pro pass@4 drops from 90% at R_1 to 2.5% at R_{15}$. To demonstrate training utility, we collect rejection-sampled Qwen3.5 trajectories on the synthesized tasks and use them for supervised fine-tuning. Fine-tuning on these trajectories improves Qwen3.5-27B and Qwen3.5-122B-A10B by up to 10 points on Terminal-Bench~2, Terminal-Bench Hard, and Long-Horizon Terminal Bench, while agentic PPO lifts Qwen3.5-27B to 49.44\\%, 32.00\\%, and 22.07\\% on the three benchmarks, corresponding to relative gains of 20.0\\%, 41.2\\%, and 21.9\\% over the base model. Moreover, after 15 rounds, the recursion shows no ceiling: synthesis yield and validation rates remain stable as difficulty keeps climbing, indicating that the process can continue well beyond the scale reported here."
     },
     {
-      "id": "fetch-hf-2608.04530",
-      "title": "FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory",
+      "id": "fetch-hf-2608.04378",
+      "title": "Helping Music Co-Creation Agents 'Listen' Well: Hierarchical Self-Supervised World Models for Understanding and Generation",
       "source": "Hugging Face Daily",
       "date": "2026-08-04",
-      "description": "GUI agents must remember both useful experience from earlier tasks and unfinished progress in the current interaction. Latent memory offers a compact solution by compressing multimodal trajectories into a few continuous tokens. Existing met...",
+      "description": "Collaborative music agents need internal representations rich enough to support both understanding and generation, yet flexible enough for a workflow where the human retains agency. We present a hierarchical self-supervised ``world model'' ...",
       "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2608.04530",
+      "url": "https://huggingface.co/papers/2608.04378",
       "hotScore": 87,
-      "content": "GUI agents must remember both useful experience from earlier tasks and unfinished progress in the current interaction. Latent memory offers a compact solution by compressing multimodal trajectories into a few continuous tokens. Existing methods, however, usually map each trajectory to one fixed memory block and train it mainly through next-action supervision. This creates three practical problems: important details may be lost during compression, the same memory block must serve different decision stages, and irrelevant retrieved trajectories may still mislead the agent. We introduce FocusMem, which separates these responsibilities within a compact latent-memory interface. A role-aware content basis encourages episodic memory to retain reusable experience and working memory to retain task progress. A state-conditioned readout generates a decision-specific view of the same stored evidence, while a lightweight trust gate can suppress memory blocks that appear irrelevant to the current step. All components are trained while the GUI policy remains frozen. Across five GUI-agent benchmarks, FocusMem consistently outperforms a fully matched action-only fixed-memory baseline and prior latent memory adaptations. Further analysis shows that semantic and functional supervision preserve complementary information, state-conditioned readout is more robust as surrounding trajectory context grows, and the trust gate reduces the harm caused by injected irrelevant episodic evidence. These results show that effective latent memory depends not only on compressing past interaction, but also on what is retained, what is exposed, and what is allowed."
+      "content": "Collaborative music agents need internal representations rich enough to support both understanding and generation, yet flexible enough for a workflow where the human retains agency. We present a hierarchical self-supervised ``world model'' for symbolic music: a 2.55M-parameter Swin V2 encoder trained on MIDI piano-roll images with JEPA-style objectives (pitch- and time-shift equivariance, masked embedding prediction, and a distributional regularizer), using no labels and no music-theory vocabulary. Probing the frozen embeddings shows that the level at which a musical property becomes decodable tracks its musical time scale: phrase boundaries are read off the coarsest levels, note density and harmonic detail off the finest. Temporal and phrase structure emerge from the self-supervised objectives alone, while harmonic content must be asked for; a small chord-supervision head raises joint chord recovery from .18 to .54, and key detection, which is never supervised, from .16 to .70. Following the Representation AutoEncoder paradigm, a conditional flow-matching model stands in for a trained decoder, flowing in pixel space from PCA-reduced conditioning: it reproduces a target window at pixel F1 0.996, and the same per-level conditioning dropout that controls how far variations stray also enables graphical prompting for masked inpainting with no inpainting-specific sampler. The pipeline runs on CPU producing a suggestion in 2.8 s, or 0.6 s on Apple MPS, which we demonstrate in a live interactive demo. In concert with an LLM-based brain, these capabilities supply the core of a collaborative music creation agent in service of, rather than in place of, human agency."
     },
     {
-      "id": "fetch-hf-2608.03764",
-      "title": "GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks",
+      "id": "fetch-hf-2607.27853",
+      "title": "FinanceHarness: Autonomous Financial Deep Research Framework",
       "source": "Hugging Face Daily",
-      "date": "2026-08-03",
-      "description": "Agent self-evolution updates an agent's persistent state from prior experience and reuses it to solve related tasks more effectively. Evaluating self-evolution is difficult: existing benchmarks provide limited coverage of economically valua...",
+      "date": "2026-07-29",
+      "description": "Powered by advances in LLMs and autonomous agents, deep research has become one of the most widely adopted agentic products. However, most deep research systems write general-purpose reports, which are inadequate for financial deep research...",
       "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2608.03764",
+      "url": "https://huggingface.co/papers/2607.27853",
       "hotScore": 86,
-      "content": "Agent self-evolution updates an agent's persistent state from prior experience and reuses it to solve related tasks more effectively. Evaluating self-evolution is difficult: existing benchmarks provide limited coverage of economically valuable task domains, do not always design training and test tasks such that test-time gains can be attributed to training experience, and remain vulnerable to data contamination. We present GDPevo, an evolution-native benchmark grounded in GDP-related enterprise workflows, together with the fully automated data pipeline that generates it. Its core mechanism, rule hybridization, decomposes each enterprise workflow into atomic business rules, distributes subsets of these rules across training tasks, and recombines them in held-out test tasks so that test-time gains are attributable. GDPevo spans CRM, ERP, finance, healthcare, legal, and data-centric workflows. Its V1 release contains 120 tasks in 12 groups, with five training and five held-out test tasks per group. Full automation enables the pipeline to expand the suite to 240 tasks in 24 groups (V2) within two days, providing a practical response to contamination. Using GDPevo, we evaluate four agents, each comprising a harness and a model, under four supervision types. Self-evolution consistently improves held-out accuracy by up to 16.44 percentage points. But the best evolved agents remain far below the fully informed oracle ceiling of 91.6%, indicating that the self-evolution ability of current agents remains far from fully realized. We publicly release the pipeline, benchmark, and full evaluation results at https://github.com/Prism-Shadow/GDPevo."
+      "content": "Powered by advances in LLMs and autonomous agents, deep research has become one of the most widely adopted agentic products. However, most deep research systems write general-purpose reports, which are inadequate for financial deep research. Financial research demands specialized knowledge to analyze historical patterns and forecast upcoming events. Automating financial deep research therefore requires both a layered harness to drive the research agent and a verifiable, point-in-time benchmark that prevents leakage of future information. We present FinanceHarness, a harness that runs finance-oriented tools and practitioner-guided workflows, automating financial deep research end to end: environment and data construction, the agent execution loop, and reward modeling. We further propose FinanceGym, comprising thesis-driven research questions and rubrics that combine pre-cutoff and post-cutoff criteria. Professional expert validation yields an 82% pass rate. Even leading LLMs and agents score below 40% on the rubrics, showing that FinanceGym is challenging and leaves substantial headroom. With the same open-weight backbone, FinanceHarness improves the overall rubric score from 25.3% to 32.4%. FinanceHarness is available at https://github.com/Yijia-Xiao/FinanceHarness."
     }
   ],
   "hfModels": [
@@ -509,7 +505,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
       "downloads": 70921229,
-      "likes": 525,
+      "likes": 526,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -541,7 +537,7 @@
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
       "downloads": 54581712,
-      "likes": 149,
+      "likes": 150,
       "category": "research",
       "tags": [
         "Transformers",
@@ -571,7 +567,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
       "downloads": 34203869,
-      "likes": 3370,
+      "likes": 3372,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -587,7 +583,7 @@
       "owner": "Community",
       "fullName": "amazon/chronos-2",
       "downloads": 30565039,
-      "likes": 390,
+      "likes": 393,
       "category": "research",
       "tags": [
         "Time-series-forecasting",
@@ -617,78 +613,63 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
       "source": "TechCrunch Gadgets",
       "date": "2026-08-06",
-      "description": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks....",
-      "category": "agent",
+      "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker....",
+      "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "hotScore": 97,
-      "content": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks...."
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "hotScore": 99,
+      "content": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker...."
     },
     {
       "id": "fetch-gadget-1",
-      "title": "Nikita Bier steps down as X&#8217;s head of product",
+      "title": "Bumble teases a swipe-free future as it doubles down on IRL meetups",
       "source": "TechCrunch Gadgets",
-      "date": "2026-08-05",
-      "description": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X....",
+      "date": "2026-08-06",
+      "description": "Bumble says it’s moving beyond swiping and deeper into real-world social experiences as it courts Gen Z users....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
-      "hotScore": 93,
-      "content": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X...."
+      "url": "https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/",
+      "hotScore": 88,
+      "content": "Bumble says it’s moving beyond swiping and deeper into real-world social experiences as it courts Gen Z users...."
     },
     {
       "id": "fetch-gadget-2",
-      "title": "Travis Kalanick&#8217;s robotics startup Atoms taps former Uber finance chief as CFO",
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
       "source": "TechCrunch Gadgets",
-      "date": "2026-08-05",
-      "description": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber....",
-      "category": "research",
+      "date": "2026-08-06",
+      "description": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker....",
+      "category": "image",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
-      "hotScore": 86,
-      "content": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber...."
+      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "hotScore": 89,
+      "content": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker...."
     },
     {
       "id": "fetch-gadget-3",
-      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+      "title": "eBay continues to bet on live shopping after record quarter",
       "source": "TechCrunch Gadgets",
-      "date": "2026-08-05",
-      "description": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis....",
+      "date": "2026-08-06",
+      "description": "eBay touted an increase in eBay Live's gross merchandise volume as it plans to expand it to more international markets in the coming weeks and months....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
-      "hotScore": 93,
-      "content": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis...."
-    },
-    {
-      "id": "fetch-gadget-4",
-      "title": "Lucid Motors just delayed its affordable EV. Now what?",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-08-05",
-      "description": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silvio Napoli said he's focused on getting the EV right, as well as its nearer-term robotaxi project with Uber and Nuro....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
-      "hotScore": 93,
-      "content": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silvio Napoli said he's focused on getting the EV right, as well as its nearer-term robotaxi project with Uber and Nuro...."
+      "url": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/",
+      "hotScore": 86,
+      "content": "eBay touted an increase in eBay Live's gross merchandise volume as it plans to expand it to more international markets in the coming weeks and months...."
     }
   ]
 }
