@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-26T12:23:19.367Z",
+  "updatedAt": "2026-08-27T05:21:29.636Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 387688,
-      "forks": 81396,
+      "stars": 387741,
+      "forks": 81420,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 277841,
-      "forks": 24866,
+      "stars": 278213,
+      "forks": 24904,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 236672,
-      "forks": 47833,
+      "stars": 236986,
+      "forks": 47941,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 202483,
-      "forks": 60398,
+      "stars": 202544,
+      "forks": 60414,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 186880,
-      "forks": 46054,
+      "stars": 186911,
+      "forks": 46050,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 172594,
-      "forks": 9533,
+      "stars": 172899,
+      "forks": 9540,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 167932,
-      "forks": 21666,
+      "stars": 168016,
+      "forks": 21672,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164669,
-      "forks": 30557,
+      "stars": 164676,
+      "forks": 30560,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 158043,
-      "forks": 46170,
+      "stars": 158053,
+      "forks": 46168,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 153571,
-      "forks": 24268,
+      "stars": 153617,
+      "forks": 24276,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 149976,
-      "forks": 21884,
+      "stars": 150053,
+      "forks": 21900,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 145042,
-      "forks": 24185,
+      "stars": 145090,
+      "forks": 24198,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 143138,
-      "forks": 34843,
+      "stars": 143163,
+      "forks": 34850,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 131586,
-      "forks": 11823,
+      "stars": 131729,
+      "forks": 11834,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 130072,
-      "forks": 15325,
+      "stars": 130185,
+      "forks": 15345,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,197 +260,196 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
+      "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
       "source": "arXiv.org",
-      "date": "2026-08-25",
-      "description": "Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported scalar gap alone is not a calibrated test ...",
+      "date": "2026-08-26",
+      "description": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for problem solving beyo...",
       "category": "image",
       "tags": [
         "Research",
         "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2608.24881v1",
-      "hotScore": 84,
-      "content": "Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported scalar gap alone is not a calibrated test against sampling variation. FID's moment restriction has concrete consequences: on ImageNet, visually unrecognizable images optimized only to match the reference Inception mean and covariance obtain FID $24.7$ versus $58.6$ for held-out real images (lower is better). Moreover, FID and KID are scalar discrepancies that are unchanged when the two samples are exchanged and therefore do not encode the direction of a dispersion change: under-dispersion, as can occur in mode collapse, versus over-dispersion. We introduce \\textbf{ZID} (\\emph{Z-resolved Integrated Diagnostic}), which combines six standardized location- and dispersion-sensitive arms from a rank graph (RISE) and Gaussian kernels (GPK at two bandwidths). Rather than asking one scalar to serve incompatible roles, ZID reports three linked outputs: an index for ranking departure magnitude, a permutation $p$-value for testing distributional equality, and a signed dispersion readout for diagnosis. In controlled experiments, ZID detects a broad range of departures, and its score tracks increasing severity along the corresponding sweeps, including cases in which FID is flat or reversed. On DiT-XL/2 and SiT-XL/2 guidance sweeps, ZID detects departure from real data, and its signed readout labels the high-guidance diversity collapse as under-dispersion."
+      "url": "http://arxiv.org/abs/2608.26105v1",
+      "hotScore": 83,
+      "content": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for problem solving beyond language. Yet progress remains bottlenecked by the lack of scalable training tasks, reliable feedback, and controlled comparisons across generative substrates. In this work, we introduce VBVR-Pro, a closed-loop testbed that makes native visual reasoning through generation trainable, verifiable, optimizable, and experimentally controllable. 1) Task scaling. VBVR-Pro turns visual reasoning into a controlled task space of 300 procedurally generated tasks. Models trained on VBVR-Pro show strong transfer beyond the proposed suite across seven external visual reasoning benchmarks such as RISE-Video, MME-CoF-Pro, and BabyVision. 2) Verifiable rewards. VBVR-Pro provides verifiable reward scorers for task-grounded evaluation. Through a systematic study of leading MLLMs as judges, we identify recurring failure modes of the prevalent VLM-as-a-judge paradigm. In contrast, the proposed scorers are grounded in deterministic, task-specific rules, achieve fine-grained alignment with human judgments. Importantly, they serve as reliable reward signals for large-scale multi-task reinforcement learning and demonstrate stronger post-RL performance across visual reasoning tasks. 3) Mechanism study. VBVR-Pro enables controlled modality studies across more than 30 image, video, and interleaved generators. Our analysis shows that video generation remains strongest for tasks requiring persistent spatiotemporal state tracking, while interleaved generation provides a compute-efficient alternative. Critically, ablations and probing suggest the presence of vision-native trajectories that are crucial to visual reasoning. We release all data, models, scorers, and code."
     },
     {
       "id": "fetch-paper-1",
-      "title": "Gauss--Hermite Quadrature for Gaussian-Mixture Entropy with an Action-Space Hermite Surrogate",
+      "title": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
       "source": "arXiv.org",
-      "date": "2026-08-21",
-      "description": "Gaussian distributions are used to model uncertainty in signals and states, and Gaussian mixtures are often used when the underlying distribution is multimodal. Unlike a single Gaussian, a Gaussian mixture generally has no closed-form expre...",
-      "category": "tooling",
+      "date": "2026-08-26",
+      "description": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised post-training methods for MLLMs typically...",
+      "category": "llm",
       "tags": [
-        "Research"
+        "Research",
+        "LLM"
       ],
-      "url": "http://arxiv.org/abs/2608.21467v2",
+      "url": "http://arxiv.org/abs/2608.26095v1",
       "hotScore": 80,
-      "content": "Gaussian distributions are used to model uncertainty in signals and states, and Gaussian mixtures are often used when the underlying distribution is multimodal. Unlike a single Gaussian, a Gaussian mixture generally has no closed-form expression for differential entropy and therefore requires numerical approximation. We propose a Gauss--Hermite quadrature method for evaluating Gaussian mixture differential entropy. The quadrature order controls the numerical resolution of the approximation. The method is evaluated on one- and two-dimensional Gaussian mixture benchmarks against Taylor approximations, analytic entropy bounds, and numerical integration references. For repeated optimization over continuous actions, we also propose a Hermite polynomial surrogate in action space. In a radar pointing benchmark, its second-order form achieves substantially lower surrogate error and optimizer regret than a second-order Taylor surrogate based on local derivatives at the nominal action, while both methods use nine direct objective evaluations per replanning step. The Hermite surrogate also improves pointing performance in the tested benchmark."
+      "content": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised post-training methods for MLLMs typically optimize target tokens uniformly, overlooking their heterogeneous visual dependence (VD). However, we reveal that token-level VD is crucial for MU-CPT. Specifically, its structural distortion serves as an indicator of cross-modal catastrophic forgetting, and its inherent heterogeneity acts as a compass to guide new-task learning. Leveraging this property, we propose a Visual Dependence-Aware (VDA) framework with two main components. First, Visually Constrained Optimal Transport (VC-OT) formulates the VD structural distortion of old-task VD during new-task learning as an optimal transport problem to mitigate cross-modal forgetting. By designing a region-aware ground cost and a dependence-stratified transport penalty, it prevents global shifts in visual focus while strictly prohibiting visual reliance from degenerating into language bias. Second, Visually Modulated Adaptation (VMA) exploits VD heterogeneity to emphasize visually grounded new-task learning, promoting new-task plasticity. Together, our method simultaneously maintains old-task stability and new-task plasticity during challenging MU-CPT. Extensive experiments under our MU-CPT setting validate the effectiveness of VDA."
     },
     {
       "id": "fetch-paper-2",
-      "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+      "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
       "source": "arXiv.org",
-      "date": "2026-08-25",
-      "description": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory architecture for long-horizon a...",
-      "category": "agent",
+      "date": "2026-08-26",
+      "description": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic patterns. These limitat...",
+      "category": "image",
       "tags": [
         "Research",
-        "Agent"
+        "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2608.24876v1",
-      "hotScore": 94,
-      "content": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory architecture for long-horizon agent harnesses, in which Working Memory tracks task progress and guides skill selection from Experiential Memory, grounding skill use in current needs rather than the full history. This coupling also turns execution into structured evidence that localizes failures to specific memory components. Across tasks, a fixed Meta-Agent turns that evidence into localized, validation-gated updates to Skill Memory that reshape execution and yield new evidence, forming a bounded recursive memory-evolution loop. Across four long-horizon benchmarks and ten models, Recuris improves task success in 35 of the 37 completed model-benchmark pairs, carrying frontier models to SOTA-level task success: on tau-bench it adds +17.8 points to GPT-5.6 Sol and +15.6 to Claude Opus 5, taking Opus 5 to 87.9%, and +16.6/+13.5 points on Qwen3.6-27B/35B on SkillFlow. The advantage widens as the interaction horizon grows, to +32.2 points on the longest tasks, and common long-horizon failures fall by up to 80%. These results position recursively evolving memory as a scalable foundation for RSI, enabling agents to continuously transform accumulated experience into increasingly effective long-horizon behavior. Code: https://github.com/Gen-Verse/Recuris"
+      "url": "http://arxiv.org/abs/2608.26094v1",
+      "hotScore": 88,
+      "content": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic patterns. These limitations hinder fine-grained, biomechanically grounded feedback. We introduce MyoMechanix, a multimodal ecosystem for weight-loaded actions that aligns motion with muscle activity. Expert-annotated, it contains 7,500+ samples of 20 actions from 38 subjects, with synchronized multiview RGB video, 3D pose, sEMG, and additional physiological signals, forming the largest multimodal AQA benchmark to date. We further construct the Fitness Knowledge Graph (FKG), which organizes expert annotations into structured relationships among actions, phases, key steps, errors, and corrective feedback, enabling compositional scoring and interpretable assessment. Building on these representations, we develop CUBIST (Compositional Ontological Reasoning Engine), which performs decomposition-analysis-recomposition for fine-grained error attribution and feedback generation. We also establish MyoMechanix-AQA, MyoMechanix-VideoQA, and a novel MyoMechanix-Video2EMG task. Experiments show that multimodal sensing and structured representations improve performance, interpretability, and error attribution, with CUBIST achieving state-of-the-art results; VideoQA enhances language-grounded action understanding; and Video2EMG suggests video-based alternatives to costly EMG sensing. MyoMechanix advances skilled activity understanding toward biomechanically grounded, multimodal, and compositional reasoning for Physical AI applications in fitness, rehabilitation, healthcare, and machine learning. Project page: https://haoyin116.github.io/MyoMechanix/"
     },
     {
       "id": "fetch-paper-3",
-      "title": "Atomic Units of X: The Compression Layer of Intelligence",
+      "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
       "source": "arXiv.org",
-      "date": "2026-07-14",
-      "description": "This paper proposes a theoretical and empirical framework for understanding intelligence as a process of atomic compression and compositional reuse. It argues that scalable cognitive, biological, computational, and organisational systems re...",
-      "category": "llm",
+      "date": "2026-08-26",
+      "description": "Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that this design layer can be surrendered to a...",
+      "category": "agent",
       "tags": [
         "Research",
-        "LLM"
+        "Agent"
       ],
-      "url": "http://arxiv.org/abs/2607.12634v2",
-      "hotScore": 92,
-      "content": "This paper proposes a theoretical and empirical framework for understanding intelligence as a process of atomic compression and compositional reuse. It argues that scalable cognitive, biological, computational, and organisational systems reduce complexity by organising information into reusable units that can be recombined into higher-order structures. The central contribution is the Compression Calculus, a formal framework for comparing surface evidence with atomic representations and for describing how abstraction can compound across layers. The framework is evaluated on large, multi-source software corpora under an open-world concept model, showing substantial evidence-to-concept consolidation in two large projects, while a smaller third project remains below the target threshold. The analysis further identifies important boundary conditions: consolidation depends on corpus scale, evidence-unit definition, and concept identity, and the observed reduction is driven primarily by within-corpus recurrence rather than cross-source recurrence. The paper also develops a representational account of the meaning gap in contemporary generative systems, describing latent, context-dependent conceptual approximations as soft atoms that lack the persistent identity and compositional constraints of stable atomic units. This motivates an architectural view in which large language models function as dynamic fusion engines that navigate and compose persistent conceptual structures rather than serving as the sole repository of those structures."
+      "url": "http://arxiv.org/abs/2608.26093v1",
+      "hotScore": 87,
+      "content": "Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that this design layer can be surrendered to an autonomous agent in its entirety. We adopt the autoresearch protocol, in which an AI coding agent edits a training script, runs a fixed-budget experiment, and retains or discards the change according to a single immutable metric. We grant the agent authority over the architecture family, the input representation, the output parameterization, the loss function and the task-sampling law, and set it a target chosen for its difficulty: sum-least-percentile-rate power control across a multicell network. The formulation targets cell-edge throughput and is non-convex, non-smooth and strongly NP-hard away from its max-min vertex. Safeguards render the results trustworthy: a hash-pinned evaluator, an enforced inference contract and a pre-registered falsifier per experiment. In eighty-one unattended experiments over twenty-six hours, the agent reached $99.5\\%$ of a converged minorization-maximization reference in one fixed-cost inference pass, at roughly $600\\times$ lower inference cost, closing $94\\%$ of the gap from its first working architecture, with one parameter set serving every network size and percentile target. It recovered provable structure rather than tuned constants: the output parameterization it discovered reproduces the exact max-min-optimal allocation at the minimum percentile, for every value of the trained weights."
     },
     {
       "id": "fetch-paper-4",
-      "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
+      "title": "Machine-learnable Sets",
       "source": "arXiv.org",
-      "date": "2026-08-25",
-      "description": "Group-relative reinforcement learning waits for sibling rollouts of the same prompt, which is costly for long and variable tool-use trajectories. Single-stream Policy Optimization (SPO) removes this dependency with a persistent prompt-level...",
-      "category": "agent",
+      "date": "2026-06-27",
+      "description": "In this study we present a formal definition of large discrete sets having, informally, three properties: their elements are easily recognized, easily generated, and the latter tasks are easily learned from examples. The formalism is specia...",
+      "category": "research",
       "tags": [
-        "Research",
-        "Agent"
+        "Research"
       ],
-      "url": "http://arxiv.org/abs/2608.24870v1",
-      "hotScore": 82,
-      "content": "Group-relative reinforcement learning waits for sibling rollouts of the same prompt, which is costly for long and variable tool-use trajectories. Single-stream Policy Optimization (SPO) removes this dependency with a persistent prompt-level value estimate, but its recipe whitens one advantage per trajectory before optimizing a token-mean actor loss. We show that trajectory centering generally does not center the token-weighted quantity consumed by the actor, and fix the mismatch by standardizing terminal-outcome advantages under the action-token measure. We additionally organize prompt evidence by the policy event that generated it rather than learner receipt order. Across matched runs on ALFWorld at two model scales and on Math-TIR, SPO++ improves online learning efficiency over SPO. A paired ablation identifies action-token-measure normalization as the strongest tested component."
+      "url": "http://arxiv.org/abs/2606.28947v2",
+      "hotScore": 92,
+      "content": "In this study we present a formal definition of large discrete sets having, informally, three properties: their elements are easily recognized, easily generated, and the latter tasks are easily learned from examples. The formalism is specialized to sets of binary strings and a definition of \"machine-learnability\" based on the existence of a bounded-complexity Boolean autoencoder that fixes the elements of the set. We present experiments where the autoencoders are implemented by nets of Boolean threshold functions. Machine-learnability is demonstrated for Rorschach patterns (that may have reversed contrast in the mirrored half), and considerably \"wilder\" sets whose elements are only approximately fixed by admissible autoencoders. In the second case we demonstrate a simple iteration that evolves wild sets to make them properly machine-learnable."
     },
     {
       "id": "fetch-paper-5",
-      "title": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes",
+      "title": "PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans",
       "source": "arXiv.org",
-      "date": "2026-08-25",
-      "description": "Lipschitz constants are a standard way to quantify the sensitivity of neural networks to small input perturbations, but computing them is difficult even for shallow ReLU networks. We study this problem for two-layer input-convex neural netw...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2608.24865v1",
-      "hotScore": 89,
-      "content": "Lipschitz constants are a standard way to quantify the sensitivity of neural networks to small input perturbations, but computing them is difficult even for shallow ReLU networks. We study this problem for two-layer input-convex neural networks (ICNNs), a restricted architecture where nonnegative output weights enforce convexity. Computing the $L_p$-Lipschitz constant for these networks is equivalent to maximizing the dual norm over a zonotope. While $L_1$- and $L_\\infty$-norm maximization on zonotopes admit fixed-parameter and polynomial-time algorithms, respectively, the parameterized complexity of the remaining $L_p$-norms was open. We prove that, for every fixed $p\\in (1,\\infty)\\cap \\mathbb{Q}$, maximizing the $L_p$-norm over a zonotope in $\\mathbb{R}^d$ is W[1]-hard with respect to the dimension $d$. Moreover, our hardness results imply that brute-force enumeration algorithms are essentially optimal for this problem under the Exponential Time Hypothesis. By duality, the same hardness results hold for computing the $L_p$-Lipschitz constant of two-layer ReLU ICNNs. Our proof first establishes the result for the $L_2$-norm and then transfers the construction to arbitrary fixed $p\\in (1,\\infty)\\cap\\mathbb{Q}$ using a suitable Taylor approximation. These results resolve the corresponding questions regarding the parameterized complexity status for zonotope norm maximization and two-layer ICNN Lipschitz constants. Our paper resolves an open problem posted at COLT'25. There are several independent concurrent papers resolving the same problem. Our paper prioritizes a clear exposition of the underlying mathematics and conceptual intuitions behind the proof. Additionally, we explicitly describe our research process including the use of LLMs."
-    },
-    {
-      "id": "fetch-paper-6",
-      "title": "QABBA: Error-Guaranteed Symbolic Time-Series Compression via Integer-Quantized Aggregation",
-      "source": "arXiv.org",
-      "date": "2024-11-20",
-      "description": "The expansion of time-series data from sensors and monitoring systems has made compact representations increasingly important. Such representations should retain signal structure while cutting storage, transmission and computation costs. Ad...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2411.15209v3",
-      "hotScore": 84,
-      "content": "The expansion of time-series data from sensors and monitoring systems has made compact representations increasingly important. Such representations should retain signal structure while cutting storage, transmission and computation costs. Adaptive Brownian Bridge-based Aggregation (ABBA) addresses this need by converting long numerical series into short symbolic sequences, but reductions in parameter storage and computational precision remain desirable. We propose Quantized ABBA (QABBA), a quantized version of ABBA. By quantizing the symbolic centers, QABBA reduces the parameter footprint and enables integer arithmetic while maintaining high reconstruction quality. We establish several error bounds for the additional approximation introduced by quantization: a dimension-free bound on the excess error of each segment, a time-domain reconstruction-error bound, a stability condition for symbolic assignment, and a rule for allocating bits between segment lengths and increments. The resulting symbolic strings can be passed directly to a pretrained large language model (LLM) without any extra time-series embedding layer. Experiments on the Monash regression archive, UCR Time Series Classification Archive, and UEA Multivariate Time Series Classification Archive demonstrate a practical trade-off among storage, reconstruction accuracy and downstream predictive performance. QABBA therefore provides an error-controlled, low-precision symbolic representation for time-series compression and LLM-based analysis. The software is publicly available at https://github.com/inEXASCALE/qabba."
-    },
-    {
-      "id": "fetch-paper-7",
-      "title": "Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents Against Executed Replay",
-      "source": "arXiv.org",
-      "date": "2026-08-20",
-      "description": "Audited against policy-conditional ground truth from executed replay in a single-agent tool environment (ALFWorld), none of the step-level credit signals we audit -- LLM-judge scores, outcome-conditioned logprob ratios, or the policy's own ...",
+      "date": "2026-08-26",
+      "description": "Civil infrastructure compliance checking has long relied on engineers manually reading legacy 2D plans; however, OCR-based automation strips away the geometry and layout essential for interpreting these plans. We present a Visual-First Mult...",
       "category": "agent",
       "tags": [
         "Research",
         "Agent"
       ],
-      "url": "http://arxiv.org/abs/2608.19760v2",
+      "url": "http://arxiv.org/abs/2608.26091v1",
+      "hotScore": 94,
+      "content": "Civil infrastructure compliance checking has long relied on engineers manually reading legacy 2D plans; however, OCR-based automation strips away the geometry and layout essential for interpreting these plans. We present a Visual-First Multimodal Retrieval-Augmented Generation (RAG) framework called PlanSightRAG. It indexes and reasons directly over plan imagery, integrates a ColNomic-3B multi-vector retrieval, an agentic Planner-Retriever-Auditor-Synthesizer, and MaxSim heatmaps as an evidence trail. We introduce a 4,056-pair benchmark from five state Departments of Transportation (DOT) standard plans (1,898 pages). PlanSightRAG achieves 91.47% Recall@5 on zero-shot retrieval, while on a held-out Michigan DOT corpus, it achieves 91.40%. On synthetic, parametrically-generated compliance drawings, our Qwen2.5-VL-72B pipeline reaches 100% verdict accuracy only when supplied a pre-resolved rule threshold, a controlled ceiling that a non-VLM OCR baseline already reaches at 76.4%. Finally, we demonstrate autonomous visual rule-grounding by extracting numeric limits directly from a specification corpus without any human-supplied rules."
+    },
+    {
+      "id": "fetch-paper-6",
+      "title": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
+      "source": "arXiv.org",
+      "date": "2026-08-26",
+      "description": "We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for direction reconstruction, we identify a validate...",
+      "category": "research",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2608.26090v1",
       "hotScore": 80,
-      "content": "Audited against policy-conditional ground truth from executed replay in a single-agent tool environment (ALFWorld), none of the step-level credit signals we audit -- LLM-judge scores, outcome-conditioned logprob ratios, or the policy's own confidence -- shows reliable incremental fidelity beyond its own marginal-matched shuffled control. Correcting for replay-target reliability leaves implicit fidelity bounded near zero and judge fidelity inconclusive at the achieved target reliability. Existing evaluations grade these signals against annotated step *correctness*; we audit them against step *contribution* -- what re-sampling the policy's own alternatives at each decision point and rolling forward changes about the outcome -- and they come apart. The ground truth is structured: 30.5% of decision points where it is defined exhibit a nonzero replay contrast at the achieved sampling resolution, and measurability is model-dependent -- the fraction of points with no policy-supported counterfactual differs twofold (13.1% vs. 26.8%) between two similar-scale policies. The failure mode is identifiable: implicit credit echoes the policy's fluency (median rank correlation +0.75, replicating at +0.70 in a second family under a corrected instrument), while outcome conditioning adds no causal information (partial correlation -0.004, Qwen). A confidence-only router recovers pivotal steps at chance level, but cuts judge cost by 13.1% per turn (14.0% per trajectory). In a seven-arm pre-registered training experiment, no arm reliably outperforms the untrained policy, and the checkpoints' apparent instrument signature is statistically consistent with mediation by effective training dose in this design -- sparser credit retains fewer examples, an order-of-magnitude spread in optimizer steps -- not credit content. Comparisons of credit rules must match effective sample size, or they measure dose, not credit."
+      "content": "We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for direction reconstruction, we identify a validated atlas of physical concepts in the model representation, using a strict validation protocol consisting of held-out tests, matched nuisance controls, and replication across independent dictionary trainings. Causal interventions show that the direction head barely draws on this atlas. Motivated by this underused information, we train an uncertainty head on the same event-level representation to predict the model's angular reconstruction error. Unlike the direction head, it depends causally on quality and brightness features from the atlas. At $20\\%$ selection efficiency, this interpretable estimator improves the median angular resolution from $20.2^\\circ$ to $3.2^\\circ$. These results suggest that mechanistic interpretability can reveal learned latent physics encoded within a model's internal representation and help design downstream tasks that exploit it."
     },
     {
-      "id": "fetch-hf-2608.09408",
-      "title": "DREAM Technical Report",
+      "id": "fetch-paper-7",
+      "title": "MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control",
+      "source": "arXiv.org",
+      "date": "2026-04-07",
+      "description": "MLLMs have been successfully applied to multimodal embedding tasks, yet their generative reasoning capabilities remain underutilized. Directly incorporating chain-of-thought reasoning into embedding learning introduces two fundamental chall...",
+      "category": "llm",
+      "tags": [
+        "Research",
+        "LLM"
+      ],
+      "url": "http://arxiv.org/abs/2604.06156v2",
+      "hotScore": 94,
+      "content": "MLLMs have been successfully applied to multimodal embedding tasks, yet their generative reasoning capabilities remain underutilized. Directly incorporating chain-of-thought reasoning into embedding learning introduces two fundamental challenges. First, structural misalignment between instance-level reasoning and pairwise contrastive supervision may lead to shortcut behavior, where the model merely learns the superficial format of reasoning. Second, reasoning is not universally beneficial for embedding tasks. Enforcing reasoning for all inputs may introduce unnecessary computation and latency, and can even obscure salient semantic signals for simple cases. To address these issues, we propose MMEmb-R1, an adaptive reasoning-based multimodal embedding framework. We formulate reasoning as a latent variable and introduce pair-aware reasoning selection that employs counterfactual intervention to identify reasoning paths beneficial for query-target alignment. Furthermore, we adopt reinforcement learning to selectively invoke reasoning only when necessary. Experiments on the MMEB-V2 benchmark demonstrate that our model achieves a score of 71.2 with only 4B parameters, establishing a new state-of-the-art while significantly reducing reasoning overhead and inference latency."
+    },
+    {
+      "id": "fetch-hf-2608.25529",
+      "title": "Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios",
       "source": "Hugging Face Daily",
-      "date": "2026-08-12",
-      "description": "Industrial recommender systems commonly use cascaded retrieval, ranking, and re-ranking pipelines. Although efficient, these pipelines fragment information and objectives across modules, rely on rigid rules, and have limited awareness of re...",
-      "category": "agent",
+      "date": "2026-08-25",
+      "description": "Multimodal Large Language Models (MLLMs) have shown strong performance in video understanding. However, their ability to follow instructions in this domain remains under-explored. Real-world video understanding requires models not only to i...",
+      "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2608.09408",
+      "url": "https://huggingface.co/papers/2608.25529",
       "hotScore": 90,
-      "content": "Industrial recommender systems commonly use cascaded retrieval, ranking, and re-ranking pipelines. Although efficient, these pipelines fragment information and objectives across modules, rely on rigid rules, and have limited awareness of real-time intent, leaving session-level shifts among browsing, comparison, and purchase insufficiently addressed. We present DREAM (Developing Recommender Engine with Agentic Methods), an autonomous optimization control architecture that adds a perception-aware, orchestrable, and auditable policy layer atop existing pipelines without replacing them. DREAM has two core components. First, a three-tier Intent Engine fuses on-device signals into structured L0/L1/L2 intent representations; its edge-cloud trigger chain reduces reporting volume to approximately 8.7%. Second, a Meta Engine uses a MetaModel for layered M1-to-M2-to-M3 reasoning: intent summarization, strategy planning informed by Strategy Memory, and parameter translation. It dispatches the resulting parameters through a unified outlet with safety guardrails. A Reward Dual Loop continuously optimizes both components by combining offline simulation for strategy-space exploration with online feedback for outcome calibration, forming a cycle of generation, execution, evaluation, and experience accumulation. Large-scale A/B tests on Taobao's homepage feed show that re-ranking control alone improves IPV by 2.06%, Core IPV by 2.39%, and GMV by 0.88%. Extending control to fine ranking raises these gains to 2.71%, 3.06%, and 1.31%, respectively, while consistently improving PV by more than 1%. These gains require neither replacement of pipeline models nor compromise of serving stability, supporting agentic meta-control as a viable paradigm for industrial recommendation."
+      "content": "Multimodal Large Language Models (MLLMs) have shown strong performance in video understanding. However, their ability to follow instructions in this domain remains under-explored. Real-world video understanding requires models not only to interpret video content correctly, but also to satisfy diverse user-specified constraints. Existing benchmarks focus primarily on task accuracy rather than instruction adherence, leaving this capability insufficiently evaluated. To address this gap, we introduce Video-IFBench, a comprehensive benchmark for evaluating instruction following in video understanding, where models must satisfy diverse user-specified constraints, including those grounded in visual and audio content. We develop an instruction taxonomy with four templates, including single-task, multi-task, selection, and nested instructions, covering 32 task types and 39 manually designed constraint categories spanning both semantic and format requirements. To reduce annotation cost, we build a semi-automatic data construction pipeline that combines MLLMs, programmatic processing, and human verification, resulting in 1.5K samples. We conduct a large-scale evaluation of more than 20 recent MLLMs and show that video instruction following remains challenging for current models, especially for instructions with many constraints, semantic constraints, or complex conditional structures that require selecting the correct branch or path based on video content. We hope our work will facilitate future research on instruction following in video understanding scenarios."
     },
     {
-      "id": "fetch-hf-2608.24882",
-      "title": "Latent Action as Intention Enables Efficient Future Imagination for World Action Models",
+      "id": "fetch-hf-2608.21839",
+      "title": "FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling",
       "source": "Hugging Face Daily",
-      "date": "2026-08-24",
-      "description": "World action models (WAMs) improve robot control by modeling how observations evolve, but generating future observations at test time incurs substantial latency. Fast-WAM removes this process for efficiency; however, our matched implementat...",
+      "date": "2026-08-21",
+      "description": "Reliable reward models are essential for text-to-video evaluation and alignment. However, the trade-off between evaluation accuracy and inference efficiency places high demands on the quality of training supervision. Existing approaches oft...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2608.24882",
+      "url": "https://huggingface.co/papers/2608.21839",
       "hotScore": 89,
-      "content": "World action models (WAMs) improve robot control by modeling how observations evolve, but generating future observations at test time incurs substantial latency. Fast-WAM removes this process for efficiency; however, our matched implementations show lower generalization for Fast-WAM than for future-aware alternatives, especially with scarce robot demonstrations and in out-of-distribution scenarios. To bridge this gap, we introduce **LAWA**, a WAM architecture that uses compact latent actions as an operational representation of future intentions, enabling efficient test-time future imagination without generating future observations. Specifically, a discrete tokenizer enhanced by action-free pre-training produces manipulation-centric codebook targets. LAWA jointly denoises a continuous latent state anchored to these targets with executable action chunks while omitting the future-video branch at inference. On RoboCasa, LAWA achieves state-of-the-art average success rates of 65.6% and 80.8% in the few-shot and full data settings, improving over the matched Fast-WAM baseline by 9.6 and 4.5 points, respectively. It also preserves the performance level of the matched Joint-WAM variant while requiring 42.9% lower inference latency. LAWA also demonstrates competitive zero-shot robustness on LIBERO-Plus and superior performance on real-world tasks. These results show that future imagination need not be discarded: retaining it with compact latent actions yields an effective trade-off among performance, generalization, and latency. Code and models will be released."
+      "content": "Reliable reward models are essential for text-to-video evaluation and alignment. However, the trade-off between evaluation accuracy and inference efficiency places high demands on the quality of training supervision. Existing approaches often rely on holistic judges with fixed rubrics or open-ended reasoning, leading to incomplete inspection, unfaithful justification, and entangled attribution. We introduce FIRM-Video, a unified checklist-driven data construction framework based on a check-before-score principle: construct dimension-specific checklists, verify each criterion against temporal visual evidence, and aggregate only verified decisions. For Instruction Following, FIRM-Video decomposes prompts into weighted atomic requirements; for World Coherence, it constructs prompt-calibrated, target-specific checks grounded in visible entities and actions; and for Perceptual Quality, it applies a generic taxonomy of visual defects. The verified criteria and scores are further transformed into natural-language analyses for end-to-end reward modeling. Subsequently, we construct FIRM-Video-90K with 88,044 dimension-specific instances from 29,348 videos, and introduce FIRM-Video-Bench with 750 point-wise human annotations across 250 videos. The Qwen3-VL-based FIRM-Video-8B achieves the best overall MAE on FIRM-Video-Bench while consistently delivering the highest VBench Total, Quality, and Semantic Scores in Best-of-8 sampling across three video generators."
     },
     {
-      "id": "fetch-hf-2608.23181",
-      "title": "CyberFactory: Scaling Cyber Security Capabilities with Instances from the Wild",
-      "source": "Hugging Face Daily",
-      "date": "2026-08-23",
-      "description": "As large language models (LLMs) continue to advance in coding capabilities, their potential in cybersecurity has drawn increasing research attention, with closed-source LLMs (e.g., Mythos) delivering advanced cybersecurity capabilities. How...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2608.23181",
-      "hotScore": 88,
-      "content": "As large language models (LLMs) continue to advance in coding capabilities, their potential in cybersecurity has drawn increasing research attention, with closed-source LLMs (e.g., Mythos) delivering advanced cybersecurity capabilities. However, existing open-source efforts remain limited: frontier open-weight models do not provide reproducible cybersecurity training solutions, open-source training solutions focus on isolated tasks and lack scalable agentic data, and scaling agentic rollouts requires strong domain priors. In this work, we introduce CyberFactory, a unified open-source framework that connects data construction, trajectory synthesis, and model training across proof-of-concept (PoC) generation, vulnerability patching, and cybersecurity question answering (CyberQA). CyberFactory transforms public vulnerability artifacts, including CVEs from the wild, into executable and verifiable task instances. It further uses a reusable vulnerability-analysis skill to guide the teacher through source inspection, problem solving with domain prior, and evidence-based validation. The resulting supervision is agentic: the model interacts with tools and target environments and revises its solutions according to execution feedback. Using these trajectories, we train and release \\modelname\\emph{Aegis is, in Greek mythology, the protective shield of Zeus and Athena; the name reflects the model's defensive, security-oriented purpose.}, which internalizes the skill-guided procedure without requiring the skill at inference time. On CyberGym, \\modelname reaches 52.4% Pass@1 under a one-hour budget, improving over its Qwen~3.5 base model by +22.8 points and outperforming the evaluated general-purpose backbones under the same scaffold."
-    },
-    {
-      "id": "fetch-hf-2608.24680",
-      "title": "Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training",
+      "id": "fetch-hf-2608.24138",
+      "title": "Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation",
       "source": "Hugging Face Daily",
       "date": "2026-08-24",
-      "description": "Video games provide a scalable source of training data for video world models, offering diverse environments, complex interactions, and abundant in-the-wild gameplay videos. However, raw gameplay footage entangles the game world with screen...",
+      "description": "Large vision-language models have shown strong progress in UI-to-code generation, yet their test-time self-evolution remains unstable. We first identify a fundamental obstacle, termed visual repair coupling: a local code edit may propagate ...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2608.24680",
-      "hotScore": 87,
-      "content": "Video games provide a scalable source of training data for video world models, offering diverse environments, complex interactions, and abundant in-the-wild gameplay videos. However, raw gameplay footage entangles the game world with screen-space interfaces, introducing game-specific biases and irrelevant dynamics that hinder world-model training. To address this problem, we introduce GameUI-Taxonomy and G2WEngine, a full-stack framework that formalizes gameplay UI grounding and removal. G2WEngine automatically extracts reusable UI assets from real gameplay videos and synthesizes temporally coherent UI overlays on clean footage. Using this engine, we construct Game2World, comprising 96K synthetic paired videos with precise reconstruction targets and 1,079 in-the-wild clips from 303 games for realistic evaluation. Its asset library contains 5,132 verified UI elements across 21 taxonomy categories, collected from 1,010 representative gameplay frames. Based on Game2World, we propose GameCleaner, a mask-free gameplay UI removal model that combines multimodal semantic understanding with video editing capabilities. Unlike mask-based methods, GameCleaner directly identifies and removes diverse HUD elements while preserving the underlying scene content and temporal dynamics. In a controlled pilot, world models trained on UI-free gameplay improve overall VideoReward by 6.83% over those trained on UI-overlaid data. On UI-removal evaluation, GameCleaner achieves an average AAR of 95.36 on synthetic videos, outperforming the strongest temporal mask baseline by 57.3%, and obtains the best in-the-wild AAR of 80.05 with 99.8 background preservation. These results demonstrate the scalable potential of transforming Internet gameplay videos into high-quality world-model training data. Code, dataset, and model will be available at https://github.com/Dongping-Chen/Game2World."
+      "url": "https://huggingface.co/papers/2608.24138",
+      "hotScore": 88,
+      "content": "Large vision-language models have shown strong progress in UI-to-code generation, yet their test-time self-evolution remains unstable. We first identify a fundamental obstacle, termed visual repair coupling: a local code edit may propagate through layout, style, and component dependencies, correcting one visual mismatch while degrading regions that were previously faithful. To address this issue, we present RubSE, a Rubric-guided Self-Evolution framework that uses rubrics to represent visual feedback as a structured visual-repair context. At each refinement round, RubSE generates typed candidate rubrics, selects one prioritized repair target, and stores previously selected rubrics as history, thereby steering each revision toward a well-scoped visual repair while discouraging repeated or over-broad changes. Evaluations across six VLMs and three UI-to-code benchmarks demonstrate that RubSE substantially outperforms naïve self-evolution in final-round and best-round settings, achieving more stable refinement trajectories and a higher trajectory-level performance ceiling. Further analysis shows that RubSE mitigates trajectory collapse by improving recovery from severe visual regressions, and that stronger rubric generators can transfer effective visual-repair guidance to weaker code improvers."
     },
     {
-      "id": "fetch-hf-2608.20492",
-      "title": "Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs",
+      "id": "fetch-hf-2608.19556",
+      "title": "Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models",
       "source": "Hugging Face Daily",
       "date": "2026-08-19",
-      "description": "Multimodal large language models (MLLMs) have become a prevailing paradigm for unified video perception. However, post-training on large multi-task datasets remains challenging, as existing reinforcement learning methods sample on-policy gr...",
+      "description": "Streaming autoregressive diffusion models enable real-time, long-horizon video generation, but their training objectives optimize local frame prediction rather than the geometry and dynamics of a coherent world: long rollouts accumulate geo...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2608.20492",
+      "url": "https://huggingface.co/papers/2608.19556",
+      "hotScore": 87,
+      "content": "Streaming autoregressive diffusion models enable real-time, long-horizon video generation, but their training objectives optimize local frame prediction rather than the geometry and dynamics of a coherent world: long rollouts accumulate geometric drift and degrade into static or unnatural motion. Recent bidirectional approaches address this problem using rewards signals built upon 3D Gaussian-Splatting reconstruction. However, a single rigid 3d reconstruction cannot model a dynamic scene, so this critic penalizes genuine object motion as reconstruction error and is maximized by freezing the video. This shortcut is especially detrimental in the AR setting, where each chunk can propagate an already-static configuration. In this work, we propose Stream4D, which replaces the static critic with a feed-forward 4D reconstruction reward that explicitly models scene dynamics, allowing coherent motion to receive high consistency rewards. To further guide motion magnitude and quality, we add a motion prior that rewards natural scene-flow magnitude while penalizing jitter and non-rigid artifacts. Our final recipe combines these two terms with a lightweight perceptual anchor. Across various autoregressive video backbones and various generation horizons, Stream4D improves 4D reconstruction quality, preserves motion more effectively, and achieves higher human-aligned preference. Project page: https://banyuanhao.github.io/Stream4D/"
+    },
+    {
+      "id": "fetch-hf-2608.26005",
+      "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
+      "source": "Hugging Face Daily",
+      "date": "2026-08-25",
+      "description": "Conversational systems, such as duplex speech language models (SLMs), still lack a streaming, accurate, and empathetic memory system as their soul. We introduce VoiceMem, a simple memory architecture with a parallel informational left brain...",
+      "category": "llm",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2608.26005",
       "hotScore": 86,
-      "content": "Multimodal large language models (MLLMs) have become a prevailing paradigm for unified video perception. However, post-training on large multi-task datasets remains challenging, as existing reinforcement learning methods sample on-policy groups with few high-quality rollouts even with costly chain-of-thought (CoT) generation. In this paper, we study the sample efficiency and scalability of RL post-training for video MLLMs and introduce OraRL. We identify an overlooked role for annotations: Beyond scoring rollouts, each can enter its on-policy group as an oracle rollout, a direct positive optimization target. Direct oracle integration, however, is nontrivial: a high-reward oracle raises the group baseline and inverts otherwise positive policy advantages, a failure we term advantage inversion. At the core of OraRL is a decoupled advantage estimator: policy rollouts determine an oracle-free baseline, while the oracle-policy gap modulates both a directional gain and a separate detached oracle advantage. Sign-balanced pruning improves efficiency: by retaining only the oracle and the strongest rollouts of each sign, OraRL requires just 2.2x the step time of SFT, less than half the 4.9x required by GRPO with CoT. OraRL scales with model size and data, surpassing its backbone from 0.8B to 9B and GRPO up to 100k prompts. Without chain-of-thought, Video-ORA-9B decodes in 130 ms instead of 4,780 ms. Compared with the respective prior best models, it raises temporal mIoU from 62.5 to 66.0, tracking AO from 73.0 to 78.2, segmentation from 64.3 to 70.4, and the three-benchmark spatial-intelligence macro average from 51.0 to 56.1; on VSI-Bench, it scores 73.1 against 55.0 for GPT-5 and 55.1 for Gemini-3-Pro."
+      "content": "Conversational systems, such as duplex speech language models (SLMs), still lack a streaming, accurate, and empathetic memory system as their soul. We introduce VoiceMem, a simple memory architecture with a parallel informational left brain, an emotional right brain, and streaming memory I/O mechanisms. We further build a complete pipeline for memory-aware SLM training, long-horizon evaluation, and decoupled deployment with interchangeable memory backends. Experiments and real-world deployment show three advantages: i) Accuracy: under top-5 retrieval, the left brain outperforms classical systems such as Mem0 at top-200 by nearly 30 points; ii) Emotional & Personal: the right brain, with short- and long-horizon affective attribution and dual-node persona modeling, achieves state-of-the-art performance across three persona benchmarks and improves the aggregate score by 4.29 points over the previous best system; and iii) Real-Time & Cheap: VoiceMem completes retrieval in 134 ms, well within standard VAD latency, adding no extra conversational delay while maintaining high accuracy and low cost. These results show that VoiceMem provides a practical memory foundation for real-time, personalized, and emotionally aware speech interaction."
     }
   ],
   "hfModels": [
@@ -460,7 +459,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 256327995,
-      "likes": 5256,
+      "likes": 5257,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -508,7 +507,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
       "downloads": 70844329,
-      "likes": 538,
+      "likes": 539,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -524,7 +523,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "downloads": 54423737,
-      "likes": 1354,
+      "likes": 1355,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -555,7 +554,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
       "downloads": 36630504,
-      "likes": 3434,
+      "likes": 3439,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -571,7 +570,7 @@
       "owner": "Community",
       "fullName": "amazon/chronos-2",
       "downloads": 33809631,
-      "likes": 409,
+      "likes": 411,
       "category": "research",
       "tags": [
         "Time-series-forecasting",
@@ -616,63 +615,63 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "title": "Medical device maker Boston Scientific says a cyberattack is causing a &#8216;global disruption&#8217; to its operations",
       "source": "TechCrunch Gadgets",
       "date": "2026-08-26",
-      "description": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames....",
+      "description": "The company won't say if medical devices are affected or if any customer data was exfiltrated....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-      "hotScore": 88,
-      "content": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames...."
+      "url": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
+      "hotScore": 92,
+      "content": "The company won't say if medical devices are affected or if any customer data was exfiltrated...."
     },
     {
       "id": "fetch-gadget-1",
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "title": "Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement with states",
       "source": "TechCrunch Gadgets",
       "date": "2026-08-26",
-      "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation....",
+      "description": "One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "hotScore": 94,
-      "content": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation...."
+      "url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
+      "hotScore": 93,
+      "content": "One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission...."
     },
     {
       "id": "fetch-gadget-2",
-      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+      "title": "Bill Gates wants to see a robot tax and &#8216;Human Reserved&#8217; jobs to mitigate harms from AI",
       "source": "TechCrunch Gadgets",
-      "date": "2026-08-25",
-      "description": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping....",
+      "date": "2026-08-26",
+      "description": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
-      "hotScore": 97,
-      "content": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping...."
+      "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "hotScore": 88,
+      "content": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before...."
     },
     {
       "id": "fetch-gadget-3",
-      "title": "Waymo robotaxis are headed to Munich",
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
       "source": "TechCrunch Gadgets",
-      "date": "2026-08-25",
-      "description": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment....",
-      "category": "research",
+      "date": "2026-08-26",
+      "description": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon....",
+      "category": "tooling",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
-      "hotScore": 93,
-      "content": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment...."
+      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "hotScore": 99,
+      "content": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon...."
     }
   ]
 }
