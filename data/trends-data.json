@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-31T01:54:12.420Z",
+  "updatedAt": "2026-08-31T18:17:20.187Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 388097,
-      "forks": 81484,
+      "stars": 388254,
+      "forks": 81512,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 279695,
-      "forks": 25072,
+      "stars": 279993,
+      "forks": 25096,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 238524,
-      "forks": 48577,
+      "stars": 238898,
+      "forks": 48715,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 202896,
-      "forks": 60467,
+      "stars": 202960,
+      "forks": 60472,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,7 +74,7 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187019,
+      "stars": 187035,
       "forks": 46046,
       "language": "Python",
       "category": "llm",
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 174475,
-      "forks": 9592,
+      "stars": 174757,
+      "forks": 9605,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 168246,
-      "forks": 21690,
+      "stars": 168336,
+      "forks": 21706,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164747,
-      "forks": 30562,
+      "stars": 164750,
+      "forks": 30566,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 158134,
-      "forks": 46161,
+      "stars": 158151,
+      "forks": 46162,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 153927,
-      "forks": 24315,
+      "stars": 154011,
+      "forks": 24335,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 150440,
-      "forks": 21963,
+      "stars": 150510,
+      "forks": 21974,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 145299,
-      "forks": 24251,
+      "stars": 145362,
+      "forks": 24255,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 143246,
-      "forks": 34846,
+      "stars": 143263,
+      "forks": 34845,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 132362,
-      "forks": 11911,
+      "stars": 132511,
+      "forks": 11929,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 130763,
-      "forks": 15409,
+      "stars": 130900,
+      "forks": 15420,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -259,79 +259,195 @@
   ],
   "aiNews": [
     {
-      "id": "fetch-hf-2608.28478",
-      "title": "Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge",
+      "id": "fetch-paper-0",
+      "title": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
+      "source": "arXiv.org",
+      "date": "2026-08-28",
+      "description": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a general computational implementation in whi...",
+      "category": "tooling",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2608.28589v1",
+      "hotScore": 81,
+      "content": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a general computational implementation in which the solution on each edge of the graph is approximated by a neural network, while a unified graph-based loss function enforces the governing equations together with initial, boundary, and vertex transmission conditions. In particular, the formulation incorporates standard continuity and Kirchhoff-Neumann vertex conditions and Dirichlet boundary conditions into the learning process to couple the local edge-wise neural approximations into a global solution on the graph. The framework is developed for two representative classes of nonlinear models: multi-order fractional elliptic problems and time-fractional evolution equations on quantum graphs. To improve accuracy and training stability, QGPINNs integrates several graph-adapted learning strategies, including soft and hard constraint enforcement, dynamic loss balancing, Fourier feature embeddings, and a learnable singularity-capturing feature for weakly singular solutions arising in the considered problems. The framework also extends naturally to inverse problems, including the identification of the orders of fractional operators and physical parameters from noisy observational data. We validate the accuracy, computational efficiency, and physical consistency of the proposed framework through numerical experiments on benchmark graph structures and real-world networks, including the IEEE 14-bus system and an open-channel agricultural drainage network."
+    },
+    {
+      "id": "fetch-paper-1",
+      "title": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
+      "source": "arXiv.org",
+      "date": "2026-08-28",
+      "description": "Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a cable removes the requirement that a moto...",
+      "category": "research",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2608.28578v1",
+      "hotScore": 89,
+      "content": "Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a cable removes the requirement that a motor fit inside the joint it drives, so smaller and cheaper motors suffice, and one motor can drive several joints through a single cable, so fewer motors are needed. They are also harder to learn on than a direct-drive hand. The underactuated transmission that produces the saving is itself difficult to represent in a simulator, and the joints one cable drives are not independently commandable. We present Aero Hand Open, a tendon-driven anthropomorphic hand that is released simulation-ready. Three things ship with it. A simulation model reproduces the cable transmission itself. An identified actuation map connects that model to the motor commands in both directions, including the three-way coupling of the thumb. A reinforcement learning package trains policies for the hand. Together they let a policy be trained entirely in simulation and run on the hand with no fine-tuning and no state estimation. We release the mechanical design, the simulation model, the identified mapping, the training environment and the deployment stack."
+    },
+    {
+      "id": "fetch-paper-2",
+      "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
+      "source": "arXiv.org",
+      "date": "2026-08-28",
+      "description": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a general framework for synthetic-augmented infe...",
+      "category": "llm",
+      "tags": [
+        "Research",
+        "LLM"
+      ],
+      "url": "http://arxiv.org/abs/2608.28576v1",
+      "hotScore": 80,
+      "content": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a general framework for synthetic-augmented inference across a population of related tasks. It characterizes synthetic augmentation by the number of synthetic observations and their weight. Central to our framework is a size-weight frontier that specifies, for each weight, the largest synthetic sample size for which all smaller sizes attain the target task-marginal coverage. We estimate this frontier from historical tasks, and establish a finite-sample coverage guarantee simultaneously for all size-weight configurations on or below the estimated frontier. In experiments using large language model responses to augment opinion survey data, our procedure achieves target coverage and substantially narrows confidence intervals."
+    },
+    {
+      "id": "fetch-paper-3",
+      "title": "Flow Reasoning Models: Turning Discrete Flows Into Efficient Recurrent Reasoners",
+      "source": "arXiv.org",
+      "date": "2026-06-28",
+      "description": "Structured reasoning requires making and revising interdependent decisions to reach a globally consistent solution. Existing architectures struggle with this: autoregressive models commit sequentially and cannot revise earlier decisions, wh...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2606.29150v2",
+      "hotScore": 91,
+      "content": "Structured reasoning requires making and revising interdependent decisions to reach a globally consistent solution. Existing architectures struggle with this: autoregressive models commit sequentially and cannot revise earlier decisions, while masked diffusion models often require careful decoding schemes to coordinate interdependent predictions. We introduce Flow Reasoning Models (FRMs), a novel framework for structured reasoning that adapts discrete flows with a simple recurrent refinement mechanism. By self-conditioning a flow model on its own past outputs, we turn one-shot denoising into iterative solution refinement. This lets FRMs make and revise decisions in parallel, efficiently coordinating interdependent choices across the solution. Yet conventional self-conditioning becomes unreliable at greater recurrent depth due to exposure bias between one-step training predictions and recursively generated inference states. We address this mismatch with Fixed-Point Forcing (FPF), which trains FRMs on states produced by their own inference dynamics while preserving the standard flow-matching objective. FRMs achieve solve rates of $99.5\\%$, $100.0\\%$, and $99.9\\%$ on Sudoku-Extreme, Zebra, and Maze-Unique, respectively. On Sudoku-Extreme, FRMs achieve higher peak accuracy than the evaluated masked-diffusion and specialized reasoning baselines while remaining highly compute-efficient, matching the next-best method's $98.7\\%$ peak solve rate with $44\\times$ fewer inference FLOPs."
+    },
+    {
+      "id": "fetch-paper-4",
+      "title": "How Far Should Tokenization Go? Predictive Effectiveness and Relational Losslessness",
+      "source": "arXiv.org",
+      "date": "2026-08-18",
+      "description": "GPT-style models have achieved remarkable success with finite vocabularies of reusable tokens, making the token interface a central component of modern sequence modeling. Symbolic music appears naturally compatible with this paradigm: it co...",
+      "category": "llm",
+      "tags": [
+        "Research",
+        "LLM"
+      ],
+      "url": "http://arxiv.org/abs/2608.18025v2",
+      "hotScore": 94,
+      "content": "GPT-style models have achieved remarkable success with finite vocabularies of reusable tokens, making the token interface a central component of modern sequence modeling. Symbolic music appears naturally compatible with this paradigm: it consists of discrete note events and recurring structures such as chords, motifs, and phrases. However, when tokenization moves beyond language, the interface must be specified for each domain. Existing work offers many effective designs, but no unified criterion for deciding what tokenization should represent and how far it should go. Using predictive codelength as a common criterion, we formulate the Effectiveness--Losslessness Framework to define where tokenization should begin and where it should end. The Fact--Token Boundary marks where observation-determined structure should enter the token interface, through operations such as coordinate construction. Within this interface, the resulting carrier may be reversibly recoded without changing the represented facts. The Token--State Boundary marks where tokenization should stop: relations that depend on context should remain for model-state computation rather than being fixed in advance by the tokenizer. We validate the framework through controlled multi-seed symbolic-music experiments, with an independent-corpus replication of the temporal intervention. Making musical time explicit consistently reduces predictive code and also improves pitch and duration prediction, while tonal-frame canonicalization and pitch factorization provide further gains. Fixed circle-of-fifths pitch coordinates instead increase predictive code, suggesting that imposing a fixed pitch relation before context can burden prediction. Reversible BPE substantially shortens the carrier but increases predictive codelength in every seed, showing that carrier compaction alone does not guarantee predictive gain."
+    },
+    {
+      "id": "fetch-paper-5",
+      "title": "On two proofs of $d^2$ mixing of weighted Dikin walks",
+      "source": "arXiv.org",
+      "date": "2026-08-28",
+      "description": "We study the mixing time of weighted Dikin walks for sampling from exponential distributions on polytopes and truncated positive-semidefinite (PSD) cones. Our first result gives a general total-variation mixing bound under strong self-conco...",
+      "category": "tooling",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2608.28566v1",
+      "hotScore": 83,
+      "content": "We study the mixing time of weighted Dikin walks for sampling from exponential distributions on polytopes and truncated positive-semidefinite (PSD) cones. Our first result gives a general total-variation mixing bound under strong self-concordance, $\\barν$-symmetry, and mixed-trace regularity on the local metric. The key idea is to control the Metropolis--Hastings acceptance probability on a high-probability region rather than at every point. Applying this framework to the Lee--Sidford, Lewis-weight, and John metrics yields an $\\widetilde O(d^2)$ mixing bound for sampling from polytopes, while applying it to a hybrid barrier yields an $\\widetilde O(d^4)$ mixing bound for sampling from truncated PSD cones. Our second result establishes stronger $χ^2$-divergence guarantees and pointwise acceptance control using a new fourth-order bootstrap condition. For a suitably scaled Lee--Sidford metric, this yields an $\\widetilde O(d^2)$ mixing bound in $χ^2$-divergence, improving on the previous $\\widetilde O(d^{9/4})$ bound."
+    },
+    {
+      "id": "fetch-paper-6",
+      "title": "Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy",
+      "source": "arXiv.org",
+      "date": "2026-08-28",
+      "description": "We study kernel ridge regression under anisotropic Gaussian data, where the input covariance decays as a power law with exponent $α\\geq 0$ for polynomial inner-product kernels. We derive asymptotically sharp expressions for the kernel spect...",
+      "category": "research",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2608.28564v1",
+      "hotScore": 83,
+      "content": "We study kernel ridge regression under anisotropic Gaussian data, where the input covariance decays as a power law with exponent $α\\geq 0$ for polynomial inner-product kernels. We derive asymptotically sharp expressions for the kernel spectrum and the generalization error in the polynomial high-dimensional regime $n=Θ(d^κ)$, revealing how anisotropy reshapes the learning curves. For weak anisotropy ($0&lt;α&lt;1$), the problem remains effectively high-dimensional and retains some features of the isotropic case, while departing from it in others: the variance still peaks at integer sample complexities $κ\\in\\mathbb{N}$, but these peaks are progressively damped as $α$ grows; meanwhile, for targets strongly aligned with the data's principal directions, the bias drops at fractional sample complexities, decoupling the bias transitions from the interpolation peaks. For strong anisotropy ($α&gt; 1$), the effective dimension of the problem is constant, and the variance stops depending on sample size altogether, plateauing under ridgeless interpolation or vanishing at an explicit rate under fixed ridge penalty. The bias undergoes a sharp transition governed by the target's decay rate: below a threshold, learning is abrupt rather than gradual; above it, the bias decays as a power law that recovers the classical source and capacity rates. We finally specialize these results to single-index targets, showing how the alignment of the index with the data's principal directions determines the effect of anisotropy on learning. Together, our results clarify how the input geometry shapes the kernel features and fundamentally impacts its generalization properties."
+    },
+    {
+      "id": "fetch-paper-7",
+      "title": "A Formal Limitation on Learning Human Language From Textual Corpora",
+      "source": "arXiv.org",
+      "date": "2026-08-28",
+      "description": "Can a listener recover what a speaker means from the form of an utterance alone? We answer this question information-theoretically, and for a listener given by any featurizer of text, including the hidden states of contemporary large langua...",
+      "category": "llm",
+      "tags": [
+        "Research",
+        "LLM"
+      ],
+      "url": "http://arxiv.org/abs/2608.28560v1",
+      "hotScore": 88,
+      "content": "Can a listener recover what a speaker means from the form of an utterance alone? We answer this question information-theoretically, and for a listener given by any featurizer of text, including the hidden states of contemporary large language models. Modeling language use as a joint distribution over meanings, contexts, and utterances, we derive upper bounds on the probability that a decoder recovers a speaker's intended meaning from a representation of the utterance. The bounds are governed by the uncertainty that form leaves about meaning, which splits into an irreducible part and a part that only (extralinguistic) context, but never the utterance alone, can resolve. Because these quantities are intrinsic to language, no representation, however much text or supervision produced it, can surpass them; the bounds hold whether the space of meanings is discrete or continuous. Experiments on artificial languages, Mandarin zero-pronoun resolution, and color reference provide empirical evidence in support of the theory."
+    },
+    {
+      "id": "fetch-hf-2608.26737",
+      "title": "Generative Semantic Scene Completion",
       "source": "Hugging Face Daily",
-      "date": "2026-08-27",
-      "description": "Factual question answering (QA) typically assumes a single canonical answer, obscuring whether large language models (LLMs) retain divergent accounts of long-tail facts. To address this gap, we introduce ElephantBench, a closed-book knowled...",
+      "date": "2026-08-26",
+      "description": "Outdoor LiDAR semantic scene completion (SSC) recovers a dense semantic voxel grid from a scan observing 1% of the target volume, under class imbalance beyond 7,000x. We recast SSC as generative semantic scene completion (GSSC): a single di...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2608.28478",
+      "url": "https://huggingface.co/papers/2608.26737",
       "hotScore": 90,
-      "content": "Factual question answering (QA) typically assumes a single canonical answer, obscuring whether large language models (LLMs) retain divergent accounts of long-tail facts. To address this gap, we introduce ElephantBench, a closed-book knowledge probe comprising 1,094 questions generated through an auditable graph-based pipeline. The pipeline retrieves related documents from a low-exposure web corpus, identifies naturally occurring disagreements, and converts them into multi-account QA records. Each answer is verified against the originating documents and authoritative public web sources and is then reviewed by human annotators. Across 32 models, even the strongest model recovers both accounts on only 52.4% of questions, while on nearly all remaining questions it recalls one account but omits the other. Scaling model size and inference-time reasoning improve recall but do not eliminate this incompleteness. Corpus analysis further shows that exposure imbalance favors the dominant account, whereas greater minority-side exposure is associated with more complete recall. These findings establish ElephantBench as a reproducible knowledge probe for diagnosing epistemic myopia in parametric memory. More broadly, our graph-based benchmark construction pipeline provides an efficient and scalable way to turn long-tail corpora into source-traceable knowledge probes, supporting efforts to evaluate and advance the epistemic rigour of next-generation LLMs. Code is available at https://github.com/Tencent/ElephantBench."
+      "content": "Outdoor LiDAR semantic scene completion (SSC) recovers a dense semantic voxel grid from a scan observing 1% of the target volume, under class imbalance beyond 7,000x. We recast SSC as generative semantic scene completion (GSSC): a single discrete-diffusion formulation in three roles. First, paired sparse-dense scene synthesis (PS^3) generates matched sparse LiDAR observations with their dense semantic completions, addressing the long tail at its source and yielding the PS^3-SemanticKITTI corpus we train on alongside SemanticKITTI. Second, semantic-guided generative scene completion (SGSC) generates the scene from noise with multinomial discrete diffusion, conditioned on the sparse scan through a bird's-eye-view semantic map and a sparse 3D feature stream. Third, the same framework instead refines an existing completion in one flow-matching step: structured source discrete diffusion (S^2D^2). S^2D^2 improves the mIoU of SGSC's own output and every external SSC base tested, without base retraining or test-time adaptation. On the strongest base, one step without test-time augmentation reaches 38.8% mIoU on the SemanticKITTI hidden test. To our knowledge that is the best causal, single-sweep, single-sample result on that leaderboard, +2.1 pp over the previous best published score under the same restriction. Four correction steps with eight-view test-time augmentation reach 39.2%, outside that restriction."
     },
     {
-      "id": "fetch-hf-2608.28476",
-      "title": "ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL",
+      "id": "fetch-hf-2608.28444",
+      "title": "Sliding-window beats linear attention",
       "source": "Hugging Face Daily",
       "date": "2026-08-27",
-      "description": "Long-horizon agentic tasks require large language models (LLMs) to iteratively retrieve, integrate, and maintain dispersed information across multi-turn interactions, but preserving all interaction histories leads to a continuously growing ...",
+      "description": "Due to the nature of quadratic attention, Large Language Models (LLMs) consume a lot of memory and energy. Every new token costs more than the previous one. For each additional token, the keys and values must be stored in memory indefinitel...",
+      "category": "llm",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2608.28444",
+      "hotScore": 89,
+      "content": "Due to the nature of quadratic attention, Large Language Models (LLMs) consume a lot of memory and energy. Every new token costs more than the previous one. For each additional token, the keys and values must be stored in memory indefinitely, which is unsustainable.\n  Several alternatives have been proposed to fix the quadratic scaling problem, one of which is retrofitting LLMs to use Linear Attention. This idea has attracted a lot of attention, given its promise to solve the quadratic scaling problem with state-of-the-art performance at low cost. However, this line of research has not been properly compared to simpler baselines.\n  In this work, we show that Sliding Window Attention (SWA) with sinks performs as well or better than post-trained Linear Attention models. We observe this across multiple LLMs on various downstream tasks. For long-context reasoning tasks (Needle-in-a-Haystack and BABILong), SWA achieves massively higher performance (2 to 10 times higher than linear attention). SWA requires no post-training, is extremely fast, and requires low memory; therefore, making it an extremely cheap and reliable solution.\n  To reduce inference memory cost, we strongly recommend switching to SWA instead of post-training linear models. Linear attention models may have shown some promise, but they likely require to be trained from scratch or extensive post-training in order to even match SWA."
+    },
+    {
+      "id": "fetch-hf-2608.26175",
+      "title": "Lost in Compression: A Controlled Cross-Lingual Audit of Extractive Prompt Compressors",
+      "source": "Hugging Face Daily",
+      "date": "2026-07-26",
+      "description": "Extractive prompt compression promises to cut LLM inference costs by removing low-information tokens, and learned compressors such as LLMLingua-2 report strong results on English benchmarks. Most other languages already pay a token premium:...",
+      "category": "llm",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2608.26175",
+      "hotScore": 88,
+      "content": "Extractive prompt compression promises to cut LLM inference costs by removing low-information tokens, and learned compressors such as LLMLingua-2 report strong results on English benchmarks. Most other languages already pay a token premium: the same content costs 1.3-1.8x more tokens than in English. We ask whether compression closes or widens this gap. Using fully parallel data in ten languages spanning five scripts, with controls budget-matched in the target model's tokenizer, we audit four learned compressors against four deterministic baselines, on eleven target models from ten vendors (over 250,000 evaluation calls). Three of the compressors are trained with English supervision (LLMLingua-2 XLM-R/mBERT; Kompress-v2 from the production Headroom stack); the fourth, XProvence, is trained multilingually. First, the transfer gap is real, replicates across target models and compressor backbones, and is strongly rate-dependent: at a 0.33 keep-rate English retains 57-62% of normalized context utilization while Lithuanian retains 10-24% and Chinese essentially none, despite Chinese having the smallest token premium. Second, the gap tracks compression supervision data, not architecture. All three English-trained compressors show it, deterministic methods show no comparable gap, and the multilingually trained XProvence v1 shows none. Its v2 release, retrained on translated data, empties 92% of Chinese contexts at its aggressive threshold without any warning. Third, in a harder long-context setting, aggressive learned compression drives compressed contexts to or below no-context utility in three of five non-English languages. A translate-then-compress pipeline matches or beats native compression at roughly half the token cost in three of five tested languages. We release all code, compressions, and model outputs. Safe compression budgets are much smaller outside English."
+    },
+    {
+      "id": "fetch-hf-2608.23478",
+      "title": "Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models",
+      "source": "Hugging Face Daily",
+      "date": "2026-08-23",
+      "description": "Vision-Language-Action (VLA) models can turn multimodal context into robot actions, but their action decoders are still trained largely by behavior cloning. This supervises which motor command was demonstrated while leaving implicit the loc...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2608.23478",
+      "hotScore": 87,
+      "content": "Vision-Language-Action (VLA) models can turn multimodal context into robot actions, but their action decoders are still trained largely by behavior cloning. This supervises which motor command was demonstrated while leaving implicit the local objective served by the behavior under the instruction. Future-based supervision enriches action learning with frames, latent observations, trajectories, or motion representations, but these signals capture particular realizations of what may happen rather than the shared semantic objective of the forthcoming behavior. We propose Intention Distillation (INDI), which distills behavior-level intent into the action decoder. During training, a frozen teacher VLM interprets a demonstrated segment from the current observation, instruction, coarse action summary, and corresponding execution video. From its standard inputs, the deployed VLA recovers the resulting multimodal intent representation at an intermediate decoder layer and uses it to organize action prediction together with representations of how the behavior unfolds and what it achieves. On SimplerEnv-Bridge, INDI improves GR00T-N1.7 from 64.3% to 84.7%, and on RoboCasa Kitchen it improves the controlled GR00T-N1.7 baseline from 64.1% to 70.3%, with consistent gains on π_{0.5} across both benchmarks. In real-world tasks, INDI improves average success from 62.0% to 68.7%, with gains of up to 12.0 pp on longer-horizon tasks. Further analyses show that the recovered latent is used by the decoder, captures behavior objective and execution progress, and organizes downstream predictions in an objective-dependent manner. These results show that action decoders benefit from explicitly modeling the semantic objective of the behavior they generate."
+    },
+    {
+      "id": "fetch-hf-2608.28281",
+      "title": "LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering",
+      "source": "Hugging Face Daily",
+      "date": "2026-08-27",
+      "description": "Loop Engineering is emerging as a practice for organizing development work around coding agents. Instead of writing each prompt by hand, practitioners design loops that monitor progress, assign work, run checks, and decide what the agent sh...",
       "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2608.28476",
-      "hotScore": 89,
-      "content": "Long-horizon agentic tasks require large language models (LLMs) to iteratively retrieve, integrate, and maintain dispersed information across multi-turn interactions, but preserving all interaction histories leads to a continuously growing working context. Recent proactive context management methods allow models to edit their own working context with specialized tools, yet they still face three key limitations: (1) a limited toolset restricted to search, deletion, and summarization, with no support for global planning, long-term memory, and adaptive compression; (2) inefficient exploration that treats context management actions uniformly despite their heterogeneous impacts on final outcomes; and (3) coarse-grained credit assignment that assigns the final trajectory-level reward to all intermediate context editing actions during RL. To bridge these gaps, we introduce ContextPilot, a proactive context management framework for long-horizon agentic reasoning. Our approach systematically augments the toolset with planning, long-term memory, and soft context offloading tools. We further propose an RL method tailored for context management, which uses context and entropy variation to identify critical editing decisions for branch sampling and estimates action-level advantages from all branched trajectories that pass through the corresponding context editing action. Experiments on long-context QA and deep search tasks show that ContextPilot achieves stronger performance with a more compact working context, consistently outperforming existing baselines across various base models and benchmarks. Code is available at https://github.com/Tencent/ContextPilot."
-    },
-    {
-      "id": "fetch-hf-2608.23943",
-      "title": "Luce: Relightable Gaussians for 3D Asset Generation",
-      "source": "Hugging Face Daily",
-      "date": "2026-08-24",
-      "description": "High-fidelity image-to-3D generation requires a 3D representation that captures both geometry and appearance. To support relighting and integration into standard rendering pipelines, the representation should include physically based render...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2608.23943",
-      "hotScore": 88,
-      "content": "High-fidelity image-to-3D generation requires a 3D representation that captures both geometry and appearance. To support relighting and integration into standard rendering pipelines, the representation should include physically based rendering (PBR) modalities such as albedo, metallic-roughness, and surface normals. We propose Luce, a 3D representation that unifies geometry and PBR materials within a voxelized multimodal Gaussian cloud, using dedicated Gaussian primitives for each modality. A variational autoencoder compresses this representation into a unified material-aware latent space. A rectified-flow transformer generates this latent from a single image, conditioned on multi-layer features from a pretrained image encoder that preserve both semantic context and fine spatial detail. The latent then decodes into relightable PBR Gaussians and an optional textured mesh with a tangent-space normal map. On Toys4K, Luce achieves state-of-the-art single-image-to-3D generation, improving FID by 28% over the strongest baseline. We further introduce a benchmark of AI-generated images, on which Luce improves the CLIP image-alignment score over the best baseline (0.8519 vs. 0.8299). Luce generates relightable, geometrically accurate, and materially faithful assets that preserve fine details such as text, logos, and inscriptions."
-    },
-    {
-      "id": "fetch-hf-2608.27455",
-      "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
-      "source": "Hugging Face Daily",
-      "date": "2026-08-26",
-      "description": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or external verification. To address this limitati...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2608.27455",
-      "hotScore": 87,
-      "content": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or external verification. To address this limitation, we introduce CritICL, a novel inference-time framework that improves reasoning while maintaining high efficiency. Our key insight is that LLM failure modes exhibit structured patterns across model scales within the same family. Instead of treating failures as undesirable outputs, CritICL leverages them as a source of guidance. Specifically, we utilize failure modes derived from weaker models and incorporate them into inference through critique-based in-context examples. We propose two variants: CritICL-dynamic, which adaptively predicts input-specific failure modes and retrieves critiques, and CritICL-static, which uses a global failure mode profile to provide stable guidance. Experimental results show that CritICL consistently outperforms standard in-context learning and achieves performance competitive with or superior to test-time scaling methods, while requiring significantly fewer generations and lower token cost. Code available at: https://github.com/umwyf/CRITICL"
-    },
-    {
-      "id": "fetch-hf-2608.25798",
-      "title": "TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback",
-      "source": "Hugging Face Daily",
-      "date": "2026-08-25",
-      "description": "Contact-rich manipulation requires adapting to contact states that can evolve substantially within an action horizon. However, chunk-based vision-language-action models predict complete action chunks from observations collected before execu...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2608.25798",
+      "url": "https://huggingface.co/papers/2608.28281",
       "hotScore": 86,
-      "content": "Contact-rich manipulation requires adapting to contact states that can evolve substantially within an action horizon. However, chunk-based vision-language-action models predict complete action chunks from observations collected before execution, leaving tactile conditioning stale during execution. Existing tactile-reactive approaches typically rely on separate high-frequency controllers, which increase both architectural and training complexity. In this paper, we introduce TacForcing, a streaming action-generation framework that effectively incorporates execution-time tactile feedback. Instead of employing a separate reactive controller, TacForcing replaces the standard action expert with a streaming action expert to generate actions conditioned on the evolving tactile observations acquired during execution. TacForcing also introduces Execution-Aware Tactile Attention (EATA), which restricts tactile conditioning to actions nearing execution, thereby reducing the temporal mismatch between tactile acquisition and action execution. Across six simulated UniVTAC tasks and three real-world contact-rich manipulation tasks, TacForcing achieves average success rates of 65% and 69%, respectively, outperforming strong baselines in both settings."
+      "content": "Loop Engineering is emerging as a practice for organizing development work around coding agents. Instead of writing each prompt by hand, practitioners design loops that monitor progress, assign work, run checks, and decide what the agent should do next. Even with a capable coding agent, a loop may trust a stale progress note, skip needed verification, spend its budget in the wrong direction, or stop before the task is safe to submit. Yet the final outcome of one end-to-end run cannot tell whether success or failure reflects the loop's guidance or the coding agent's ability to carry out the task. We introduce LoopArena, a benchmark for evaluating how well one model can guide a separate coding agent through a long-running task. The model under evaluation is the Controller: after each coding round, it receives a structured summary of the run and instructs a separate, fixed coding agent, the Worker, on what to do or verify next, or decides whether to stop. LoopArena evaluates this ability in three complementary settings that differ in execution scope and cost. Type I scores next-step Loop Contract selection through execution-validated questions without running the Worker at evaluation time. Type II executes repeated control over a selected slice of a full task, while Type III evaluates the paired full task from its original state. On full tasks, the best observed Strict Success Rate is 24.69\\%, leaving substantial room for improvement in long-horizon loop control. Across Controllers, the paired reduction in estimated inference cost averages 64.4\\%, and Type II produces a similar ordering under the main Core criterion (Spearman's \\(ρ=0.9747\\)). We release the benchmark data and evaluation code at https://github.com/AMAP-ML/LoopArena ."
     }
   ],
   "hfModels": [
@@ -340,8 +456,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 255115397,
-      "likes": 5319,
+      "downloads": 253520473,
+      "likes": 5325,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -356,7 +472,7 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 87066660,
+      "downloads": 86404649,
       "likes": 308,
       "category": "research",
       "tags": [
@@ -372,8 +488,8 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 77711078,
-      "likes": 2799,
+      "downloads": 73085822,
+      "likes": 2804,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -388,7 +504,7 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 68802651,
+      "downloads": 67926190,
       "likes": 540,
       "category": "research",
       "tags": [
@@ -404,7 +520,7 @@
       "name": "electra-base-discriminator",
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
-      "downloads": 54807287,
+      "downloads": 55017508,
       "likes": 157,
       "category": "research",
       "tags": [
@@ -419,8 +535,8 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 46668346,
-      "likes": 1359,
+      "downloads": 46294828,
+      "likes": 1360,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -435,8 +551,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 37070236,
-      "likes": 3446,
+      "downloads": 36994228,
+      "likes": 3449,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -451,8 +567,8 @@
       "name": "chronos-2",
       "owner": "Community",
       "fullName": "amazon/chronos-2",
-      "downloads": 29603437,
-      "likes": 415,
+      "downloads": 28590450,
+      "likes": 416,
       "category": "research",
       "tags": [
         "Time-series-forecasting",
@@ -467,8 +583,8 @@
       "name": "all-mpnet-base-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-mpnet-base-v2",
-      "downloads": 24592338,
-      "likes": 1345,
+      "downloads": 24426211,
+      "likes": 1346,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -483,8 +599,8 @@
       "name": "t5-small",
       "owner": "Community",
       "fullName": "google-t5/t5-small",
-      "downloads": 23022430,
-      "likes": 595,
+      "downloads": 22983266,
+      "likes": 596,
       "category": "research",
       "tags": [
         "Translation",
@@ -498,6 +614,66 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-08-31",
+      "description": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
+      "hotScore": 99,
+      "content": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation...."
+    },
+    {
+      "id": "fetch-gadget-1",
+      "title": "Tim Cook&#8217;s parting message: Apple is in the hands of a product builder",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-08-31",
+      "description": "Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods and other major hardware ...",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
+      "hotScore": 89,
+      "content": "Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods and other major hardware ..."
+    },
+    {
+      "id": "fetch-gadget-2",
+      "title": "How AI could make it harder for governments to use hacking tools",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-08-31",
+      "description": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to use hacking tools and spyware and could reignite calls to backdoor devices....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
+      "hotScore": 97,
+      "content": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to use hacking tools and spyware and could reignite calls to backdoor devices...."
+    },
+    {
+      "id": "fetch-gadget-3",
+      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-08-31",
+      "description": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "hotScore": 95,
+      "content": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere...."
+    },
+    {
+      "id": "fetch-gadget-4",
       "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
       "source": "TechCrunch Gadgets",
       "date": "2026-08-30",
@@ -508,38 +684,8 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
-      "hotScore": 89,
+      "hotScore": 97,
       "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it...."
-    },
-    {
-      "id": "fetch-gadget-1",
-      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-08-28",
-      "description": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-      "hotScore": 86,
-      "content": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers...."
-    },
-    {
-      "id": "fetch-gadget-2",
-      "title": "Is the best way to watch a movie on a pair of sunglasses?",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-08-28",
-      "description": "Are XREAL's smart glasses the way of the future for home entertainment?...",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-      "hotScore": 98,
-      "content": "Are XREAL's smart glasses the way of the future for home entertainment?..."
     }
   ]
 }
