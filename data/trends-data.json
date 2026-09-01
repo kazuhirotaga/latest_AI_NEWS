@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-31T18:17:20.187Z",
+  "updatedAt": "2026-09-01T02:16:30.384Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 388254,
-      "forks": 81512,
+      "stars": 388330,
+      "forks": 81525,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 279993,
-      "forks": 25096,
+      "stars": 280095,
+      "forks": 25103,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 238898,
-      "forks": 48715,
+      "stars": 239055,
+      "forks": 48758,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 202960,
-      "forks": 60472,
+      "stars": 202980,
+      "forks": 60475,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187035,
-      "forks": 46046,
+      "stars": 187041,
+      "forks": 46045,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 174757,
-      "forks": 9605,
+      "stars": 174886,
+      "forks": 9610,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 168336,
-      "forks": 21706,
+      "stars": 168355,
+      "forks": 21707,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -126,7 +126,7 @@
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
       "stars": 164750,
-      "forks": 30566,
+      "forks": 30565,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,7 +142,7 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 158151,
+      "stars": 158153,
       "forks": 46162,
       "language": "JavaScript",
       "category": "research",
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 154011,
-      "forks": 24335,
+      "stars": 154032,
+      "forks": 24339,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 150510,
-      "forks": 21974,
+      "stars": 150526,
+      "forks": 21980,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 145362,
-      "forks": 24255,
+      "stars": 145372,
+      "forks": 24256,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -211,7 +211,7 @@
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "stars": 143263,
-      "forks": 34845,
+      "forks": 34844,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 132511,
-      "forks": 11929,
+      "stars": 132628,
+      "forks": 11934,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 130900,
-      "forks": 15420,
+      "stars": 130927,
+      "forks": 15423,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,119 +260,167 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
+      "title": "Perceive Before Reasoning: A Pre-Reasoning Perception Framework for Efficient and Reliable Proactive Mobile Agents",
       "source": "arXiv.org",
-      "date": "2026-08-28",
-      "description": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a general computational implementation in whi...",
-      "category": "tooling",
+      "date": "2026-06-02",
+      "description": "Multimodal large language models (MLLMs) have substantially advanced mobile agents, yet proactive mobile assistance remains challenging because agents must decide when to intervene before determining how to assist. Existing systems often im...",
+      "category": "agent",
       "tags": [
-        "Research"
+        "Research",
+        "Agent"
       ],
-      "url": "http://arxiv.org/abs/2608.28589v1",
-      "hotScore": 81,
-      "content": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a general computational implementation in which the solution on each edge of the graph is approximated by a neural network, while a unified graph-based loss function enforces the governing equations together with initial, boundary, and vertex transmission conditions. In particular, the formulation incorporates standard continuity and Kirchhoff-Neumann vertex conditions and Dirichlet boundary conditions into the learning process to couple the local edge-wise neural approximations into a global solution on the graph. The framework is developed for two representative classes of nonlinear models: multi-order fractional elliptic problems and time-fractional evolution equations on quantum graphs. To improve accuracy and training stability, QGPINNs integrates several graph-adapted learning strategies, including soft and hard constraint enforcement, dynamic loss balancing, Fourier feature embeddings, and a learnable singularity-capturing feature for weakly singular solutions arising in the considered problems. The framework also extends naturally to inverse problems, including the identification of the orders of fractional operators and physical parameters from noisy observational data. We validate the accuracy, computational efficiency, and physical consistency of the proposed framework through numerical experiments on benchmark graph structures and real-world networks, including the IEEE 14-bus system and an open-channel agricultural drainage network."
+      "url": "http://arxiv.org/abs/2606.03236v2",
+      "hotScore": 80,
+      "content": "Multimodal large language models (MLLMs) have substantially advanced mobile agents, yet proactive mobile assistance remains challenging because agents must decide when to intervene before determining how to assist. Existing systems often implement these two decisions within a unified MLLM-based pipeline, leading to goal misalignment between conservative intervention filtering and comprehensive assistance generation, as well as redundant inference when the agent should remain silent. To address these limitations, we propose the Pre-Reasoning Perception Framework (PRPF), a two-stage framework built on perceiving before reasoning. PRPF introduces a lightweight Multimodal Proactive Perceptor (MPP) for intervention gating and context compression, and activates the Proactive Agent Reasoner (PAR) only when intervention is warranted. Experiments on the ProactiveMobile benchmark show that PRPF substantially reduces false trigger rates (FTR) while improving success rates (SR) and inference efficiency over the ProactiveMobile baseline."
     },
     {
       "id": "fetch-paper-1",
-      "title": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
+      "title": "MURANO: Design, Run, and Reproduce Mechanistic Interpretability Experiments as Composable Pipelines",
       "source": "arXiv.org",
-      "date": "2026-08-28",
-      "description": "Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a cable removes the requirement that a moto...",
-      "category": "research",
+      "date": "2026-08-31",
+      "description": "This paper presents Murano, an open source framework for designing, running, and reproducing mechanistic interpretability studies of large language models, intended for researchers across disciplines. These studies often combine loading, re...",
+      "category": "llm",
       "tags": [
-        "Research"
+        "Research",
+        "LLM"
       ],
-      "url": "http://arxiv.org/abs/2608.28578v1",
-      "hotScore": 89,
-      "content": "Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a cable removes the requirement that a motor fit inside the joint it drives, so smaller and cheaper motors suffice, and one motor can drive several joints through a single cable, so fewer motors are needed. They are also harder to learn on than a direct-drive hand. The underactuated transmission that produces the saving is itself difficult to represent in a simulator, and the joints one cable drives are not independently commandable. We present Aero Hand Open, a tendon-driven anthropomorphic hand that is released simulation-ready. Three things ship with it. A simulation model reproduces the cable transmission itself. An identified actuation map connects that model to the motor commands in both directions, including the three-way coupling of the thumb. A reinforcement learning package trains policies for the hand. Together they let a policy be trained entirely in simulation and run on the hand with no fine-tuning and no state estimation. We release the mechanical design, the simulation model, the identified mapping, the training environment and the deployment stack."
+      "url": "http://arxiv.org/abs/2608.30662v1",
+      "hotScore": 94,
+      "content": "This paper presents Murano, an open source framework for designing, running, and reproducing mechanistic interpretability studies of large language models, intended for researchers across disciplines. These studies often combine loading, recording, attribution, intervention, and evaluation, while existing libraries tend to focus on different parts of this workflow. As a result, researchers using several libraries may need to adapt outputs from one for use by another. To bridge this gap, Murano represents operations from these five areas as composable steps. Steps exchange named result artifacts and declare the inputs they require and the outputs they produce. A pipeline executes its steps in the order supplied, and Murano uses canonical addresses when component identities pass between operations. Murano builds on existing interpretability and machine learning libraries. We demonstrate Murano through two reproductions of established interpretability studies and one illustrative sparse autoencoder case study."
     },
     {
       "id": "fetch-paper-2",
-      "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
+      "title": "Beyond Parallel Blindness: Information Floors and Model Gaps in Block Drafting",
       "source": "arXiv.org",
-      "date": "2026-08-28",
-      "description": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a general framework for synthetic-augmented infe...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2608.28576v1",
-      "hotScore": 80,
-      "content": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a general framework for synthetic-augmented inference across a population of related tasks. It characterizes synthetic augmentation by the number of synthetic observations and their weight. Central to our framework is a size-weight frontier that specifies, for each weight, the largest synthetic sample size for which all smaller sizes attain the target task-marginal coverage. We estimate this frontier from historical tasks, and establish a finite-sample coverage guarantee simultaneously for all size-weight configurations on or below the estimated frontier. In experiments using large language model responses to augment opinion survey data, our procedure achieves target coverage and substantially narrows confidence intervals."
-    },
-    {
-      "id": "fetch-paper-3",
-      "title": "Flow Reasoning Models: Turning Discrete Flows Into Efficient Recurrent Reasoners",
-      "source": "arXiv.org",
-      "date": "2026-06-28",
-      "description": "Structured reasoning requires making and revising interdependent decisions to reach a globally consistent solution. Existing architectures struggle with this: autoregressive models commit sequentially and cannot revise earlier decisions, wh...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2606.29150v2",
-      "hotScore": 91,
-      "content": "Structured reasoning requires making and revising interdependent decisions to reach a globally consistent solution. Existing architectures struggle with this: autoregressive models commit sequentially and cannot revise earlier decisions, while masked diffusion models often require careful decoding schemes to coordinate interdependent predictions. We introduce Flow Reasoning Models (FRMs), a novel framework for structured reasoning that adapts discrete flows with a simple recurrent refinement mechanism. By self-conditioning a flow model on its own past outputs, we turn one-shot denoising into iterative solution refinement. This lets FRMs make and revise decisions in parallel, efficiently coordinating interdependent choices across the solution. Yet conventional self-conditioning becomes unreliable at greater recurrent depth due to exposure bias between one-step training predictions and recursively generated inference states. We address this mismatch with Fixed-Point Forcing (FPF), which trains FRMs on states produced by their own inference dynamics while preserving the standard flow-matching objective. FRMs achieve solve rates of $99.5\\%$, $100.0\\%$, and $99.9\\%$ on Sudoku-Extreme, Zebra, and Maze-Unique, respectively. On Sudoku-Extreme, FRMs achieve higher peak accuracy than the evaluated masked-diffusion and specialized reasoning baselines while remaining highly compute-efficient, matching the next-best method's $98.7\\%$ peak solve rate with $44\\times$ fewer inference FLOPs."
-    },
-    {
-      "id": "fetch-paper-4",
-      "title": "How Far Should Tokenization Go? Predictive Effectiveness and Relational Losslessness",
-      "source": "arXiv.org",
-      "date": "2026-08-18",
-      "description": "GPT-style models have achieved remarkable success with finite vocabularies of reusable tokens, making the token interface a central component of modern sequence modeling. Symbolic music appears naturally compatible with this paradigm: it co...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2608.18025v2",
-      "hotScore": 94,
-      "content": "GPT-style models have achieved remarkable success with finite vocabularies of reusable tokens, making the token interface a central component of modern sequence modeling. Symbolic music appears naturally compatible with this paradigm: it consists of discrete note events and recurring structures such as chords, motifs, and phrases. However, when tokenization moves beyond language, the interface must be specified for each domain. Existing work offers many effective designs, but no unified criterion for deciding what tokenization should represent and how far it should go. Using predictive codelength as a common criterion, we formulate the Effectiveness--Losslessness Framework to define where tokenization should begin and where it should end. The Fact--Token Boundary marks where observation-determined structure should enter the token interface, through operations such as coordinate construction. Within this interface, the resulting carrier may be reversibly recoded without changing the represented facts. The Token--State Boundary marks where tokenization should stop: relations that depend on context should remain for model-state computation rather than being fixed in advance by the tokenizer. We validate the framework through controlled multi-seed symbolic-music experiments, with an independent-corpus replication of the temporal intervention. Making musical time explicit consistently reduces predictive code and also improves pitch and duration prediction, while tonal-frame canonicalization and pitch factorization provide further gains. Fixed circle-of-fifths pitch coordinates instead increase predictive code, suggesting that imposing a fixed pitch relation before context can burden prediction. Reversible BPE substantially shortens the carrier but increases predictive codelength in every seed, showing that carrier compaction alone does not guarantee predictive gain."
-    },
-    {
-      "id": "fetch-paper-5",
-      "title": "On two proofs of $d^2$ mixing of weighted Dikin walks",
-      "source": "arXiv.org",
-      "date": "2026-08-28",
-      "description": "We study the mixing time of weighted Dikin walks for sampling from exponential distributions on polytopes and truncated positive-semidefinite (PSD) cones. Our first result gives a general total-variation mixing bound under strong self-conco...",
-      "category": "tooling",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2608.28566v1",
-      "hotScore": 83,
-      "content": "We study the mixing time of weighted Dikin walks for sampling from exponential distributions on polytopes and truncated positive-semidefinite (PSD) cones. Our first result gives a general total-variation mixing bound under strong self-concordance, $\\barν$-symmetry, and mixed-trace regularity on the local metric. The key idea is to control the Metropolis--Hastings acceptance probability on a high-probability region rather than at every point. Applying this framework to the Lee--Sidford, Lewis-weight, and John metrics yields an $\\widetilde O(d^2)$ mixing bound for sampling from polytopes, while applying it to a hybrid barrier yields an $\\widetilde O(d^4)$ mixing bound for sampling from truncated PSD cones. Our second result establishes stronger $χ^2$-divergence guarantees and pointwise acceptance control using a new fourth-order bootstrap condition. For a suitably scaled Lee--Sidford metric, this yields an $\\widetilde O(d^2)$ mixing bound in $χ^2$-divergence, improving on the previous $\\widetilde O(d^{9/4})$ bound."
-    },
-    {
-      "id": "fetch-paper-6",
-      "title": "Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy",
-      "source": "arXiv.org",
-      "date": "2026-08-28",
-      "description": "We study kernel ridge regression under anisotropic Gaussian data, where the input covariance decays as a power law with exponent $α\\geq 0$ for polynomial inner-product kernels. We derive asymptotically sharp expressions for the kernel spect...",
+      "date": "2026-08-27",
+      "description": "Block drafters propose several tokens in one forward pass, before earlier target tokens are realised. Their rejection mixes two losses: missing within-block path information and imperfect modelling of observable information. Accepted length...",
       "category": "research",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2608.28564v1",
-      "hotScore": 83,
-      "content": "We study kernel ridge regression under anisotropic Gaussian data, where the input covariance decays as a power law with exponent $α\\geq 0$ for polynomial inner-product kernels. We derive asymptotically sharp expressions for the kernel spectrum and the generalization error in the polynomial high-dimensional regime $n=Θ(d^κ)$, revealing how anisotropy reshapes the learning curves. For weak anisotropy ($0&lt;α&lt;1$), the problem remains effectively high-dimensional and retains some features of the isotropic case, while departing from it in others: the variance still peaks at integer sample complexities $κ\\in\\mathbb{N}$, but these peaks are progressively damped as $α$ grows; meanwhile, for targets strongly aligned with the data's principal directions, the bias drops at fractional sample complexities, decoupling the bias transitions from the interpolation peaks. For strong anisotropy ($α&gt; 1$), the effective dimension of the problem is constant, and the variance stops depending on sample size altogether, plateauing under ridgeless interpolation or vanishing at an explicit rate under fixed ridge penalty. The bias undergoes a sharp transition governed by the target's decay rate: below a threshold, learning is abrupt rather than gradual; above it, the bias decays as a power law that recovers the classical source and capacity rates. We finally specialize these results to single-index targets, showing how the alignment of the index with the data's principal directions determines the effect of anisotropy on learning. Together, our results clarify how the input geometry shapes the kernel features and fundamentally impacts its generalization properties."
+      "url": "http://arxiv.org/abs/2608.27339v2",
+      "hotScore": 85,
+      "content": "Block drafters propose several tokens in one forward pass, before earlier target tokens are realised. Their rejection mixes two losses: missing within-block path information and imperfect modelling of observable information. Accepted length cannot distinguish them. We separate the two with an information floor, the minimum expected rejection at a specified conditioning order; rejection above this floor is the model gap. Estimating both from target rollouts across four domains, four open-weight targets, and a frontier API target yields three findings. First, the all-parallel floor reaches $0.286$ at the final slot on Qwen3-4B, limiting even the best proposal to $71\\%$ per-slot acceptance. Second, one realised token removes $86$--$100\\%$ of this floor, a locality also recovered by an independent mutual-information analysis. Third, current drafters remain far above their floors: the final-slot model gap accounts for $43$--$64\\%$ of DFlash rejection and $85$--$92\\%$ of DSpark's oracle-conditioned rejection. These findings separate the value of short-range conditioning from proposal quality."
     },
     {
-      "id": "fetch-paper-7",
-      "title": "A Formal Limitation on Learning Human Language From Textual Corpora",
+      "id": "fetch-paper-3",
+      "title": "SwarmBench: Can Large Language Models Act as Agent Swarm Orchestrators?",
       "source": "arXiv.org",
-      "date": "2026-08-28",
-      "description": "Can a listener recover what a speaker means from the form of an utterance alone? We answer this question information-theoretically, and for a listener given by any featurizer of text, including the hidden states of contemporary large langua...",
+      "date": "2026-08-31",
+      "description": "Large language model-based multi-agent systems are evolving from fixed interaction topologies toward dynamically orchestrated Agent Swarms. However, existing benchmarks are still largely based on single-agent or general-purpose agent tasks,...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2608.30661v1",
+      "hotScore": 87,
+      "content": "Large language model-based multi-agent systems are evolving from fixed interaction topologies toward dynamically orchestrated Agent Swarms. However, existing benchmarks are still largely based on single-agent or general-purpose agent tasks, making it difficult to systematically evaluate key orchestration capabilities. We propose SwarmBench, a benchmark that evaluates model performance from multiple perspectives, including accuracy, efficiency, cost, and process quality. Experimental results show that current models exhibit substantial differences in orchestration capability. These differences are reflected not only in final accuracy, efficiency, and cost, but also in the overall quality of the orchestration process itself. Based on these findings, we further propose SwarmExp, a simple yet effective method based on experience extraction and experience replay, which consistently improves the orchestration performance of large language models."
+    },
+    {
+      "id": "fetch-paper-4",
+      "title": "ScalePRM: Training Process Reward Models by Scaling Verification Compute Without Ground Truth",
+      "source": "arXiv.org",
+      "date": "2025-12-02",
+      "description": "Training process reward models (PRMs) requires step-level correctness labels, obtained either through expensive human annotation or by relying on ground-truth answers, limiting the ability to scale process-level supervision. We propose Scal...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2608.28560v1",
+      "url": "http://arxiv.org/abs/2512.03244v2",
+      "hotScore": 91,
+      "content": "Training process reward models (PRMs) requires step-level correctness labels, obtained either through expensive human annotation or by relying on ground-truth answers, limiting the ability to scale process-level supervision. We propose ScalePRM, which scales verification compute as an alternative: given a problem and a candidate solution, we generate multiple independent verifications of each reasoning step and aggregate their judgments to produce synthetic step-level labels without ground truth. We explore two representative inference-time scaling strategies, parallel scaling through self-consistency and sequential scaling through meta-critique, and train generative PRMs on the resulting synthetic data. On ProcessBench, a benchmark for identifying erroneous steps in mathematical reasoning, PRMs trained on step-level self-consistency data achieve 67.5 F1, surpassing reference-guided training with ground-truth access (66.4 F1) and GPT-4o as a critic (61.9 F1). When deployed as reward signals in RL training with Qwen2.5-Math-7B, our best PRM achieves 47.4% average accuracy across six mathematical reasoning benchmarks, outperforming ground-truth-based RLVR (43.9%). We also identify and address reward exploitation patterns unique to generative PRM-based RL. Our results demonstrate that scaling verification compute is a viable alternative to ground-truth supervision for training process reward models."
+    },
+    {
+      "id": "fetch-paper-5",
+      "title": "Skill or Skip? Learning Selective Skill Invocation in Agentic Tasks via Dual-Granularity Preference Learning",
+      "source": "arXiv.org",
+      "date": "2026-05-30",
+      "description": "Agent skills are callable procedural modules that provide reusable knowledge and execution policies for complex agentic tasks. However, existing methods mainly focus on selecting relevant skills or improving the skills themselves, while ove...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2606.00510v2",
+      "hotScore": 81,
+      "content": "Agent skills are callable procedural modules that provide reusable knowledge and execution policies for complex agentic tasks. However, existing methods mainly focus on selecting relevant skills or improving the skills themselves, while overlooking whether a relevant skill should actually be invoked at the current decision point. Unhelpful invocations may introduce irrelevant context and disrupt an otherwise correct execution process. To address this issue, we propose SelSkill, a dual-granularity preference-learning framework for selective skill invocation. SelSkill formulates skill use as a skill-or-skip decision, uses predictive uncertainty to prioritize candidate decision points, and constructs controlled invoke-skip preference pairs from shared trajectory prefixes. It further combines episode-level outcome preferences with step-level invocation preferences to capture both overall trajectory quality and the local effectiveness of skill invocation. On ALFWorld with Qwen3-8B, SelSkill improves task success by 10.9 points over the skill-enabled baseline and 7.8 over No-Skill, with 29.1-point higher execution precision. On BFCL, task success and execution precision improve by 5.7 and 29.5 points, respectively. Zero-shot results on Tau-bench and PopQA suggest partial transfer to unseen domains and skills."
+    },
+    {
+      "id": "fetch-paper-6",
+      "title": "Do We Still Need Humans in the Loop? Human vs. LLM Annotation in Active Learning for TikTok Hate Speech Detection",
+      "source": "arXiv.org",
+      "date": "2026-04-15",
+      "description": "Annotating data remains a costly bottleneck for supervised NLP. Active learning (AL) reduces the number of human labels needed by selecting only the most informative instances, while instruction-tuned LLMs attack the same bottleneck from th...",
+      "category": "llm",
+      "tags": [
+        "Research",
+        "LLM"
+      ],
+      "url": "http://arxiv.org/abs/2604.13899v5",
+      "hotScore": 91,
+      "content": "Annotating data remains a costly bottleneck for supervised NLP. Active learning (AL) reduces the number of human labels needed by selecting only the most informative instances, while instruction-tuned LLMs attack the same bottleneck from the other side, making labels cheap enough to annotate entire corpora. This raises two questions: can LLM labels replace human labels within the AL loop, and does AL remain necessary when entire corpora can be cheaply labeled? We investigate both by training supervised hate speech classifiers on a new dataset of 278K German political TikTok comments, comparing human and LLM annotation under matched conditions. LLM annotation at scale outperforms human-supervised classifiers at roughly one-tenth the cost, for both a closed-source (GPT-5.2) and an open-weight (Qwen3.5-122B-A10B) LLM, and the advantage is robust under soft-label evaluation. It hinges on the annotation interface: only a two-question decomposition mirroring the human annotation task unlocks it. AL provides no reliable advantage over random sampling in our prefiltered pool. Error structure depends on the LLM: only GPT-5.2 matches the human FP/FN balance, while other variants over-flag border-control and economic-competition discourse. Humans remain essential as evaluators; for training labels, the question shifts to which LLM, which interface, and what shape of pool."
+    },
+    {
+      "id": "fetch-paper-7",
+      "title": "Season-Aware Hybrid Convolutional-Transformer for Antarctic Sea Ice Concentration Forecasting",
+      "source": "arXiv.org",
+      "date": "2026-08-31",
+      "description": "Antarctic sea ice concentration (SIC) forecasting is an important yet challenging task due to the coexistence of complex spatial structure, long-range temporal dependencies, and strong seasonal variability. Conventional convolution-based mo...",
+      "category": "llm",
+      "tags": [
+        "Research",
+        "LLM"
+      ],
+      "url": "http://arxiv.org/abs/2608.30654v1",
+      "hotScore": 87,
+      "content": "Antarctic sea ice concentration (SIC) forecasting is an important yet challenging task due to the coexistence of complex spatial structure, long-range temporal dependencies, and strong seasonal variability. Conventional convolution-based models are effective at capturing local spatial patterns, but often have limited ability to model long-term temporal evolution. To address these challenges, we build on a hybrid Convolutional-Transformer forecasting framework for monthly Antarctic SIC forecasting. This framework combines convolutional encoding for spatial feature extraction with factorised self-attention for spatio-temporal dependency modelling. We further introduce two seasonal prior mechanisms: a month-aware positional encoding that injects calendar-month information into the token representation, and a seasonal temporal bias that encourages attention to periodically related historical states. Experimental results show that the proposed framework achieves better performance than convolutional and recurrent baselines across both classification and regression metrics. Ablation studies further indicate that the seasonal prior mechanisms provide consistent additional gains in both short- and long-horizon prediction. These results demonstrate the value of combining convolutional structures, attention mechanisms, and periodic prior information for Antarctic SIC forecasting."
+    },
+    {
+      "id": "fetch-hf-2608.21721",
+      "title": "Ask or Answer: A Decision Framework for Multi-Turn Health Misinformation Intervention",
+      "source": "Hugging Face Daily",
+      "date": "2026-08-21",
+      "description": "Correcting health misinformation in dialogue requires more than producing a factual rebuttal: users differ in what they know, what they believe, and what they need to hear, so an effective intervention often depends on first asking the righ...",
+      "category": "tooling",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2608.21721",
+      "hotScore": 90,
+      "content": "Correcting health misinformation in dialogue requires more than producing a factual rebuttal: users differ in what they know, what they believe, and what they need to hear, so an effective intervention often depends on first asking the right clarifying question. Yet existing methods either respond immediately or probe indiscriminately, treating clarification as either unnecessary or always beneficial. We propose Reward-Optimized Probe-and-Respond (RO-PnR), a framework that learns when asking is worth its cost. At each turn, RO-PnR chooses between probing for more information and committing to a final correction, guided by a turn-level reward that weighs the expected gain from probing against its interaction cost. To capture how user heterogeneity affects probing value, we model each simulated user with a latent state along health literacy and belief commitment. Experiments show that RO-PnR achieves the highest cost-adjusted utility across three health-misinformation datasets and three base models, using 30% fewer turns than always-probe baselines."
+    },
+    {
+      "id": "fetch-hf-2608.28458",
+      "title": "Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents",
+      "source": "Hugging Face Daily",
+      "date": "2026-08-27",
+      "description": "Interactive dialogue games test a capability that static benchmarks largely leave implicit: a model must carry state across turns, interpret feedback, and choose valid actions under changing constraints. We study this setting in the LM Play...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2608.28458",
+      "hotScore": 89,
+      "content": "Interactive dialogue games test a capability that static benchmarks largely leave implicit: a model must carry state across turns, interpret feedback, and choose valid actions under changing constraints. We study this setting in the LM Playschool Challenge with a 2B open-weight model, and find that many failures are not only broad knowledge failures but also local decision failures: repeated guesses, malformed actions, and violations of feedback that the model has just seen. These diagnostics motivate a training recipe organized around three steps: acquire broad game participation through supervised fine-tuning, repair mechanically verifiable failures within one targeted dialogue-game family using turn-local preference pairs, and preserve general capabilities beyond these dialogue games. In the official final evaluation, our submission improves public clemscore from 10.67 to 38.92 and closed in-domain score from 13.41 to 41.17, while approximately preserving aggregate static performance (44.14 vs. 44.24 for the baseline). Out-of-domain clemscore remains low at 7.88, with the largest gains concentrated in unseen variants of the targeted family. Our results suggest that broad SFT brings most of the model's capability improvement; turn-local supervision can be effective when failure detection is precise, with observed transfer concentrated primarily within-family."
+    },
+    {
+      "id": "fetch-hf-2608.28363",
+      "title": "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses",
+      "source": "Hugging Face Daily",
+      "date": "2026-08-27",
+      "description": "LLM agents increasingly modify their own prompts, tools, middleware, resources, and execution harnesses at runtime. Such self-evolution can improve capability, but a successful mutation may leave persistent effects that cannot be safely rev...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2608.28363",
       "hotScore": 88,
-      "content": "Can a listener recover what a speaker means from the form of an utterance alone? We answer this question information-theoretically, and for a listener given by any featurizer of text, including the hidden states of contemporary large language models. Modeling language use as a joint distribution over meanings, contexts, and utterances, we derive upper bounds on the probability that a decoder recovers a speaker's intended meaning from a representation of the utterance. The bounds are governed by the uncertainty that form leaves about meaning, which splits into an irreducible part and a part that only (extralinguistic) context, but never the utterance alone, can resolve. Because these quantities are intrinsic to language, no representation, however much text or supervision produced it, can surpass them; the bounds hold whether the space of meanings is discrete or continuous. Experiments on artificial languages, Mandarin zero-pronoun resolution, and color reference provide empirical evidence in support of the theory."
+      "content": "LLM agents increasingly modify their own prompts, tools, middleware, resources, and execution harnesses at runtime. Such self-evolution can improve capability, but a successful mutation may leave persistent effects that cannot be safely reversed in states different from the one in which it was created. We introduce EvoUndo, a framework for representing, synthesizing, diagnosing, and independently verifying recoverability of model-generated self-modifications across counterfactual states. Across 600 unseen one-shot self-evolution tasks, we identify 197 capability-improving mutations that fail recoverability verification. Under the original recovery representation, conventional repair strategies recover 0/197 of these natural failures. Deterministic oracle analysis recovers 48/197 under the original recovery language L0, while the extended recovery calculus increases empirical oracle recovery to 191/197. A protocol-locked 2x2 grounding-by-expressivity intervention then separates two bottlenecks: exact state-address grounding increases successful recovery from 0/48 to 38/48 (79.2%) when the original language is sufficient, while extending the recovery language enables recovery on 142/143 (99.3%) failures in the oracle-defined S1 stratum. On the primary gpt-oss-120b backbone, adding exact-address diagnostics to the richer language reduces recovery to 133/143 (93.0%); a Qwen3.8-27B replication preserves the grounding and expressivity effects but not this negative interaction, indicating that the latter is model-dependent. These results indicate that reliable agent self-evolution requires co-designing verification, state grounding, witness semantics, and recovery-language expressivity rather than relying on iterative prompting alone."
     },
     {
       "id": "fetch-hf-2608.26737",
@@ -386,7 +434,7 @@
         "Paper"
       ],
       "url": "https://huggingface.co/papers/2608.26737",
-      "hotScore": 90,
+      "hotScore": 87,
       "content": "Outdoor LiDAR semantic scene completion (SSC) recovers a dense semantic voxel grid from a scan observing 1% of the target volume, under class imbalance beyond 7,000x. We recast SSC as generative semantic scene completion (GSSC): a single discrete-diffusion formulation in three roles. First, paired sparse-dense scene synthesis (PS^3) generates matched sparse LiDAR observations with their dense semantic completions, addressing the long tail at its source and yielding the PS^3-SemanticKITTI corpus we train on alongside SemanticKITTI. Second, semantic-guided generative scene completion (SGSC) generates the scene from noise with multinomial discrete diffusion, conditioned on the sparse scan through a bird's-eye-view semantic map and a sparse 3D feature stream. Third, the same framework instead refines an existing completion in one flow-matching step: structured source discrete diffusion (S^2D^2). S^2D^2 improves the mIoU of SGSC's own output and every external SSC base tested, without base retraining or test-time adaptation. On the strongest base, one step without test-time augmentation reaches 38.8% mIoU on the SemanticKITTI hidden test. To our knowledge that is the best causal, single-sweep, single-sample result on that leaderboard, +2.1 pp over the previous best published score under the same restriction. Four correction steps with eight-view test-time augmentation reach 39.2%, outside that restriction."
     },
     {
@@ -401,53 +449,8 @@
         "Paper"
       ],
       "url": "https://huggingface.co/papers/2608.28444",
-      "hotScore": 89,
-      "content": "Due to the nature of quadratic attention, Large Language Models (LLMs) consume a lot of memory and energy. Every new token costs more than the previous one. For each additional token, the keys and values must be stored in memory indefinitely, which is unsustainable.\n  Several alternatives have been proposed to fix the quadratic scaling problem, one of which is retrofitting LLMs to use Linear Attention. This idea has attracted a lot of attention, given its promise to solve the quadratic scaling problem with state-of-the-art performance at low cost. However, this line of research has not been properly compared to simpler baselines.\n  In this work, we show that Sliding Window Attention (SWA) with sinks performs as well or better than post-trained Linear Attention models. We observe this across multiple LLMs on various downstream tasks. For long-context reasoning tasks (Needle-in-a-Haystack and BABILong), SWA achieves massively higher performance (2 to 10 times higher than linear attention). SWA requires no post-training, is extremely fast, and requires low memory; therefore, making it an extremely cheap and reliable solution.\n  To reduce inference memory cost, we strongly recommend switching to SWA instead of post-training linear models. Linear attention models may have shown some promise, but they likely require to be trained from scratch or extensive post-training in order to even match SWA."
-    },
-    {
-      "id": "fetch-hf-2608.26175",
-      "title": "Lost in Compression: A Controlled Cross-Lingual Audit of Extractive Prompt Compressors",
-      "source": "Hugging Face Daily",
-      "date": "2026-07-26",
-      "description": "Extractive prompt compression promises to cut LLM inference costs by removing low-information tokens, and learned compressors such as LLMLingua-2 report strong results on English benchmarks. Most other languages already pay a token premium:...",
-      "category": "llm",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2608.26175",
-      "hotScore": 88,
-      "content": "Extractive prompt compression promises to cut LLM inference costs by removing low-information tokens, and learned compressors such as LLMLingua-2 report strong results on English benchmarks. Most other languages already pay a token premium: the same content costs 1.3-1.8x more tokens than in English. We ask whether compression closes or widens this gap. Using fully parallel data in ten languages spanning five scripts, with controls budget-matched in the target model's tokenizer, we audit four learned compressors against four deterministic baselines, on eleven target models from ten vendors (over 250,000 evaluation calls). Three of the compressors are trained with English supervision (LLMLingua-2 XLM-R/mBERT; Kompress-v2 from the production Headroom stack); the fourth, XProvence, is trained multilingually. First, the transfer gap is real, replicates across target models and compressor backbones, and is strongly rate-dependent: at a 0.33 keep-rate English retains 57-62% of normalized context utilization while Lithuanian retains 10-24% and Chinese essentially none, despite Chinese having the smallest token premium. Second, the gap tracks compression supervision data, not architecture. All three English-trained compressors show it, deterministic methods show no comparable gap, and the multilingually trained XProvence v1 shows none. Its v2 release, retrained on translated data, empties 92% of Chinese contexts at its aggressive threshold without any warning. Third, in a harder long-context setting, aggressive learned compression drives compressed contexts to or below no-context utility in three of five non-English languages. A translate-then-compress pipeline matches or beats native compression at roughly half the token cost in three of five tested languages. We release all code, compressions, and model outputs. Safe compression budgets are much smaller outside English."
-    },
-    {
-      "id": "fetch-hf-2608.23478",
-      "title": "Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models",
-      "source": "Hugging Face Daily",
-      "date": "2026-08-23",
-      "description": "Vision-Language-Action (VLA) models can turn multimodal context into robot actions, but their action decoders are still trained largely by behavior cloning. This supervises which motor command was demonstrated while leaving implicit the loc...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2608.23478",
-      "hotScore": 87,
-      "content": "Vision-Language-Action (VLA) models can turn multimodal context into robot actions, but their action decoders are still trained largely by behavior cloning. This supervises which motor command was demonstrated while leaving implicit the local objective served by the behavior under the instruction. Future-based supervision enriches action learning with frames, latent observations, trajectories, or motion representations, but these signals capture particular realizations of what may happen rather than the shared semantic objective of the forthcoming behavior. We propose Intention Distillation (INDI), which distills behavior-level intent into the action decoder. During training, a frozen teacher VLM interprets a demonstrated segment from the current observation, instruction, coarse action summary, and corresponding execution video. From its standard inputs, the deployed VLA recovers the resulting multimodal intent representation at an intermediate decoder layer and uses it to organize action prediction together with representations of how the behavior unfolds and what it achieves. On SimplerEnv-Bridge, INDI improves GR00T-N1.7 from 64.3% to 84.7%, and on RoboCasa Kitchen it improves the controlled GR00T-N1.7 baseline from 64.1% to 70.3%, with consistent gains on π_{0.5} across both benchmarks. In real-world tasks, INDI improves average success from 62.0% to 68.7%, with gains of up to 12.0 pp on longer-horizon tasks. Further analyses show that the recovered latent is used by the decoder, captures behavior objective and execution progress, and organizes downstream predictions in an objective-dependent manner. These results show that action decoders benefit from explicitly modeling the semantic objective of the behavior they generate."
-    },
-    {
-      "id": "fetch-hf-2608.28281",
-      "title": "LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering",
-      "source": "Hugging Face Daily",
-      "date": "2026-08-27",
-      "description": "Loop Engineering is emerging as a practice for organizing development work around coding agents. Instead of writing each prompt by hand, practitioners design loops that monitor progress, assign work, run checks, and decide what the agent sh...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2608.28281",
       "hotScore": 86,
-      "content": "Loop Engineering is emerging as a practice for organizing development work around coding agents. Instead of writing each prompt by hand, practitioners design loops that monitor progress, assign work, run checks, and decide what the agent should do next. Even with a capable coding agent, a loop may trust a stale progress note, skip needed verification, spend its budget in the wrong direction, or stop before the task is safe to submit. Yet the final outcome of one end-to-end run cannot tell whether success or failure reflects the loop's guidance or the coding agent's ability to carry out the task. We introduce LoopArena, a benchmark for evaluating how well one model can guide a separate coding agent through a long-running task. The model under evaluation is the Controller: after each coding round, it receives a structured summary of the run and instructs a separate, fixed coding agent, the Worker, on what to do or verify next, or decides whether to stop. LoopArena evaluates this ability in three complementary settings that differ in execution scope and cost. Type I scores next-step Loop Contract selection through execution-validated questions without running the Worker at evaluation time. Type II executes repeated control over a selected slice of a full task, while Type III evaluates the paired full task from its original state. On full tasks, the best observed Strict Success Rate is 24.69\\%, leaving substantial room for improvement in long-horizon loop control. Across Controllers, the paired reduction in estimated inference cost averages 64.4\\%, and Type II produces a similar ordering under the main Core criterion (Spearman's \\(ρ=0.9747\\)). We release the benchmark data and evaluation code at https://github.com/AMAP-ML/LoopArena ."
+      "content": "Due to the nature of quadratic attention, Large Language Models (LLMs) consume a lot of memory and energy. Every new token costs more than the previous one. For each additional token, the keys and values must be stored in memory indefinitely, which is unsustainable.\n  Several alternatives have been proposed to fix the quadratic scaling problem, one of which is retrofitting LLMs to use Linear Attention. This idea has attracted a lot of attention, given its promise to solve the quadratic scaling problem with state-of-the-art performance at low cost. However, this line of research has not been properly compared to simpler baselines.\n  In this work, we show that Sliding Window Attention (SWA) with sinks performs as well or better than post-trained Linear Attention models. We observe this across multiple LLMs on various downstream tasks. For long-context reasoning tasks (Needle-in-a-Haystack and BABILong), SWA achieves massively higher performance (2 to 10 times higher than linear attention). SWA requires no post-training, is extremely fast, and requires low memory; therefore, making it an extremely cheap and reliable solution.\n  To reduce inference memory cost, we strongly recommend switching to SWA instead of post-training linear models. Linear attention models may have shown some promise, but they likely require to be trained from scratch or extensive post-training in order to even match SWA."
     }
   ],
   "hfModels": [
@@ -457,7 +460,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 253520473,
-      "likes": 5325,
+      "likes": 5335,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -489,7 +492,7 @@
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
       "downloads": 73085822,
-      "likes": 2804,
+      "likes": 2812,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -552,7 +555,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
       "downloads": 36994228,
-      "likes": 3449,
+      "likes": 3450,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -584,7 +587,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-mpnet-base-v2",
       "downloads": 24426211,
-      "likes": 1346,
+      "likes": 1347,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -614,6 +617,21 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-09-01",
+      "description": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+      "hotScore": 94,
+      "content": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months...."
+    },
+    {
+      "id": "fetch-gadget-1",
       "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
       "source": "TechCrunch Gadgets",
       "date": "2026-08-31",
@@ -624,26 +642,26 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
-      "hotScore": 99,
+      "hotScore": 92,
       "content": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation...."
     },
     {
-      "id": "fetch-gadget-1",
+      "id": "fetch-gadget-2",
       "title": "Tim Cook&#8217;s parting message: Apple is in the hands of a product builder",
       "source": "TechCrunch Gadgets",
       "date": "2026-08-31",
-      "description": "Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods and other major hardware ...",
+      "description": "Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods, and other major hardware...",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
-      "hotScore": 89,
-      "content": "Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods and other major hardware ..."
+      "hotScore": 87,
+      "content": "Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods, and other major hardware..."
     },
     {
-      "id": "fetch-gadget-2",
+      "id": "fetch-gadget-3",
       "title": "How AI could make it harder for governments to use hacking tools",
       "source": "TechCrunch Gadgets",
       "date": "2026-08-31",
@@ -654,38 +672,8 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
-      "hotScore": 97,
+      "hotScore": 89,
       "content": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to use hacking tools and spyware and could reignite calls to backdoor devices...."
-    },
-    {
-      "id": "fetch-gadget-3",
-      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-08-31",
-      "description": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "hotScore": 95,
-      "content": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere...."
-    },
-    {
-      "id": "fetch-gadget-4",
-      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-08-30",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
-      "hotScore": 97,
-      "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it...."
     }
   ]
 }
