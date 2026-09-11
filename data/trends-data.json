@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-10T15:19:46.751Z",
+  "updatedAt": "2026-09-11T01:42:25.886Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 389356,
-      "forks": 81824,
+      "stars": 389403,
+      "forks": 81843,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 284496,
-      "forks": 25445,
+      "stars": 284719,
+      "forks": 25470,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 244120,
-      "forks": 50463,
+      "stars": 244223,
+      "forks": 50533,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 203927,
-      "forks": 60631,
+      "stars": 203960,
+      "forks": 60628,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187243,
-      "forks": 46029,
+      "stars": 187248,
+      "forks": 46026,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 178675,
-      "forks": 9726,
+      "stars": 178852,
+      "forks": 9733,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 169857,
-      "forks": 21846,
+      "stars": 169900,
+      "forks": 21854,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164885,
-      "forks": 30546,
+      "stars": 164891,
+      "forks": 30545,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,7 +142,7 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 158428,
+      "stars": 158435,
       "forks": 46139,
       "language": "JavaScript",
       "category": "research",
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 155329,
-      "forks": 24528,
+      "stars": 155365,
+      "forks": 24533,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 151541,
-      "forks": 22166,
+      "stars": 151571,
+      "forks": 22173,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 146072,
-      "forks": 24398,
+      "stars": 146093,
+      "forks": 24405,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 143500,
-      "forks": 34814,
+      "stars": 143509,
+      "forks": 34811,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 134533,
-      "forks": 12121,
+      "stars": 135059,
+      "forks": 12151,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 132344,
-      "forks": 15607,
+      "stars": 132415,
+      "forks": 15614,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,195 +260,197 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
+      "title": "Analyzing LLM Reasoning to Uncover Mental Health Stigma",
       "source": "arXiv.org",
-      "date": "2026-09-09",
-      "description": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of implementation-facing research-method spec...",
-      "category": "agent",
-      "tags": [
-        "Research",
-        "Agent"
-      ],
-      "url": "http://arxiv.org/abs/2609.10539v1",
-      "hotScore": 80,
-      "content": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of implementation-facing research-method specifications, defined by whether they provide sufficient methodological information for a competent implementer or coding agent to construct the intended method without unsupported assumptions. We construct evidence-grounded specifications and their supported resolutions from papers, codebases, issue threads, and reproduction artifacts. We introduce IdeaAMBIG, a benchmark of 660 evidence-grounded instances: 163 real-world gaps from reproducibility reports and GitHub issues, and 497 controlled synthetic gaps injected into codification-ready references. IdeaAMBIG evaluates three capabilities: codification-readiness assessment, defect localization, and clarification action generation. Defect localization receives only the specification, whereas clarification additionally receives the annotated defect. Across 13 LLMs, the best model achieves 9.6% Macro Defect Recovery Rate on real-world instances but 80.6% Macro Clarification Action Success Rate when given the defect. In an oracle study, supplying the gold resolution raises the downstream codification-ready rate from 14% to 98%. Across all evaluated models, defect localization is the main bottleneck, with stronger clarification given the defect."
-    },
-    {
-      "id": "fetch-paper-1",
-      "title": "Likelihood-free inference with nuisance parameters through normalizing flows",
-      "source": "arXiv.org",
-      "date": "2026-09-09",
-      "description": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from the distribution of ...",
-      "category": "research",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2609.10534v1",
-      "hotScore": 86,
-      "content": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from the distribution of interest. We show that the statistic is near-pivotal in the sense of minimum average KL-divergence of its $p$-values versus uniform and we argue that it can be expected to have good power when the dimension of the statistic equals the dimension of the parameter. It is able to incorporate prior knowledge about group invariances such as translation and scale. It can discover the one-sample $t$-test almost exactly, outperforms the Welch test in terms of worst-case size over a constrained variance-ratio range and achieves good calibration on partial biserial correlations, while showing higher power (and being much faster) on small-to-moderate samples than profile likelihood-ratio techniques."
-    },
-    {
-      "id": "fetch-paper-2",
-      "title": "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents",
-      "source": "arXiv.org",
-      "date": "2026-05-13",
-      "description": "Voice agents are increasingly deployed across enterprise applications. However, no existing benchmark jointly addresses realistic conversation simulation and comprehensive voice-specific evaluation. We present EVA-Bench, an end-to-end evalu...",
-      "category": "agent",
-      "tags": [
-        "Research",
-        "Agent"
-      ],
-      "url": "http://arxiv.org/abs/2605.13841v3",
-      "hotScore": 86,
-      "content": "Voice agents are increasingly deployed across enterprise applications. However, no existing benchmark jointly addresses realistic conversation simulation and comprehensive voice-specific evaluation. We present EVA-Bench, an end-to-end evaluation framework that addresses both. On the simulation side, EVA-Bench orchestrates dynamic bot-to-bot audio conversations with automatic simulation validation that detects user simulator error and appropriately regenerates conversations before scoring. On the measurement side, EVA-Bench introduces two composite metrics: EVA-A (Accuracy) and EVA-X (Experience). EVA-Bench includes 213 scenarios across three enterprise domains, a controlled perturbation suite for accent and noise robustness, and multi-trial measurements that distinguish peak from reliable capability. Across 12 systems spanning all three architectures, we find: (1) no system simultaneously exceeds 0.5 on both EVA-A pass@1 and EVA-X pass@1; (2) peak and reliable performance diverge substantially (median pass@k--pass^k gap of 0.44 on EVA-A); and (3) accent and noise perturbations expose substantial robustness gaps, with effects varying across architectures, systems, and metrics (mean $Δ$ up to 0.314). We release EVA-Bench under an open-source license."
-    },
-    {
-      "id": "fetch-paper-3",
-      "title": "A positive resolution of the gap-entropy conjecture",
-      "source": "arXiv.org",
-      "date": "2026-09-09",
-      "description": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $Δ_i=μ_*-μ_i$ be its gap from the op...",
-      "category": "research",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2609.10529v1",
-      "hotScore": 92,
-      "content": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $Δ_i=μ_*-μ_i$ be its gap from the optimal mean, and write $H=\\sum_{i\\ne *}Δ_i^{-2}$. Let $p_r$ be the fraction of $H$ contributed by arms with $2^{-(r+1)}&lt;Δ_i\\le2^{-r}$, and let $\\mathrm{Ent}(I)=\\sum_{r:p_r&gt;0} p_r\\log(1/p_r)$. Among all algorithms that identify the optimal arm with probability at least $1-δ$ on every Gaussian instance, the optimal expected number of samples on a given instance, averaged over all permutations of the arm labels, is within absolute constant factors of $H(\\log(1/δ)+\\mathrm{Ent}(I))$. Moreover, there is an algorithm, independent of the instance, whose expected number of samples is bounded by a constant multiple of this quantity plus $g^{-2}\\log\\log(e^e/g)$, where $g=\\min_{i\\ne *}Δ_i$ is the gap to the closest competitor."
-    },
-    {
-      "id": "fetch-paper-4",
-      "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
-      "source": "arXiv.org",
-      "date": "2026-09-09",
-      "description": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible ...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2609.10525v1",
-      "hotScore": 86,
-      "content": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly when each target can be assigned a finite positive witness so that the targets activated by any finite sample have an infinite common intersection. The necessary direction follows from a universal normalization: a search through unconfirmed histories converts any successful generator into one depending only on the observed set. We then ask how large compatible witnesses must be. Positive separation width records the smallest uniform size bound, with two further levels for unbounded finite witnesses and the absence of any compatible finite-witness assignment. Every level occurs. Countable families admit singleton witnesses, explicit families realize every finite width, and a union of two families with infinite common cores requires unbounded finite witnesses. Finally, countable-support and finite-profile obstructions explain why local combinatorial data cannot determine generation in the limit. The characterization and full width hierarchy are checked in Lean, including the simplified normalization and a direct diagonal capture lemma. The accompanying Lean development is maintained at https://github.com/xiaoyulics/language-generation-characterization"
-    },
-    {
-      "id": "fetch-paper-5",
-      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
-      "source": "arXiv.org",
-      "date": "2026-09-09",
-      "description": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots t...",
-      "category": "agent",
-      "tags": [
-        "Research",
-        "Agent"
-      ],
-      "url": "http://arxiv.org/abs/2609.10522v1",
-      "hotScore": 86,
-      "content": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action. Show-Harness exposes discrete semantic action units that VLMs can naturally reason over, while embodiment-specific interpreters deterministically ground them into local robot actions, keeping the VLM directly responsible for fine-grained physical decisions. Through the same interface, Show-Harness demonstrates the feasibility of (1) directly unlocking closed-source frontier VLMs for zero-shot robot control, and (2) adapting small-scale open-source VLMs for low-cost deployment with just a few GPU-hours of fine-tuning. We further develop GUMI (GUI Manipulation Interface), which extends the same semantic action space to GUI-based demonstration collection, allowing humans and agents to \"play\" robots across embodiments without specialized teleoperation hardware. Extensive experiments show that Show-Harness-equipped VLM agents generalize robustly across tasks, embodiments, and environments, outperforming representative agentic and VLA paradigms. These results suggest that the right interface can unlock substantial embodied capability from foundation VLMs, without requiring additional model capacity or costly embodiment-specific pretraining."
-    },
-    {
-      "id": "fetch-paper-6",
-      "title": "Bringing Value Models Back: Generative Critics for Value Modeling in LLM Reinforcement Learning",
-      "source": "arXiv.org",
-      "date": "2026-04-12",
-      "description": "Credit assignment is a central challenge in reinforcement learning (RL). Classical actor-critic methods address this challenge through fine-grained advantage estimation based on a learned value function. However, learned value models are of...",
+      "date": "2026-04-27",
+      "description": "While large language models (LLMs) are increasingly being explored for mental health applications, recent studies reveal that they can exhibit stigma toward individuals with psychological conditions. Existing evaluations of this stigma prim...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2604.10701v2",
-      "hotScore": 90,
-      "content": "Credit assignment is a central challenge in reinforcement learning (RL). Classical actor-critic methods address this challenge through fine-grained advantage estimation based on a learned value function. However, learned value models are often avoided in modern large language model (LLM) RL because conventional discriminative critics are difficult to train reliably. We revisit value modeling and argue that this difficulty is partly due to limited expressiveness. In particular, representation complexity theory suggests that value functions can be hard to approximate under the one-shot prediction paradigm used by existing value models, and our scaling experiments show that such critics do not improve reliably with scale. Motivated by this observation, we propose Generative Actor-Critic (GenAC), which replaces one-shot scalar value prediction with a generative critic that performs chain-of-thought reasoning before producing a value estimate. We further introduce In-Context Conditioning, which helps the critic remain calibrated to the current actor throughout training. GenAC improves value approximation, ranking reliability, and out-of-distribution generalization, and these gains translate into stronger downstream RL performance than both value-based and value-free baselines. Overall, our results suggest that stronger value modeling is a promising direction for improving credit assignment in LLM reinforcement learning."
+      "url": "http://arxiv.org/abs/2604.25053v2",
+      "hotScore": 81,
+      "content": "While large language models (LLMs) are increasingly being explored for mental health applications, recent studies reveal that they can exhibit stigma toward individuals with psychological conditions. Existing evaluations of this stigma primarily rely on multiple-choice questions (MCQs), which fail to capture the biases embedded within the models' underlying logic. In this paper, we analyze the intermediate reasoning steps of LLMs to uncover hidden stigmatizing language and the internal rationales driving it. We leverage clinical expertise to categorize common patterns of stigmatizing language directed at individuals with psychological conditions and use this framework to identify and tag problematic statements in LLM reasoning. Furthermore, we rate the severity of these statements, distinguishing between overt prejudice and more subtle, less immediately harmful biases. To broaden the reasoning domain and capture a wider array of patterns, we also extend an existing mental health stigma benchmark by incorporating additional psychological conditions. Our findings demonstrate that evaluating model reasoning not only exposes substantially more stigma than traditional MCQ-based methods but also helps identify the flaws in the LLMs' logic and their understanding of mental health conditions."
     },
     {
-      "id": "fetch-paper-7",
-      "title": "Recovering Expert Critic-Sourced Network Adjacency between Musical Artists from Acoustic Distributions: A Construct-Validity Approach",
+      "id": "fetch-paper-1",
+      "title": "DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation",
       "source": "arXiv.org",
-      "date": "2026-08-27",
-      "description": "Music recommendation relies primarily on two signals: user-item interactions, which fail in the cold-start regime, and intrinsic musical content, available for any recording. We argue that a third, largely untapped signal is both richer and...",
+      "date": "2026-07-08",
+      "description": "Large language models increasingly understand dialectal English, yet still produce only standard, US-leaning English, leaving dialectal generation, the harder half of the problem, largely unaddressed. We introduce DiaLLM, which continually ...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2607.07669v3",
+      "hotScore": 83,
+      "content": "Large language models increasingly understand dialectal English, yet still produce only standard, US-leaning English, leaving dialectal generation, the harder half of the problem, largely unaddressed. We introduce DiaLLM, which continually pretrains three open-weight language model families on the International Corpus of English and applies implicit and explicit post-training paradigms, each combined with three model alignment strategies, giving the first controlled comparison of these components across Australian, Indian, and Northern British English. Our results reveal a robustness-generation gap: benchmarks are shaped by continual pretraining and SFT, while alignment visibly reshapes generation in ways benchmarks do not capture. Explicit variety-targeted adaptation produces output reliably recognised as dialectal and judged more dialectal than broad alignment, yet where human judgement was directly assessed, the method that most aggressively optimises the dialectal reward is not the one judged most dialectal. Independent linguistic analysis corroborates this reward-quality gap, most clearly on two of the three families. No single alignment method dominates, and closing the gap will require richer reward designs and continued investment in dialectal resources. We release all code, checkpoints, and preference datasets."
+    },
+    {
+      "id": "fetch-paper-2",
+      "title": "Rescaling Confidence: What Scale Design Reveals About LLM Metacognition",
+      "source": "arXiv.org",
+      "date": "2026-03-10",
+      "description": "Verbalized confidence, in which LLMs report a numerical certainty score, is widely used to estimate uncertainty in black-box settings, yet the confidence scale itself (typically 0--100) is rarely examined. We show that this design choice is...",
+      "category": "llm",
+      "tags": [
+        "Research",
+        "LLM"
+      ],
+      "url": "http://arxiv.org/abs/2603.09309v3",
+      "hotScore": 94,
+      "content": "Verbalized confidence, in which LLMs report a numerical certainty score, is widely used to estimate uncertainty in black-box settings, yet the confidence scale itself (typically 0--100) is rarely examined. We show that this design choice is not neutral. Across six LLMs and three datasets, verbalized confidence is heavily discretized, with more than 78\\% of responses concentrating on just three round-number values. To investigate this phenomenon, we systematically manipulate confidence scales along three dimensions: granularity, boundary placement, and range regularity, and evaluate metacognitive sensitivity using $meta\\text{-}d'$. We find that a 0--20 scale consistently improves metacognitive efficiency over the standard 0--100 format, while boundary compression degrades performance and round-number preferences persist even under irregular ranges. These results demonstrate that confidence scale design directly affects the quality of verbalized uncertainty and should be treated as a first-class experimental variable in LLM evaluation."
+    },
+    {
+      "id": "fetch-paper-3",
+      "title": "RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation",
+      "source": "arXiv.org",
+      "date": "2026-09-10",
+      "description": "Multivariate time series imputation (MTSI) aims to recover missing values in temporal data composed of multiple interdependent variables. This problem is central to real-world applications such as healthcare monitoring, traffic networks, an...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2609.11648v1",
+      "hotScore": 89,
+      "content": "Multivariate time series imputation (MTSI) aims to recover missing values in temporal data composed of multiple interdependent variables. This problem is central to real-world applications such as healthcare monitoring, traffic networks, and energy systems. Recent diffusion-based approaches have shown strong potential for probabilistic imputation by learning to generate missing values through iterative denoising. However, most existing approaches perform diffusion directly in the original data space, requiring the denoising network to simultaneously capture global structure, temporal dynamics, and stochastic variability. This makes the generative task unnecessarily complex, especially when modern deterministic imputers can already provide accurate initial reconstructions. To address this limitation, we propose RDDMPI, a conditional residual diffusion framework that operates directly in residual space. Instead of modeling the full missing signal directly, we reformulate probabilistic imputation as a baseline-residual decomposition, where a pretrained model captures the dominant signal and a diffusion process models the residual uncertainty. To better exploit deterministic guidance, \\model{} conditions the reverse denoising process on both the baseline-completed signal and its latent representation, while a reliability-aware conditioning mechanism adaptively controls the influence of baseline information during residual generation. This formulation simplifies the diffusion learning objective, enabling it to focus on structured correction terms rather than reconstructing the full signal. Experiments on multiple benchmark datasets demonstrate that RDDMPI consistently improves both reconstruction accuracy and uncertainty quantification."
+    },
+    {
+      "id": "fetch-paper-4",
+      "title": "ZipCodec: Ultra-Low-Frame-Rate Streaming Speech Coding",
+      "source": "arXiv.org",
+      "date": "2026-09-10",
+      "description": "Neural audio codecs are a fundamental component of modern speech generation systems. While recent codecs achieve increasingly low bitrates, reducing frame rate remains challenging, as each token must preserve more information while maintain...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2609.11642v1",
+      "hotScore": 94,
+      "content": "Neural audio codecs are a fundamental component of modern speech generation systems. While recent codecs achieve increasingly low bitrates, reducing frame rate remains challenging, as each token must preserve more information while maintaining reconstruction quality. We present ZipCodec, a streaming neural speech codec operating at 6.25 Hz and 0.80 kbps with a theoretical latency of 160 ms. Our approach combines large-scale WavLM distillation with a redesigned transformer-based architecture, a scalar spherical quantizer, and a latency-aware streaming decoder. Experiments show that ZipCodec substantially outperforms existing streaming codecs at comparable bitrates in both reconstruction and downstream tasks, while operating at a significantly lower frame rate. Despite its 842M parameters, ZipCodec achieves real-time single-stream inference on a consumer-grade CPU. Demo samples, code and checkpoints are available at https://lucadellalib.github.io/zipcodec-web/."
+    },
+    {
+      "id": "fetch-paper-5",
+      "title": "Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning",
+      "source": "arXiv.org",
+      "date": "2026-02-12",
+      "description": "Generative Flow Networks (GFlowNets) have shown promising potential to generate high-scoring candidates with probability proportional to their rewards. As existing GFlowNets freely explore in state space, they encounter significant converge...",
       "category": "research",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2608.27291v2",
-      "hotScore": 86,
-      "content": "Music recommendation relies primarily on two signals: user-item interactions, which fail in the cold-start regime, and intrinsic musical content, available for any recording. We argue that a third, largely untapped signal is both richer and more principled: critical adjacency, the pairwise relation established when an expert critic explicitly links two artists in long-form prose. It encodes deliberate judgments about which artists belong together. Prior work established its internal validity, showing it recovers coherent, interpretable communities and can match collaborative filtering in user-satisfaction simulations, with no user data. What has been missing is external validation: whether this critic-sourced relation is grounded in the music itself versus sociological context. We test it against acoustic content, reframing the question as one of construct validity. Representing artists as empirical distributions over 80 low-level Essentia acoustic descriptors and modeling pairwise proximity via marginal optimal-transport (Wasserstein) distances, we evaluate how far critical adjacency is sonically recoverable under a cold-start, artist-disjoint split. Our ensemble recovers these edges at out-of-sample AUC of 0.767 (95% CI 0.761-0.775). Recoverability rises monotonically with critical consensus, reaching 0.865 on multi-source attested edges. Stratified evaluations align with sociological models of genre: tightly bounded, scene-based genres show higher recoverability than broad industry umbrella terms. Critical discourse is thus a rich source of information for recommendation, decomposing into a reproducible \"sonic core\" and a \"sociological remainder\" driven by narrative positioning, subcultural context, and canonical placement. The work offers both a scalable cold-start discovery mechanism and a sociologically grounded approach to MIR and MRS research."
+      "url": "http://arxiv.org/abs/2602.11498v2",
+      "hotScore": 82,
+      "content": "Generative Flow Networks (GFlowNets) have shown promising potential to generate high-scoring candidates with probability proportional to their rewards. As existing GFlowNets freely explore in state space, they encounter significant convergence challenges when scaling to large state spaces. Addressing this issue, this paper proposes to restrict the exploration of actor. A planner is introduced to partition the entire state space into overlapping partial state spaces. Given their limited size, these partial state spaces allow the actor to efficiently identify subregions with higher rewards. A heuristic strategy is introduced to switch partial regions thus preventing the actor from wasting time exploring fully explored or low-reward partial regions. By iteratively exploring these partial state spaces, the actor learns to converge towards the high-reward subregions within the entire state space. Experiments on several widely used datasets demonstrate that \\modelname converges faster than existing works on large state spaces. Furthermore, \\modelname not only generates candidates with higher rewards but also significantly improves their diversity."
     },
     {
-      "id": "fetch-hf-2609.02771",
-      "title": "From Reweighting to Rewriting: Unlocking the Intervention Effects of Influential Samples in Training Data Attribution",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-01",
-      "description": "Training data attribution (TDA) aims to identify training examples that shape model behavior, but its intervention value depends on both which examples are selected and how they are modified. Influence functions (IF) estimate behavioral cha...",
+      "id": "fetch-paper-6",
+      "title": "Measuring Progress in Reasoning Toward Mathematical Discovery with Automatic Verification",
+      "source": "arXiv.org",
+      "date": "2026-03-16",
+      "description": "Can AI make progress on important, unsolved mathematical problems? Large language models are now capable of sophisticated mathematical and scientific reasoning, but whether they can perform novel research is still widely debated and underex...",
       "category": "llm",
       "tags": [
-        "Hugging Face",
-        "Paper"
+        "Research",
+        "LLM"
       ],
-      "url": "https://huggingface.co/papers/2609.02771",
-      "hotScore": 90,
-      "content": "Training data attribution (TDA) aims to identify training examples that shape model behavior, but its intervention value depends on both which examples are selected and how they are modified. Influence functions (IF) estimate behavioral changes under infinitesimal reweighting, yet IF-selected examples often show limited advantages over random selection under conventional weight-based interventions. This raises the question of whether influential examples lack intervention value or whether reweighting fails to realize their behavioral leverage.We introduce influence-guided response rewriting, which uses IF to identify intervention targets and replaces their responses with behavior-aligned or behavior-opposed supervision while keeping instructions fixed. Across four open-weight LLMs, we compare rewriting and reweighting on the same influence-selected examples using epistemic abstention as our primary testbed. Response rewriting produces stronger, more persistent, and bidirectional behavioral shifts, while reweighting the same examples yields weak and inconsistent effects. Further analyses show that influence-selected examples provide greater rewriting leverage than alternative selectors, with changes remaining concentrated on target-relevant behaviors. The same qualitative contrast extends to safety refusal. These results distinguish the local reweighting effects captured by influence estimates from the broader intervention leverage of the examples they identify, motivating intervention-aware evaluation of TDA methods."
+      "url": "http://arxiv.org/abs/2603.15617v2",
+      "hotScore": 93,
+      "content": "Can AI make progress on important, unsolved mathematical problems? Large language models are now capable of sophisticated mathematical and scientific reasoning, but whether they can perform novel research is still widely debated and underexplored. We introduce HorizonMath, a benchmark of 113 predominantly unsolved problems spanning eight domains in mathematics and the mathematical sciences, paired with an open-source evaluation framework for automated verification. Our benchmark targets the generator-verifier gap: problems where discovery is hard and requires meaningful mathematical insight, but verification is computationally straightforward. This contrasts with most existing research-level benchmarks, which instead rely on formal proof verification or manual review, both of which are expensive to scale. Because these solutions are unknown, HorizonMath is resistant to data contamination, and most state-of-the-art models score under 10%. Using this framework, we identify six novel solutions to research problems that either resolve previously open questions or improve on the best-known published results, with GPT-5.4 Pro and GPT-5.6 Sol each discovering three of these solutions. Across seven frontier model families, reasoning efficiency and behavior also vary substantially. We release HorizonMath as an open challenge and a growing community resource, where each verified solution is a candidate contribution to the mathematical literature."
     },
     {
-      "id": "fetch-hf-2609.09264",
-      "title": "StochBench: A Domain-Specific Benchmark for Stochastic Processes in Lean",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-07",
-      "description": "Leading benchmarks for formal theorem proving with large language models are small collections drawn from competition math, such as the IMO and Putnam, that poorly represent field-specific applications. We introduce StochBench, a Lean 4 ben...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.09264",
-      "hotScore": 89,
-      "content": "Leading benchmarks for formal theorem proving with large language models are small collections drawn from competition math, such as the IMO and Putnam, that poorly represent field-specific applications. We introduce StochBench, a Lean 4 benchmark of 450 graduate stochastic-processes problems at varying abstraction levels, each paired with its natural-language source. Addressing a field underrepresented in Mathlib, it covers finite and countable Markov chains, renewal processes, random walks, martingales, stopping times, queues, Brownian motion, stochastic calculus, weak convergence, and Poisson and continuous-time Markov processes. Our Opus 4.8-based agent achieves a 34.9% proof rate (157/450) under a 15-minute per-problem limit. StochBench better represents domain-specific applied mathematics while remaining challenging for advanced provers."
-    },
-    {
-      "id": "fetch-hf-2609.10296",
-      "title": "The Semantic Bottleneck: Leveraging Semantic Representations for Non-Invasive Speech Decoding",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-08",
-      "description": "Non-invasive speech decoding remains constrained by the low signal-to-noise ratio of neural recordings, which makes fine-grained reconstruction of phonemes or individual words difficult. Motivated by neuroscientific evidence that high-level...",
-      "category": "research",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.10296",
-      "hotScore": 88,
-      "content": "Non-invasive speech decoding remains constrained by the low signal-to-noise ratio of neural recordings, which makes fine-grained reconstruction of phonemes or individual words difficult. Motivated by neuroscientific evidence that high-level semantic representations are distributed across cortical regions and evolve over slower temporal scales, we hypothesize that semantic content may provide a more suitable target for non-invasive decoding than low-level acoustic or lexical features. We introduce Brain2Semantics2Text, a method that reconstructs text through an intermediate semantic embedding space. Our model maps sentence-level MEG responses into a semantic manifold and then inverts the predicted embeddings into natural language. This semantic bottleneck enables recovery of high-level meaning without word-level alignment. We describe the core principles of the approach, its implementation, and the strategies used to mitigate the challenges of learning a reliable neural-to-semantic mapping. Finally, we compare against prior non-invasive Brain2Text methods and show improved sentence-level results."
-    },
-    {
-      "id": "fetch-hf-2609.08572",
-      "title": "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-07",
-      "description": "Large language model (LLM)-based multi-agent systems (MAS) achieve strong performance by employing specialized multiple agents, yet their performance depends on the prompt design of each agent. For MAS prompt optimization, textual gradient ...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.08572",
-      "hotScore": 87,
-      "content": "Large language model (LLM)-based multi-agent systems (MAS) achieve strong performance by employing specialized multiple agents, yet their performance depends on the prompt design of each agent. For MAS prompt optimization, textual gradient methods that guide prompt updates using natural-language feedback have emerged as a leading paradigm. In this paper, we identify limitations in two stages of existing textual gradient approaches: gradient extraction and gradient aggregation. In gradient extraction, previous works select a target prompt without verifying whether modifying it resolves the failure, and derive gradients without agent-level supervision over the corresponding agent's intermediate output. In gradient aggregation, individual gradients are randomly grouped and concatenated, often mixing unrelated failure modes and producing prompts that fail to generalize. To address these limitations, we propose AgentGrad, a prompt optimization framework for multi-agent systems based on sequential intervention and semantic textual gradient abstraction. For each failure, sequential intervention modifies the behavior of one agent at a time to identify the target agent whose modification resolves the failure. The modified output of the target agent then serves as agent-level supervision for extracting a fine-grained gradient. Semantic textual gradient abstraction clusters semantically similar gradients to prevent mixing unrelated failure modes, and abstracts each cluster into a generalized gradient that captures the shared corrective pattern. Experimental results show that AgentGrad achieves state-of-the-art performance across five MAS benchmarks and reduces wall-clock optimization time by 2.5times on average compared to the next-fastest baseline."
-    },
-    {
-      "id": "fetch-hf-2609.06490",
-      "title": "OracleZoom: On-Policy Self-Distillation Inspired Reference-Constrained Recursive Image Super Resolution",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-05",
-      "description": "Recursive Super-Resolution (SR) extends fixed-scale SR to extreme magnification by repeatedly feeding predictions back into the same model, analogous to zooming an image repeatedly. However, ground truth availability at every scale, especia...",
+      "id": "fetch-paper-7",
+      "title": "LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics",
+      "source": "arXiv.org",
+      "date": "2026-09-10",
+      "description": "The energy transition is reshaping residential electricity consumption through the increasing adoption of distributed generation, electrified appliances, and demand-response programs. Understanding these evolving behaviors requires access t...",
       "category": "image",
       "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2609.11639v1",
+      "hotScore": 91,
+      "content": "The energy transition is reshaping residential electricity consumption through the increasing adoption of distributed generation, electrified appliances, and demand-response programs. Understanding these evolving behaviors requires access to granular smart-meter data for applications such as load forecasting, appliance detection, and demand-side flexibility analysis. However, such data are subject to strict access restrictions and data-protection regulations. Thus, realistic synthetic alternatives are necessary. In this paper, we introduce LoaDiff, a diffusion-based generative model for year-long, sub-hourly smart-meter load curves. LoaDiff supports flexible conditioning on static household attributes, such as appliance ownership, and dynamic contextual variables, including calendar information and outdoor temperature. We evaluate the model against multiple generative baselines on three residential electricity-consumption datasets. Our experiments assess four complementary dimensions: fidelity and diversity, training-record memorization risk, downstream utility for load forecasting and appliance detection, and conditional controllability under alternative temperature conditions. The results show that LoaDiff generates realistic and diverse load profiles, achieves a favorable trade-off between generation quality and limited evidence of memorization, preserves information useful for downstream energy applications, and responds coherently to changes in conditioning variables."
+    },
+    {
+      "id": "fetch-hf-2609.11042",
+      "title": "T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-09",
+      "description": "Agent usage is shifting toward long-horizon tasks such as coding and scientific discovery, among which terminal tasks are especially important. We introduce T1, a Mixture-of-Experts model of 122B total trained with reinforcement learning, o...",
+      "category": "agent",
+      "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2609.06490",
+      "url": "https://huggingface.co/papers/2609.11042",
+      "hotScore": 90,
+      "content": "Agent usage is shifting toward long-horizon tasks such as coding and scientific discovery, among which terminal tasks are especially important. We introduce T1, a Mixture-of-Experts model of 122B total trained with reinforcement learning, operating a real shell in a cloud sandbox for up to 300+ tool-call turns per task, rewarded by executing each task's own verifier. We provide a comprehensive recipe: First, an aggressively warm-started to stabilize actor-critic training, with a dense process reward scoring trajectories by the absolute number of passing verifiers. Second, stable optimization through TITO construction, training on the exact sampled token identifiers with drift repair at turn boundaries, and rollout routing replay, recording the sampler's per-token expert choices at every MoE layer and replaying them during training. Third, fully out-of-distribution training corpus: isolated seeds and synthesized tasks disjoint from Terminal-Bench 2.1 ensures gains reflect genuine capability transfer over benchmark overfitting. Together, TITO and R3 cut the training-to-inference log-probability difference from 0.021 to 0.013, with exactly aligned zero token drift in the loss region. On Terminal-Bench 2.1, our post-train pipeline raises initial base model from 43.8% to T1 with 64.0% resolved. On Long-Horizon Terminal Bench, T1 reaches 27.9% and surpasses GPT-5.4 and GLM-5.1."
+    },
+    {
+      "id": "fetch-hf-2608.12564",
+      "title": "Scaling Automatic Research Agents via World Models",
+      "source": "Hugging Face Daily",
+      "date": "2026-08-28",
+      "description": "Automating empirical research is a long-standing direction of AI. Recent automatic research (AutoResearch) agents bring this goal within reach, as modern LLMs show the capability to independently implement solutions and learn from the execu...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2608.12564",
+      "hotScore": 89,
+      "content": "Automating empirical research is a long-standing direction of AI. Recent automatic research (AutoResearch) agents bring this goal within reach, as modern LLMs show the capability to independently implement solutions and learn from the execution outcomes. Behind these gains, post-training (especially RL) plays a central role. In this paper, we identify a fundamental tension when scaling RL for these agents: the two components of every AutoResearch trajectory (agent generation and environment execution) scale in very different manners, since all generation shares compute through batching, while each execution occupies its exclusive sandbox and real machine time. As a result, the environment execution dominates the training cost and becomes the bottleneck as trajectories grow. To resolve this tension, we propose World Model RL (WMRL), which replaces environment execution with a world model to remove this bottleneck. Additionally, the world model can be imperfect, as its rewards are corrupted by bias and noise. Therefore, we further equip WMRL with two mitigations, Online Debiasing and Inverse-Variance Denoising, which offset the bias and suppress the noise respectively. Theoretically, we prove that both mitigations of WMRL strictly improve the convergence guarantee. Empirically, WMRL accelerates training by 3-4x on various tasks at different agent scales, while exceeding the performance of standard RL baselines. Moreover, our post-trained 4B and 9B agents outperform much larger open-weight agents of 48B and 120B on held-out benchmarks. Beyond AutoResearch, WMRL also transfers to post-training embodied VLA policies, which demonstrates the generalizability of our method."
+    },
+    {
+      "id": "fetch-hf-2609.06702",
+      "title": "PARSER: Read in Parallel, Reason in Depth for Long-Context LLM Agents",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-05",
+      "description": "Sequential memory agents process long documents by reading chunks one after another while maintaining a compact memory state, coupling document traversal to reasoning depth. This coupling introduces sensitivity to evidence placement and tie...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.06702",
+      "hotScore": 88,
+      "content": "Sequential memory agents process long documents by reading chunks one after another while maintaining a compact memory state, coupling document traversal to reasoning depth. This coupling introduces sensitivity to evidence placement and ties inference latency linearly to document length. We introduce PARSER, which decouples reading from reasoning. A bank of lightweight subagents each bound to a single chunk read the entire document in parallel, while a lead agent reasons in depth through iterative scatter--gather rounds: at each round it broadcasts a query to all subagents, aggregates the returned evidence, and formulates a deeper follow-up query conditioned on what has been found so far. This decoupled design concentrates all learnable behavior in the lead agent, which is optimized with reinforcement learning, while the subagents remain frozen off-the-shelf models. On multi-hop QA with contexts ranging from 7K to 896K tokens, PARSER with a 4B backbone outperforms the strongest sequential memory baseline by 5.7 points on average and by 12.0 points at 896K tokens. Scaling to a 9B backbone, PARSER surpasses DeepSeek-V4-Pro by 6.3 points. Controlled experiments confirm that PARSER is robust to perturbations in evidence position, order, and distance, conditions that cause large accuracy swings in sequential methods, while reducing inference latency by up to 11x."
+    },
+    {
+      "id": "fetch-hf-2609.05463",
+      "title": "A Three-Layer Caching Architecture for Low-Latency LLM Web Search on Commodity CPU Hardware",
+      "source": "Hugging Face Daily",
+      "date": "2026-08-11",
+      "description": "AI-powered search products such as ChatGPT search, Google's AI Overviews, and Perplexity provide LLM-synthesized answers grounded in live web results. We developed OreoLook (formerly lixSearch), an open-source answer engine using automated ...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.05463",
+      "hotScore": 87,
+      "content": "AI-powered search products such as ChatGPT search, Google's AI Overviews, and Perplexity provide LLM-synthesized answers grounded in live web results. We developed OreoLook (formerly lixSearch), an open-source answer engine using automated browser agents and provider-routed LLM inference. Its local search, caching, session-management, and embedding stack runs on commodity CPU hardware; answer synthesis is performed by a remote inference provider. As usage grew, sessions lost context, equivalent queries triggered redundant work, and URLs were repeatedly embedded across sessions.\n  We present a three-layer caching architecture: (1) a Session Context Window maintaining a rolling window of recent messages in Redis with automatic overflow to Huffman-compressed disk archives; (2) a Semantic Query Cache catches rephrasings via cosine similarity on embedding vectors, eliminating redundant LLM invocations; and (3) a URL Embedding Cache that deduplicates embedding computations across sessions. Deployed on a single 8-vCPU Intel Cascade Lake server (2 GHz, 32 GB RAM) running 30 Hypercorn worker processes across three containerized replicas, the evaluated system reported an 89.3% aggregate Redis keyspace hit rate with 0.1 ms read latency and just 1.38 MB of memory overhead. A background LRU eviction daemon migrates idle sessions from Redis to disk and re-hydrates them on demand, enabling conversations that can be resumed hours or days later under the configured retention policy."
+    },
+    {
+      "id": "fetch-hf-2609.08126",
+      "title": "SchemeArena: Factorized Stress Testing of Scheming in LLM Agents",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-07",
+      "description": "We study scheming in LLM agents, in which agents covertly pursue misaligned goals. Our focus is to understand how scheming arises from the interaction of key factors, such as instrumental goals, environmental affordances, oversight conditio...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.08126",
       "hotScore": 86,
-      "content": "Recursive Super-Resolution (SR) extends fixed-scale SR to extreme magnification by repeatedly feeding predictions back into the same model, analogous to zooming an image repeatedly. However, ground truth availability at every scale, especially at depth, remains challenging as the required source resolution grows geometrically, leaving deeper predictions unsupervised. We present OracleZoom, an on-policy distillation-inspired, reference-constrained framework that trains on its trajectory while carrying the last ground-truth evidence beyond the supervision boundary. Direct and cross-scale supervision constrain verifiable content, while a no-reference quality objective guides unresolved fine-scale detail. A KL-constrained pretrained latent prior limits quality-driven drift, while EMA consistency stabilizes the supervision boundary. Across seven datasets, OracleZoom achieves the state-of-the-art SR quality across zooming scales, averaging 0.713 CLIPIQA, with larger gains on deeper scales, while significantly reducing hallucinations. Code, data, and models are available at https://dipta007.github.io/OracleZoom/ ."
+      "content": "We study scheming in LLM agents, in which agents covertly pursue misaligned goals. Our focus is to understand how scheming arises from the interaction of key factors, such as instrumental goals, environmental affordances, oversight conditions, and perceived consequences. Prior work examines only a small number of scenarios, limiting the ability to isolate how these conditions shape an agent's propensity or capability to scheme. This limited scale and task diversity also restrict coverage of realistic deployment settings and the range of scheming strategies that can be observed. To this end, we introduce SCHEMEARENA, a 400-scenario benchmark for scalable scheming stress testing, constructed through a factorized scenario synthesis framework spanning diverse safety-relevant tool domains, instrumental goals, oversight conditions, and pressure mechanisms. To enable scalable and reliable monitoring, we further propose SCOUT, a scheming monitor that grounds multi-criteria judgments in evidence drawn from agents' reasoning and actions. Across controlled stress tests on five LLM agents, we find that explicit instrumental goals are the strongest driver of scheming propensity. Strategic hints play a distinct role by helping agents translate scheming reasoning into concrete covert behavior. Oversight has mixed effects: in several closed models, action-only monitoring increases scheming, suggesting that partial oversight can act as an optimization constraint rather than a deterrent. CoT is a useful but incomplete monitoring signal: it can reveal latent scheming before execution, yet action-only scheming shows that covert behavior may occur without explicit reasoning evidence. We release the benchmark, code, and monitor at: https://github.com/launchnlp/SchemeArena."
     }
   ],
   "hfModels": [
@@ -458,7 +460,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 254324263,
-      "likes": 5734,
+      "likes": 5772,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -474,7 +476,7 @@
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
       "downloads": 87478105,
-      "likes": 315,
+      "likes": 316,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -521,7 +523,7 @@
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
       "downloads": 47826795,
-      "likes": 3140,
+      "likes": 3179,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -615,6 +617,36 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "Amazon makes it easier to buy what you see on Prime Video",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-09-10",
+      "description": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powe...",
+      "category": "image",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+      "hotScore": 96,
+      "content": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powe..."
+    },
+    {
+      "id": "fetch-gadget-1",
+      "title": "India&#8217;s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-09-10",
+      "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "hotScore": 96,
+      "content": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper...."
+    },
+    {
+      "id": "fetch-gadget-2",
       "title": "Maven Robotics wants to steal your robot deployment deal",
       "source": "TechCrunch Gadgets",
       "date": "2026-09-10",
@@ -625,38 +657,8 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "hotScore": 85,
+      "hotScore": 87,
       "content": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments...."
-    },
-    {
-      "id": "fetch-gadget-fb1",
-      "title": "Ray-Ban Meta Glasses Add Real-time Translation",
-      "source": "Meta Hardware",
-      "date": "2026-09-10",
-      "description": "Meta's popular smart glasses now feature real-time audio translation and multimodal AI search that understands the world around you.",
-      "category": "image",
-      "tags": [
-        "Meta",
-        "Smart-Glasses"
-      ],
-      "url": "https://about.fb.com/",
-      "hotScore": 96,
-      "content": "Ray-Ban Meta Smart Glasses continue to lead the consumer AI hardware category, showing high consumer engagement with features like hands-free capture, smart lookup, and now, instant language translation."
-    },
-    {
-      "id": "fetch-gadget-fb2",
-      "title": "Humane Launches AI Pin 2.0 with Screen Projection",
-      "source": "Humane News",
-      "date": "2026-09-10",
-      "description": "Humane introduced a new version of its AI Pin featuring a brighter laser ink projection, faster responses, and offline LLM capabilities.",
-      "category": "tooling",
-      "tags": [
-        "Humane",
-        "AI-Pin"
-      ],
-      "url": "https://humane.com",
-      "hotScore": 89,
-      "content": "The Humane AI Pin 2.0 addresses issues of thermal throttling and latency. Using quantized on-device small language models (SLMs), it provides offline translation and navigation tools."
     }
   ]
 }
