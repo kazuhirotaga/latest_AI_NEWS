@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-13T01:39:35.544Z",
+  "updatedAt": "2026-09-13T15:10:08.925Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 389532,
-      "forks": 81877,
+      "stars": 389582,
+      "forks": 81900,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 285823,
-      "forks": 25572,
+      "stars": 286065,
+      "forks": 25596,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 244908,
-      "forks": 50831,
+      "stars": 245068,
+      "forks": 50935,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 204116,
-      "forks": 60648,
+      "stars": 204161,
+      "forks": 60656,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187289,
-      "forks": 46019,
+      "stars": 187295,
+      "forks": 46018,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 179605,
-      "forks": 9766,
+      "stars": 179779,
+      "forks": 9771,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 170153,
-      "forks": 21884,
+      "stars": 170212,
+      "forks": 21901,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164916,
-      "forks": 30551,
+      "stars": 164919,
+      "forks": 30553,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 158478,
-      "forks": 46138,
+      "stars": 158493,
+      "forks": 46139,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 155553,
-      "forks": 24570,
+      "stars": 155590,
+      "forks": 24575,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 151798,
-      "forks": 22205,
+      "stars": 151851,
+      "forks": 22210,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 146203,
-      "forks": 24431,
+      "stars": 146224,
+      "forks": 24433,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 143572,
-      "forks": 34812,
+      "stars": 143583,
+      "forks": 34811,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 136071,
-      "forks": 12226,
+      "stars": 136229,
+      "forks": 12244,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 132792,
-      "forks": 15685,
+      "stars": 132884,
+      "forks": 15700,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -340,8 +340,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 253739900,
-      "likes": 5863,
+      "downloads": 252928721,
+      "likes": 5910,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -356,7 +356,7 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 87728418,
+      "downloads": 87549600,
       "likes": 320,
       "category": "research",
       "tags": [
@@ -372,8 +372,8 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 64344683,
-      "likes": 553,
+      "downloads": 64028390,
+      "likes": 554,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -388,7 +388,7 @@
       "name": "electra-base-discriminator",
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
-      "downloads": 59301776,
+      "downloads": 59196856,
       "likes": 159,
       "category": "research",
       "tags": [
@@ -403,8 +403,8 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 47340648,
-      "likes": 3246,
+      "downloads": 46513338,
+      "likes": 3285,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -419,7 +419,7 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 46205723,
+      "downloads": 45734237,
       "likes": 1372,
       "category": "llm",
       "tags": [
@@ -435,8 +435,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 37776672,
-      "likes": 3495,
+      "downloads": 37590799,
+      "likes": 3498,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -451,7 +451,7 @@
       "name": "t5-small",
       "owner": "Community",
       "fullName": "google-t5/t5-small",
-      "downloads": 24503126,
+      "downloads": 24558821,
       "likes": 605,
       "category": "research",
       "tags": [
@@ -467,7 +467,7 @@
       "name": "all-mpnet-base-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-mpnet-base-v2",
-      "downloads": 23953934,
+      "downloads": 23712269,
       "likes": 1354,
       "category": "llm",
       "tags": [
@@ -483,7 +483,7 @@
       "name": "chronos-2",
       "owner": "Community",
       "fullName": "amazon/chronos-2",
-      "downloads": 23094743,
+      "downloads": 22787542,
       "likes": 448,
       "category": "research",
       "tags": [
@@ -508,7 +508,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "hotScore": 92,
+      "hotScore": 89,
       "content": "The round for the two-year-old startup is coming together months after Mecka announced its Series A...."
     },
     {
@@ -523,7 +523,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-      "hotScore": 97,
+      "hotScore": 90,
       "content": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on...."
     },
     {
