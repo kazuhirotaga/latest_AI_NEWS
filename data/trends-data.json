@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-13T15:10:08.925Z",
+  "updatedAt": "2026-09-14T17:07:45.357Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 389582,
-      "forks": 81900,
+      "stars": 389667,
+      "forks": 81917,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 286065,
-      "forks": 25596,
+      "stars": 286574,
+      "forks": 25636,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 245068,
-      "forks": 50935,
+      "stars": 245410,
+      "forks": 51109,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 204161,
-      "forks": 60656,
+      "stars": 204273,
+      "forks": 60665,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187295,
-      "forks": 46018,
+      "stars": 187325,
+      "forks": 46019,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 179779,
-      "forks": 9771,
+      "stars": 180325,
+      "forks": 9791,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 170212,
-      "forks": 21901,
+      "stars": 170312,
+      "forks": 21909,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164919,
-      "forks": 30553,
+      "stars": 164935,
+      "forks": 30555,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 158493,
-      "forks": 46139,
+      "stars": 158533,
+      "forks": 46136,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 155590,
-      "forks": 24575,
+      "stars": 155700,
+      "forks": 24590,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 151851,
-      "forks": 22210,
+      "stars": 152010,
+      "forks": 22241,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 146224,
-      "forks": 24433,
+      "stars": 146310,
+      "forks": 24449,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,7 +210,7 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 143583,
+      "stars": 143617,
       "forks": 34811,
       "language": "Python",
       "category": "agent",
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 136229,
-      "forks": 12244,
+      "stars": 136713,
+      "forks": 12266,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 132884,
-      "forks": 15700,
+      "stars": 133103,
+      "forks": 15717,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -259,79 +259,79 @@
   ],
   "aiNews": [
     {
-      "id": "fetch-hf-2609.09143",
-      "title": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-07",
-      "description": "Image tokenizers define the ``visual language'' of unified multimodal models, yet are commonly studied through isolated metrics or generation-/understanding-only evaluations. These evaluations do not fully capture how visual tokens behave w...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.09143",
-      "hotScore": 90,
-      "content": "Image tokenizers define the ``visual language'' of unified multimodal models, yet are commonly studied through isolated metrics or generation-/understanding-only evaluations. These evaluations do not fully capture how visual tokens behave when modeled jointly with text. We build a controlled pure-autoregressive testbed and track task-specific validation losses during multimodal continual pretraining across text, image, text-to-image (T2I), and image-to-text (I2T) prediction. We examine how these losses scale and relate to downstream performance, then use them to study multimodal learnability---how well image and text tokens are jointly modeled---and tokenizer design. We find that (1) losses should be analyzed by task, since they exhibit distinct scaling behavior and rank tokenizers differently. (2) The loss--performance relationship depends on the predicted token space: for a fixed tokenizer, T2I and I2T losses correlate with generation quality, but across tokenizers, the T2I loss--performance relationship shifts with the image-token space, whereas I2T loss, computed over a shared text vocabulary, provides a more consistent signal. I2T loss also correlates with both generation and visual understanding performance after supervised finetuning. Using losses as a lens, we show that (3) better reconstruction does not necessarily yield lower task-specific losses or stronger downstream performance, and that (4) image tokenizer choice can affect text modeling under joint optimization. As case studies, we revisit three tokenizer design axes---the discriminator, semantic supervision, and vocabulary size---to examine their effects on joint modeling and downstream performance. Together, our testbed offers a complementary perspective on image tokenizers as visual languages, highlighting their interplay with text in joint multimodal training."
-    },
-    {
-      "id": "fetch-hf-2609.10745",
-      "title": "Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-08",
-      "description": "Multimodal entity linking grounds entity mentions in text and images to knowledge-base entries. These systems degrade on rare entities, but prior work measures rarity primarily through popularity-based metrics such as pageviews. We broaden ...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.10745",
-      "hotScore": 89,
-      "content": "Multimodal entity linking grounds entity mentions in text and images to knowledge-base entries. These systems degrade on rare entities, but prior work measures rarity primarily through popularity-based metrics such as pageviews. We broaden this view using knowledge-graph structural metrics that capture how well an entity is documented and connected. These metrics identify many rare entities that popularity metrics miss. Across the resulting rare-entity slices, state-of-the-art accuracy drops by 15.4-39.9%, showing that different rarity definitions expose different failure modes. To address these failures, we introduce a simple, training-free framework in which a reasoning-capable vision-language model iteratively searches and reasons over Wikipedia, gathering evidence dynamically. Controlled experiments show that reasoning and retrieval are complementary. Reasoning alone does not significantly improve accuracy on rare entities. Retrieval without reasoning improves rare-entity accuracy but can hurt overall accuracy. Their combination performs best. On MERLIN, a multilingual multimodal entity linking benchmark over five languages (Hindi, Indonesian, Japanese, Tamil, Vietnamese), our best system improves over the state of the art by 6.9% overall and by up to 23.3% on rare-entity slices. We release MERLIN-Rare, rare-entity test slices for targeted evaluation, with our framework."
-    },
-    {
-      "id": "fetch-hf-2609.10445",
-      "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-08",
-      "description": "Reasoning language models have made substantial advances on a variety of complex tasks, yet their capabilities remain overwhelmingly English-centric: models primarily reason in English regardless of the language they are prompted in. This i...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.10445",
-      "hotScore": 88,
-      "content": "Reasoning language models have made substantial advances on a variety of complex tasks, yet their capabilities remain overwhelmingly English-centric: models primarily reason in English regardless of the language they are prompted in. This is inaccessible for non-English-speaking users, risks losing the intent of the original question, and forgoes knowledge more readily expressed in the target language. In this work, we advance L2 reasoning, the ability of a model to reason consistently in the language of the user's prompt, thus building an in-language bridge between the prompt and the answer. We approach this problem from a data-centric angle, investigating how to optimize data composition and scheduling in SFT for reasoning generalization. Building Tiny Aya L2-Thinker at 3.35B scale, we achieve an L2 reasoning rate above 93% across 60 languages on 6 benchmarks spanning math, commonsense reasoning, instruction following, open-ended generation, and cultural reasoning while keeping performance strong. We show the path to generalizing L2 reasoning to held-out languages goes through broader language coverage, readily available multilingual non-reasoning data, and a sufficient English reasoning backbone. These findings indicate that reasoning is a language-agnostic behavior that can be transferred across typologically diverse languages through careful data mixing and without requiring reasoning supervision in every target language. We release our model weights and multilingual reasoning data to support further research on accessible, in-language reasoning."
-    },
-    {
-      "id": "fetch-hf-2608.15380",
-      "title": "Adaptive Bridge: A Proxy-Based Decoupling Layer for Mitigating DDS Backpressure in ROS 2",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-05",
-      "description": "In systems built on Robot Operating System 2 (ROS 2) and using Data Distribution Service (DDS), a single network-impaired or throttled subscriber on a RELIABLE topic can cause backpressure that degrades throughput and latency for all other ...",
-      "category": "tooling",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2608.15380",
-      "hotScore": 87,
-      "content": "In systems built on Robot Operating System 2 (ROS 2) and using Data Distribution Service (DDS), a single network-impaired or throttled subscriber on a RELIABLE topic can cause backpressure that degrades throughput and latency for all other subscribers, including safety-critical ones sharing the publisher, because the publisher's DDS writer can no longer accept new samples. We present Adaptive Bridge, a proxy-based layer that decouples critical subscribers from degraded or noncritical ones, thereby isolating the critical path through topic splitting and dynamic rate control. The proxy acts as a middleman and subscribes to the original topic and republishes the messages to two independent DDS writers: one RELIABLE writer for critical nodes and one BEST EFFORT writer for noncritical or degraded nodes, thus isolating the degraded nodes and safeguarding the publisher and critical nodes from backpressure. A probe-based classifier actively monitors subscriber health through sampling with hysteresis and adjusts subscriber rate limits in real time. We evaluate the system under a Gilbert-Elliott bursty wireless loss model using a reproducible Docker-based harness. The results show that using the Adaptive Bridge in our evaluation harness reduces the critical subscriber tail p95 latency from up to 15 s to 1.55 ms across all impairment severities while preserving the publisher's configured throughput."
-    },
-    {
-      "id": "fetch-hf-2609.11085",
-      "title": "Beyond Solver Verdicts: Generative Reward Models for Autoformalization",
+      "id": "fetch-hf-2609.07099",
+      "title": "Ambient @ EgoProactive 2026 : Proactive Egocentric Assistance with Visually Grounded Supervision",
       "source": "Hugging Face Daily",
       "date": "2026-09-09",
-      "description": "Neurosymbolic systems rely on mathematical solvers to guarantee reasoning correctness, yet solvers are fundamentally blind to whether a formal translation maintains strict reference-equivalence to a designated formalization. We formalize th...",
+      "description": "We present our submission to the EgoProactive track of the ECCV 2026 Wearable AI Challenge, which ranked first in the large-model division and second in the <=2B division. The task requires a wearable assistant to decide after each eight-se...",
       "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2609.11085",
+      "url": "https://huggingface.co/papers/2609.07099",
+      "hotScore": 90,
+      "content": "We present our submission to the EgoProactive track of the ECCV 2026 Wearable AI Challenge, which ranked first in the large-model division and second in the <=2B division. The task requires a wearable assistant to decide after each eight-second segment of egocentric video whether to intervene or remain silent.\n  Our approach has two main components. First, we reformulate intervention timing as single-token classification. Rather than generating either interrupt<utterance> or silent, the model predicts yes or no, and we derive the decision from the renormalised probabilities of these two tokens. This formulation improved macro-F1 by 0.249 and G-mean by 0.30 over free-form generation. Second, because labelled data were limited to the released validation set, we generated additional supervision using a tool-calling video agent that inspects each clip and assigns intervention timestamps. A narration-only alternative was four times larger and ten times cheaper, but transferred worse than supervision from an unrelated real corpus, suggesting that visual grounding is more important than annotation volume for this task."
+    },
+    {
+      "id": "fetch-hf-2609.07154",
+      "title": "Ambient @ EgoLongQA 2026: Distilling Long-Video perception into a Sub-2B Model",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-09",
+      "description": "We describe our entry to the EgoLongQA track of the Wearable-AI Challenge in ECCV 2026, which placed first in the <=2B parameter division with 0.8279 on the held-out test set. Our system is a single 2B vision-language model that answers mul...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.07154",
+      "hotScore": 89,
+      "content": "We describe our entry to the EgoLongQA track of the Wearable-AI Challenge in ECCV 2026, which placed first in the <=2B parameter division with 0.8279 on the held-out test set. Our system is a single 2B vision-language model that answers multiple-choice questions about ten-minute egocentric videos in one greedy forward pass; It is obtained by distilling the junior perception module of a tool-using agentic pipeline, not the agent itself into a small student, using teacher traces filtered to those that answered correctly. it reaches 89% of the accuracy of the large agentic pipeline using 1.1% of its parameters. This raises a 27.1% base model to 81.4% on our held-out questions. The 2B backbone has 2.2132B parameters and therefore over the divisional limit, to make the entry admissable we prune the multilingual embedding table from 248,320 to 143,469 rows, reaching 1.9985B with provably identical logits on retained rows."
+    },
+    {
+      "id": "fetch-hf-2609.10824",
+      "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-08",
+      "description": "Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resources such as indices, scripts, or procedural guidance. Most automated adaptation methods, however, rely on task e...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.10824",
+      "hotScore": 88,
+      "content": "Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resources such as indices, scripts, or procedural guidance. Most automated adaptation methods, however, rely on task examples, trajectories, or evaluation feedback to decide what to build. Existing task-agnostic approaches avoid this supervision but commit in advance to a preparation strategy for a particular type of environment. We study a more open-ended setting: can an agent study an unfamiliar environment without a syllabus, i.e. before test time and without knowledge of the downstream task distribution, and choose how to prepare it? We formalize task-agnostic environment preprocessing, in which a studying system explores an environment under a budget and produces artifacts for a frozen solver. We compare unaided and archive-equipped meta-agents with fixed synthetic-practice and corpus-processing methods across six heterogeneous benchmarks. A meta-agent variant achieves the highest Avg@3 reward on five benchmarks, while fixed corpus processing remains best on the largest corpus benchmark. Larger study budgets do not reliably improve downstream reward. Nevertheless, studied artifacts reduce the test-time sampling needed to reach a given score, demonstrating how reusable preparation can shift computation from repeated test-time attempts to a pre-task study phase."
+    },
+    {
+      "id": "fetch-hf-2609.10297",
+      "title": "TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-08",
+      "description": "GUI agents accumulate high-resolution screenshots as the trajectory unfolds, increasing inference latency and memory usage. Training-free visual token pruning can reduce this cost, but cache reuse introduces a fundamental constraint. Once t...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.10297",
+      "hotScore": 87,
+      "content": "GUI agents accumulate high-resolution screenshots as the trajectory unfolds, increasing inference latency and memory usage. Training-free visual token pruning can reduce this cost, but cache reuse introduces a fundamental constraint. Once tokens are discarded, the corresponding visual evidence cannot be recovered without re-encoding. Pruning therefore becomes an irreversible admission decision that must remain useful for unknown future targets while preserving coverage of operable regions under tight budgets. To address these challenges, we propose \\method{}, a training-free framework for \\textbf{Trajectory-robust Admission and Coverage-aware Evidence ordering}. Specifically, we combine a query-independent layout-derived interaction prior with instruction relevance and feature novelty to rank visual evidence according to both potential future utility and diversity. Then, we reserve part of the budget for native visual tokens distributed across the screen, repairing missing spatial coverage without breaking the ordering. Together, these mechanisms produce a nested token order, allowing retained visual evidence to shrink monotonically across budgets while remaining reusable throughout the trajectory. Finally, our monotone KV contraction incrementally contracts retired frames into compact session state, avoiding repeated visual encoding or pruning. Extensive experiments across six GUI benchmarks and diverse models verify the effectiveness of our proposed  under tight budgets. The source code will be released."
+    },
+    {
+      "id": "fetch-hf-2609.08230",
+      "title": "ActionSplice: In-Flight Action Editing for Interactive World Models",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-07",
+      "description": "Chunk-autoregressive video world models typically condition each generated chunk on one action. An action received during sampling must therefore wait for the next chunk, condition future solver evaluations on a state produced under the pre...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.08230",
       "hotScore": 86,
-      "content": "Neurosymbolic systems rely on mathematical solvers to guarantee reasoning correctness, yet solvers are fundamentally blind to whether a formal translation maintains strict reference-equivalence to a designated formalization. We formalize this vulnerability as Verdict-Preserving-Unfaithfulness (VPU): a failure mode where an incorrect encoding executes successfully and matches the expected verdict. We theoretically prove that structural, verdict-only verification heuristics are mathematically bounded to chance-level detection on these deceptively valid traces. To resolve this, we introduce Generative Verification (GenV), which distills an offline Z3-equivalence oracle into a reference-free, continuous reference-equivalence score by repurposing the language model's native vocabulary space. Mechanistic analysis via decision-projected logit lenses and sparse autoencoders shows this generative readout natively extracts precise spatial error coordinates without explicit localization training. Empirically, our oracle-mined verifier (GenV+HN) achieves 0.961 AUROC in reference-equivalence verification, generalizes zero-shot across unseen translators and divergent formal styles, and yields an 11.3-point downstream accuracy gain in agentic test-time compute allocation."
+      "content": "Chunk-autoregressive video world models typically condition each generated chunk on one action. An action received during sampling must therefore wait for the next chunk, condition future solver evaluations on a state produced under the previous action, or trigger rollback that repeats completed evaluations. We introduce ActionSplice, an inference framework that formulates this problem as Counterfactual State Transport (CST). A lightweight corrector transports the interrupted backbone-native representation toward the matched state induced by the revised action at the same solver step. The world model and sampler remain frozen, and sampling resumes without replaying completed evaluations. The retargeting variant CST*{R} updates the entire active chunk, while the temporal-splicing variant CST*{T} preserves a temporal prefix and updates only the suffix. Across minWM-Wan Action2V and HY-WM1.5, CST*{R} reduces rollback-relative LPIPS by 61.5% and 75.9% relative to direct condition swapping. CST*{T} reduces suffix LPIPS by 56.1% and 77.5%, respectively, while providing 2.73times and 1.69times pixel-ready speedups over waiting. Under the HY-WorldPlay protocol, CST_{R} obtains a PSNR of 25.66 dB, an SSIM of 0.6902, and an LPIPS of 0.1337 against the original rollout."
     }
   ],
   "hfModels": [
@@ -340,8 +340,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 252928721,
-      "likes": 5910,
+      "downloads": 252806720,
+      "likes": 5961,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -356,8 +356,8 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 87549600,
-      "likes": 320,
+      "downloads": 87484661,
+      "likes": 338,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -372,8 +372,8 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 64028390,
-      "likes": 554,
+      "downloads": 63865672,
+      "likes": 582,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -388,8 +388,8 @@
       "name": "electra-base-discriminator",
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
-      "downloads": 59196856,
-      "likes": 159,
+      "downloads": 58989649,
+      "likes": 179,
       "category": "research",
       "tags": [
         "Transformers",
@@ -403,8 +403,8 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 46513338,
-      "likes": 3285,
+      "downloads": 46435111,
+      "likes": 3337,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -419,8 +419,8 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 45734237,
-      "likes": 1372,
+      "downloads": 45436675,
+      "likes": 1395,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -435,8 +435,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 37590799,
-      "likes": 3498,
+      "downloads": 37522521,
+      "likes": 3556,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -451,8 +451,8 @@
       "name": "t5-small",
       "owner": "Community",
       "fullName": "google-t5/t5-small",
-      "downloads": 24558821,
-      "likes": 605,
+      "downloads": 24567648,
+      "likes": 627,
       "category": "research",
       "tags": [
         "Translation",
@@ -467,8 +467,8 @@
       "name": "all-mpnet-base-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-mpnet-base-v2",
-      "downloads": 23712269,
-      "likes": 1354,
+      "downloads": 23483303,
+      "likes": 1374,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -483,8 +483,8 @@
       "name": "chronos-2",
       "owner": "Community",
       "fullName": "amazon/chronos-2",
-      "downloads": 22787542,
-      "likes": 448,
+      "downloads": 22620722,
+      "likes": 473,
       "category": "research",
       "tags": [
         "Time-series-forecasting",
@@ -498,39 +498,39 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "title": "Waymo opens robotaxi service in Las Vegas",
       "source": "TechCrunch Gadgets",
-      "date": "2026-09-11",
-      "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A....",
+      "date": "2026-09-14",
+      "description": "Las Vegas will be Waymo's 15th commercial robotaxi market....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "hotScore": 89,
-      "content": "The round for the two-year-old startup is coming together months after Mecka announced its Series A...."
+      "url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
+      "hotScore": 96,
+      "content": "Las Vegas will be Waymo's 15th commercial robotaxi market...."
     },
     {
       "id": "fetch-gadget-1",
-      "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
       "source": "TechCrunch Gadgets",
-      "date": "2026-09-11",
-      "description": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on....",
-      "category": "research",
+      "date": "2026-09-13",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it....",
+      "category": "llm",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-      "hotScore": 90,
-      "content": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on...."
+      "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+      "hotScore": 88,
+      "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it...."
     },
     {
       "id": "fetch-gadget-fb1",
       "title": "Ray-Ban Meta Glasses Add Real-time Translation",
       "source": "Meta Hardware",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "description": "Meta's popular smart glasses now feature real-time audio translation and multimodal AI search that understands the world around you.",
       "category": "image",
       "tags": [
@@ -545,7 +545,7 @@
       "id": "fetch-gadget-fb2",
       "title": "Humane Launches AI Pin 2.0 with Screen Projection",
       "source": "Humane News",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "description": "Humane introduced a new version of its AI Pin featuring a brighter laser ink projection, faster responses, and offline LLM capabilities.",
       "category": "tooling",
       "tags": [
