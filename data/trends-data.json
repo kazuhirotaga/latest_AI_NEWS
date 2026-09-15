@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-14T17:07:45.357Z",
+  "updatedAt": "2026-09-15T02:06:04.414Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 389667,
-      "forks": 81917,
+      "stars": 389712,
+      "forks": 81925,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 286574,
-      "forks": 25636,
+      "stars": 286713,
+      "forks": 25645,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 245410,
-      "forks": 51109,
+      "stars": 245534,
+      "forks": 51154,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 204273,
-      "forks": 60665,
+      "stars": 204321,
+      "forks": 60671,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187325,
-      "forks": 46019,
+      "stars": 187344,
+      "forks": 46016,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 180325,
-      "forks": 9791,
+      "stars": 180454,
+      "forks": 9790,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 170312,
-      "forks": 21909,
+      "stars": 170350,
+      "forks": 21913,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164935,
-      "forks": 30555,
+      "stars": 164939,
+      "forks": 30553,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 158533,
-      "forks": 46136,
+      "stars": 158543,
+      "forks": 46137,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 155700,
-      "forks": 24590,
+      "stars": 155737,
+      "forks": 24597,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 152010,
-      "forks": 22241,
+      "stars": 152058,
+      "forks": 22248,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 146310,
-      "forks": 24449,
+      "stars": 146339,
+      "forks": 24452,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 143617,
-      "forks": 34811,
+      "stars": 143632,
+      "forks": 34810,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 136713,
-      "forks": 12266,
+      "stars": 136812,
+      "forks": 12271,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 133103,
-      "forks": 15717,
+      "stars": 133177,
+      "forks": 15731,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -259,79 +259,79 @@
   ],
   "aiNews": [
     {
-      "id": "fetch-hf-2609.07099",
-      "title": "Ambient @ EgoProactive 2026 : Proactive Egocentric Assistance with Visually Grounded Supervision",
+      "id": "fetch-hf-2609.15128",
+      "title": "Omni-Streaming Thinking",
       "source": "Hugging Face Daily",
-      "date": "2026-09-09",
-      "description": "We present our submission to the EgoProactive track of the ECCV 2026 Wearable AI Challenge, which ranked first in the large-model division and second in the <=2B division. The task requires a wearable assistant to decide after each eight-se...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.07099",
-      "hotScore": 90,
-      "content": "We present our submission to the EgoProactive track of the ECCV 2026 Wearable AI Challenge, which ranked first in the large-model division and second in the <=2B division. The task requires a wearable assistant to decide after each eight-second segment of egocentric video whether to intervene or remain silent.\n  Our approach has two main components. First, we reformulate intervention timing as single-token classification. Rather than generating either interrupt<utterance> or silent, the model predicts yes or no, and we derive the decision from the renormalised probabilities of these two tokens. This formulation improved macro-F1 by 0.249 and G-mean by 0.30 over free-form generation. Second, because labelled data were limited to the released validation set, we generated additional supervision using a tool-calling video agent that inspects each clip and assigns intervention timestamps. A narration-only alternative was four times larger and ten times cheaper, but transferred worse than supervision from an unrelated real corpus, suggesting that visual grounding is more important than annotation volume for this task."
-    },
-    {
-      "id": "fetch-hf-2609.07154",
-      "title": "Ambient @ EgoLongQA 2026: Distilling Long-Video perception into a Sub-2B Model",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-09",
-      "description": "We describe our entry to the EgoLongQA track of the Wearable-AI Challenge in ECCV 2026, which placed first in the <=2B parameter division with 0.8279 on the held-out test set. Our system is a single 2B vision-language model that answers mul...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.07154",
-      "hotScore": 89,
-      "content": "We describe our entry to the EgoLongQA track of the Wearable-AI Challenge in ECCV 2026, which placed first in the <=2B parameter division with 0.8279 on the held-out test set. Our system is a single 2B vision-language model that answers multiple-choice questions about ten-minute egocentric videos in one greedy forward pass; It is obtained by distilling the junior perception module of a tool-using agentic pipeline, not the agent itself into a small student, using teacher traces filtered to those that answered correctly. it reaches 89% of the accuracy of the large agentic pipeline using 1.1% of its parameters. This raises a 27.1% base model to 81.4% on our held-out questions. The 2B backbone has 2.2132B parameters and therefore over the divisional limit, to make the entry admissable we prune the multilingual embedding table from 248,320 to 143,469 rows, reaching 1.9985B with provably identical logits on retained rows."
-    },
-    {
-      "id": "fetch-hf-2609.10824",
-      "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-08",
-      "description": "Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resources such as indices, scripts, or procedural guidance. Most automated adaptation methods, however, rely on task e...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.10824",
-      "hotScore": 88,
-      "content": "Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resources such as indices, scripts, or procedural guidance. Most automated adaptation methods, however, rely on task examples, trajectories, or evaluation feedback to decide what to build. Existing task-agnostic approaches avoid this supervision but commit in advance to a preparation strategy for a particular type of environment. We study a more open-ended setting: can an agent study an unfamiliar environment without a syllabus, i.e. before test time and without knowledge of the downstream task distribution, and choose how to prepare it? We formalize task-agnostic environment preprocessing, in which a studying system explores an environment under a budget and produces artifacts for a frozen solver. We compare unaided and archive-equipped meta-agents with fixed synthetic-practice and corpus-processing methods across six heterogeneous benchmarks. A meta-agent variant achieves the highest Avg@3 reward on five benchmarks, while fixed corpus processing remains best on the largest corpus benchmark. Larger study budgets do not reliably improve downstream reward. Nevertheless, studied artifacts reduce the test-time sampling needed to reach a given score, demonstrating how reusable preparation can shift computation from repeated test-time attempts to a pre-task study phase."
-    },
-    {
-      "id": "fetch-hf-2609.10297",
-      "title": "TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-08",
-      "description": "GUI agents accumulate high-resolution screenshots as the trajectory unfolds, increasing inference latency and memory usage. Training-free visual token pruning can reduce this cost, but cache reuse introduces a fundamental constraint. Once t...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.10297",
-      "hotScore": 87,
-      "content": "GUI agents accumulate high-resolution screenshots as the trajectory unfolds, increasing inference latency and memory usage. Training-free visual token pruning can reduce this cost, but cache reuse introduces a fundamental constraint. Once tokens are discarded, the corresponding visual evidence cannot be recovered without re-encoding. Pruning therefore becomes an irreversible admission decision that must remain useful for unknown future targets while preserving coverage of operable regions under tight budgets. To address these challenges, we propose \\method{}, a training-free framework for \\textbf{Trajectory-robust Admission and Coverage-aware Evidence ordering}. Specifically, we combine a query-independent layout-derived interaction prior with instruction relevance and feature novelty to rank visual evidence according to both potential future utility and diversity. Then, we reserve part of the budget for native visual tokens distributed across the screen, repairing missing spatial coverage without breaking the ordering. Together, these mechanisms produce a nested token order, allowing retained visual evidence to shrink monotonically across budgets while remaining reusable throughout the trajectory. Finally, our monotone KV contraction incrementally contracts retired frames into compact session state, avoiding repeated visual encoding or pruning. Extensive experiments across six GUI benchmarks and diverse models verify the effectiveness of our proposed  under tight budgets. The source code will be released."
-    },
-    {
-      "id": "fetch-hf-2609.08230",
-      "title": "ActionSplice: In-Flight Action Editing for Interactive World Models",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-07",
-      "description": "Chunk-autoregressive video world models typically condition each generated chunk on one action. An action received during sampling must therefore wait for the next chunk, condition future solver evaluations on a state produced under the pre...",
+      "date": "2026-09-13",
+      "description": "Streaming omni-modal models must decide what and when to answer from the video chunks and synchronized audio observed so far. Visual cues often support an interpretation before an utterance or sound event is complete. If that interpretation...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2609.08230",
+      "url": "https://huggingface.co/papers/2609.15128",
+      "hotScore": 90,
+      "content": "Streaming omni-modal models must decide what and when to answer from the video chunks and synchronized audio observed so far. Visual cues often support an interpretation before an utterance or sound event is complete. If that interpretation enters memory as a fact, later reasoning can keep relaying it even after audio contradicts it. We call this failure premature cross-modal commitment. We propose Omni-Streaming Thinking (OST), which generates structured outputs that include evidence observed so far, forecasts of future evidence, and claims based on this evidence. Each claim is initially marked as pending and linked to a future verification interval. Audio and visual evidence are stored separately, and OST checks a claim against the evidence from the specified modality at the end of the verification interval. When contradictory evidence is detected, a refutation process reduces the influence of the claim and its dependent states, and then guides a state update using the new evidence. An answer gate decides whether the answer-critical claims meet the conditions for giving a response. Using a frozen Qwen3-Omni-30B-A3B-Instruct backbone with lightweight adaptation, OST outperforms the strongest open baselines on five streaming and audio-visual benchmarks by more than 10% relative on average. We also introduce OST-DiagBench, which holds video fixed and edits audio to test agreement, absence, contradiction, coexistence, and subtitle-speech conflict. OST reaches d-prime = 2.95, compared with at most 1.38 for open baselines, while reducing vision-induced auditory hallucinations."
+    },
+    {
+      "id": "fetch-hf-2609.08365",
+      "title": "ReMoMask-2: Latent Retrieval-Augmented Masked Motion Generation",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-07",
+      "description": "Text-to-motion (T2M) generation maps natural language to human joint movements, aiding gaming, VR, and robotics. Retrieval-Augmented Text-to-Motion (RAG-T2M) improves generation on complex descriptions by conditioning on retrieved motion-te...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.08365",
+      "hotScore": 89,
+      "content": "Text-to-motion (T2M) generation maps natural language to human joint movements, aiding gaming, VR, and robotics. Retrieval-Augmented Text-to-Motion (RAG-T2M) improves generation on complex descriptions by conditioning on retrieved motion-text pairs. However, existing RAG-T2M models face two challenges: coarse-grained retrieval and fusion mechanisms overlook the hierarchical, spatial-temporal topology of human motion, and a representation gap exists because retrieved evidence resides in a semantic space separate from the generator's latents. To address the first, we present ReMoMask, a structure-aware RAG framework coupling Hierarchical Bidirectional Momentum (HBM) contrastive learning to align global and part-level features with text; Semantic Spatial-Temporal Attention (SSTA) for topology-aware fusion; and Topology Structured Masking (TSM) to force robust part-level grounding via adaptive masking. To address the second, we introduce ReMoMask-2, which rebuilds the retrieval database directly within the generator's pre-quantization latent space and aligns text queries via a distilled lightweight projector, allowing the generator to directly consume the retrieved motion's semantic content. Extensive experiments on HumanML3D, KIT-ML, and SnapMoGen demonstrate our retriever achieves state-of-the-art accuracy, while ReMoMask-2 attains the lowest FID on KIT-ML and SnapMoGen; notably, its single mask-transformer stage surpasses ReMoMask's full two-stage pipeline and delivers the fastest inference."
+    },
+    {
+      "id": "fetch-hf-2609.06251",
+      "title": "MobileVLA-R1 2.0: RL-Enhanced Reasoning for Mobile Robot Control",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-04",
+      "description": "Grounding natural-language instructions into reliable and executable actions remains a fundamental challenge for vision-language-action (VLA) systems on mobile robots, due to the persistent gap between high-level semantic reasoning and low-...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.06251",
+      "hotScore": 88,
+      "content": "Grounding natural-language instructions into reliable and executable actions remains a fundamental challenge for vision-language-action (VLA) systems on mobile robots, due to the persistent gap between high-level semantic reasoning and low-level locomotion and manipulation control. Existing approaches often rely on implicit reasoning or monolithic action prediction, making it difficult to maintain coherent long-horizon decision making while producing precise and adaptable robot actions. To address this challenge, we propose MobileVLA-R1 2.0, an RL-enhanced VLA framework that explicitly couples structured embodied reasoning with executable mobile robot control. The framework learns multi-granularity reasoning over embodied trajectories through supervised Chain-of-Thought (CoT) alignment and reinforcement learning, improving reasoning-to-action consistency beyond purely behavioral supervision. To support both locomotion and manipulation, we further introduce a reasoning-conditioned action decoder that maps multimodal reasoning representations to task-level action targets, which are subsequently translated into embodiment-specific commands by robot controllers. This design provides a unified perception-reasoning-action interface while decoupling high-level action generation from robot-specific actuation. We conduct extensive evaluations on language-guided navigation, quadruped control, and humanoid mobile manipulation, covering VLN-CE, QUARD, and real-world deployments on Unitree Go2 and G1 robots. MobileVLA-R1 2.0 consistently outperforms strong VLA baselines, achieving an average 1.6 point improvement in SR on VLN-CE and a 10.0 point improvement in full-task success on real-world G1 mobile manipulation tasks over MobileVLA-R1, while demonstrating robust long-horizon instruction following and closed-loop execution across different robotic platforms."
+    },
+    {
+      "id": "fetch-hf-2609.11977",
+      "title": "Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-03",
+      "description": "Co-work agents execute complex workflows that combine information gathering, tool use, coding, and file manipulation across many model invocations. Because cost and latency accumulate over the full episode, their practical value depends not...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.11977",
+      "hotScore": 87,
+      "content": "Co-work agents execute complex workflows that combine information gathering, tool use, coding, and file manipulation across many model invocations. Because cost and latency accumulate over the full episode, their practical value depends not only on peak capability but also on how efficiently that capability is delivered. Yet many steps in everyday work emphasize state tracking, coordination, recovery, and follow-through rather than frontier-scale reasoning. We present Occamy-1.0, a cost-efficient co-work model obtained by further training the post-trained Qwen3.6-35B-A3B checkpoint. We construct execution-grounded data and environments, capture replayable long-horizon trajectories across multiple harnesses, and use staged post-training to develop and consolidate complementary execution capabilities. Across a broad suite of co-work benchmarks, Occamy-1.0 is consistently among the strongest comparably sized models and remains competitive with substantially larger frontier systems on several tasks. Under our stated evaluation and pricing protocol, its aggregate performance across four representative benchmarks places it at the low-cost knee of the observed cost--performance Pareto frontier. Supporting evaluations in tool calling, coding, and instruction following further show that this specialization preserves broad agentic capability. We release the model weights and a subset of the training data to support research on practical co-work agents and agentic post-training."
+    },
+    {
+      "id": "fetch-hf-2609.12036",
+      "title": "Pelican-Sim 1.0: A General World Model Simulator for Embodied Intelligence",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-09",
+      "description": "In this technical report, we propose Pelican-Sim 1.0, a general world model simulator for embodied intelligence that predicts future observations from visual context and robot actions to support downstream learning and decision making. The ...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.12036",
       "hotScore": 86,
-      "content": "Chunk-autoregressive video world models typically condition each generated chunk on one action. An action received during sampling must therefore wait for the next chunk, condition future solver evaluations on a state produced under the previous action, or trigger rollback that repeats completed evaluations. We introduce ActionSplice, an inference framework that formulates this problem as Counterfactual State Transport (CST). A lightweight corrector transports the interrupted backbone-native representation toward the matched state induced by the revised action at the same solver step. The world model and sampler remain frozen, and sampling resumes without replaying completed evaluations. The retargeting variant CST*{R} updates the entire active chunk, while the temporal-splicing variant CST*{T} preserves a temporal prefix and updates only the suffix. Across minWM-Wan Action2V and HY-WM1.5, CST*{R} reduces rollback-relative LPIPS by 61.5% and 75.9% relative to direct condition swapping. CST*{T} reduces suffix LPIPS by 56.1% and 77.5%, respectively, while providing 2.73times and 1.69times pixel-ready speedups over waiting. Under the HY-WorldPlay protocol, CST_{R} obtains a PSNR of 25.66 dB, an SSIM of 0.6902, and an LPIPS of 0.1337 against the original rollout."
+      "content": "In this technical report, we propose Pelican-Sim 1.0, a general world model simulator for embodied intelligence that predicts future observations from visual context and robot actions to support downstream learning and decision making. The model incorporates four key design features: (1) Unified action representation: a 28-dimensional action value space covering most mainstream embodiments, keeping one model valid across heterogeneous devices. (2) Action-visual injection: URDF- and camera-rendered action videos bridge actions and pixels, giving markedly better controllability across embodiments, scenes, and tasks (PSNR +0.904 over alternative fusion baselines). (3) Sparse mixture-of-experts (MoE): sparse MoE layers add capacity for heterogeneous dynamics and absorb the action modality while reducing inter-modality conflict (FVD -6.530 vs. the dense backbone). (4) Efficient rollout generation: causal adaptation and few-step distillation yield a four-step autoregressive simulator, achieving a 5.67-fold speedup over the 35-step model. Benefiting from these designs, we train on approximately one million real-world and simulated trajectories and obtain large gains in action controllability and video quality: PSNR improves over the strongest evaluated baselines by 4.636 on AgiBotWorld Beta, 2.080 on RoboMIND, and 10.343 on RoboTwin, with the adapted EWMBench DYN score up 0.426 on RoboTwin. Relying on this, four downstream applications on RoboTwin succeed: 500 generated trajectories added to 50 demonstrations per task raise policy success from 70% to 93%; policy evaluation reaches a Pearson correlation of 0.994 across five checkpoints; and relative success gains reach 47.7% for action selection and 20.3% for policy improvement. Qualitative generalization across trajectory, scene, object, embodiment, and viewpoint shifts highlights its potential as a general-purpose world model simulator."
     }
   ],
   "hfModels": [
@@ -341,7 +341,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 252806720,
-      "likes": 5961,
+      "likes": 5970,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -357,7 +357,7 @@
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
       "downloads": 87484661,
-      "likes": 338,
+      "likes": 339,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -420,7 +420,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "downloads": 45436675,
-      "likes": 1395,
+      "likes": 1396,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -468,7 +468,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-mpnet-base-v2",
       "downloads": 23483303,
-      "likes": 1374,
+      "likes": 1375,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -508,29 +508,14 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
-      "hotScore": 96,
+      "hotScore": 91,
       "content": "Las Vegas will be Waymo's 15th commercial robotaxi market...."
-    },
-    {
-      "id": "fetch-gadget-1",
-      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-09-13",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it....",
-      "category": "llm",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-      "hotScore": 88,
-      "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it...."
     },
     {
       "id": "fetch-gadget-fb1",
       "title": "Ray-Ban Meta Glasses Add Real-time Translation",
       "source": "Meta Hardware",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "description": "Meta's popular smart glasses now feature real-time audio translation and multimodal AI search that understands the world around you.",
       "category": "image",
       "tags": [
@@ -545,7 +530,7 @@
       "id": "fetch-gadget-fb2",
       "title": "Humane Launches AI Pin 2.0 with Screen Projection",
       "source": "Humane News",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "description": "Humane introduced a new version of its AI Pin featuring a brighter laser ink projection, faster responses, and offline LLM capabilities.",
       "category": "tooling",
       "tags": [
