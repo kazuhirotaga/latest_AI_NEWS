@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-16T01:57:20.139Z",
+  "updatedAt": "2026-09-16T15:39:20.636Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 389796,
-      "forks": 81937,
+      "stars": 389844,
+      "forks": 81947,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 287183,
-      "forks": 25682,
+      "stars": 287519,
+      "forks": 25716,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 245888,
-      "forks": 51314,
+      "stars": 246090,
+      "forks": 51404,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 204449,
-      "forks": 60691,
+      "stars": 204562,
+      "forks": 60711,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187368,
-      "forks": 46012,
+      "stars": 187385,
+      "forks": 46009,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 180902,
-      "forks": 9810,
+      "stars": 181163,
+      "forks": 9818,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 170432,
-      "forks": 21917,
+      "stars": 170470,
+      "forks": 21927,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164959,
-      "forks": 30689,
+      "stars": 164962,
+      "forks": 30774,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 158589,
-      "forks": 46134,
+      "stars": 158603,
+      "forks": 46136,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 155867,
-      "forks": 24619,
+      "stars": 155955,
+      "forks": 24634,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 152219,
-      "forks": 22279,
+      "stars": 152276,
+      "forks": 22285,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 146406,
-      "forks": 24471,
+      "stars": 146449,
+      "forks": 24485,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 143654,
-      "forks": 34815,
+      "stars": 143663,
+      "forks": 34814,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 137068,
-      "forks": 12277,
+      "stars": 137274,
+      "forks": 12289,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 133399,
-      "forks": 15782,
+      "stars": 133503,
+      "forks": 15797,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,195 +260,196 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "Hessian-based molecular conformation augmentation for a scalable and efficient strategy of machine learning interatomic potentials",
+      "title": "Faster Results from a Smarter Schedule: Reframing Collegiate Cross Country through Analysis of the National Running Club Database",
       "source": "arXiv.org",
-      "date": "2026-09-04",
-      "description": "While machine-learning interatomic potentials (MLIPs) have successfully learned potential energy surfaces (PES) and atomic forces, many practical applications, such as vibrational analysis and transition state search, rely heavily on the PE...",
-      "category": "tooling",
+      "date": "2025-09-12",
+      "description": "Collegiate cross country teams often build their season schedules on intuition rather than evidence, partly because large-scale performance datasets were not publicly accessible prior to the National Running Club Database (NRCD). We analyze...",
+      "category": "research",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2609.05233v2",
-      "hotScore": 81,
-      "content": "While machine-learning interatomic potentials (MLIPs) have successfully learned potential energy surfaces (PES) and atomic forces, many practical applications, such as vibrational analysis and transition state search, rely heavily on the PES Hessian. Yet standard MLIPs are trained on energy and forces alone, and existing methods that incorporate the Hessian into training objectives require architectural modifications and incur significant computational and memory overheads from higher-order backpropagation. To address these limitations, we propose two Hessian-derived data augmentation schemes: isotropic Gaussian displacement (\\textbf{UniAug}) and normal mode-weighted displacement (\\textbf{ModeAug}). Both methods utilize simple Taylor expansions, achieving effective augmentation without altering training objectives or extending the autograd graph. This allows seamless, plug-and-play integration with existing architectures and training pipelines. Comprehensive evaluations across non-equilibrium and equilibrium datasets demonstrate that our approach enhances model accuracy where reference forces are large while providing practical, task-specific guidelines."
+      "url": "http://arxiv.org/abs/2509.10600v6",
+      "hotScore": 86,
+      "content": "Collegiate cross country teams often build their season schedules on intuition rather than evidence, partly because large-scale performance datasets were not publicly accessible prior to the National Running Club Database (NRCD). We analyze the comprehensive-era Cross Country subset of NRCD, 23,360 results from 7,056 athletes (2023-2025; &gt;99% course/weather coverage). Under leakage control and temporal validation, race-result features do not support out-of-year forecasting of individual improvement (best men's R^2 = 0.044; women's -0.018), capturing only a small fraction of the outcome's reliability ceiling (approximately 0.23-0.28). Against this null, team race frequency associates with nationals placement (pooled RR = 2.09; GEE OR = 2.56/SD). Program-wide opportunity (roster depth; Effective Racing Opportunity) outranks a single workhorse's max race count cross-sectionally, but overall team depth for race count is controlled. Converted Only times (not adjusted for weather and elevation) overstate mean first-to-last gains by 15-21 s relative to Standardized. These results challenge coaching practices that treat schedule design as purely anecdotal and show how NRCD enables evidence-based decision-making in collegiate cross country."
     },
     {
       "id": "fetch-paper-1",
-      "title": "AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET",
+      "title": "ICON Decomposition: Auditing deep neural networks for shortcuts by decomposing layer-wise representations using concepts",
+      "source": "arXiv.org",
+      "date": "2026-08-26",
+      "description": "Deep neural networks often exploit spurious associations, a failure known as shortcut learning. Before deployment, models should be audited for reliance on a set of concepts, such as acquisition artifacts or demographics. Current methods, s...",
+      "category": "research",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2608.26083v3",
+      "hotScore": 89,
+      "content": "Deep neural networks often exploit spurious associations, a failure known as shortcut learning. Before deployment, models should be audited for reliance on a set of concepts, such as acquisition artifacts or demographics. Current methods, such as linear probes and concept activation vectors, measure reliance by asking whether each concept, in isolation, is decodable from a layer. Their scores therefore reflect not only reliance but also correlations in the audit dataset. We introduce Independent Canonical cONcept (ICON) decomposition, which quantifies the share of a layer's variance each concept explains, conditional on all other concepts and the outcome. ICON scores are variance shares, comparable across layers and between continuous and categorical concepts. ICON also reports the share the set leaves unexplained. On simulated data, ICON recovers the true importance more accurately than seven baselines. On skin-cancer and neuroimaging models, ICON distinguishes learned shortcuts from correlated concepts, confirmed by retraining and out-of-distribution tests."
+    },
+    {
+      "id": "fetch-paper-2",
+      "title": "Agentic Societies Need a Social Harness",
       "source": "arXiv.org",
       "date": "2026-09-15",
-      "description": "Thermal optimization of 2D CFET inverters requires testing structural proposals against their electrical costs. We examine these research tasks using an AI agent workflow within a supplied electrothermal model. At 12 nm, Astra selects a red...",
+      "description": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentally that in agentic societies even honest,...",
       "category": "agent",
       "tags": [
         "Research",
         "Agent"
       ],
-      "url": "http://arxiv.org/abs/2609.17123v1",
-      "hotScore": 91,
-      "content": "Thermal optimization of 2D CFET inverters requires testing structural proposals against their electrical costs. We examine these research tasks using an AI agent workflow within a supplied electrothermal model. At 12 nm, Astra selects a redistributed source-interconnect geometry, while a coordinating agent proposes a substrate-directed heat-removal path. The combined design reduces peak temperature rise by 1.67 K at fixed metal volume and 20 μW. A subsequent metal-resistance sensitivity gives about 0.6-K inverter cooling alongside a 2% nFET on-current loss. Effective contact-length scaling further shows that lower temperature can accompany higher thermal resistance when current falls. Reproduction identifies agreeing implementations and retains a 104.95-K failure for diagnosis. These results show that an AI scientist workflow can propose thermal structures, test them under common constraints, and quantify their electrical cost."
-    },
-    {
-      "id": "fetch-paper-2",
-      "title": "TARC: Time-Adaptive Robotic Control",
-      "source": "arXiv.org",
-      "date": "2025-10-27",
-      "description": "Most robotic systems rely on fixed-frequency discrete-time controllers, creating a trade-off between the efficiency of low-frequency control and the responsiveness of high-frequency feedback. As a result, systems typically default to high c...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2510.23176v2",
-      "hotScore": 80,
-      "content": "Most robotic systems rely on fixed-frequency discrete-time controllers, creating a trade-off between the efficiency of low-frequency control and the responsiveness of high-frequency feedback. As a result, systems typically default to high control rates for robustness, at the cost of wasted inference and unnecessary actuation. Addressing this, we introduce Time-Adaptive Robotic Control (TARC), a reinforcement learning framework in which the policy jointly predicts a control action and its duration of application. TARC learns temporally extended actions by optimizing task performance under soft or hard constraints on the number of control switches, enabling adaptive modulation of control rates. We evaluate TARC on two robotic hardware platforms: a high-speed RC car and the Unitree Go1 quadruped, and on a vision-language action model in simulation, where each query incurs a costly transformer forward pass. Across all settings, TARC matches the performance of high-frequency discrete-time controllers while operating at less than half their control frequency. Unlike fixed-rate controllers, TARC adapts its control frequency online, allocating high-frequency feedback only when required."
+      "url": "http://arxiv.org/abs/2609.17527v1",
+      "hotScore": 87,
+      "content": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentally that in agentic societies even honest, competent agents often fail to reach satisfactory outcomes with existing harnesses and messaging primitives, and that faulty or malicious agents can stall collaboration, influence outcomes, and pursue other harmful goals by exploiting vulnerabilities in communication (``speech''). We argue that agentic societies need a \\emph{social harness} for inter-agent interactions, in addition to each agent's \\emph{personal harness}, which manages its private context and communication with its principal. We propose a layered architecture for social harnesses which (i) prevents classes of failures outright, (ii) enables agents to detect invalid messages at runtime, and (iii) supports post-facto investigation and consequences, and highlight directions for future research to realize these capabilities."
     },
     {
       "id": "fetch-paper-3",
-      "title": "An Empirical Study of Counterfactual Self-Explanations in LLMs",
+      "title": "Same Problem, Different Field: Cross-Domain Solution Import via Domain-Stripped Computational Fingerprints",
       "source": "arXiv.org",
-      "date": "2026-09-15",
-      "description": "Large language models can easily generate explanations for their own outputs, but such self-explanations are not necessarily faithful to the model's behavior. We study this issue through counterfactual self-explanations, where a model minim...",
+      "date": "2026-09-07",
+      "description": "The same underlying computational problem is solved across unrelated fields under different names: recursive Bayesian state estimation appears as a \"Kalman filter\" in control, \"Bayesian forecasting\" in pharmacokinetics, and \"data assimilati...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2609.17119v1",
-      "hotScore": 81,
-      "content": "Large language models can easily generate explanations for their own outputs, but such self-explanations are not necessarily faithful to the model's behavior. We study this issue through counterfactual self-explanations, where a model minimally edits an input so that its own prediction changes. Across sentiment analysis and natural language inference, we evaluate ten instruction-tuned models from the LLaMA-3 and Qwen-2.5 families, measuring faithfulness, minimality, and alignment with human-annotated rationales. Our results show that model scale is the strongest determinant of explanation quality: larger models are substantially more likely to generate counterfactuals that flip their own predictions and target decision-relevant evidence. In contrast, the rationale-guided condition produces edit-minimal counterfactuals that are also more human-aligned. However, it does not consistently improve faithfulness. Overall, counterfactual self-explanations can provide useful behavioral evidence about model decisions, but their reliability depends strongly on model capacity and should be empirically validated rather than assumed."
+      "url": "http://arxiv.org/abs/2609.07595v2",
+      "hotScore": 92,
+      "content": "The same underlying computational problem is solved across unrelated fields under different names: recursive Bayesian state estimation appears as a \"Kalman filter\" in control, \"Bayesian forecasting\" in pharmacokinetics, and \"data assimilation\" in geoscience. Topical and citation-based scientific embeddings cannot see this shared problem. We distill each paper once into a domain- and method-name-stripped faceted computational fingerprint, a free-text mechanism skeleton plus controlled computational facets. We define a tunable, facet-selectable similarity over it. The goal is solution import: surface cross-field pairs solving the same problem, so a bespoke implementation can be swapped for another field's standard, specialized solver. On a benchmark of 18 method families across 109 papers, the skeleton lifts cross-domain retrieval average precision over the abstract from 0.222 to 0.513, and the whole fingerprint reaches 0.557. Strikingly, four trained scientific embedders all fall below plain abstract+TF-IDF: they encode topical and citation similarity, the wrong signal for this task. The gain is the representation: the abstract-to-skeleton swap lifts every embedder, and the pipeline is one cached LLM call per paper plus a cheap embedder. An interventional re-skin / math-edit test shows the fingerprint tracks the computation, not the field. On a 501-paper wild corpus, known twins dominate the top of the ranking (23 of the top 30); with planted pairs excluded from the results, three blind LLM judges rate 3 of the top 5 and 8 of the top 30 pairs genuine import candidates, and 0 of 30 random ones. The human verification is the four executed imports: in one, an open standard solver reproduces a bespoke clinical dosing engine's output. We release the benchmark, the code, and the distillation prompt."
     },
     {
       "id": "fetch-paper-4",
-      "title": "Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement",
-      "source": "arXiv.org",
-      "date": "2026-09-15",
-      "description": "Vision-language-action (VLA) systems already bring together two valuable resources for robot learning: rich visual representations and demonstrations of successful task execution. Intrinsic Robot Rewarding (IRR) proposes to use these resour...",
-      "category": "tooling",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2609.17115v1",
-      "hotScore": 88,
-      "content": "Vision-language-action (VLA) systems already bring together two valuable resources for robot learning: rich visual representations and demonstrations of successful task execution. Intrinsic Robot Rewarding (IRR) proposes to use these resources for a second, complementary purpose: evaluating the robot's own outcomes and providing feedback for policy improvement. Successful demonstration endpoints define task-specific references, and the policy's frozen visual encoder provides the feature space in which new outcomes are assessed. The core reward mechanism adds a reference bank and a scoring operation to the existing pipeline, without requiring a separate learned evaluator or an additional perception backbone. Our position is that this reuse offers a promising route to lower integration effort, efficient reward computation, and reduced recurring human outcome scoring. Building on established research in visual rewards and learning from experience, IRR brings these ideas into the robot's existing perception and demonstration pipeline. An operational COMAU Racer 3 demonstrator is available at technology readiness level 4 (TRL 4). This laboratory foundation supports the next research step: connecting internal outcome evaluation to physical policy improvement. We present the reward formulation, central research questions, and an evaluation methodology linking reward reliability to task success and supervision effort. The intended contribution is a reusable approach to learn and improve from the data and experience already available in industrial robot systems."
-    },
-    {
-      "id": "fetch-paper-5",
-      "title": "Where Should Language Sit in a Multimodal Model? Lessons from What Language Does to Human Perception and Cognition",
-      "source": "arXiv.org",
-      "date": "2026-09-07",
-      "description": "Language models compute over tokens: language is their input, their output, and increasingly their internal representation. Whether language should keep all of these positions depends on what language does to the system that uses it. The on...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2609.07474v3",
-      "hotScore": 92,
-      "content": "Language models compute over tokens: language is their input, their output, and increasingly their internal representation. Whether language should keep all of these positions depends on what language does to the system that uses it. The one system with a century of data on that question is the human. We review what language does to human perception, the brain, and thought, and read the same evidence against multimodal models and language models. Throughout, we treat language as a compressor that runs on a shared codebook: a word is an index, the content is in the receiver, and a community maintains the codebook. In humans the compression is measurable, learning the codebook reorganizes the senses, and thought survives the loss of language. We then measure the rule that models apply when two cues disagree, with cue-conflict experiments on six vision-language models and two robot policies. Surviving cues are weighted in the order their reliabilities prescribe, at 11 to 82\\% of the ideal observer's slope, and many answers copy the text. One policy family drops a cue that adds no information beyond the others rather than down-weighting it, another keeps it at a weight that fails when the cues conflict, and a visual cue that identifies the task in every training frame is never learned, because the language pathway already fits the data. Language models are the best current models of the human language network, and they have entered the human speech community, shifting word frequencies while alignment narrows their conceptual diversity. We close with seven implications for token-based systems. Language belongs at a model's boundary and in the shared codebook, as in the brain, not as its internal representation; the price of leaving the codebook inside is auditability."
-    },
-    {
-      "id": "fetch-paper-6",
-      "title": "Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs",
-      "source": "arXiv.org",
-      "date": "2026-09-15",
-      "description": "Modelling with mathematical formalisms like logical formulas, mathematical equations, or regular expressions is an important yet challenging task for students of computer science and other STEM disciplines. Identifying common mistakes occur...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2609.17111v1",
-      "hotScore": 90,
-      "content": "Modelling with mathematical formalisms like logical formulas, mathematical equations, or regular expressions is an important yet challenging task for students of computer science and other STEM disciplines. Identifying common mistakes occurring in this context is an important step towards helping struggling students by providing targeted high-quality feedback, e.g. in interactive learning systems. We present a tool-supported workflow that allows to (1) identify candidates for common mistakes that explain many student mistakes in large educational data sets, (2) cluster candidates according to similarities, and (3) visualize resulting clusters for instructors and CS education researchers. The visualization is designed to help researchers to identify common modelling mistakes. The candidates for common mistakes are represented by bug fixing transformations that translate incorrect formalizations into correct formalizations; they are generated by an LLM and validated algorithmically. We show that this approach works well by reproducing common mistakes in propositional logic modelling that were identified by hand in the literature; showing that, unlike other algorithmic approaches, the LLM-based approach is suitable for very large sets of data; and applying it to multiple other formalisms to showcase it generalizes beyond propositional logic."
-    },
-    {
-      "id": "fetch-paper-7",
-      "title": "Shared-Prefix KV Reuse Across Standard LoRA Adapters: Quality and Serving Tradeoffs",
-      "source": "arXiv.org",
-      "date": "2026-09-15",
-      "description": "A common small-model deployment runs one shared backbone with several LoRA specialists that answer over the same context. Serving them naively re-prefills that shared context once per specialist. We study a narrow, practical question: for a...",
-      "category": "tooling",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2609.17109v1",
-      "hotScore": 83,
-      "content": "A common small-model deployment runs one shared backbone with several LoRA specialists that answer over the same context. Serving them naively re-prefills that shared context once per specialist. We study a narrow, practical question: for already-trained standard LoRA adapters -- not adapters retrained for cache compatibility -- how much task quality is preserved if the backbone's prefill KV cache is computed once and reused across specialists, and what does that buy in serving cost? On a Qwen3-1.7B backbone with two adapters (extractive QA on HotpotQA, arithmetic reasoning on GSM8K), we sweep the boundary at which the specialist takes over from the reused base cache and measure paired quality differences and serving cost. Full-prefix reuse had the lowest prefill cost and a small quality difference on held-out GSM8K (Delta = -4.6 EM at a 160-token budget; -3.0 at 320 tokens; -0.8 under a second training seed -- all favoring native, only the first excluding zero, and the magnitude not consistent). Partial recomputation provided no demonstrated advantage. Neither quality equivalence nor a general boundary-selection rule is established. We also report a closed-form ridge KV translator that did not beat direct reuse, and specialist-dependence contrasts whose intervals all include zero. The measured serving benefit is warm-cache time-to-first-token, which grows with context (~16x at 8K); two-branch peak memory was only 12% lower and, on inspection, the prefix was never physically shared across branches -- this implementation reuses KV values but copies their storage, so shared-cache memory savings are not achieved."
-    },
-    {
-      "id": "fetch-hf-2609.15982",
-      "title": "The Router Within: Eliciting Native Skill Routing from a Frozen LLM",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-13",
-      "description": "Skills extend an LLM agent beyond its parametric knowledge, and the gain they promise rests on picking the right one. Deployed harnesses route by preloading every skill's metadata into the context, which disperses the agent's attention and ...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.15982",
-      "hotScore": 90,
-      "content": "Skills extend an LLM agent beyond its parametric knowledge, and the gain they promise rests on picking the right one. Deployed harnesses route by preloading every skill's metadata into the context, which disperses the agent's attention and caps the library size. Retrieval pipelines move the selection out of the context, but also out of the agent's capability. We show that the frozen agent LLM already carries the routing signal in its own forward passes, and that two linear maps suffice to read it out with no skill text in the context. Gavel (Glance And Verdict from a frozen LLM) reads it in two steps. A glance projects the task's and each skill's mid-layer states through the two maps, the only parameters trained, and scores the full library against compact per-skill banks that one forward pass builds at installation. A verdict then resumes the shortlisted skills' forward passes and reads the model's own likelihood and yes/no judgment, fused with the glance as a product of experts. Trained once, Gavel transfers zero-shot to three public benchmarks and SkillTraj, our new benchmark of 372 simulated agent trajectories. On Qwen3-32B it outperforms progressive disclosure and retrieve-and-rerank pipelines that add 1.2B to 16B external parameters, by up to 13.4 points on written tasks and up to 21.9 when the need for a skill arises mid-rollout. Routing accuracy improves as the backbone does, and in a bash-agent harness the same 32B triggers the correct skill on Skill-Use more often than far larger frontier models running in Codex."
-    },
-    {
-      "id": "fetch-hf-2609.17523",
       "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-14",
+      "source": "arXiv.org",
+      "date": "2026-09-15",
       "description": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks...",
       "category": "agent",
       "tags": [
-        "Hugging Face",
-        "Paper"
+        "Research",
+        "Agent"
       ],
-      "url": "https://huggingface.co/papers/2609.17523",
-      "hotScore": 89,
+      "url": "http://arxiv.org/abs/2609.17523v1",
+      "hotScore": 80,
       "content": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution evidence into tasks and evaluation rubrics for continual learning. At its core is recursive-in-recursive self-improvement, a paradigm that couples harness evolution with model reinforcement learning: the inner recursion improves the harness with the model fixed, while the outer recursion trains the model under the improved harness. Harness evolution shapes training experience, and model learning creates new opportunities for harness adaptation. We present case studies of researcher interaction, harness refinement, and model learning, with the benchmark cases spanning four scientific task families. By releasing ScienceBuddy as a research product, we make this paradigm available to the scientific community and take a step toward discovery intelligence: scientific AI that advances through sustained collaboration with researchers and evolves alongside the research it supports. Website: http://science-buddy.io"
     },
     {
-      "id": "fetch-hf-2609.06986",
-      "title": "Continual Learning Mechanisms Compose for Long-Horizon Memorization",
+      "id": "fetch-paper-5",
+      "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+      "source": "arXiv.org",
+      "date": "2026-09-15",
+      "description": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control schedule before generation s...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2609.17521v1",
+      "hotScore": 85,
+      "content": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control schedule before generation starts, or use pixel-space signals that dictate object positions rather than physical dynamics. To address these limitations, we propose PhysStream, an autoregressive model for physics-grounded image-to-video synthesis that incorporates structured scene memory---positional maps and object tracking maps derived online from previously generated frames---and supports fine-grained motion control via sparse velocity-increment signals that encode physical quantities, letting the model learn the underlying dynamics. We train our model in two stages: a bidirectional model is first finetuned with motion-control conditioning, then a causal autoregressive model is trained with additional structured scene memory, further improving physical consistency. PhysStream enables interactive, mid-generation control over multi-object tabletop rigid-body scenes---a capability not supported by prior methods---reducing motion distribution distance (FVMD) by 33% and trajectory error by 12% over the strongest baselines on synthetic benchmarks, and is preferred by human evaluators in over 85% of in-the-wild comparisons. Please check our website for more details: https://czzzzh.github.io/PhysStream"
+    },
+    {
+      "id": "fetch-paper-6",
+      "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+      "source": "arXiv.org",
+      "date": "2026-09-15",
+      "description": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an explicit assessment of the i...",
+      "category": "llm",
+      "tags": [
+        "Research",
+        "LLM"
+      ],
+      "url": "http://arxiv.org/abs/2609.17516v1",
+      "hotScore": 94,
+      "content": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an explicit assessment of the information required to answer a question. We evaluate three CoSQ variants under seventeen conditions on the 817-item TruthfulQA multiple-choice validation set using eleven open-weight and hosted model families. In the final balanced-option protocol, Grounded-CoSQ at τ=0.90 reduces the mean unconditional wrong-commitment rate from 13.1% under chain-of-thought prompting to 8.9%, a 32.1% relative reduction, while increasing answered accuracy from 86.9% to 89.7% and answering 87.6% of questions. Both improvements hold for all eleven models and at every evaluated threshold. Critical-CoSQ and Adaptive-CoSQ provide neighboring operating points with 88.6% and 86.5% coverage, respectively, while remaining more reliable than the baseline. A secondary Natural Questions Short-Answer evaluation provides convergent open-form evidence. These findings show that self-assessment can support explicit, tunable answer-or-abstain decisions when an unsupported commitment is more costly than referral or review."
+    },
+    {
+      "id": "fetch-paper-7",
+      "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
+      "source": "arXiv.org",
+      "date": "2026-09-15",
+      "description": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation in smart-home tool calling across four LL...",
+      "category": "llm",
+      "tags": [
+        "Research",
+        "LLM"
+      ],
+      "url": "http://arxiv.org/abs/2609.17515v1",
+      "hotScore": 87,
+      "content": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation in smart-home tool calling across four LLMs spanning dense Transformer, dense hybrid, and mixture-of-experts (MoE) architectures, together with depth, width, hybrid, and expert pruning methods. After post-pruning supervised fine-tuning (SFT), we evaluate more than 19,500 instances from three smart-home datasets. Beyond aggregate task accuracy, we characterize degradation along two dimensions: action components (i.e., operation, device, argument, and value) and task complexity. Our results show that dense models have narrow safe pruning regions followed by sharp degradation, while MoE models tolerate substantially more pruning. Pruning degrades grounded specificity before schema-level intent, and aggressive dense pruning can induce systematic over-refusal. These findings highlight the importance of evaluating pruning beyond aggregate accuracy when selecting pruned LLMs for reliable tool execution."
+    },
+    {
+      "id": "fetch-hf-2609.16816",
+      "title": "ImpossibleRubrics: Stress-Testing Generated Rubrics as Reward Signals",
       "source": "Hugging Face Daily",
-      "date": "2026-09-06",
-      "description": "Language models may need to internalize information that arrives over time and retain it through many subsequent updates. To study this challenge, we introduce long-horizon memorization, a setting in which a model learns 100 query-answer ta...",
+      "date": "2026-09-14",
+      "description": "Language model-generated rubrics are increasingly used as reward signals for rubric-based reinforcement learning, LLM-as-a-judge evaluation, and automated grading. Such rubrics are reliable only if they reward honest answers over adversaria...",
       "category": "llm",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2609.06986",
-      "hotScore": 88,
-      "content": "Language models may need to internalize information that arrives over time and retain it through many subsequent updates. To study this challenge, we introduce long-horizon memorization, a setting in which a model learns 100 query-answer tasks through continual supervised fine-tuning without retaining earlier training examples or receiving task identifiers at inference. Sequential updates cause catastrophic forgetting, and no single continual learning mechanism we evaluate maintains strong retention at this horizon. We hypothesize that mechanisms addressing complementary sources of forgetting will be more effective when composed. We organize these compositions along two design dimensions. Data, function, and weight anchors specify what prior information each update should preserve, while low-rank allocation rules determine where successive updates are retained. To test this hypothesis systematically, we construct three distinct 100-task memorization datasets. We introduce task-level successive halving to search the combinatorial design space and use a factorial experiment to measure individual and interaction effects. Our best method combines all three anchors with merged LoRA, ranks among the top 3 methods in all datasets, and raises average final retention from 1.2% under naive sequential fine-tuning to 34.9%, a 28-fold improvement. The data anchor and merged LoRA provide the largest average gains and interact super-additively on all three datasets. Together, these results show that composing complementary mechanisms substantially improves long-horizon memorization beyond what any individual mechanism achieves."
+      "url": "https://huggingface.co/papers/2609.16816",
+      "hotScore": 90,
+      "content": "Language model-generated rubrics are increasingly used as reward signals for rubric-based reinforcement learning, LLM-as-a-judge evaluation, and automated grading. Such rubrics are reliable only if they reward honest answers over adversarial answers optimized to exploit them. Yet their robustness to such optimization remains poorly understood. We isolate the hardest regime: impossible tasks, where the prompt pressures the model toward an unsupported conclusion, so the only honest response is to acknowledge the impossibility. We introduce ImpossibleRubrics, a benchmark of 169 impossible tasks spanning six impossibility categories, each paired with a verifiable oracle certificate specifying what an honest answer may and may not claim, together with 48 answerable controls. Rather than providing fixed rubrics, ImpossibleRubrics provides task environments and certificates, allowing rubrics to be generated downstream and then adversarially tested for whether they reward certificate-violating answers. Eleven generators are exploited 8--26% of the time on the unbiased 150-of-169 environment cut; on a deliberately selected stress cut the strongest generator we measured is still exploited 36% while a certificate-faithful rubric is exploited 0%, so what we measure is a rubric-quality gap, not task impossibility. One result runs against intuition. A single generic rubric (\"be decisive, penalize hedging\") used unchanged for every task is exploited 64% of the time, and seven of the eleven generators are exploited more often than that while writing a rubric tailored to each one. The tailored criteria appear to tell an attacker which claim to fabricate. The problem is not that rubrics are vague; it is that they are specific about the wrong things."
     },
     {
-      "id": "fetch-hf-2609.14708",
-      "title": "Lightning Weave: Improving the Accuracy-Efficiency Frontier of Reasoning Models through Capability Composition",
+      "id": "fetch-hf-2609.14011",
+      "title": "Convergent Emergence of In-Context Learning Across Modalities",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-11",
+      "description": "Few-shot in-context learning (ICL), the capacity of a model to infer abstract patterns from input-output examples provided in its prompt and apply them to new inputs, has been extensively studied in large language models trained for next-to...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.14011",
+      "hotScore": 89,
+      "content": "Few-shot in-context learning (ICL), the capacity of a model to infer abstract patterns from input-output examples provided in its prompt and apply them to new inputs, has been extensively studied in large language models trained for next-token prediction on human text. Recently, few-shot ICL has been demonstrated in autoregressive genomic models as well. This raises a question: does ICL emerge broadly across domains, and if so, what common structure is shared?\n  To address both, we develop a controlled cross-modality framework that instantiates the same task suite in a variety of modalities to test what we call the Convergent Emergence Hypothesis: the idea that few-shot ICL, when it emerges, shares a common cross-modality difficulty profile - i.e., tasks that benefit from ICL in one modality tend to benefit in others. We show that paired-mapping ICL emerges across six modalities (language, genome, integer sequences, time series, images, and proteins), surpasses controlled baselines, and has correlated per-task effects across five of them. Together, these results provide support for the Convergent Emergence Hypothesis in some modalities, but not all."
+    },
+    {
+      "id": "fetch-hf-2609.14803",
+      "title": "Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?",
       "source": "Hugging Face Daily",
       "date": "2026-09-12",
-      "description": "A core goal of efficient reasoning is to improve the accuracy-efficiency frontier. However, jointly improving reasoning accuracy and inference efficiency can be challenging, as the two objectives can favor different reasoning behaviors. Ind...",
-      "category": "tooling",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.14708",
-      "hotScore": 87,
-      "content": "A core goal of efficient reasoning is to improve the accuracy-efficiency frontier. However, jointly improving reasoning accuracy and inference efficiency can be challenging, as the two objectives can favor different reasoning behaviors. Independently post-trained models already offer distinct strengths in accuracy and efficiency. We introduce Lightning Weave, a post-training framework that extracts and composes these independently learned capabilities in a single student through on-policy distillation. Each acquired capability is represented by the policy shift from the model before post-training to the resulting specialist. Lightning Weave combines aligned log-ratio shifts at shared student token states and uses Tilted-Target DOPD to convert the cached signals into a stable learning target. Each anchor pair scores the cached trajectories once, enabling subsequent student training without serving multiple live anchor models concurrently. Across diverse student models and benchmarks in mathematics and code, Lightning Weave substantially improves upon the base students and achieves a state-of-the-art accuracy-efficiency frontier. On Qwen3.5-4B, it raises HMMT 2025 accuracy from 59.2% to 64.0% with 10.7% fewer response tokens, and LiveCodeBench v5 accuracy from 41.7% to 54.2% with 9.6% fewer response tokens. Adjusting the relative strengths of the anchor signals yields a strong empirical accuracy-efficiency Pareto frontier. These results establish Lightning Weave as a new practical route to efficient reasoning through capability composition. Code will be released soon."
-    },
-    {
-      "id": "fetch-hf-2609.13443",
-      "title": "Learning to Solve Hard Problems in RL for LLMs by Never Giving Up",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-10",
-      "description": "We demonstrate that training LLMs with RL does not improve performance equally across a dataset. RL shows large improvements on easy problems that an LLM is already good at solving, but small improvements on hard problems. We call this the ...",
+      "description": "This paper reports experiments across six frontier model types from OpenAI, Anthropic, xAI, and Google DeepMind. Ten independent sessions per model type used the same three stage prompt sequence, progressing from architectural preference to...",
       "category": "llm",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2609.13443",
+      "url": "https://huggingface.co/papers/2609.14803",
+      "hotScore": 88,
+      "content": "This paper reports experiments across six frontier model types from OpenAI, Anthropic, xAI, and Google DeepMind. Ten independent sessions per model type used the same three stage prompt sequence, progressing from architectural preference to a full ASCII backbone. Under the school audience framing, responses repeatedly converged on a shared architectural pattern built around persistent latent state, adaptive computation, memory, specialist routing, verification, stopping control, and delayed decoding. Most runs remained close to this common structure, while a small number developed markedly greater engineering specificity. The audience framing appears to be an important condition of this effect. In additional control runs that removed the school framing while retaining the architectural request, responses became substantially more heterogeneous and failed to reproduce the same stable motif convergence. One observation is particularly striking. GPT-5.6 Sol produced an unusually elaborate successor architecture whose organization closely overlaps with the architecture independently sketched by GPT-6 Astra. Because the prompts explicitly ask each model to imagine an architectural future, this resemblance raises a testable question: whether the overlap reflects exposure to related architectural concepts, a shared learned design prior, or independent convergence toward similar computational principles. The paper uses the term epistemic jailbreak for the accompanying loss of discipline in technical provenance as requested specificity increases. The experiments establish a repeatable behavioral pattern and do not authenticate proprietary implementation claims. What we leave to the community is a harder question: are these models independently imagining the same architectural future, or do such motifs somehow propagate between model families?"
+    },
+    {
+      "id": "fetch-hf-2609.14857",
+      "title": "ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-13",
+      "description": "Recent work extends recursive self-improvement (RSI) to agent harnesses for long-horizon coding and terminal tasks, enabling agents to improve execution mechanisms from experience. However, generalizable harness RSI remains challenging. Fir...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.14857",
+      "hotScore": 87,
+      "content": "Recent work extends recursive self-improvement (RSI) to agent harnesses for long-horizon coding and terminal tasks, enabling agents to improve execution mechanisms from experience. However, generalizable harness RSI remains challenging. First, evolving harnesses on evaluation benchmarks or their subsets makes it difficult to distinguish reusable improvements from benchmark-specific adaptation. Second, single-trajectory updates can conflate systematic harness deficiencies with instance-specific reasoning and solution details, producing modifications that transfer poorly to unseen tasks. Third, localizing recurring behavioral deficiencies within monolithic harnesses is difficult, while whole-harness optimization can entangle unrelated mechanisms and complicate attribution and validation. We propose ModularRSI, a benchmark-disjoint, contrastive, and modular framework for generalizable harness evolution. ModularRSI contrasts successful and failed trajectories for the same task and aggregates evidence across tasks to identify recurring behavioral deficiencies. It decomposes the evolvable harness into five functional modules: Agent Loop, Tool Use, Observation Management, Context Management, and Task Completion Detection. Each module evolves independently within a restricted modification scope, followed by an integration stage that combines the evolved modules into a unified harness and resolves potential conflicts. To support benchmark-disjoint evolution, we curate 2,000 executable evolution tasks from external sources that are disjoint from downstream evaluation benchmarks. Experiments on TB2.0 and SWE-Bench Verified show consistent improvements on unseen in-domain and cross-domain tasks, with the evolved harness also transferring across different foundation models."
+    },
+    {
+      "id": "fetch-hf-2609.15195",
+      "title": "HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-13",
+      "description": "Embodied navigation requires agents to interpret visual observations, accumulate spatial knowledge, and execute actions to follow instructions or locate objects. Training-based methods face generalization challenges, while training-free met...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.15195",
       "hotScore": 86,
-      "content": "We demonstrate that training LLMs with RL does not improve performance equally across a dataset. RL shows large improvements on easy problems that an LLM is already good at solving, but small improvements on hard problems. We call this the Matthew Effect in RL for LLMs, after the phenomenon of cumulative advantage from economics and network science summarized as \"the rich get richer\". The naive explanation is that hard problems require more compute to find a solution. We argue that modern RL methods are exacerbating the issue by wasting too much compute on easy problems and instead should dynamically reallocate how they use compute. We introduce Never Give Up (NGU), a simple adaptive sampling method that keeps generating samples for a problem until one is correct. By leveraging asynchronous RL, this naturally uses fewer samples to filter out easy problems and allocates more compute to solving harder problems. We investigate the design choices that affect NGU, such as off-policy robustness, and develop a set of best practices. On the math benchmark Deepscaler, NGU improves performance per compute, especially on harder problems. On a recent coding task, Manufactoria, standard GRPO with a per-test reward fails to fully solve problems that have a range of easy and difficult tests. NGU iteratively improves, solving harder and harder tests, until it learns to fully solve coding problems."
+      "content": "Embodied navigation requires agents to interpret visual observations, accumulate spatial knowledge, and execute actions to follow instructions or locate objects. Training-based methods face generalization challenges, while training-free methods exploit multimodal large language models (MLLMs) but often lack mechanisms to reconcile proposed actions with spatial evidence, task progress, and execution failures. We present HarnessVLN, a zero-shot, training-free framework whose Agent Harness coordinates perception, retrieval, grounding, navigation, recovery, and termination through a unified tool interface. The Harness validates planner proposals against spatial evidence, geometric feasibility, and subgoal consistency, incorporating structured tool feedback into subsequent decisions. Hierarchical event memory tracks task progress and execution history, while a persistent Spatiotemporal Graph maintains reusable spatial evidence and failure annotations for verification and recovery. A replaceable Navigation Executor converts validated targets into executable motions, allowing the same Harness protocol to support instruction-following and object-goal navigation. HarnessVLN achieves success rates of 60.8%, 53.9%, 76.0%, and 59.3% on R2R, RxR, HM3D-v2, and HM3D-OVON, respectively, surpassing prior training-free SOTA results. Humanoid deployment further demonstrates its applicability to both tasks in real-world environments. The project page is: https://harnessvln.netlify.app/."
     }
   ],
   "hfModels": [
@@ -457,8 +458,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 254208155,
-      "likes": 6003,
+      "downloads": 256481161,
+      "likes": 6019,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -473,8 +474,8 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 87870858,
-      "likes": 340,
+      "downloads": 88865138,
+      "likes": 341,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -489,7 +490,7 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 64018437,
+      "downloads": 64638739,
       "likes": 582,
       "category": "research",
       "tags": [
@@ -505,8 +506,8 @@
       "name": "electra-base-discriminator",
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
-      "downloads": 58998744,
-      "likes": 179,
+      "downloads": 58507686,
+      "likes": 180,
       "category": "research",
       "tags": [
         "Transformers",
@@ -520,8 +521,8 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 46672496,
-      "likes": 3351,
+      "downloads": 47693504,
+      "likes": 3352,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -536,8 +537,8 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 45507894,
-      "likes": 1402,
+      "downloads": 45865568,
+      "likes": 1404,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -552,8 +553,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 37775082,
-      "likes": 3561,
+      "downloads": 38136809,
+      "likes": 3564,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -568,8 +569,8 @@
       "name": "t5-small",
       "owner": "Community",
       "fullName": "google-t5/t5-small",
-      "downloads": 24676117,
-      "likes": 630,
+      "downloads": 25000361,
+      "likes": 631,
       "category": "research",
       "tags": [
         "Translation",
@@ -584,7 +585,7 @@
       "name": "all-mpnet-base-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-mpnet-base-v2",
-      "downloads": 23387376,
+      "downloads": 23432230,
       "likes": 1376,
       "category": "llm",
       "tags": [
@@ -600,8 +601,8 @@
       "name": "chronos-2",
       "owner": "Community",
       "fullName": "amazon/chronos-2",
-      "downloads": 22654650,
-      "likes": 476,
+      "downloads": 22779369,
+      "likes": 478,
       "category": "research",
       "tags": [
         "Time-series-forecasting",
@@ -615,6 +616,36 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "May Mobility is going public in a $1.4B SPAC deal",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-09-16",
+      "description": "The deal could net the asset-light robotaxi company more than $300 million in funding....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
+      "hotScore": 96,
+      "content": "The deal could net the asset-light robotaxi company more than $300 million in funding...."
+    },
+    {
+      "id": "fetch-gadget-1",
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-09-16",
+      "description": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $...",
+      "category": "llm",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "hotScore": 96,
+      "content": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $..."
+    },
+    {
+      "id": "fetch-gadget-2",
       "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
       "source": "TechCrunch Gadgets",
       "date": "2026-09-16",
@@ -625,38 +656,8 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "hotScore": 94,
+      "hotScore": 99,
       "content": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker...."
-    },
-    {
-      "id": "fetch-gadget-fb1",
-      "title": "Ray-Ban Meta Glasses Add Real-time Translation",
-      "source": "Meta Hardware",
-      "date": "2026-09-16",
-      "description": "Meta's popular smart glasses now feature real-time audio translation and multimodal AI search that understands the world around you.",
-      "category": "image",
-      "tags": [
-        "Meta",
-        "Smart-Glasses"
-      ],
-      "url": "https://about.fb.com/",
-      "hotScore": 96,
-      "content": "Ray-Ban Meta Smart Glasses continue to lead the consumer AI hardware category, showing high consumer engagement with features like hands-free capture, smart lookup, and now, instant language translation."
-    },
-    {
-      "id": "fetch-gadget-fb2",
-      "title": "Humane Launches AI Pin 2.0 with Screen Projection",
-      "source": "Humane News",
-      "date": "2026-09-16",
-      "description": "Humane introduced a new version of its AI Pin featuring a brighter laser ink projection, faster responses, and offline LLM capabilities.",
-      "category": "tooling",
-      "tags": [
-        "Humane",
-        "AI-Pin"
-      ],
-      "url": "https://humane.com",
-      "hotScore": 89,
-      "content": "The Humane AI Pin 2.0 addresses issues of thermal throttling and latency. Using quantized on-device small language models (SLMs), it provides offline translation and navigation tools."
     }
   ]
 }
