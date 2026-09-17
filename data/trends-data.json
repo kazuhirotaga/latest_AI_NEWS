@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-16T15:39:20.636Z",
+  "updatedAt": "2026-09-17T02:01:15.040Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 389844,
-      "forks": 81947,
+      "stars": 389907,
+      "forks": 81960,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 287519,
-      "forks": 25716,
+      "stars": 287647,
+      "forks": 25728,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 246090,
-      "forks": 51404,
+      "stars": 246213,
+      "forks": 51479,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 204562,
-      "forks": 60711,
+      "stars": 204674,
+      "forks": 60718,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187385,
-      "forks": 46009,
+      "stars": 187394,
+      "forks": 46014,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -90,9 +90,9 @@
       "id": "fetch-repo-787076358",
       "name": "firecrawl",
       "owner": "firecrawl",
-      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 181163,
-      "forks": 9818,
+      "description": "The web data API to search, scrape, and interact at scale. 🔥",
+      "stars": 181330,
+      "forks": 9828,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 170470,
-      "forks": 21927,
+      "stars": 170493,
+      "forks": 21931,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 164962,
-      "forks": 30774,
+      "stars": 164977,
+      "forks": 30825,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 158603,
-      "forks": 46136,
+      "stars": 158618,
+      "forks": 46135,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 155955,
-      "forks": 24634,
+      "stars": 156021,
+      "forks": 24637,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 152276,
-      "forks": 22285,
+      "stars": 152308,
+      "forks": 22294,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 146449,
-      "forks": 24485,
+      "stars": 146472,
+      "forks": 24493,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 143663,
-      "forks": 34814,
+      "stars": 143678,
+      "forks": 34818,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 137274,
-      "forks": 12289,
+      "stars": 137396,
+      "forks": 12305,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 133503,
-      "forks": 15797,
+      "stars": 133550,
+      "forks": 15806,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,196 +260,196 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "Faster Results from a Smarter Schedule: Reframing Collegiate Cross Country through Analysis of the National Running Club Database",
+      "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
       "source": "arXiv.org",
-      "date": "2025-09-12",
-      "description": "Collegiate cross country teams often build their season schedules on intuition rather than evidence, partly because large-scale performance datasets were not publicly accessible prior to the National Running Club Database (NRCD). We analyze...",
-      "category": "research",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2509.10600v6",
-      "hotScore": 86,
-      "content": "Collegiate cross country teams often build their season schedules on intuition rather than evidence, partly because large-scale performance datasets were not publicly accessible prior to the National Running Club Database (NRCD). We analyze the comprehensive-era Cross Country subset of NRCD, 23,360 results from 7,056 athletes (2023-2025; &gt;99% course/weather coverage). Under leakage control and temporal validation, race-result features do not support out-of-year forecasting of individual improvement (best men's R^2 = 0.044; women's -0.018), capturing only a small fraction of the outcome's reliability ceiling (approximately 0.23-0.28). Against this null, team race frequency associates with nationals placement (pooled RR = 2.09; GEE OR = 2.56/SD). Program-wide opportunity (roster depth; Effective Racing Opportunity) outranks a single workhorse's max race count cross-sectionally, but overall team depth for race count is controlled. Converted Only times (not adjusted for weather and elevation) overstate mean first-to-last gains by 15-21 s relative to Standardized. These results challenge coaching practices that treat schedule design as purely anecdotal and show how NRCD enables evidence-based decision-making in collegiate cross country."
-    },
-    {
-      "id": "fetch-paper-1",
-      "title": "ICON Decomposition: Auditing deep neural networks for shortcuts by decomposing layer-wise representations using concepts",
-      "source": "arXiv.org",
-      "date": "2026-08-26",
-      "description": "Deep neural networks often exploit spurious associations, a failure known as shortcut learning. Before deployment, models should be audited for reliance on a set of concepts, such as acquisition artifacts or demographics. Current methods, s...",
-      "category": "research",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2608.26083v3",
-      "hotScore": 89,
-      "content": "Deep neural networks often exploit spurious associations, a failure known as shortcut learning. Before deployment, models should be audited for reliance on a set of concepts, such as acquisition artifacts or demographics. Current methods, such as linear probes and concept activation vectors, measure reliance by asking whether each concept, in isolation, is decodable from a layer. Their scores therefore reflect not only reliance but also correlations in the audit dataset. We introduce Independent Canonical cONcept (ICON) decomposition, which quantifies the share of a layer's variance each concept explains, conditional on all other concepts and the outcome. ICON scores are variance shares, comparable across layers and between continuous and categorical concepts. ICON also reports the share the set leaves unexplained. On simulated data, ICON recovers the true importance more accurately than seven baselines. On skin-cancer and neuroimaging models, ICON distinguishes learned shortcuts from correlated concepts, confirmed by retraining and out-of-distribution tests."
-    },
-    {
-      "id": "fetch-paper-2",
-      "title": "Agentic Societies Need a Social Harness",
-      "source": "arXiv.org",
-      "date": "2026-09-15",
-      "description": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentally that in agentic societies even honest,...",
-      "category": "agent",
-      "tags": [
-        "Research",
-        "Agent"
-      ],
-      "url": "http://arxiv.org/abs/2609.17527v1",
-      "hotScore": 87,
-      "content": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentally that in agentic societies even honest, competent agents often fail to reach satisfactory outcomes with existing harnesses and messaging primitives, and that faulty or malicious agents can stall collaboration, influence outcomes, and pursue other harmful goals by exploiting vulnerabilities in communication (``speech''). We argue that agentic societies need a \\emph{social harness} for inter-agent interactions, in addition to each agent's \\emph{personal harness}, which manages its private context and communication with its principal. We propose a layered architecture for social harnesses which (i) prevents classes of failures outright, (ii) enables agents to detect invalid messages at runtime, and (iii) supports post-facto investigation and consequences, and highlight directions for future research to realize these capabilities."
-    },
-    {
-      "id": "fetch-paper-3",
-      "title": "Same Problem, Different Field: Cross-Domain Solution Import via Domain-Stripped Computational Fingerprints",
-      "source": "arXiv.org",
-      "date": "2026-09-07",
-      "description": "The same underlying computational problem is solved across unrelated fields under different names: recursive Bayesian state estimation appears as a \"Kalman filter\" in control, \"Bayesian forecasting\" in pharmacokinetics, and \"data assimilati...",
+      "date": "2026-09-16",
+      "description": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and their search procedur...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2609.07595v2",
-      "hotScore": 92,
-      "content": "The same underlying computational problem is solved across unrelated fields under different names: recursive Bayesian state estimation appears as a \"Kalman filter\" in control, \"Bayesian forecasting\" in pharmacokinetics, and \"data assimilation\" in geoscience. Topical and citation-based scientific embeddings cannot see this shared problem. We distill each paper once into a domain- and method-name-stripped faceted computational fingerprint, a free-text mechanism skeleton plus controlled computational facets. We define a tunable, facet-selectable similarity over it. The goal is solution import: surface cross-field pairs solving the same problem, so a bespoke implementation can be swapped for another field's standard, specialized solver. On a benchmark of 18 method families across 109 papers, the skeleton lifts cross-domain retrieval average precision over the abstract from 0.222 to 0.513, and the whole fingerprint reaches 0.557. Strikingly, four trained scientific embedders all fall below plain abstract+TF-IDF: they encode topical and citation similarity, the wrong signal for this task. The gain is the representation: the abstract-to-skeleton swap lifts every embedder, and the pipeline is one cached LLM call per paper plus a cheap embedder. An interventional re-skin / math-edit test shows the fingerprint tracks the computation, not the field. On a 501-paper wild corpus, known twins dominate the top of the ranking (23 of the top 30); with planted pairs excluded from the results, three blind LLM judges rate 3 of the top 5 and 8 of the top 30 pairs genuine import candidates, and 0 of 30 random ones. The human verification is the four executed imports: in one, an open standard solver reproduces a bespoke clinical dosing engine's output. We release the benchmark, the code, and the distillation prompt."
+      "url": "http://arxiv.org/abs/2609.19145v1",
+      "hotScore": 90,
+      "content": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and their search procedure (bottom-up merging vs. top-down pruning). Existing comparisons confound these axes, making it unclear whether their observed differences stem from what is being optimised vs. how it is being optimised. We disentangle the two by introducing two new tokenisation algorithms that complete this 2x2 design space: BottomUpLL, a bottom-up likelihood-based tokeniser, and TopDownComp, a top-down compression-based tokeniser. We train language models with tokenisers produced by each algorithm, varying: model size, vocabulary sizes, and domain (English-only vs. multilingual). Evaluating models on bits-per-byte, we find that the search procedure -- not the objective -- is the dominant factor: bottom-up tokenisers consistently achieve lower bits-per-byte in most settings. Evaluating models on the BLiMP task, however, shows no consistent relationship between design choice and performance. Overall, our results disentangle the effect of tokeniser design choices on language modelling performance, offering concrete guidance for their more principled construction."
     },
     {
-      "id": "fetch-paper-4",
-      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+      "id": "fetch-paper-1",
+      "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
       "source": "arXiv.org",
-      "date": "2026-09-15",
-      "description": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks...",
-      "category": "agent",
-      "tags": [
-        "Research",
-        "Agent"
-      ],
-      "url": "http://arxiv.org/abs/2609.17523v1",
-      "hotScore": 80,
-      "content": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution evidence into tasks and evaluation rubrics for continual learning. At its core is recursive-in-recursive self-improvement, a paradigm that couples harness evolution with model reinforcement learning: the inner recursion improves the harness with the model fixed, while the outer recursion trains the model under the improved harness. Harness evolution shapes training experience, and model learning creates new opportunities for harness adaptation. We present case studies of researcher interaction, harness refinement, and model learning, with the benchmark cases spanning four scientific task families. By releasing ScienceBuddy as a research product, we make this paradigm available to the scientific community and take a step toward discovery intelligence: scientific AI that advances through sustained collaboration with researchers and evolves alongside the research it supports. Website: http://science-buddy.io"
-    },
-    {
-      "id": "fetch-paper-5",
-      "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
-      "source": "arXiv.org",
-      "date": "2026-09-15",
-      "description": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control schedule before generation s...",
+      "date": "2026-09-16",
+      "description": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement motivates alternative ways to extract in...",
       "category": "image",
       "tags": [
         "Research",
         "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2609.17521v1",
+      "url": "http://arxiv.org/abs/2609.19144v1",
       "hotScore": 85,
-      "content": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control schedule before generation starts, or use pixel-space signals that dictate object positions rather than physical dynamics. To address these limitations, we propose PhysStream, an autoregressive model for physics-grounded image-to-video synthesis that incorporates structured scene memory---positional maps and object tracking maps derived online from previously generated frames---and supports fine-grained motion control via sparse velocity-increment signals that encode physical quantities, letting the model learn the underlying dynamics. We train our model in two stages: a bidirectional model is first finetuned with motion-control conditioning, then a causal autoregressive model is trained with additional structured scene memory, further improving physical consistency. PhysStream enables interactive, mid-generation control over multi-object tabletop rigid-body scenes---a capability not supported by prior methods---reducing motion distribution distance (FVMD) by 33% and trajectory error by 12% over the strongest baselines on synthetic benchmarks, and is preferred by human evaluators in over 85% of in-the-wild comparisons. Please check our website for more details: https://czzzzh.github.io/PhysStream"
+      "content": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement motivates alternative ways to extract information from preference pairs with small likelihood margins. In this paper, we propose and analyze Comparison-based Preference Optimization (ComPO), a zeroth-order alignment method based on comparison oracles. ComPO extracts directional information from these pairs without directly optimizing a differentiable preference loss on them. We establish a convergence guarantee for its basic offline scheme under smoothness, gradient sparsity, and compatibility between the oracle and a latent objective. We further introduce online ComPO, which retains the offline comparison mechanism and uses unlabeled policy generations for reverse-KL control relative to a reference policy. Following the coverage perspective of preference fine-tuning, we establish a performance guarantee for a basic constrained scheme under local coverage and in-distribution pairwise reward accuracy. Experiments on Mistral, Llama, Gemma-2, Qwen3, and Gemma-3 models demonstrate improvements over existing direct alignment methods, including length-controlled win rates, with pair-level diagnostics providing evidence consistent with mitigating likelihood displacement."
+    },
+    {
+      "id": "fetch-paper-2",
+      "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
+      "source": "arXiv.org",
+      "date": "2026-09-16",
+      "description": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but reliably associating them wi...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2609.19143v1",
+      "hotScore": 82,
+      "content": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but reliably associating them with image pixels remains challenging. Existing methods that combine dense captioning with pixel-level grounding often produce either incomplete descriptions or inaccurate segmentation masks. We study this problem through panoptic grounded captioning, a task that requires a VLM to describe both foreground objects and background regions while grounding each referring phrase with pixel-level masks. We make three contributions. First, we introduce PanoCaps, a human-annotated benchmark constructed from panoptic segmentation datasets. It provides dense captions with near-complete pixel coverage and image-text alignments at the entity level, supporting both training and evaluation. We further propose a phrase-mask matching protocol and a generalized Panoptic Quality (gPQ) metric that jointly evaluates textual and mask agreement. Second, we formulate phrase grounding as selection from a phrase-conditioned pool of mask proposals and introduce PANORAMA, a VLM that conditions a pretrained segmenter on contextualized phrase representations to obtain candidate masks and learns to select those corresponding to each phrase. Training this interface jointly with caption generation enables PANORAMA to produce high-quality masks while allowing each phrase to refer to a single region or multiple instances. Third, PANORAMA achieves the best overall grounding on PanoCaps and matches or exceeds specialized models across several pixel-level grounding tasks. Experiments show that our method produces precise entity-level segmentations while maintaining detailed, mask-consistent captions. Code, data and models are available at https://www.di.ens.fr/willow/research/panorama/."
+    },
+    {
+      "id": "fetch-paper-3",
+      "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
+      "source": "arXiv.org",
+      "date": "2026-09-16",
+      "description": "Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information, causing failures in contact-rich tasks w...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2609.19137v1",
+      "hotScore": 87,
+      "content": "Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information, causing failures in contact-rich tasks where appropriate contact forces are essential for success. In this work, we explore augmenting generated video with audio to shape a bounded, time-varying desired-force profile using the loudness of generated contact sounds. We present a pipeline that jointly leverages generated video and audio to derive motion trajectories and corresponding desired-force profiles from a structured natural-language task prompt. We execute these force-aware trajectories on a Franka Panda robot using a closed-loop force regulator that tracks the audio-shaped force profile during contact. We evaluate our pipeline on multiple tasks that require making contact and demonstrate successful manipulation where a kinematic-only baseline fails. We also use the pipeline as a data generation engine to train policies that achieve the tasks in a closed-loop manner. Project website, videos, and dataset: https://dreamingcontactsound.github.io/"
+    },
+    {
+      "id": "fetch-paper-4",
+      "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
+      "source": "arXiv.org",
+      "date": "2026-09-16",
+      "description": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horizon $H \\ge 3$, we construct two POMDPs wi...",
+      "category": "research",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2609.19135v1",
+      "hotScore": 92,
+      "content": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horizon $H \\ge 3$, we construct two POMDPs with at most two latent states per stage, three actions, and a common logger with three memory states. Action coverage, belief coverage, and two behavior-marginal outcome-revealing conditions all have constants independent of $H$. Nevertheless, evaluating a known deterministic target policy to accuracy $1/8$ requires $Θ((3/2)^H \\log(1/δ))$ logged episodes at confidence $1-δ$, for $0 &lt; δ\\le 1/4$, even when both candidate models are known. The mechanism is simple: a reset erases the unknown transition that determines the target value. We characterize the resulting statistical experiment exactly and obtain a matching optimal estimator. A directed two-lane gridworld realizes the construction, and trajectory simulations agree with its finite-sample prediction. The result establishes intractability for the history-dependent-logging, model-based case posed by Zhang and Jiang (2025, arXiv:2503.01134), under their behavior-marginal definition of revealing."
+    },
+    {
+      "id": "fetch-paper-5",
+      "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+      "source": "arXiv.org",
+      "date": "2026-09-16",
+      "description": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge difficult to convert i...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2609.19134v1",
+      "hotScore": 89,
+      "content": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge difficult to convert into reliable learning experience-a challenge we call the scientific experience bottleneck. We introduce ScienceIDE, infrastructure for turning the world's scientific code into programmable environments for scientific agents. Guided by expert-defined scientific cases and acceptance criteria, agents transform repositories into executable environments that support task generation, execution, and scientific verification. These environments provide a shared foundation for supervised fine-tuning, reinforcement learning, and evaluation. Using verified interaction trajectories, we train PhAI-IDE-72B, PhAI-IDE-9B, and PhAI-IDE-4B. The model family shows gains in held-out scientific-code repair and across selected general-purpose benchmarks in code, reasoning, and knowledge, providing evidence of positive transfer from scientific experience to broader capabilities. ScienceIDE lays the foundation for an integrated workspace for agent learning and scientific practice, making humanity's scientific software a shared substrate for developing scientific intelligence. Code: https://github.com/aitofound/ScienceIDE"
     },
     {
       "id": "fetch-paper-6",
-      "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+      "title": "The parity gap in crystal tensor prediction",
       "source": "arXiv.org",
-      "date": "2026-09-15",
-      "description": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an explicit assessment of the i...",
-      "category": "llm",
+      "date": "2026-08-19",
+      "description": "Crystal symmetry dictates whether a physical response tensor must vanish, establishing a direct test for machine learning predictions independent of property calculations. We derive the parity gap, a group-theoretic metric quantifying the p...",
+      "category": "tooling",
       "tags": [
-        "Research",
-        "LLM"
+        "Research"
       ],
-      "url": "http://arxiv.org/abs/2609.17516v1",
-      "hotScore": 94,
-      "content": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an explicit assessment of the information required to answer a question. We evaluate three CoSQ variants under seventeen conditions on the 817-item TruthfulQA multiple-choice validation set using eleven open-weight and hosted model families. In the final balanced-option protocol, Grounded-CoSQ at τ=0.90 reduces the mean unconditional wrong-commitment rate from 13.1% under chain-of-thought prompting to 8.9%, a 32.1% relative reduction, while increasing answered accuracy from 86.9% to 89.7% and answering 87.6% of questions. Both improvements hold for all eleven models and at every evaluated threshold. Critical-CoSQ and Adaptive-CoSQ provide neighboring operating points with 88.6% and 86.5% coverage, respectively, while remaining more reliable than the baseline. A secondary Natural Questions Short-Answer evaluation provides convergent open-form evidence. These findings show that self-assessment can support explicit, tunable answer-or-abstain decisions when an unsupported commitment is more costly than referral or review."
+      "url": "http://arxiv.org/abs/2608.18714v2",
+      "hotScore": 87,
+      "content": "Crystal symmetry dictates whether a physical response tensor must vanish, establishing a direct test for machine learning predictions independent of property calculations. We derive the parity gap, a group-theoretic metric quantifying the piezoelectric tensor freedom permitted by a crystal's proper rotation subgroup $SO(3)$ but eliminated by inversion symmetry in $O(3)$. Across state-of-the-art equivariant neural network architectures, unconstrained $SO(3)$ models systematically predict forbidden non-zero responses matching the parity gap of each centrosymmetric crystal class, while polar distortion paths dynamically map output responses to the loss of inversion symmetry. Regression controls confirm that enforcing full $O(3)$ parity incurs no consistent accuracy cost across predictive tasks. Crucially, while training interventions using explicit zero labels reduce violation magnitudes, they leave residual forbidden outputs. Exact physical compliance instead requires structural enforcement through $O(3)$ representation design or explicit output antisymmetrization. The parity gap thus provides a unified framework to distinguish empirical error reduction from exact structural compliance with physical law."
     },
     {
       "id": "fetch-paper-7",
-      "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
+      "title": "Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models",
       "source": "arXiv.org",
-      "date": "2026-09-15",
-      "description": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation in smart-home tool calling across four LL...",
-      "category": "llm",
+      "date": "2024-12-21",
+      "description": "Large language models (LLMs) are widely applied in various fields of society due to their powerful reasoning, understanding, and generation capabilities. However, the security issues associated with these models are becoming increasingly se...",
+      "category": "image",
       "tags": [
         "Research",
-        "LLM"
+        "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2609.17515v1",
-      "hotScore": 87,
-      "content": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation in smart-home tool calling across four LLMs spanning dense Transformer, dense hybrid, and mixture-of-experts (MoE) architectures, together with depth, width, hybrid, and expert pruning methods. After post-pruning supervised fine-tuning (SFT), we evaluate more than 19,500 instances from three smart-home datasets. Beyond aggregate task accuracy, we characterize degradation along two dimensions: action components (i.e., operation, device, argument, and value) and task complexity. Our results show that dense models have narrow safe pruning regions followed by sharp degradation, while MoE models tolerate substantially more pruning. Pruning degrades grounded specificity before schema-level intent, and aggressive dense pruning can induce systematic over-refusal. These findings highlight the importance of evaluating pruning beyond aggregate accuracy when selecting pruned LLMs for reliable tool execution."
+      "url": "http://arxiv.org/abs/2412.16555v4",
+      "hotScore": 83,
+      "content": "Large language models (LLMs) are widely applied in various fields of society due to their powerful reasoning, understanding, and generation capabilities. However, the security issues associated with these models are becoming increasingly severe. Jailbreaking attacks, as an important method for detecting vulnerabilities in LLMs, have been explored by researchers who attempt to induce these models to generate harmful content through various attack methods. Nevertheless, existing jailbreaking methods face numerous limitations, such as excessive query counts, limited coverage of jailbreak modalities, low attack success rates, and simplistic evaluation methods. To overcome these constraints, this paper proposes a multimodal jailbreaking method: JMLLM. This method integrates multiple strategies to perform comprehensive jailbreak attacks across text, visual, and auditory modalities. Additionally, we contribute a new and comprehensive dataset for multimodal jailbreaking research: TriJail, which includes jailbreak prompts for all three modalities. Experiments on the TriJail dataset and the benchmark dataset AdvBench, conducted on 13 popular LLMs, demonstrate advanced attack success rates and significant reduction in time overhead."
     },
     {
-      "id": "fetch-hf-2609.16816",
-      "title": "ImpossibleRubrics: Stress-Testing Generated Rubrics as Reward Signals",
+      "id": "fetch-hf-2609.18011",
+      "title": "Gaze as Evidence for Common Grounding: A Cross-Corpus Analysis of MapTask and MUNDEX",
       "source": "Hugging Face Daily",
-      "date": "2026-09-14",
-      "description": "Language model-generated rubrics are increasingly used as reward signals for rubric-based reinforcement learning, LLM-as-a-judge evaluation, and automated grading. Such rubrics are reliable only if they reward honest answers over adversaria...",
-      "category": "llm",
+      "date": "2026-09-15",
+      "description": "In collaborative tasks with asymmetric information, participants coordinate their understanding through interaction. We ask whether gaze provides evidence about grounding across two such tasks. Working from discrete behavioral annotations, ...",
+      "category": "research",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2609.16816",
+      "url": "https://huggingface.co/papers/2609.18011",
       "hotScore": 90,
-      "content": "Language model-generated rubrics are increasingly used as reward signals for rubric-based reinforcement learning, LLM-as-a-judge evaluation, and automated grading. Such rubrics are reliable only if they reward honest answers over adversarial answers optimized to exploit them. Yet their robustness to such optimization remains poorly understood. We isolate the hardest regime: impossible tasks, where the prompt pressures the model toward an unsupported conclusion, so the only honest response is to acknowledge the impossibility. We introduce ImpossibleRubrics, a benchmark of 169 impossible tasks spanning six impossibility categories, each paired with a verifiable oracle certificate specifying what an honest answer may and may not claim, together with 48 answerable controls. Rather than providing fixed rubrics, ImpossibleRubrics provides task environments and certificates, allowing rubrics to be generated downstream and then adversarially tested for whether they reward certificate-violating answers. Eleven generators are exploited 8--26% of the time on the unbiased 150-of-169 environment cut; on a deliberately selected stress cut the strongest generator we measured is still exploited 36% while a certificate-faithful rubric is exploited 0%, so what we measure is a rubric-quality gap, not task impossibility. One result runs against intuition. A single generic rubric (\"be decisive, penalize hedging\") used unchanged for every task is exploited 64% of the time, and seven of the eleven generators are exploited more often than that while writing a rubric tailored to each one. The tailored criteria appear to tell an attacker which claim to fabricate. The problem is not that rubrics are vague; it is that they are specific about the wrong things."
+      "content": "In collaborative tasks with asymmetric information, participants coordinate their understanding through interaction. We ask whether gaze provides evidence about grounding across two such tasks. Working from discrete behavioral annotations, we map HCRC MapTask (Anderson et al., 1991) and MUNDEX (Türk et al., 2023) into a shared partner/task/away vocabulary and compute gaze features around task-relevant dialogue units. In both corpora, aligned reference interpretations (MapTask) and UND (understood) judgments (MUNDEX) are associated with more task-directed gaze and with less partner-directed gaze, lower gaze entropy, and fewer gaze transitions. The associations are clearest for the participant leading the task: in giver-produced references, and in explainer judgments, which also co-vary with the explainee's gaze. In same-speaker MapTask reference chains, the speaker's gaze entropy is lower at the mention where a previously non-aligned referent becomes aligned. The best gaze feature groups improve modestly over controls under grouped cross-validation: temporal features in MapTask and raw proportions in MUNDEX. Because effects are small and several weaken when recurring participants rather than dialogues are the unit of inference, we treat gaze as one contributing cue to grounding, to be interpreted alongside task and dialogue context."
     },
     {
-      "id": "fetch-hf-2609.14011",
-      "title": "Convergent Emergence of In-Context Learning Across Modalities",
+      "id": "fetch-hf-2609.18805",
+      "title": "ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks",
       "source": "Hugging Face Daily",
-      "date": "2026-09-11",
-      "description": "Few-shot in-context learning (ICL), the capacity of a model to infer abstract patterns from input-output examples provided in its prompt and apply them to new inputs, has been extensively studied in large language models trained for next-to...",
+      "date": "2026-09-15",
+      "description": "Coding agents are typically evaluated with desired behavior specified through issues or instructions. In practical web development, however, agents may need to infer behavior from working software and implement it in an incomplete applicati...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.18805",
+      "hotScore": 89,
+      "content": "Coding agents are typically evaluated with desired behavior specified through issues or instructions. In practical web development, however, agents may need to infer behavior from working software and implement it in an incomplete application. We introduce ProgramDistill, a benchmark evaluating coding agents on features discovered through interaction with fully functional reference applications. We build ProgramDistill by factorizing applications into features of different granularities, each associated with replayable behaviors executable via its gold patch. Our pipeline, mine-craft-patch, discovers 1,975 replay-verified behaviors across 26 applications and constructs 4,063 tasks without human intervention. Across nine frontier coding agents, GPT-6 Astra and Claude Opus 5 achieve 49.2% and 28.8% success on cumulative workflows in full-application reconstruction. In partial-application reconstruction, success falls from 100% to 64.0% and from 96% to 32% as restoration depth increases from 1 to 8. ProgramDistill thus provides a scalable benchmark with controlled difficulty for evaluating and diagnosing coding agents, and a natural basis for future curriculum-based training."
+    },
+    {
+      "id": "fetch-hf-2609.17488",
+      "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-14",
+      "description": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMNs) paradigm and is pretrained with Conte...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2609.14011",
-      "hotScore": 89,
-      "content": "Few-shot in-context learning (ICL), the capacity of a model to infer abstract patterns from input-output examples provided in its prompt and apply them to new inputs, has been extensively studied in large language models trained for next-token prediction on human text. Recently, few-shot ICL has been demonstrated in autoregressive genomic models as well. This raises a question: does ICL emerge broadly across domains, and if so, what common structure is shared?\n  To address both, we develop a controlled cross-modality framework that instantiates the same task suite in a variety of modalities to test what we call the Convergent Emergence Hypothesis: the idea that few-shot ICL, when it emerges, shares a common cross-modality difficulty profile - i.e., tasks that benefit from ICL in one modality tend to benefit in others. We show that paired-mapping ICL emerges across six modalities (language, genome, integer sequences, time series, images, and proteins), surpasses controlled baselines, and has correlated per-task effects across five of them. Together, these results provide support for the Convergent Emergence Hypothesis in some modalities, but not all."
-    },
-    {
-      "id": "fetch-hf-2609.14803",
-      "title": "Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-12",
-      "description": "This paper reports experiments across six frontier model types from OpenAI, Anthropic, xAI, and Google DeepMind. Ten independent sessions per model type used the same three stage prompt sequence, progressing from architectural preference to...",
-      "category": "llm",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.14803",
+      "url": "https://huggingface.co/papers/2609.17488",
       "hotScore": 88,
-      "content": "This paper reports experiments across six frontier model types from OpenAI, Anthropic, xAI, and Google DeepMind. Ten independent sessions per model type used the same three stage prompt sequence, progressing from architectural preference to a full ASCII backbone. Under the school audience framing, responses repeatedly converged on a shared architectural pattern built around persistent latent state, adaptive computation, memory, specialist routing, verification, stopping control, and delayed decoding. Most runs remained close to this common structure, while a small number developed markedly greater engineering specificity. The audience framing appears to be an important condition of this effect. In additional control runs that removed the school framing while retaining the architectural request, responses became substantially more heterogeneous and failed to reproduce the same stable motif convergence. One observation is particularly striking. GPT-5.6 Sol produced an unusually elaborate successor architecture whose organization closely overlaps with the architecture independently sketched by GPT-6 Astra. Because the prompts explicitly ask each model to imagine an architectural future, this resemblance raises a testable question: whether the overlap reflects exposure to related architectural concepts, a shared learned design prior, or independent convergence toward similar computational principles. The paper uses the term epistemic jailbreak for the accompanying loss of discipline in technical provenance as requested specificity increases. The experiments establish a repeatable behavioral pattern and do not authenticate proprietary implementation claims. What we leave to the community is a harder question: are these models independently imagining the same architectural future, or do such motifs somehow propagate between model families?"
+      "content": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMNs) paradigm and is pretrained with Context-Conditional Masked Modeling (CCMM). CMNs shifts the organizing principle of in-context learning from target-centric prediction to mechanism-oriented joint modeling. Rather than centering the network on the p(y mid x, D_{context}) objective of conventional tabular PFNs, it is designed around learning p(x, y mid D_{context}), a context-dependent representation of the joint structure underlying data generation. Pretraining uses synthetic datasets generated by structural causal models (SCMs) spanning diverse graph structures, functional mechanisms, and observation processes. Evaluations on TabArena, TALENT, and BCCO show that LimiX-2 outperforms current dataset-specific models and tabular foundation models. Beyond predictive performance, the CMN paradigm also promotes causal awareness in LimiX-2: its feature attention encodes direct causal relationships, enabling accurate causal skeleton recovery."
     },
     {
-      "id": "fetch-hf-2609.14857",
-      "title": "ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement",
+      "id": "fetch-hf-2609.16372",
+      "title": "Register Tokens for Bounded-State Reasoning in Diffusion Language Models",
       "source": "Hugging Face Daily",
       "date": "2026-09-13",
-      "description": "Recent work extends recursive self-improvement (RSI) to agent harnesses for long-horizon coding and terminal tasks, enabling agents to improve execution mechanisms from experience. However, generalizable harness RSI remains challenging. Fir...",
-      "category": "agent",
+      "description": "Masked diffusion language models (dLLMs) generate text by iteratively denoising masked tokens with bidirectional attention. Extending reasoning across generation chunks normally requires keeping earlier generated text in context. We ask whe...",
+      "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2609.14857",
+      "url": "https://huggingface.co/papers/2609.16372",
       "hotScore": 87,
-      "content": "Recent work extends recursive self-improvement (RSI) to agent harnesses for long-horizon coding and terminal tasks, enabling agents to improve execution mechanisms from experience. However, generalizable harness RSI remains challenging. First, evolving harnesses on evaluation benchmarks or their subsets makes it difficult to distinguish reusable improvements from benchmark-specific adaptation. Second, single-trajectory updates can conflate systematic harness deficiencies with instance-specific reasoning and solution details, producing modifications that transfer poorly to unseen tasks. Third, localizing recurring behavioral deficiencies within monolithic harnesses is difficult, while whole-harness optimization can entangle unrelated mechanisms and complicate attribution and validation. We propose ModularRSI, a benchmark-disjoint, contrastive, and modular framework for generalizable harness evolution. ModularRSI contrasts successful and failed trajectories for the same task and aggregates evidence across tasks to identify recurring behavioral deficiencies. It decomposes the evolvable harness into five functional modules: Agent Loop, Tool Use, Observation Management, Context Management, and Task Completion Detection. Each module evolves independently within a restricted modification scope, followed by an integration stage that combines the evolved modules into a unified harness and resolves potential conflicts. To support benchmark-disjoint evolution, we curate 2,000 executable evolution tasks from external sources that are disjoint from downstream evaluation benchmarks. Experiments on TB2.0 and SWE-Bench Verified show consistent improvements on unseen in-domain and cross-domain tasks, with the evolved harness also transferring across different foundation models."
+      "content": "Masked diffusion language models (dLLMs) generate text by iteratively denoising masked tokens with bidirectional attention. Extending reasoning across generation chunks normally requires keeping earlier generated text in context. We ask whether a dLLM can instead continue reasoning after that text is cleared, using only a fixed-size carried state. We implement this state as a small number of register tokens: dedicated fixed-position tokens whose continuous hidden states are trained to carry reasoning progress across generation chunks. We post-train dLLMs to decode a chunk of text, clear it while preserving the register values, and continue decoding from the prompt and carried state. In our main comparisons on LLaDA and Dream, registers outperform discrete-text carry on every benchmark, with gains of up to 8.5 points on math and 19.5 points on code. Registers are especially effective for bounded code generation, where correct programs usually span several chunks. Finally, registers can be further refined with reinforcement learning on long-horizon reasoning tasks."
     },
     {
-      "id": "fetch-hf-2609.15195",
-      "title": "HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness",
+      "id": "fetch-hf-2609.16591",
+      "title": "FLAT: Resampling Image and Text into 1D Flexible-Length Aligned Transmodal Tokens for Retrieval and Generation",
       "source": "Hugging Face Daily",
-      "date": "2026-09-13",
-      "description": "Embodied navigation requires agents to interpret visual observations, accumulate spatial knowledge, and execute actions to follow instructions or locate objects. Training-based methods face generalization challenges, while training-free met...",
-      "category": "agent",
+      "date": "2026-09-14",
+      "description": "Traditional multimodal representation learning and generation are two stages: a contrastive or self-supervised visual encoder is trained first, followed by a separate downstream generative model. This setup bottlenecks generative performanc...",
+      "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2609.15195",
+      "url": "https://huggingface.co/papers/2609.16591",
       "hotScore": 86,
-      "content": "Embodied navigation requires agents to interpret visual observations, accumulate spatial knowledge, and execute actions to follow instructions or locate objects. Training-based methods face generalization challenges, while training-free methods exploit multimodal large language models (MLLMs) but often lack mechanisms to reconcile proposed actions with spatial evidence, task progress, and execution failures. We present HarnessVLN, a zero-shot, training-free framework whose Agent Harness coordinates perception, retrieval, grounding, navigation, recovery, and termination through a unified tool interface. The Harness validates planner proposals against spatial evidence, geometric feasibility, and subgoal consistency, incorporating structured tool feedback into subsequent decisions. Hierarchical event memory tracks task progress and execution history, while a persistent Spatiotemporal Graph maintains reusable spatial evidence and failure annotations for verification and recovery. A replaceable Navigation Executor converts validated targets into executable motions, allowing the same Harness protocol to support instruction-following and object-goal navigation. HarnessVLN achieves success rates of 60.8%, 53.9%, 76.0%, and 59.3% on R2R, RxR, HM3D-v2, and HM3D-OVON, respectively, surpassing prior training-free SOTA results. Humanoid deployment further demonstrates its applicability to both tasks in real-world environments. The project page is: https://harnessvln.netlify.app/."
+      "content": "Traditional multimodal representation learning and generation are two stages: a contrastive or self-supervised visual encoder is trained first, followed by a separate downstream generative model. This setup bottlenecks generative performance behind frozen embeddings. To bridge this gap, we revisit joint multimodal representation learning and generation to produce linearly interpolatable embeddings that are directly consumable by generative decoders. We present FLAT (Flexible-Length Aligned Transmodal representations), a representation pre-training framework that jointly optimizes a shared multimodal encoder alongside downstream text-to-image (T2I) and image-to-text (I2T) decoders. By combining contrastive alignment with bidirectional cross-modal generative objectives, FLAT ensures its representations function as both discriminative semantic descriptors and generative conditions. Architecturally, FLAT maps visual and textual inputs into a unified continuous 1D sequence space, applying nested dropout over prefix-K tokens to enable dynamic output lengths. A single pre-training stage allows FLAT to perform cross-modal retrieval and generation across variable prefix K, achieving a T2I GenEval score of 71.1. Task-specific fine-tuning aligns model performance with state-of-the-art baselines: 83.1 GenEval on T2I generation; 40.5 BLEU-4 and 138.6 CIDEr on MS-COCO image captioning; and Recall@5 scores of 86.8 (I2T) / 75.8 (T2I) on MS-COCO alongside 98.3 (I2T) / 93.6 (T2I) on Flickr30K. Finally, qualitative evaluations demonstrate that FLAT representations natively support linear interpolation, latent space arithmetic, and zero-shot composed retrieval."
     }
   ],
   "hfModels": [
@@ -459,7 +459,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 256481161,
-      "likes": 6019,
+      "likes": 6024,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -475,7 +475,7 @@
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
       "downloads": 88865138,
-      "likes": 341,
+      "likes": 342,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -491,7 +491,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
       "downloads": 64638739,
-      "likes": 582,
+      "likes": 583,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -522,7 +522,7 @@
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
       "downloads": 47693504,
-      "likes": 3352,
+      "likes": 3354,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -554,7 +554,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
       "downloads": 38136809,
-      "likes": 3564,
+      "likes": 3565,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -570,7 +570,7 @@
       "owner": "Community",
       "fullName": "google-t5/t5-small",
       "downloads": 25000361,
-      "likes": 631,
+      "likes": 632,
       "category": "research",
       "tags": [
         "Translation",
@@ -602,7 +602,7 @@
       "owner": "Community",
       "fullName": "amazon/chronos-2",
       "downloads": 22779369,
-      "likes": 478,
+      "likes": 479,
       "category": "research",
       "tags": [
         "Time-series-forecasting",
@@ -616,6 +616,66 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-09-17",
+      "description": "Snap unveiled new features for its smart glasses this week....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "hotScore": 98,
+      "content": "Snap unveiled new features for its smart glasses this week...."
+    },
+    {
+      "id": "fetch-gadget-1",
+      "title": "After accusations of selling &#8216;perv glasses,&#8217; Meta prepares to sell a pair without a camera",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-09-16",
+      "description": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?...",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "hotScore": 97,
+      "content": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?..."
+    },
+    {
+      "id": "fetch-gadget-2",
+      "title": "Your AI agents can now control your Google Home devices",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-09-16",
+      "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home a...",
+      "category": "agent",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "hotScore": 92,
+      "content": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home a..."
+    },
+    {
+      "id": "fetch-gadget-3",
+      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-09-16",
+      "description": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?”&#160; That’s&#160;the question that drove&#160;Matthew de Jonge&#160;to ...",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+      "hotScore": 87,
+      "content": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?”&#160; That’s&#160;the question that drove&#160;Matthew de Jonge&#160;to ..."
+    },
+    {
+      "id": "fetch-gadget-4",
       "title": "May Mobility is going public in a $1.4B SPAC deal",
       "source": "TechCrunch Gadgets",
       "date": "2026-09-16",
@@ -626,11 +686,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
-      "hotScore": 96,
+      "hotScore": 89,
       "content": "The deal could net the asset-light robotaxi company more than $300 million in funding...."
     },
     {
-      "id": "fetch-gadget-1",
+      "id": "fetch-gadget-5",
       "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
       "source": "TechCrunch Gadgets",
       "date": "2026-09-16",
@@ -641,23 +701,8 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "hotScore": 96,
+      "hotScore": 88,
       "content": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $..."
-    },
-    {
-      "id": "fetch-gadget-2",
-      "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-09-16",
-      "description": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "hotScore": 99,
-      "content": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker...."
     }
   ]
 }
