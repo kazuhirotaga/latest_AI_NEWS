@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-20T01:56:25.720Z",
+  "updatedAt": "2026-09-20T14:58:52.854Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 390103,
-      "forks": 82028,
+      "stars": 390142,
+      "forks": 82040,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 288846,
-      "forks": 25841,
+      "stars": 289093,
+      "forks": 25861,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 247172,
-      "forks": 51937,
+      "stars": 247379,
+      "forks": 52012,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 205388,
-      "forks": 60790,
+      "stars": 205446,
+      "forks": 60804,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187450,
-      "forks": 46007,
+      "stars": 187457,
+      "forks": 46009,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The web data API to search, scrape, and interact at scale. 🔥",
-      "stars": 182304,
-      "forks": 9853,
+      "stars": 182475,
+      "forks": 9860,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 170759,
-      "forks": 21942,
+      "stars": 170820,
+      "forks": 21948,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165025,
-      "forks": 31150,
+      "stars": 165031,
+      "forks": 31174,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,7 +142,7 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 158702,
+      "stars": 158731,
       "forks": 46135,
       "language": "JavaScript",
       "category": "research",
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 156492,
-      "forks": 24689,
+      "stars": 156582,
+      "forks": 24690,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 152577,
-      "forks": 22322,
+      "stars": 152607,
+      "forks": 22335,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 146690,
-      "forks": 24528,
+      "stars": 146725,
+      "forks": 24536,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,7 +210,7 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 143738,
+      "stars": 143746,
       "forks": 34809,
       "language": "Python",
       "category": "agent",
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 137977,
-      "forks": 12362,
+      "stars": 138042,
+      "forks": 12367,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 133935,
-      "forks": 15874,
+      "stars": 134045,
+      "forks": 15882,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -270,7 +270,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2609.20822v1",
-      "hotScore": 90,
+      "hotScore": 81,
       "content": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating task completion as its sole objective while neglecting safety. The agent reasons about the obstacle in its traces, and the prompt already forbids touching it, so neither perception nor instruction is at fault; the fault lies in the planning, where the stated constraint never becomes a priority. By decomposing manipulation into a route phase and a contact-rich moment, we locate the source of the failure. Along the route, the model cannot prioritize the safety constraint, having no notion of a clearing route and none of replanning once a chosen route becomes infeasible. At the contact, it is unaware that contact execution is bounded by the same constraint. To close this gap, we present SafeHarness, which equips the model with two obstacle-aware harnesses that enable it to prioritize the safety constraint. Obstacle-aware route planning grounds the objects as bounding boxes and draws candidate routes over them as sequences of waypoints. The agent then plans a route in advance, verifies it, replans when necessary, and only then executes it. Obstacle-aware contact execution instead selects the contact position so that the contact itself avoids the obstacle. SafeHarness attains 71.9% task success and 87.5% collision avoidance, surpassing the previous SOTA by 6.5% and 27.0%, respectively. These results are $2.3\\times$ and $1.5\\times$ those of the same agent without harnesses."
     },
     {
@@ -284,7 +284,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2609.20821v1",
-      "hotScore": 91,
+      "hotScore": 82,
       "content": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic equivalence and distance. We find that physical measurement is only weakly modeled in the embedding space, and that instead quite peculiar measurement patterns can be observed. Further analysis indicates that embedding representations of physical measurements are strongly influenced by superficial string similarity, and recalibration of similarity does not substantially improve the alignment."
     },
     {
@@ -313,7 +313,7 @@
         "LLM"
       ],
       "url": "http://arxiv.org/abs/2609.20817v1",
-      "hotScore": 80,
+      "hotScore": 83,
       "content": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse, unordered set of partial point clouds. Our model jointly reasons over multiple observations and naturally supports a variable number of inputs, including a single view. To aggregate articulation cues across observations, we introduce a Multi-state Articulation Transformer with alternating state-wise and global attention. We further propose an observed articulation span objective that supervises the motion range each part exhibits across the input observations, encouraging the model to leverage the full observation set. To overcome the limited scale and diversity of existing datasets, we introduce a procedural data generator that synthesizes self-annotated assets during training. Experiments on PartNet-Mobility, ACD, and ArtiCraft-10K demonstrate consistent improvements over both feed-forward and optimization-based baselines. Project page: https://kevinqu7.github.io/famos"
     },
     {
@@ -328,7 +328,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2609.20816v1",
-      "hotScore": 93,
+      "hotScore": 86,
       "content": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, editing, and colorization, but often relies on dedicated color representations or specialized inference procedures. Advances in large language models offer a simpler starting point: even compact models can associate hex values with color semantics. We present Paint-Anything, which learns a shared hex-prompt interface for generation and editing through object-level color supervision. We develop a data pipeline that constructs Paint-500K from real images through object grounding, perceptual color labeling, and editing-pair synthesis. Since shadows make real-image labels only approximate colors, we complement this supervision with pure-color anchors whose pixels exactly match their paired hex values. These anchors are used only at high-noise timesteps, leaving low-noise training to natural images. We further introduce Any Color Benchmark (ACBench), comprising ACBench-T2I and ACBench-Edit, to measure object-level hex color fidelity across both tasks. On FLUX.2-4B, Paint-Anything improves ACBench-T2I and ACBench-Edit scores by 85.3% and 28.3%, respectively, relative to the base model, with ablations supporting the training recipe. It also achieves the highest average CompColor score among the compared methods."
     },
     {
@@ -343,7 +343,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2609.20815v1",
-      "hotScore": 90,
+      "hotScore": 80,
       "content": "Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these syndromes are essential for timely diagnosis, individualized patient management, and targeted surveillance strategies for affected families. However, public endoscopic datasets are largely organized around the individual sporadic polyp, and none links the polyposis phenotype to histopathology and germline findings at the patient level. Here, we present ERCPMP-Gx, an endoscopic, histopathological, and genomic dataset developed to support the application of artificial intelligence (AI) in the recognition, characterization, and classification of colorectal polyposis. Most procedures were performed using the Olympus EVIS X1 system with white-light endoscopy (WLE), narrow-band imaging (NBI), magnifying NBI (M-NBI), and NBI with near focus modes, yielding 160 images and accompanying video clips. Approximately eighty percent of cases represent clinically and/or genetically confirmed hereditary polyposis syndromes (PG), including familial adenomatous polyposis (FAP), Peutz-Jeghers syndrome (PJS), juvenile polyposis syndrome (JPS), and ganglioneuroma syndrome (GNS), while the remaining twenty percent comprise non-hereditary polyps and polyp-mimicking lesions with overlapping morphological features (Non-PG), included to support differential classification. Each released record is linked, where available, to standardized endoscopic annotations, representative histopathology, and clinically reported germline findings, forming an AI-ready, patient-level annotation framework. The dataset is publicly accessible at Mendeley (https://doi.org/10.17632/nzyfc544bx.2). For the latest updates and further information, readers are referred to the DataBioX website: https://databiox.com."
     },
     {
@@ -358,7 +358,7 @@
         "LLM"
       ],
       "url": "http://arxiv.org/abs/2609.20814v1",
-      "hotScore": 88,
+      "hotScore": 85,
       "content": "Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift affect this benefit. We pretrain a surrogate on 254,909 RANS solutions from one airfoil family and fine-tune it on a new family under two target settings with matched freestream ranges: the same Spalart-Allmaras (SA) modeling and SA with added $e^N$ transition modeling. At $N=1000$, the pretrained model matches the accuracy of a model trained from scratch on $3.25\\times$ as many samples for the same-SA target, but $2.58\\times$ as many for the transition-modeled target. By $N=5000$, this ordering reverses ($1.56\\times$ versus $1.86\\times$). At $N=1000$, sampling more distinct airfoils lowers error on both targets, but only for the same-SA target is the gain increase larger than the observed draw-to-draw variation ($3.3\\times$ to $4.0\\times$). These results show that pretraining value depends jointly on target-data budget, target-data coverage, and whether source and target differ in modeled physics."
     },
     {
@@ -458,8 +458,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 254149235,
-      "likes": 6079,
+      "downloads": 252170882,
+      "likes": 6092,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -474,8 +474,8 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 88705504,
-      "likes": 345,
+      "downloads": 88652424,
+      "likes": 346,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -490,7 +490,7 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 64503106,
+      "downloads": 64447211,
       "likes": 586,
       "category": "research",
       "tags": [
@@ -506,7 +506,7 @@
       "name": "electra-base-discriminator",
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
-      "downloads": 52218609,
+      "downloads": 50116218,
       "likes": 181,
       "category": "research",
       "tags": [
@@ -521,8 +521,8 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 47682222,
-      "likes": 3364,
+      "downloads": 46579428,
+      "likes": 3365,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -537,8 +537,8 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 45855533,
-      "likes": 1406,
+      "downloads": 45742916,
+      "likes": 1407,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -553,8 +553,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 38045991,
-      "likes": 3573,
+      "downloads": 37633121,
+      "likes": 3577,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -569,7 +569,7 @@
       "name": "t5-small",
       "owner": "Community",
       "fullName": "google-t5/t5-small",
-      "downloads": 24859880,
+      "downloads": 24792913,
       "likes": 634,
       "category": "research",
       "tags": [
@@ -585,7 +585,7 @@
       "name": "Qwen3-0.6B",
       "owner": "Community",
       "fullName": "Qwen/Qwen3-0.6B",
-      "downloads": 22967391,
+      "downloads": 23745227,
       "likes": 1647,
       "category": "image",
       "tags": [
@@ -597,19 +597,19 @@
       "hotScore": 84
     },
     {
-      "id": "fetch-model-sentence-transformers--all-mpnet-base-v2",
-      "name": "all-mpnet-base-v2",
+      "id": "fetch-model-amazon--chronos-2",
+      "name": "chronos-2",
       "owner": "Community",
-      "fullName": "sentence-transformers/all-mpnet-base-v2",
-      "downloads": 22564768,
-      "likes": 1378,
-      "category": "llm",
+      "fullName": "amazon/chronos-2",
+      "downloads": 22527541,
+      "likes": 482,
+      "category": "research",
       "tags": [
-        "Sentence-similarity",
-        "Sentence-transformers",
-        "Pytorch"
+        "Time-series-forecasting",
+        "Chronos-forecasting",
+        "Safetensors"
       ],
-      "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
+      "url": "https://huggingface.co/amazon/chronos-2",
       "hotScore": 82
     }
   ],
@@ -626,7 +626,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "hotScore": 94,
+      "hotScore": 98,
       "content": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models...."
     },
     {
@@ -641,7 +641,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-      "hotScore": 87,
+      "hotScore": 98,
       "content": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance...."
     },
     {
@@ -656,7 +656,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "hotScore": 86,
+      "hotScore": 90,
       "content": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil..."
     }
   ]
