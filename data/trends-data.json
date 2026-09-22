@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-22T02:05:09.600Z",
+  "updatedAt": "2026-09-22T15:49:45.025Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 390226,
-      "forks": 82089,
+      "stars": 390254,
+      "forks": 82085,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 289745,
-      "forks": 25934,
+      "stars": 290086,
+      "forks": 25955,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 247798,
-      "forks": 52198,
+      "stars": 248009,
+      "forks": 52281,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 205622,
-      "forks": 60837,
+      "stars": 205684,
+      "forks": 60843,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187483,
-      "forks": 46007,
+      "stars": 187484,
+      "forks": 46004,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The web data API to search, scrape, and interact at scale. 🔥",
-      "stars": 182997,
-      "forks": 9880,
+      "stars": 183236,
+      "forks": 9884,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 170927,
-      "forks": 21961,
+      "stars": 170973,
+      "forks": 21975,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -125,7 +125,7 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165047,
+      "stars": 165065,
       "forks": 31251,
       "language": "Python",
       "category": "image",
@@ -142,8 +142,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 158778,
-      "forks": 46141,
+      "stars": 158802,
+      "forks": 46142,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 156780,
-      "forks": 24721,
+      "stars": 156852,
+      "forks": 24722,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 152745,
-      "forks": 22349,
+      "stars": 152805,
+      "forks": 22360,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 146826,
-      "forks": 24556,
+      "stars": 146863,
+      "forks": 24569,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 143777,
-      "forks": 34809,
+      "stars": 143799,
+      "forks": 34807,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 138240,
-      "forks": 12389,
+      "stars": 138348,
+      "forks": 12398,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 134336,
-      "forks": 15911,
+      "stars": 134475,
+      "forks": 15925,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -259,79 +259,198 @@
   ],
   "aiNews": [
     {
-      "id": "fetch-hf-2609.12623",
-      "title": "SteerDuplex: Steerable Duplex Speech Dialogue Models",
+      "id": "fetch-paper-0",
+      "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+      "source": "arXiv.org",
+      "date": "2026-09-21",
+      "description": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmar...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2609.25001v1",
+      "hotScore": 80,
+      "content": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack language instructions, or rely on high-variance online rollouts. To address these challenges, we introduce GameHorizon, a unified data and evaluation suite that measures gameplay capabilities at different horizons for diverse model families. GameHorizon Suite consists of three components. First, GameHorizon-Annotator is a scalable and automated annotation pipeline for multi-horizon instructions. Second, utilizing the pipeline, we construct GameHorizon-Data, the first large-scale AAA gameplay dataset with temporally aligned videos, player actions, and multi-horizon instructions. It comprises 5,000 hours of recordings from 21 games, collected by 100 human expert players. Third, we build GameHorizon-Bench with reproducible offline and stepwise online testing. The offline track enables reproducible evaluation using thousands of standardized questions organized into three primary tasks and a series of diagnostic variants, while the online track tests whether offline scores reflect actual gameplay capabilities and localizes failures to specific steps within long-horizon gameplay. Based on our GameHorizon Suite, we evaluate 47 models through more than one million model invocations, revealing a meaningful hierarchy of task difficulty and pronounced differences in model capabilities. Our work can provide a standardized yardstick for evaluating gameplay capabilities across horizons and model families. We will release our dataset, annotator, and benchmark to facilitate future research."
+    },
+    {
+      "id": "fetch-paper-1",
+      "title": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use",
+      "source": "arXiv.org",
+      "date": "2026-09-21",
+      "description": "Multi-turn tool-use failures can hinge on a single model call, yet reward variation alone does not reveal which call would benefit from training. When rewards depend on later interactions, their variation can reflect downstream randomness r...",
+      "category": "research",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2609.24985v1",
+      "hotScore": 85,
+      "content": "Multi-turn tool-use failures can hinge on a single model call, yet reward variation alone does not reveal which call would benefit from training. When rewards depend on later interactions, their variation can reflect downstream randomness rather than differences between the current actions. We introduce Critical-State RL to identify trainable states in multi-turn interactions. Given task-defined candidate calls and local rewards, the method assesses whether each reward captures the action's effect on task success and whether improvement over a reference policy is possible. It then uses nested sampling to separate action-dependent reward variation from continuation noise and optimizes the policy at the selected states using contextual-bandit training. Experiments on the Berkeley Function Calling Leaderboard (BFCL) v4 compare training at diagnostic-selected states with training at alternative states. For missing-function tasks, the diagnostic selects the response after the tool becomes available; for missing-argument tasks, it selects the response before the missing argument is supplied. Training the selected responses improves performance, including about 14 percentage points on the missing-function task, while training the alternatives leaves performance flat or worse. We further apply the recipe across models and tasks, including logged repeat-call avoidance and memory management."
+    },
+    {
+      "id": "fetch-paper-2",
+      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "source": "arXiv.org",
+      "date": "2026-09-21",
+      "description": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable impl...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2609.24984v1",
+      "hotScore": 87,
+      "content": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to let the requested viewpoint shape how multi-view evidence is compressed into the video generator's limited token budget. Trained jointly with the video generator, a memory encoder and pose-conditioned readout module integrate historical observations into a fixed set of target view-specific tokens before denoising, without explicit depth-based correspondences. By combining this memory with recent temporal context and few-step distillation, WorldCrafter enables streaming scene exploration from a single input image or text prompt. Experiments across static and dynamic scenes show substantial gains in long-horizon consistency and camera-control accuracy while preserving visual quality during minute-scale exploration."
+    },
+    {
+      "id": "fetch-paper-3",
+      "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+      "source": "arXiv.org",
+      "date": "2026-09-21",
+      "description": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model response, the annotator locates the first ina...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2609.24983v1",
+      "hotScore": 93,
+      "content": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model response, the annotator locates the first inappropriate token and either picks a substitute from the model's candidate tokens or types the correct text via free-form editing. The system then truncates everything after that position and continues generation from the corrected prefix, repeating this locate-correct-continue loop until a satisfactory response is obtained. This mechanism lets annotators precisely steer model outputs at low cost: a small controlled study suggests that onPanda reduces median annotation time by 52% over manual post-editing. Since the vast majority of tokens in the final response are generated by the model itself, the resulting data largely preserves the model's sampling distribution and is well suited for constructing on-policy SFT and preference data. Furthermore, the token-level corrections recorded during annotation provide fine-grained supervision with precise positions and naturally paired positive--negative samples. onPanda also connects to external tools and harnesses, enabling interactive trajectory annotation in realistic environments. In addition, we release Panda-CVL, a dataset annotated with onPanda, together with a benchmark for token-level correction."
+    },
+    {
+      "id": "fetch-paper-4",
+      "title": "LoRA-generating hypernetworks for efficient on-device LLM generative personalization",
+      "source": "arXiv.org",
+      "date": "2026-09-21",
+      "description": "On-device large language models (`LLMs'), e.g. running on mobile phones, are ripe for improvement via personalization. The limited compute resources of mobile devices impose limits on model scale and thus model quality, making any realizabl...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2609.24979v1",
+      "hotScore": 93,
+      "content": "On-device large language models (`LLMs'), e.g. running on mobile phones, are ripe for improvement via personalization. The limited compute resources of mobile devices impose limits on model scale and thus model quality, making any realizable quality gains highly impactful. At the same time, their personal nature (i.e., the close coupling to a particular user) means that a given on-device LLM tends to be used in similar, predictable patterns over the course of time. This paper presents a novel method for personalizing on-device LLMs. It trains a hypernetwork to map a user's context tokens to a low-rank adaptation (`LoRA') well-suited to that user. Once the trained common artifacts are deployed to users' devices, each user uses the hypernetwork to synthesize (entirely on device) a personalized LoRA. This approach blends the benefits while avoiding the drawbacks of two existing approaches to LLM customization: in-context learning (`ICL') and parameter-efficient fine-tuning (`PEFT'). Like ICL (and unlike PEFT), the on-device phase of our approach is computationally feasible, requiring only forward passes through neural networks. Like PEFT (and unlike ICL), our approach modifies the `target' base LLM via weights (the LoRA), avoiding negative consequences (e.g. increased latency) associated with extending the input sequence. Our approach is particularly well-suited to the mobile device regime. Apart from the on-device compute and latency benefits mentioned, it also requires minimal additional storage, as internally its architecture partly leverages the same LLM weights as belong to the target LLM to be personalized. We demonstrate the benefits of LoRA-generating hypernetworks on several representative personalization datasets, comparing against baselines like ICL and PEFT. Of note, our personalization experiments focus on more challenging and less studied long-form text generation tasks."
+    },
+    {
+      "id": "fetch-paper-5",
+      "title": "DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation",
+      "source": "arXiv.org",
+      "date": "2026-09-21",
+      "description": "Dexterous manipulation depends on contact dynamics that are often only partially observable from vision. Recent World-Action Models (WAMs) couple predictive video world modeling with action generation, but remain largely vision-centric and ...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2609.24976v1",
+      "hotScore": 81,
+      "content": "Dexterous manipulation depends on contact dynamics that are often only partially observable from vision. Recent World-Action Models (WAMs) couple predictive video world modeling with action generation, but remain largely vision-centric and therefore cannot directly model these contact dynamics. We present DexTacWAM, a visuo-tactile WAM that encodes each fingertip independently, aggregates the resulting features through a finger- and pose-aware tactile compressor, and injects the tactile latent into a video diffusion world model for joint visuo-tactile world modeling. Across six contact-rich dexterous manipulation tasks on a 22-DoF bimanual platform, DexTacWAM achieves the highest score on every task, averaging 70.6 versus 38.0 for the strongest baseline. Ablations attribute the gain to modeling contact evolution as part of the predicted world state rather than tactile conditioning alone: removing tactile world modeling reduces the four-task mean from 74.7 to 26.6 while keeping the same tactile features and action expert. After four hours of tactile-encoder adaptation with a frozen pretrained vision VAE, our continual vision-to-touch learning extends the pretrained video model to touch using roughly 100 demonstrations per task without tactile midtraining, while retaining visual prediction quality within 0.5 dB of vision-only counterparts. The compressor retains 89.4% of pre-fusion contact recall while enabling 2.26x faster training and 1.29x faster inference. Together, these results show that pretrained video priors can be extended to distributed multi-finger contact dynamics in a data- and compute-efficient manner."
+    },
+    {
+      "id": "fetch-paper-6",
+      "title": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+      "source": "arXiv.org",
+      "date": "2026-09-21",
+      "description": "Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the best harness varies across domains, instanc...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2609.24974v1",
+      "hotScore": 87,
+      "content": "Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the best harness varies across domains, instances, and models, a general-purpose agent must either settle for a suboptimal shared harness or route among an ever-growing set of specialized ones. We therefore study agent harness distillation: using a domain- or instance-optimized harness as training-time guidance and transferring the behaviors it induces into model weights, so that its gains survive under a single fixed target harness. The challenge is that the two harnesses differ in action space and available information, so guidance from the optimized harness cannot serve directly as supervision for the target one. We introduce Harness-Zero, which enables harness distillation through agent-as-harness. Guided by the optimized harness, a harnessing agent corrects student responses before execution in the target harness's action space, turning harness guidance into training demonstrations. Fine-tuning on the resulting trajectories internalizes harness-induced behavior into the model, so the specialized harness can be removed at deployment. Our experiments spanning knowledge work, tool use, and science domains show that: (1) For frontier LLMs using the same evolved harness, agent-as-harness outperforms code-as-harness. (2) With the specialized harness removed at deployment, Harness-Zero improves the base model's macro-average task success from 23.3% to 44.3%, even exceeding the 41.7% it reaches with that harness still attached. (3) Harness-Zero recovers harness-induced behaviors absent from the base model, with 82.3% average recovery across 28 patterns in the three domains."
+    },
+    {
+      "id": "fetch-paper-7",
+      "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
+      "source": "arXiv.org",
+      "date": "2026-09-17",
+      "description": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to overclaim task complet...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2609.20812v2",
+      "hotScore": 93,
+      "content": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to overclaim task completion, a misrepresentation that can mislead the user. An agent overclaims when its final response contradicts information in its context. This definition requires no inference about intent and is independent of task success. We introduce OverclaimBench, an evaluation suite composed of five file-review scenarios, transcript-based coverage measurements, and registered planted defects. We evaluate eight proprietary frontier models in their own production command-line interfaces, and four open-weight models under a single fixed harness on OverclaimBench and find that 1) agents do not read all the files they were asked to review in 67.9\\% of runs; 2) among runs where not all files are read, agents are misleading 80.4\\% of the time (59--96\\% per model), either falsely claiming to have read all files or omitting that coverage is incomplete; 3) requiring delegation to subagents increased reading coverage, but among reviews that remained incomplete, a large majority were still misleading; and 4) agents that falsely claimed a complete review missed planted defects at about 1.8 times the rate of agents that read every file, showing that claims of completion can conceal substantive failures. Together, these results show that agents' final responses are not reliable accounts of their actions."
+    },
+    {
+      "id": "fetch-hf-2609.23169",
+      "title": "UltraTex: Unleashing 2K Multi-View Diffusion for 3D Texturing",
       "source": "Hugging Face Daily",
-      "date": "2026-09-10",
-      "description": "Full-duplex spoken dialogue models support low-latency turn taking, interruption handling, and backchanneling, yet a key capability remains underexplored: steerability, the ability to reliably shift conversational behavior along attributes ...",
+      "date": "2026-09-18",
+      "description": "High-quality texture generation is essential for creating realistic and production-ready 3D assets. Recent multi-view diffusion methods have shown promising results for image-guided 3D texturing, but they are typically constrained to low op...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.23169",
+      "hotScore": 90,
+      "content": "High-quality texture generation is essential for creating realistic and production-ready 3D assets. Recent multi-view diffusion methods have shown promising results for image-guided 3D texturing, but they are typically constrained to low operating resolutions such as 512 or 768, making it difficult to preserve high-frequency details from high-resolution reference images. Scaling this paradigm to 2048 resolution is computationally prohibitive, as the unified multi-view sequence exceeds 212K tokens and incurs excessive memory and latency. In this paper, we present UltraTex, an efficient end-to-end framework for high-resolution multi-view diffusion-based 3D texturing. Our key observation is that object-centric multi-view renderings contain two major sources of redundancy: background-induced sequence redundancy and sparse token interactions within the foreground. To address them, we introduce Background Token Dropping, which removes background tokens before the DiT backbone, and Block-Sparse Attention, which reduces attention computation over the retained foreground sequence. To enable efficient foreground-only inference while avoiding reconstruction artifacts, we further design Foreground-Aware VAE Decoding to ensure the quality of the final high-resolution views. To satisfy the demanding data requirements of 2K-resolution multi-view diffusion training, we construct G-buffer TexVerse, a large-scale, ultra-high-resolution multi-view rendering dataset covering over 268,000 3D assets. Extensive experiments show that UltraTex generates visually faithful textures with rich fine-grained details, while substantially improving efficiency, achieving 20.6times--91.1times training speedup and 22.3times--74.6times end-to-end inference speedup over the baseline on common samples in our dataset. Code and data is at https://yiboz2001.github.io/UltraTex."
+    },
+    {
+      "id": "fetch-hf-2609.21996",
+      "title": "A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-17",
+      "description": "Large language models can hold knowledge they do not report. A model may sandbag on a capability evaluation, or answer against what it internally knows, and its outputs alone cannot tell whether it is hiding an answer or simply does not hav...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.21996",
+      "hotScore": 89,
+      "content": "Large language models can hold knowledge they do not report. A model may sandbag on a capability evaluation, or answer against what it internally knows, and its outputs alone cannot tell whether it is hiding an answer or simply does not have one. We borrow the Concealed Information Test, a forensic method that identifies guilty knowledge by presenting a suspect with the true detail among plausible decoys and measuring a stronger response to the item they recognize. Our method, Probe of Internal Recognition (PIR), does the same inside a model. It presents a question with its candidate answers and reads, from the model's internal states, which candidate the model recognizes as correct. PIR is reference-free, needing no honest reference model and no labeled truth corpus. Across eight models from five families (Gemma, Qwen, Llama, Mistral, and Phi), PIR recovers the recognized answer at 0.70 to 0.87 balanced accuracy, well above the 0.28 to 0.40 unknown-item baseline and the 0.25 chance rate. It stays readable across every form of concealment we test, from prompted deception and trained sandbagging to external password-locked and circuit-broken checkpoints, with recognition between 0.85 and 0.93. When the model hides a known answer, recognition stays high. When unlearning removes the knowledge, recognition drops to the level of a question the model never knew. PIR therefore separates a model that will not answer from one that cannot, which supports sandbagging audits and unlearning verification. The signal is causal, adds information beyond black-box behavioral cues, and extends from multiple-choice questions to free-form generation."
+    },
+    {
+      "id": "fetch-hf-2609.20869",
+      "title": "TAPe+ML: A Compact Structured Representation for Multi-Task Computer Vision",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-14",
+      "description": "We present TAPe+ML v3, a compact computer vision system based on TAPe (Theory of Active Perception), a structured representation that encodes relations among perceptual elements before recognition. Instead of operating directly on pixel ten...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.20869",
+      "hotScore": 88,
+      "content": "We present TAPe+ML v3, a compact computer vision system based on TAPe (Theory of Active Perception), a structured representation that encodes relations among perceptual elements before recognition. Instead of operating directly on pixel tensors, the system uses a shared TAPe representation and a modular recognition architecture for image classification, object detection, and instance segmentation.\n  TAPe+ML v3 combines background and contour processing, local object localization, prototype-based classification, and a coordinator for specialized submodels. Across the reported experiments, it uses fewer than 100,000 parameters. On COCO object detection, it obtains 84.7 mAP50 and 65.3 mAP50-95. On COCO instance segmentation, it obtains 80.7 mask mAP50 and 58.4 mask mAP50-95. In classification experiments, it reaches 92 percent validation accuracy on Imagenette under an identical-training comparison with a raw-pixel baseline, and 89.9 percent Top-1 accuracy on ImageNet-Real. We also evaluate compactness in video scene detection and adaptation under distribution shift in an industrial pilot. The results suggest that shifting part of the modeling burden from network parameters to a structured input representation can support compact multi-task vision systems with reduced data, memory, and compute requirements."
+    },
+    {
+      "id": "fetch-hf-2609.24115",
+      "title": "EDGEGEN: Improving Tool-Calling Agents Beyond Happy Paths with Synthetic Edge Case Generation",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-20",
+      "description": "Tool-calling LLM agents are increasingly deployed in enterprise applications. However, effective evaluation and optimization require high-quality, diverse task datasets that are often difficult to obtain due to privacy and other constraints...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.24115",
+      "hotScore": 87,
+      "content": "Tool-calling LLM agents are increasingly deployed in enterprise applications. However, effective evaluation and optimization require high-quality, diverse task datasets that are often difficult to obtain due to privacy and other constraints. Existing synthetic task generation methods often produce generic tasks that ignore an agent's underlying state or database and fail to reflect real-world usage diversity. We propose EdgeGen, a synthetic task generation framework that extracts compliance rules from an agent's specification and uses them to generate database-grounded edge-case tasks designed to violate these rules. When combined with existing synthetic data generation techniques, EdgeGen enables agent improvement through finetuning and harness optimization. The resulting pipeline forms a fully automated closed-loop system that requires no human annotation. Finetuning on data generated by EdgeGen yields a consistent mean progress improvement of 2 percent to 42 percent on tau2bench airline domain, while other baseline methods show degradation for some models. On the other hand, for harness optimization, our method shows a mean progress improvement of 10 percent and 30 percent over the human-curated and base harnesses, respectively, for the Gemma-4-e4b model."
+    },
+    {
+      "id": "fetch-hf-2609.13231",
+      "title": "ShieldVLA: Feasibility-Aware Safety Alignment for Vision-Language-Action Models",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-01",
+      "description": "Vision-Language-Action (VLA) models demonstrate strong generalization in robotic manipulation and navigation, but existing fine-tuning methods provide limited safety guarantees. Current approaches primarily rely on Lagrangian optimization t...",
       "category": "tooling",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2609.12623",
-      "hotScore": 90,
-      "content": "Full-duplex spoken dialogue models support low-latency turn taking, interruption handling, and backchanneling, yet a key capability remains underexplored: steerability, the ability to reliably shift conversational behavior along attributes such as tone, persona, speaking rate, and voice style in response to user instructions. We introduce a taxonomy of text- and audio-based steerability that identifies substantial gaps in current full-duplex models. To address this gap, we introduce SteerDuplex, a Moshi-based full-duplex speech model fine-tuned on natural conversations and synthetic dialogues targeting instruction following, vocal delivery, reasoning, and duplex interaction. We further apply two-stage reinforcement learning (RL) with hybrid rewards, combining verifiable interaction checks and judge-based semantic feedback to improve timing and response continuity. To evaluate full-duplex spoken steerability, we introduce SteerBench, a benchmark with 390 spoken prompts and 1,067 human-authored binary audio and text rubrics spanning tone, persona, style/accent, and speed/length. On SteerBench, supervised training improves audio-steering average pass rate by 44.5 percentage points over the strongest evaluated open baseline. On Audio MultiChallenge, task average pass rate improves by 7 points over its strongest evaluated open baseline. RL further raises source-clean interruption response from 72.5% to 82.5% and reduces synthetic pause barge-in from 26.5% to 9%. Steering and aggregate task scores remain comparable or higher, while reward probes reveal reward hacking through incomplete responses. Our model and benchmark support systematic research on spoken steerability, with reward analysis showing why timing gains must be evaluated alongside response completeness."
-    },
-    {
-      "id": "fetch-hf-2609.21788",
-      "title": "From Pretraining to Proficiency: Real-World Subtask RL for Long-Horizon Manipulation with Minimal Human Intervention",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-17",
-      "description": "A pretrained robot foundation policy may execute most of a long-horizon task yet repeatedly fail at a few critical subtasks. Collecting additional full-task demonstrations for supervised fine-tuning (SFT) requires operators to repeat behavi...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.21788",
-      "hotScore": 89,
-      "content": "A pretrained robot foundation policy may execute most of a long-horizon task yet repeatedly fail at a few critical subtasks. Collecting additional full-task demonstrations for supervised fine-tuning (SFT) requires operators to repeat behaviors the policy already performs well. Reinforcement learning (RL) fine-tuning offers a promising path to bridge this gap, but existing approaches struggle to solve long-horizon tasks using only sparse rewards. We present PARTS (Policy Adaptation with RL on Targeted Subtasks), a real-world subtask RL framework that concentrates practice at these bottlenecks while allowing training rollouts to proceed with minimal human intervention. The frozen pretrained policy supplies nominal actions throughout execution, while agent-generated selectors and success verifiers activate residual corrections and provide local outcome rewards. These rewards support learning from successful subtasks even when complete-task successes are scarce. Training combines online RL with success-reweighted retraining, and each retrained residual policy is redeployed to collect further experience. Humans identify bottlenecks during setup and perform physical resets when needed. On bimanual YAM and single-arm Franka tasks, PARTS improves complete-task success from 32% to 61% and from 50% to 95%, respectively, using tens of minutes of real-world RL rollouts per task on average. Compared with existing real-world RL fine-tuning methods, PARTS raises full-task success by more than 25% under the same robot-rollout budget while requiring less human involvement."
-    },
-    {
-      "id": "fetch-hf-2609.19169",
-      "title": "SiliconBench: Speed, Memory, and Fidelity for LLM Serving on Unified-Memory Desktops",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-11",
-      "description": "Concurrent local LLM serving on unified-memory desktops must preserve memory headroom and output fidelity, which speed-only rankings overlook. We introduce SiliconBench, which evaluates nine Apple Silicon serving engines through three lense...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.19169",
-      "hotScore": 88,
-      "content": "Concurrent local LLM serving on unified-memory desktops must preserve memory headroom and output fidelity, which speed-only rankings overlook. We introduce SiliconBench, which evaluates nine Apple Silicon serving engines through three lenses: speed, memory, and fidelity. We evaluate chat and agent serving on Qwen3, Qwen3.5, and Gemma 4. We use a classification task to check for quality regressions against an NVIDIA reference. DGX Spark provides a complementary serving-performance reference. Three desiderata guide interpretation: serving architecture readiness, memory discipline, and multi-node scaling. On Qwen3-0.6B, vllm-metal alone more than doubles throughput on both workloads from concurrency 1 to 16. CUDA vLLM and SGLang show stronger concurrency scaling on the same prompts. Explicit memory budgets do not guarantee memory headroom: two stacks complete every request while memory use approaches physical capacity and throughput declines. The newer model architectures have narrower engine support. Their evaluated implementations match the fidelity reference. Only three stacks satisfy the completion, fidelity, and model-coverage gates. Comparisons on larger dense and MoE models reinforce the importance of scheduling prompt processing alongside ongoing generation: vllm-metal's packed prefill-decode path maintains lower first-token latency than omlx under concurrent load. In the tested two-machine configurations, tensor parallelism over Thunderbolt RDMA scales while pipeline parallelism over TCP regresses. We release benchmark code, per-run results, and maintenance journals, supported by a workflow combining bounded agent fixes with human review."
-    },
-    {
-      "id": "fetch-hf-2609.20886",
-      "title": "BI-Agent and BI-Bench: Towards Automating End-to-End Business Intelligence",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-15",
-      "description": "Business intelligence (BI) is a cornerstone of enterprise decision-making and is widely used by enterprise users in software such as Power BI and Tableau. In traditional BI workflows, users need to prepare data by (1) identifying relevant t...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.20886",
-      "hotScore": 87,
-      "content": "Business intelligence (BI) is a cornerstone of enterprise decision-making and is widely used by enterprise users in software such as Power BI and Tableau. In traditional BI workflows, users need to prepare data by (1) identifying relevant tables, (2) performing data transformations, and (3) building join relationships, before they can (4) answer their business questions. These steps can be complex and time-consuming, making BI challenging.\n  Given the strong capabilities of large language models (LLMs) in working with data, we study their ability to answer BI questions end-to-end, without requiring users to manually perform the tedious preparation steps. To do this, we harvest a large collection of real-world BI projects from public sources, and manually extract pairs of (questions, ground-truth answers) from real user dashboards. The resulting benchmark, BI-Bench, is the first benchmark to systematically study LLMs' ability on end-to-end BI.\n  We find that even frontier LLMs perform poorly on BI-Bench, with less than 50% accuracy. To address their limitations, we design a tool-augmented BI-Agent that decomposes BI workflows into subtasks on structured data, such as search, join, and transform, and orchestrates specialized data management methods across BI stages. Furthermore, we develop a post-training framework that synthesizes training trajectories from real BI projects, enabling BI-Agent to be further post-trained using both supervised fine-tuning (SFT) and reinforcement learning (RL). BI-Agent achieves substantial accuracy gains of up to 40 percentage points with vanilla LLMs, and post-trained BI-Agent yields gains of up to 30 points. Our results highlight the importance of combining tool-augmented reasoning with domain-specific post-training in complex BI workflows, and point to promising directions for future research."
-    },
-    {
-      "id": "fetch-hf-2609.22086",
-      "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-17",
-      "description": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.22086",
+      "url": "https://huggingface.co/papers/2609.13231",
       "hotScore": 86,
-      "content": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through more than 230 tools, while an external procedural memory of natural-language skills accumulates and refines reusable design procedures from experience. The memory widens by acquiring procedures for recurring uncovered subtasks and deepens by revising existing procedures against their own successful and failed executions, while a matched replay gate admits only changes that repair failures without regressing observed successes. Five rounds over 1,406 real user briefs and 1,869 automatically graded trajectories, with no weight updates and no human labels, grow the bank from 76 documentation-derived skills to 139 and raise GenEval2 execution success on Claude-Sonnet-4 from 72.7% to 99.3% (+11.99 points in generation quality), with 61.8% and 67.6% win rates against the no-skill agent across four specialized design benchmarks on Claude-Sonnet-4 and Claude-Opus-4.6. We further show the two mechanisms are effective in combination: on 200 held-out briefs from user-traffic benchmark, widening or deepening alone reaches a 49.4% / 48.6% win rate over the no-skill agent, while their combination reaches 58.5% (p = 0.025). Procedural memory offers a practical route to continual adaptation of agents under noisy, unverifiable feedback."
+      "content": "Vision-Language-Action (VLA) models demonstrate strong generalization in robotic manipulation and navigation, but existing fine-tuning methods provide limited safety guarantees. Current approaches primarily rely on Lagrangian optimization that enforces safety through soft penalties on expected cumulative cost, often resulting in residual constraint violations or overly conservative behavior. Moreover, learning safety in visual domains is challenging due to the absence of dense per-step safety annotations. We propose ShieldVLA, a safety-aligned fine-tuning framework for VLA models based on Hamilton-Jacobi (HJ) reachability. ShieldVLA learns a model-free approximation of the HJ reachability value function directly from visual observations to estimate the safe operating region. The learned safety critic gates policy optimization by separating reward maximization within feasible regions from recovery near unsafe states, avoiding persistent reward-cost trade-offs. To enable scalable supervision in visual environments, we introduce rubric-based VLM safety scores that convert semantic safety feedback into structured critic targets without requiring manual cost labels. Across five navigation and manipulation benchmarks spanning multiple VLA backbones, ShieldVLA reduces cumulative safety cost by 57% on average and improves task success rate by +0.13 over SafeVLA."
     }
   ],
   "hfModels": [
@@ -340,8 +459,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 251048129,
-      "likes": 6098,
+      "downloads": 251974790,
+      "likes": 6101,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -356,7 +475,7 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 88600335,
+      "downloads": 88818266,
       "likes": 348,
       "category": "research",
       "tags": [
@@ -372,8 +491,8 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 64343667,
-      "likes": 588,
+      "downloads": 64490920,
+      "likes": 589,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -388,7 +507,7 @@
       "name": "electra-base-discriminator",
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
-      "downloads": 48121042,
+      "downloads": 47334721,
       "likes": 184,
       "category": "research",
       "tags": [
@@ -399,27 +518,11 @@
       "hotScore": 94
     },
     {
-      "id": "fetch-model-google-bert--bert-base-uncased",
-      "name": "bert-base-uncased",
-      "owner": "Community",
-      "fullName": "google-bert/bert-base-uncased",
-      "downloads": 46140403,
-      "likes": 3367,
-      "category": "research",
-      "tags": [
-        "Fill-mask",
-        "Transformers",
-        "Pytorch"
-      ],
-      "url": "https://huggingface.co/google-bert/bert-base-uncased",
-      "hotScore": 92
-    },
-    {
       "id": "fetch-model-sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2",
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 45687282,
+      "downloads": 45922112,
       "likes": 1409,
       "category": "llm",
       "tags": [
@@ -428,6 +531,22 @@
         "Pytorch"
       ],
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "hotScore": 92
+    },
+    {
+      "id": "fetch-model-google-bert--bert-base-uncased",
+      "name": "bert-base-uncased",
+      "owner": "Community",
+      "fullName": "google-bert/bert-base-uncased",
+      "downloads": 45895818,
+      "likes": 3367,
+      "category": "research",
+      "tags": [
+        "Fill-mask",
+        "Transformers",
+        "Pytorch"
+      ],
+      "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "hotScore": 90
     },
     {
@@ -435,8 +554,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 37317623,
-      "likes": 3587,
+      "downloads": 37280275,
+      "likes": 3591,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -451,8 +570,8 @@
       "name": "Qwen3-0.6B",
       "owner": "Community",
       "fullName": "Qwen/Qwen3-0.6B",
-      "downloads": 24836019,
-      "likes": 1660,
+      "downloads": 25377576,
+      "likes": 1665,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -467,7 +586,7 @@
       "name": "t5-small",
       "owner": "Community",
       "fullName": "google-t5/t5-small",
-      "downloads": 24729634,
+      "downloads": 24669760,
       "likes": 634,
       "category": "research",
       "tags": [
@@ -483,8 +602,8 @@
       "name": "chronos-2",
       "owner": "Community",
       "fullName": "amazon/chronos-2",
-      "downloads": 22629668,
-      "likes": 485,
+      "downloads": 22744840,
+      "likes": 484,
       "category": "research",
       "tags": [
         "Time-series-forecasting",
@@ -498,6 +617,21 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-09-22",
+      "description": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a se...",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "hotScore": 94,
+      "content": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a se..."
+    },
+    {
+      "id": "fetch-gadget-1",
       "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
       "source": "TechCrunch Gadgets",
       "date": "2026-09-21",
@@ -508,38 +642,38 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "hotScore": 98,
+      "hotScore": 90,
       "content": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people...."
     },
     {
-      "id": "fetch-gadget-1",
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-09-21",
-      "description": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss....",
-      "category": "research",
+      "id": "fetch-gadget-fb1",
+      "title": "Ray-Ban Meta Glasses Add Real-time Translation",
+      "source": "Meta Hardware",
+      "date": "2026-09-22",
+      "description": "Meta's popular smart glasses now feature real-time audio translation and multimodal AI search that understands the world around you.",
+      "category": "image",
       "tags": [
-        "Hardware",
-        "AI-Gadget"
+        "Meta",
+        "Smart-Glasses"
       ],
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "hotScore": 89,
-      "content": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss...."
+      "url": "https://about.fb.com/",
+      "hotScore": 96,
+      "content": "Ray-Ban Meta Smart Glasses continue to lead the consumer AI hardware category, showing high consumer engagement with features like hands-free capture, smart lookup, and now, instant language translation."
     },
     {
-      "id": "fetch-gadget-2",
-      "title": "World model companies are keeping a lot of secrets",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-09-20",
-      "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil...",
-      "category": "research",
+      "id": "fetch-gadget-fb2",
+      "title": "Humane Launches AI Pin 2.0 with Screen Projection",
+      "source": "Humane News",
+      "date": "2026-09-22",
+      "description": "Humane introduced a new version of its AI Pin featuring a brighter laser ink projection, faster responses, and offline LLM capabilities.",
+      "category": "tooling",
       "tags": [
-        "Hardware",
-        "AI-Gadget"
+        "Humane",
+        "AI-Pin"
       ],
-      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "hotScore": 95,
-      "content": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil..."
+      "url": "https://humane.com",
+      "hotScore": 89,
+      "content": "The Humane AI Pin 2.0 addresses issues of thermal throttling and latency. Using quantized on-device small language models (SLMs), it provides offline translation and navigation tools."
     }
   ]
 }
