@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-21T17:16:24.083Z",
+  "updatedAt": "2026-09-22T02:05:09.600Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 390202,
-      "forks": 82079,
+      "stars": 390226,
+      "forks": 82089,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 289632,
-      "forks": 25919,
+      "stars": 289745,
+      "forks": 25934,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 247710,
-      "forks": 52143,
+      "stars": 247798,
+      "forks": 52198,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 205567,
-      "forks": 60825,
+      "stars": 205622,
+      "forks": 60837,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187474,
-      "forks": 46008,
+      "stars": 187483,
+      "forks": 46007,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "The web data API to search, scrape, and interact at scale. 🔥",
-      "stars": 182859,
-      "forks": 9876,
+      "stars": 182997,
+      "forks": 9880,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -108,7 +108,7 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 170895,
+      "stars": 170927,
       "forks": 21961,
       "language": "HTML",
       "category": "llm",
@@ -125,8 +125,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165039,
-      "forks": 31248,
+      "stars": 165047,
+      "forks": 31251,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 158772,
-      "forks": 46138,
+      "stars": 158778,
+      "forks": 46141,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 156740,
-      "forks": 24715,
+      "stars": 156780,
+      "forks": 24721,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 152715,
-      "forks": 22344,
+      "stars": 152745,
+      "forks": 22349,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 146797,
-      "forks": 24549,
+      "stars": 146826,
+      "forks": 24556,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 143762,
-      "forks": 34810,
+      "stars": 143777,
+      "forks": 34809,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 138182,
-      "forks": 12384,
+      "stars": 138240,
+      "forks": 12389,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 134277,
-      "forks": 15905,
+      "stars": 134336,
+      "forks": 15911,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -259,121 +259,49 @@
   ],
   "aiNews": [
     {
-      "id": "fetch-paper-0",
-      "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
-      "source": "arXiv.org",
-      "date": "2026-09-18",
-      "description": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in...",
-      "category": "agent",
-      "tags": [
-        "Research",
-        "Agent"
-      ],
-      "url": "http://arxiv.org/abs/2609.22086v1",
-      "hotScore": 91,
-      "content": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through more than 230 tools, while an external procedural memory of natural-language skills accumulates and refines reusable design procedures from experience. The memory widens by acquiring procedures for recurring uncovered subtasks and deepens by revising existing procedures against their own successful and failed executions, while a matched replay gate admits only changes that repair failures without regressing observed successes. Five rounds over 1,406 real user briefs and 1,869 automatically graded trajectories, with no weight updates and no human labels, grow the bank from 76 documentation-derived skills to 139 and raise GenEval2 execution success on Claude-Sonnet-4 from 72.7% to 99.3% (+11.99 points in generation quality), with 61.8% and 67.6% win rates against the no-skill agent across four specialized design benchmarks on Claude-Sonnet-4 and Claude-Opus-4.6. We further show the two mechanisms are effective in combination: on 200 held-out briefs from user-traffic benchmark, widening or deepening alone reaches a 49.4% / 48.6% win rate over the no-skill agent, while their combination reaches 58.5% (p = 0.025). Procedural memory offers a practical route to continual adaptation of agents under noisy, unverifiable feedback."
-    },
-    {
-      "id": "fetch-paper-1",
-      "title": "On the Limitations of Large Language Models for Conceptual Database Modeling",
-      "source": "arXiv.org",
-      "date": "2026-05-12",
-      "description": "This article analyzes the use of Large Language Models (LLMs) as support for the conceptual modeling of relational databases through the automatic generation of Entity-Relationship (ER) diagrams from natural language requirements. The appro...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2605.11986v2",
-      "hotScore": 88,
-      "content": "This article analyzes the use of Large Language Models (LLMs) as support for the conceptual modeling of relational databases through the automatic generation of Entity-Relationship (ER) diagrams from natural language requirements. The approach combines different language models with prompt engineering techniques to evaluate their ability to identify entities, relationships, and attributes in a conceptually consistent manner. The experimental evaluation involved three LLMs, each subjected to three prompting techniques (Zero-Shot, Chain of Thought, and Chain of Thought + Verifier), applied to the same requirements scenario with progressively increasing complexity. The generated diagrams were qualitatively analyzed through direct comparison with the textual requirements, considering the structural and semantic adherence of the modeled elements. The results indicate that, although LLMs show reasonable performance in less complex scenarios, their reliability decreases as the complexity of the requirements increases, with a rise in inconsistencies, ambiguities, and failures in representing constraints. These findings reinforce that, in their current state, LLMs are not sufficiently mature for reliable use in complex scenarios, and the cost of validation may offset the apparent productivity gains."
-    },
-    {
-      "id": "fetch-paper-2",
-      "title": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
-      "source": "arXiv.org",
-      "date": "2026-09-18",
-      "description": "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences. Automatically structuring these narratives can facilitate large-scale accident analysis a...",
-      "category": "research",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2609.22081v1",
-      "hotScore": 82,
-      "content": "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences. Automatically structuring these narratives can facilitate large-scale accident analysis and support occupational risk prevention. However, the terminology and writing styles used to describe accidents vary considerably across sectors and organisations, raising questions about the ability of automated coding systems to generalize beyond their training domain. In this paper, we evaluate the cross-sector generalization of accident-process role classification in French occupational accident narratives. We construct an expert-annotated corpus in which factual units are classified into four roles: work situation (A0), explicitly reported unfavourable condition (A1), accident event or deviation (B), and reported consequence (C). The role classifiers are developed and selected exclusively on 42,244 factual units extracted from 6,040 construction-sector narratives and are then evaluated on unseen corpora from the metallurgy and chemistry--plastics sectors, as well as on an independently collected company corpus, without retraining or target-domain tuning of the role classifier. We compare frozen pretrained representations with task-specific fine-tuning and supervised representation-learning strategies. The results show that task-specific adaptation consistently improves cross-domain transfer over frozen representations. Across repeated training runs, the three leading task-adapted strategies achieved average balanced accuracies between 85.6% and 85.8% across the three target corpora. These findings support the development of transferable assisted-coding systems capable of consistently structuring heterogeneous occupational accident narratives for expert review and cross-sector prevention analysis."
-    },
-    {
-      "id": "fetch-paper-3",
-      "title": "Certified Topological Interaction in Neural Representations: Exact Tests and the Statistic They Require",
-      "source": "arXiv.org",
-      "date": "2026-09-08",
-      "description": "Class disentanglement--the separation of a representation's class-conditional point clouds along depth and over training--is measured by descriptive curves: the sentence such a study wants to write, layer l+1 is more disentangled than layer...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2609.08561v2",
-      "hotScore": 83,
-      "content": "Class disentanglement--the separation of a representation's class-conditional point clouds along depth and over training--is measured by descriptive curves: the sentence such a study wants to write, layer l+1 is more disentangled than layer l, is an eyeball judgement with no null. We supply the inferential layer for a topological measurement of class overlap, the Intersection Euler Characteristic Profile: the Euler characteristic of the overlap of the clouds' ball unions as a function of scale, from one Alpha-complex sweep with no boundary-matrix reduction. Every number carries a test--exact permutation tests in both directions, a guarded separation certificate the invariant requires, and a paired sign-flip test for comparative claims. Building that test taught a lesson outliving this invariant: its statistic must be scale-free. On the raw profile mass, which has units of feature length, 12,375 paired tests return 5,633 significant steps of which every one at the first epoch points the wrong way, certifying feature-norm dynamics as disentanglement; the dimensionless statistic returns 2,707, with 2,026 decreases. Across 111 networks and 52,650 measurements, disentanglement is depth-graded and early, and interaction quotients rank class pairs by confusability (rho=0.83), on par with cheap separability statistics. In a 96-model factorial, augmentation is the one training choice that separates classes relative to chance; weight decay compresses the overlap without separating. Only a k-fold statistic can pose the structural question: the joint entanglement of a class triple sits below its strongest pair in 97% of triple-layer cells and 99.5% of deep cells, at median ratios far below a measured null floor, in vision encoders and frozen language models--a regularity, not a law. The unnormalized mass predicts test accuracy (R^2=0.94), the quotient does not, and neither beats a linear probe."
-    },
-    {
-      "id": "fetch-paper-4",
-      "title": "CASE: Contrastive Activation for Class-Sensitive Explanations",
-      "source": "arXiv.org",
-      "date": "2025-06-08",
-      "description": "Saliency methods are widely used to visualize which input features are deemed relevant to a model's prediction. However, their visual plausibility can obscure critical limitations. In this work, we propose a diagnostic test for class sensit...",
-      "category": "research",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2506.07327v4",
-      "hotScore": 91,
-      "content": "Saliency methods are widely used to visualize which input features are deemed relevant to a model's prediction. However, their visual plausibility can obscure critical limitations. In this work, we propose a diagnostic test for class sensitivity: a method's ability to distinguish between competing class labels on the same input. Through extensive experiments, we show that many widely used saliency methods produce nearly identical explanations regardless of the class label, calling into question their reliability. We find that class-insensitive behavior persists across architectures and datasets, suggesting the failure mode is structural rather than model-specific. Motivated by these findings, we introduce CASE, a contrastive explanation method that isolates features uniquely discriminative for the predicted class. We evaluate CASE using the proposed diagnostic and a perturbation-based fidelity test, and show that it produces faithful and more class-specific explanations than existing methods."
-    },
-    {
-      "id": "fetch-paper-5",
-      "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
-      "source": "arXiv.org",
-      "date": "2026-09-18",
-      "description": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as i...",
-      "category": "agent",
-      "tags": [
-        "Research",
-        "Agent"
-      ],
-      "url": "http://arxiv.org/abs/2609.22068v1",
-      "hotScore": 83,
-      "content": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can be extracted. To better scale RL environments, we present CodeMidas, an agentic pipeline that turns implemented functionality in existing codebases into executable RL environments using source code as its only task-specific input. CodeMidas allocates agentic compute to every stage of environment construction: agents explore implemented functionality to formulate behavioral specifications, construct tests grounded in execution of the original code, and validate and filter candidate tasks through execution checks and repeated solution rollouts. The resulting dataset has 5,545 training tasks from 3,185 open-source codebases spanning 23 programming languages and 15 technical domains. Training MiMo-V2.5 on these tasks with GRPO improves performance on all five diverse benchmarks, covering issue repair (DeepSWE + 11.7%), whole-program construction (ProgramBench +17%), and terminal work (Terminal-Bench v2.1 +8.5%). Ablations show that increasing the number of high-quality training tasks improves performance. Trajectory analysis shows the RL-trained agent demonstrates better behaviors like increasing codebase exploration and more diverse self-verification. These results establish source code as a scalable foundation for constructing RL environments that improve coding agents across diverse software tasks."
-    },
-    {
-      "id": "fetch-paper-6",
-      "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
-      "source": "arXiv.org",
-      "date": "2026-09-18",
-      "description": "Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM assistance, 73,093 first-person Reddit ...",
-      "category": "agent",
-      "tags": [
-        "Research",
-        "Agent"
-      ],
-      "url": "http://arxiv.org/abs/2609.22067v1",
-      "hotScore": 89,
-      "content": "Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM assistance, 73,093 first-person Reddit posts about using OpenClaw, each for its human value, agent aspect, value fulfillment, and user outcome. The 21 values form six value groups, including Autonomous, Dependable, and Affordable Operation, Bounded Reach, Reviewability, and Equitable Access. Relative to each aspect's corpus share, values clustered not at the agent's outputs but at the operating conditions users set around a run. Values were usually met where users described what the agent delivered, in five of six groups, and mostly unmet where users described supervising it, in all six groups. We conceptualize this pattern as value-sensitive delegation. Supporting human values requires attention not only to what an agent accomplishes, but to the conditions users set around delegation, including cost, access, and oversight."
-    },
-    {
-      "id": "fetch-paper-7",
-      "title": "BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings",
-      "source": "arXiv.org",
-      "date": "2026-09-18",
-      "description": "Advances in large-scale neural recording have made it possible to collect data across many animals and distributed brain regions, raising the question of whether this scale can be exploited to learn general-purpose neural representations tr...",
+      "id": "fetch-hf-2609.12623",
+      "title": "SteerDuplex: Steerable Duplex Speech Dialogue Models",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-10",
+      "description": "Full-duplex spoken dialogue models support low-latency turn taking, interruption handling, and backchanneling, yet a key capability remains underexplored: steerability, the ability to reliably shift conversational behavior along attributes ...",
       "category": "tooling",
       "tags": [
-        "Research"
+        "Hugging Face",
+        "Paper"
       ],
-      "url": "http://arxiv.org/abs/2609.22064v1",
-      "hotScore": 94,
-      "content": "Advances in large-scale neural recording have made it possible to collect data across many animals and distributed brain regions, raising the question of whether this scale can be exploited to learn general-purpose neural representations transferable across diverse downstream tasks. Yet, progress toward this goal has been limited by fragmented evaluation protocols and a narrow focus on individual task domains. Here, we present BrainWideBench, a benchmark for evaluating across-animal transfer on multi-region neural recordings, built on the International Brain Laboratory Brainwide Map dataset of neural and behavioral recordings spanning 276 brain regions from 139 mice performing a sensory-guided decision-making task. The benchmark is organized around three complementary task suites that evaluate whether learned representations support downstream decoding of behavior, can predict masked or future neural activity, and can recover biologically meaningful anatomical organization. With this benchmark, we systematically evaluate pretraining methods across transfer settings, including finetuning on downstream objectives and zero-shot generalization to unseen animals. Our results confirm pretraining improves performance over matched single-session baselines, but we show current methods exhibit heterogeneity in transfer capabilities: gains depend strongly on the alignment between pretraining objectives and downstream tasks. No single approach performs uniformly well across all three suites, and most methods are designed to only address a subset of them. Together, these findings suggest that learning representations that jointly generalize across behavior, dynamics, and anatomy remains an open challenge. By providing a unified and reproducible evaluation suite, BrainWideBench establishes a framework for measuring progress toward general-purpose models of the mouse brain."
+      "url": "https://huggingface.co/papers/2609.12623",
+      "hotScore": 90,
+      "content": "Full-duplex spoken dialogue models support low-latency turn taking, interruption handling, and backchanneling, yet a key capability remains underexplored: steerability, the ability to reliably shift conversational behavior along attributes such as tone, persona, speaking rate, and voice style in response to user instructions. We introduce a taxonomy of text- and audio-based steerability that identifies substantial gaps in current full-duplex models. To address this gap, we introduce SteerDuplex, a Moshi-based full-duplex speech model fine-tuned on natural conversations and synthetic dialogues targeting instruction following, vocal delivery, reasoning, and duplex interaction. We further apply two-stage reinforcement learning (RL) with hybrid rewards, combining verifiable interaction checks and judge-based semantic feedback to improve timing and response continuity. To evaluate full-duplex spoken steerability, we introduce SteerBench, a benchmark with 390 spoken prompts and 1,067 human-authored binary audio and text rubrics spanning tone, persona, style/accent, and speed/length. On SteerBench, supervised training improves audio-steering average pass rate by 44.5 percentage points over the strongest evaluated open baseline. On Audio MultiChallenge, task average pass rate improves by 7 points over its strongest evaluated open baseline. RL further raises source-clean interruption response from 72.5% to 82.5% and reduces synthetic pause barge-in from 26.5% to 9%. Steering and aggregate task scores remain comparable or higher, while reward probes reveal reward hacking through incomplete responses. Our model and benchmark support systematic research on spoken steerability, with reward analysis showing why timing gains must be evaluated alongside response completeness."
+    },
+    {
+      "id": "fetch-hf-2609.21788",
+      "title": "From Pretraining to Proficiency: Real-World Subtask RL for Long-Horizon Manipulation with Minimal Human Intervention",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-17",
+      "description": "A pretrained robot foundation policy may execute most of a long-horizon task yet repeatedly fail at a few critical subtasks. Collecting additional full-task demonstrations for supervised fine-tuning (SFT) requires operators to repeat behavi...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.21788",
+      "hotScore": 89,
+      "content": "A pretrained robot foundation policy may execute most of a long-horizon task yet repeatedly fail at a few critical subtasks. Collecting additional full-task demonstrations for supervised fine-tuning (SFT) requires operators to repeat behaviors the policy already performs well. Reinforcement learning (RL) fine-tuning offers a promising path to bridge this gap, but existing approaches struggle to solve long-horizon tasks using only sparse rewards. We present PARTS (Policy Adaptation with RL on Targeted Subtasks), a real-world subtask RL framework that concentrates practice at these bottlenecks while allowing training rollouts to proceed with minimal human intervention. The frozen pretrained policy supplies nominal actions throughout execution, while agent-generated selectors and success verifiers activate residual corrections and provide local outcome rewards. These rewards support learning from successful subtasks even when complete-task successes are scarce. Training combines online RL with success-reweighted retraining, and each retrained residual policy is redeployed to collect further experience. Humans identify bottlenecks during setup and perform physical resets when needed. On bimanual YAM and single-arm Franka tasks, PARTS improves complete-task success from 32% to 61% and from 50% to 95%, respectively, using tens of minutes of real-world RL rollouts per task on average. Compared with existing real-world RL fine-tuning methods, PARTS raises full-task success by more than 25% under the same robot-rollout budget while requiring less human involvement."
+    },
+    {
+      "id": "fetch-hf-2609.19169",
+      "title": "SiliconBench: Speed, Memory, and Fidelity for LLM Serving on Unified-Memory Desktops",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-11",
+      "description": "Concurrent local LLM serving on unified-memory desktops must preserve memory headroom and output fidelity, which speed-only rankings overlook. We introduce SiliconBench, which evaluates nine Apple Silicon serving engines through three lense...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.19169",
+      "hotScore": 88,
+      "content": "Concurrent local LLM serving on unified-memory desktops must preserve memory headroom and output fidelity, which speed-only rankings overlook. We introduce SiliconBench, which evaluates nine Apple Silicon serving engines through three lenses: speed, memory, and fidelity. We evaluate chat and agent serving on Qwen3, Qwen3.5, and Gemma 4. We use a classification task to check for quality regressions against an NVIDIA reference. DGX Spark provides a complementary serving-performance reference. Three desiderata guide interpretation: serving architecture readiness, memory discipline, and multi-node scaling. On Qwen3-0.6B, vllm-metal alone more than doubles throughput on both workloads from concurrency 1 to 16. CUDA vLLM and SGLang show stronger concurrency scaling on the same prompts. Explicit memory budgets do not guarantee memory headroom: two stacks complete every request while memory use approaches physical capacity and throughput declines. The newer model architectures have narrower engine support. Their evaluated implementations match the fidelity reference. Only three stacks satisfy the completion, fidelity, and model-coverage gates. Comparisons on larger dense and MoE models reinforce the importance of scheduling prompt processing alongside ongoing generation: vllm-metal's packed prefill-decode path maintains lower first-token latency than omlx under concurrent load. In the tested two-machine configurations, tensor parallelism over Thunderbolt RDMA scales while pipeline parallelism over TCP regresses. We release benchmark code, per-run results, and maintenance journals, supported by a workflow combining bounded agent fixes with human review."
     },
     {
       "id": "fetch-hf-2609.20886",
@@ -387,7 +315,7 @@
         "Paper"
       ],
       "url": "https://huggingface.co/papers/2609.20886",
-      "hotScore": 90,
+      "hotScore": 87,
       "content": "Business intelligence (BI) is a cornerstone of enterprise decision-making and is widely used by enterprise users in software such as Power BI and Tableau. In traditional BI workflows, users need to prepare data by (1) identifying relevant tables, (2) performing data transformations, and (3) building join relationships, before they can (4) answer their business questions. These steps can be complex and time-consuming, making BI challenging.\n  Given the strong capabilities of large language models (LLMs) in working with data, we study their ability to answer BI questions end-to-end, without requiring users to manually perform the tedious preparation steps. To do this, we harvest a large collection of real-world BI projects from public sources, and manually extract pairs of (questions, ground-truth answers) from real user dashboards. The resulting benchmark, BI-Bench, is the first benchmark to systematically study LLMs' ability on end-to-end BI.\n  We find that even frontier LLMs perform poorly on BI-Bench, with less than 50% accuracy. To address their limitations, we design a tool-augmented BI-Agent that decomposes BI workflows into subtasks on structured data, such as search, join, and transform, and orchestrates specialized data management methods across BI stages. Furthermore, we develop a post-training framework that synthesizes training trajectories from real BI projects, enabling BI-Agent to be further post-trained using both supervised fine-tuning (SFT) and reinforcement learning (RL). BI-Agent achieves substantial accuracy gains of up to 40 percentage points with vanilla LLMs, and post-trained BI-Agent yields gains of up to 30 points. Our results highlight the importance of combining tool-augmented reasoning with domain-specific post-training in complex BI workflows, and point to promising directions for future research."
     },
     {
@@ -402,53 +330,8 @@
         "Paper"
       ],
       "url": "https://huggingface.co/papers/2609.22086",
-      "hotScore": 89,
-      "content": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through more than 230 tools, while an external procedural memory of natural-language skills accumulates and refines reusable design procedures from experience. The memory widens by acquiring procedures for recurring uncovered subtasks and deepens by revising existing procedures against their own successful and failed executions, while a matched replay gate admits only changes that repair failures without regressing observed successes. Five rounds over 1,406 real user briefs and 1,869 automatically graded trajectories, with no weight updates and no human labels, grow the bank from 76 documentation-derived skills to 139 and raise GenEval2 execution success on Claude-Sonnet-4 from 72.7% to 99.3% (+11.99 points in generation quality), with 61.8% and 67.6% win rates against the no-skill agent across four specialized design benchmarks on Claude-Sonnet-4 and Claude-Opus-4.6. We further show the two mechanisms are effective in combination: on 200 held-out briefs from user-traffic benchmark, widening or deepening alone reaches a 49.4% / 48.6% win rate over the no-skill agent, while their combination reaches 58.5% (p = 0.025). Procedural memory offers a practical route to continual adaptation of agents under noisy, unverifiable feedback."
-    },
-    {
-      "id": "fetch-hf-2609.22039",
-      "title": "Gricea: An Open Science Platform for Conversational AI Research",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-17",
-      "description": "We need studies on conversational AI (CAI) at scale to understand human behavior and shape CAI design. However, fragmented reporting of systems and study configurations hinders replication, extension, and knowledge accumulation. We present ...",
-      "category": "research",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.22039",
-      "hotScore": 88,
-      "content": "We need studies on conversational AI (CAI) at scale to understand human behavior and shape CAI design. However, fragmented reporting of systems and study configurations hinders replication, extension, and knowledge accumulation. We present Gricea, an open-science platform representing studies as configurable, deployable research artifacts that researchers can run, inspect, share, and reuse. Informed by a formative analysis of prior CAI research, Gricea couples study procedures, participant-facing systems, and conversational task behavior in. In a replication study using Gricea, we replicated configurations 93% of eligible CUI 2026 papers; while also flagging missing information in 96% of papers that hinder faithful replication --- further motivating Gricea's need. In a user study, researchers and practitioners from diverse backgrounds successfully constructed runnable studies addressing various open-ended research questions. Together, these findings demonstrate Gricea's support for constructing, reproducing, and extending CAI studies through shared research artifacts, enabling cumulative knowledge building through open science."
-    },
-    {
-      "id": "fetch-hf-2609.16251",
-      "title": "CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-13",
-      "description": "Computer-use agents are increasingly evaluated in realistic desktop environments, but existing benchmarks provide limited coverage of professional engineering workflows whose outputs are persistent, structured artifacts. Mechanical computer...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.16251",
-      "hotScore": 87,
-      "content": "Computer-use agents are increasingly evaluated in realistic desktop environments, but existing benchmarks provide limited coverage of professional engineering workflows whose outputs are persistent, structured artifacts. Mechanical computer-aided design (CAD) is a particularly demanding setting: an agent must manipulate geometry and constraints over long interaction horizons while producing a native project whose dimensions, construction structure, and downstream engineering state remain valid. We introduce CADWorld, a benchmark for long-horizon computer use in FreeCAD. CADWorld contains 200 tasks spanning 11 mechanical-CAD workflow categories, including sketching, part modeling, assembly, CAM, FEM, measurement, mesh processing, and technical drawing. Agents operate through screenshots and GUI actions, while success is determined by task-specific executable checks over saved FreeCAD artifacts and auxiliary outputs, covering geometric properties, parametric structure, constraints, manufacturing state, and simulation results. Across seven current agents on the full benchmark, the strongest agent achieves 17.5\\% success, compared with an 87.0\\% expert reference pass. We find that weaker agents often fail before producing a valid artifact, whereas stronger agents increasingly fail on structural, geometric, and construction-process requirements. CADWorld therefore exposes a gap between general GUI competence and reliable execution of persistent, verifiable engineering workflows. Project accessible at https://cad-world.github.io."
-    },
-    {
-      "id": "fetch-hf-2609.19315",
-      "title": "GAVEL: Graph World Models for Verified and Efficient Long-Horizon LLM Task Planning",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-15",
-      "description": "Large language models (LLMs) provide a flexible interface for long-horizon robot planning, but generated plans often fail to respect embodiment constraints, recover from planning errors, or reason effectively under partial observability. We...",
-      "category": "llm",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.19315",
       "hotScore": 86,
-      "content": "Large language models (LLMs) provide a flexible interface for long-horizon robot planning, but generated plans often fail to respect embodiment constraints, recover from planning errors, or reason effectively under partial observability. We present GAVEL, a framework for verifying and repairing long-horizon LLM planning built around an explicit graph world model. The graph represents relevant object-relations, action pre-conditions and effects, and probabilistic beliefs over unobserved object locations. This model can predict the consequences of LLM-generated actions before execution, detect violations, and repair those whose corrections follow directly from the world model. This method also reserves LLM replanning solely for errors requiring semantic reasoning. For multi-task instructions, GAVEL reasons over distributions of possible object locations to reorder remaining subtasks and minimize expected search cost. We evaluate GAVEL on BEHAVIOR-1K across 100 single long-horizon tasks and 500 multi-task instructions. With Qwen3-8B, GAVEL improves single-task success from 41.2% to 91.8% and multi-task success from 19.9% to 92.6%. Distributional belief reasoning also reduces travel distance by approximately 5.4% compared with a static variant. These improvements show that an explicit graph world model harness can substantially improve the reliability and efficiency of long-horizon embodied planning across compact and frontier hosted LLM capabilities."
+      "content": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through more than 230 tools, while an external procedural memory of natural-language skills accumulates and refines reusable design procedures from experience. The memory widens by acquiring procedures for recurring uncovered subtasks and deepens by revising existing procedures against their own successful and failed executions, while a matched replay gate admits only changes that repair failures without regressing observed successes. Five rounds over 1,406 real user briefs and 1,869 automatically graded trajectories, with no weight updates and no human labels, grow the bank from 76 documentation-derived skills to 139 and raise GenEval2 execution success on Claude-Sonnet-4 from 72.7% to 99.3% (+11.99 points in generation quality), with 61.8% and 67.6% win rates against the no-skill agent across four specialized design benchmarks on Claude-Sonnet-4 and Claude-Opus-4.6. We further show the two mechanisms are effective in combination: on 200 held-out briefs from user-traffic benchmark, widening or deepening alone reaches a 49.4% / 48.6% win rate over the no-skill agent, while their combination reaches 58.5% (p = 0.025). Procedural memory offers a practical route to continual adaptation of agents under noisy, unverifiable feedback."
     }
   ],
   "hfModels": [
@@ -474,7 +357,7 @@
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
       "downloads": 88600335,
-      "likes": 347,
+      "likes": 348,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -521,7 +404,7 @@
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
       "downloads": 46140403,
-      "likes": 3366,
+      "likes": 3367,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -537,7 +420,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "downloads": 45687282,
-      "likes": 1408,
+      "likes": 1409,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -553,7 +436,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
       "downloads": 37317623,
-      "likes": 3586,
+      "likes": 3587,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -569,7 +452,7 @@
       "owner": "Community",
       "fullName": "Qwen/Qwen3-0.6B",
       "downloads": 24836019,
-      "likes": 1658,
+      "likes": 1660,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -601,7 +484,7 @@
       "owner": "Community",
       "fullName": "amazon/chronos-2",
       "downloads": 22629668,
-      "likes": 484,
+      "likes": 485,
       "category": "research",
       "tags": [
         "Time-series-forecasting",
@@ -615,6 +498,21 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-09-21",
+      "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "hotScore": 98,
+      "content": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people...."
+    },
+    {
+      "id": "fetch-gadget-1",
       "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
       "source": "TechCrunch Gadgets",
       "date": "2026-09-21",
@@ -625,11 +523,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "hotScore": 86,
+      "hotScore": 89,
       "content": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss...."
     },
     {
-      "id": "fetch-gadget-1",
+      "id": "fetch-gadget-2",
       "title": "World model companies are keeping a lot of secrets",
       "source": "TechCrunch Gadgets",
       "date": "2026-09-20",
@@ -640,38 +538,8 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "hotScore": 90,
+      "hotScore": 95,
       "content": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually buil..."
-    },
-    {
-      "id": "fetch-gadget-fb1",
-      "title": "Ray-Ban Meta Glasses Add Real-time Translation",
-      "source": "Meta Hardware",
-      "date": "2026-09-21",
-      "description": "Meta's popular smart glasses now feature real-time audio translation and multimodal AI search that understands the world around you.",
-      "category": "image",
-      "tags": [
-        "Meta",
-        "Smart-Glasses"
-      ],
-      "url": "https://about.fb.com/",
-      "hotScore": 96,
-      "content": "Ray-Ban Meta Smart Glasses continue to lead the consumer AI hardware category, showing high consumer engagement with features like hands-free capture, smart lookup, and now, instant language translation."
-    },
-    {
-      "id": "fetch-gadget-fb2",
-      "title": "Humane Launches AI Pin 2.0 with Screen Projection",
-      "source": "Humane News",
-      "date": "2026-09-21",
-      "description": "Humane introduced a new version of its AI Pin featuring a brighter laser ink projection, faster responses, and offline LLM capabilities.",
-      "category": "tooling",
-      "tags": [
-        "Humane",
-        "AI-Pin"
-      ],
-      "url": "https://humane.com",
-      "hotScore": 89,
-      "content": "The Humane AI Pin 2.0 addresses issues of thermal throttling and latency. Using quantized on-device small language models (SLMs), it provides offline translation and navigation tools."
     }
   ]
 }
