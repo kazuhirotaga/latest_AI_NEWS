@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-30T17:05:22.226Z",
+  "updatedAt": "2026-10-01T02:43:14.459Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 390901,
-      "forks": 82210,
+      "stars": 391002,
+      "forks": 82222,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 293343,
-      "forks": 26251,
+      "stars": 293498,
+      "forks": 26257,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 250281,
-      "forks": 53456,
+      "stars": 250367,
+      "forks": 53505,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 206358,
-      "forks": 60950,
+      "stars": 206390,
+      "forks": 60958,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187621,
-      "forks": 45982,
+      "stars": 187631,
+      "forks": 45980,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.",
-      "stars": 187036,
-      "forks": 9991,
+      "stars": 187212,
+      "forks": 9994,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 171688,
-      "forks": 22019,
+      "stars": 171744,
+      "forks": 22023,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165159,
-      "forks": 32142,
+      "stars": 165172,
+      "forks": 32144,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,7 +142,7 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 158976,
+      "stars": 158991,
       "forks": 46143,
       "language": "JavaScript",
       "category": "research",
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 157583,
-      "forks": 24855,
+      "stars": 157623,
+      "forks": 24862,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 153635,
-      "forks": 22465,
+      "stars": 153675,
+      "forks": 22469,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 147309,
-      "forks": 24667,
+      "stars": 147331,
+      "forks": 24670,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 143973,
-      "forks": 34806,
+      "stars": 143991,
+      "forks": 34807,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 139542,
-      "forks": 12508,
+      "stars": 139614,
+      "forks": 12511,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 135616,
-      "forks": 16086,
+      "stars": 135663,
+      "forks": 16094,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,198 +260,198 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+      "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
       "source": "arXiv.org",
-      "date": "2026-09-29",
-      "description": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requirin...",
-      "category": "agent",
+      "date": "2026-09-30",
+      "description": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanced: a constant-majority predictor can sc...",
+      "category": "llm",
       "tags": [
         "Research",
-        "Agent"
+        "LLM"
       ],
-      "url": "http://arxiv.org/abs/2609.38178v1",
+      "url": "http://arxiv.org/abs/2609.40361v1",
       "hotScore": 85,
-      "content": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic systems offer a way to reduce this reliance on human effort by using foundation models to autonomously compose learned behaviors to complete tasks. Yet completing tasks this way does not itself teach a task policy to overcome its own failures; that requires turning these behaviors into learnable corrections for the policy. Our insight is that many such corrections are familiar short behaviors, or skills: they recur across tasks and describe actions that foundation models can reason about from a scene. We introduce skill-space shooting, which uses foundation model guidance to explore corrections through these reusable skills and turn successful trials into policy improvement. Real-world experiments show repeated improvement in policies acting autonomously, while skills can also be shared to reduce the teaching needed to improve on new tasks. By making reusable skills a source of corrective supervision, skill-space shooting enables scalable and generalizable policy improvement within and across tasks. Additional results and videos at https://skill-space-shooting.github.io."
+      "content": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanced: a constant-majority predictor can score above 90% accuracy while being clinically useless. We therefore evaluate and optimize for AUROC, a threshold-free score that ranks positives above negatives and is invariant to class balance. We focus on prompt optimization in MLLMs. Reflective methods such as GEPA use a binary scores matrix with one row per evaluation instance and one column per candidate prompt; cells record per-instance correctness, so the column average is accuracy and drives candidate selection. We introduce pair-level Pareto prompt evolution (Ranking-PE), which replaces each correctness row with a pairwise-ordering row over (positive, negative) instance pairs: the cell is 1 if the candidate scores the positive higher than the paired negative. The column average then equals empirical AUROC (by the Wilcoxon-Mann-Whitney identity). We apply this swap at all three layers the prompt evolution search reads from - the scores matrix that decides Pareto dominance, the per-example feedback to the reflection LM, and final candidate selection - at no extra model calls and with no surrogate loss. Across three diseases on MIMIC, accuracy-based prompt evolution can degrade ranking; Ranking-PE reverses this, beating the accuracy-based recipe by +5.8 AUROC pp on fine-tuned Qwen3-VL-8B and +16.2 pp on MedGemma-4B. Ablations examine each design component and show that a medical-grade visual backbone - via vision-encoder-tuned SFT or medical pretraining - is a prerequisite that prompt search cannot replace - our recipe extends reflective prompt evolution from text-only data to multimodal clinical decision-making."
     },
     {
       "id": "fetch-paper-1",
-      "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+      "title": "Semifactual Credit-Augmented Policy Optimization",
       "source": "arXiv.org",
-      "date": "2026-09-29",
-      "description": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they struggle to integrate evidence across viewpoin...",
-      "category": "image",
+      "date": "2026-09-30",
+      "description": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity throug...",
+      "category": "llm",
       "tags": [
         "Research",
-        "ImageGen"
+        "LLM"
       ],
-      "url": "http://arxiv.org/abs/2609.38177v1",
-      "hotScore": 81,
-      "content": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they struggle to integrate evidence across viewpoints into a coherent 3D understanding. A growing body of work attempts to close this gap by injecting 3D awareness into MLLMs, either by boosting fine-grained pixel-level cross-view correspondence or by fusing features from 3D geometry foundation models, yet a substantial gap to human reasoning persists. In this work, we revisit human spatial reasoning, which suggests that rather than relying on fine-grained geometry cues, humans roughly identify common objects across views, infer the relative geometry between viewpoints, and assemble a coarse 3D layout of the scene. Inspired by this process, we introduce Imagine3D-LLM, an MLLM that learns to assemble a similar compact 3D representation of the scene and conditions its answer on this representation. Concretely, we append a small set of learnable summary tokens after the image tokens, decode them into a compact 3D Gaussian Splatting representation supervised by a photometric reconstruction loss, and train jointly with the standard next-token prediction objective. Notably, although only the summary tokens receive direct reconstruction supervision, this objective also induces stronger cross-frame correspondence within the LLM's underlying image features, suggesting that learning to reconstruct propagates 3D-aware signals throughout the model. As a result, Imagine3D-LLM consistently outperforms prior approaches across multiple spatial reasoning and 3D understanding benchmarks, suggesting that imagining the scene can be more effective than being told its pixel-wise geometry."
+      "url": "http://arxiv.org/abs/2609.40360v1",
+      "hotScore": 84,
+      "content": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity through semifactual prompt interventions that preserve the underlying problem and its answer. Our analysis reveals substantial variation in token-level sensitivity and shows that suppressing high-drift token candidates during decoding improves reasoning accuracy without updating model weights. These findings highlight a limitation of Group Relative Policy Optimization (GRPO), which assigns the same outcome-derived advantage to every response token and may reinforce potential spurious dependence alongside useful reasoning. Motivated by this observation, we introduce Semifactual Credit-Augmented Policy Optimization (SCAPO), a causally inspired variant of GRPO that incorporates semifactual stability into token-level credit assignment. SCAPO measures token probability drift for fixed responses under semifactual interventions and uses normalized stability scores to reduce advantages for relatively unstable tokens during early training, while granting no additional credit for stability alone. On Qwen3-4B-Base and Qwen3-1.7B-Base, SCAPO improves AIME 2024-2026 accuracy over GRPO by 5.63 and 4.17 percentage points, respectively. At both model scales, SCAPO achieves the best results on most evaluated mathematics benchmarks and all evaluated out-of-distribution benchmarks among the compared methods. These results suggest that semifactual stability provides an effective training signal for improving reasoning and generalization through finer-grained credit assignment in RLVR. The code is available at https://github.com/DtYXs/SCAPO."
     },
     {
       "id": "fetch-paper-2",
-      "title": "Breakdown of Local Denoising as Semantic Speciation",
+      "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
       "source": "arXiv.org",
-      "date": "2026-09-29",
-      "description": "The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local context windows become insufficient for generat...",
-      "category": "image",
+      "date": "2026-09-30",
+      "description": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time series of brain activity from subjects pe...",
+      "category": "llm",
       "tags": [
         "Research",
-        "ImageGen"
+        "LLM"
       ],
-      "url": "http://arxiv.org/abs/2609.38176v1",
-      "hotScore": 84,
-      "content": "The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local context windows become insufficient for generation. Motivated by evidence of their near-concurrence in a variety of frontier models, we investigate their relationship through the spatial distribution of semantic information. Under a \"common cause\" hypothesis, we prove that the nonlocality window must lie in the speciation window. This hypothesis postulates that semantic labels explain a fraction of the correlations between distant tokens, a condition that is natural for many real datasets. We further give conditions under which both windows shrink to a single limiting time as system size grows, defining a \"phase transition\", and verify this behavior analytically in Gaussian mixtures. Together, these results identify conditions under which semantic information explains the concurrence of speciation and nonlocality, connecting two complementary perspectives on the emergence of semantic structure in generative modeling."
+      "url": "http://arxiv.org/abs/2609.40359v1",
+      "hotScore": 85,
+      "content": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time series of brain activity from subjects perceiving continuous speech are segmented into fixed-length windows starting at each word. A neural network then generates predictions for all of the words in a sentence together. Neighbouring windows partially overlap, implicitly revealing the interval between words. Since these intervals indicate the duration of the words spoken, and different words tend to have different durations - for example, \"the\" is much shorter than \"supercalifragilisticexpialidocious\" - the neural network can improve its predictions of words without relying on the underlying brain activity. Consistent with this, the method reaches 22.0% balanced accuracy on synthetic signals containing no brain information, compared with 22.3% on real brain recordings. To prevent the network from learning this shortcut, we make a single, simple change. Instead of jointly encoding all windows in a sentence, we process each independently. As a result, the neural network achieves better performance by learning underlying word-specific information from brain recordings. This makes two existing strategies become much more effective than before. Both aggregating predictions from distinct neural responses to the same word and using a pretrained LLM as a linguistic prior now substantially improve results. On our perceived speech benchmark, this simple recipe (SimpleB2T) achieves a word error rate of 36.6% with five observations per word, approaching past invasive speech decoding performance, albeit under different conditions. The results in this work expose an important shortcut in brain-to-text decoding and show that removing it leads to a simple and considerably more effective strategy."
     },
     {
       "id": "fetch-paper-3",
-      "title": "ClusterAttention: A training-free speedup of bidirectional attention",
+      "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
       "source": "arXiv.org",
-      "date": "2026-08-27",
-      "description": "We introduce ClusterAttention, a general training-free speedup of bidirectional attention at large token counts. We point out two common assumptions in contemporary training-free methods; attention sparsity, and context that can be leverage...",
+      "date": "2026-09-30",
+      "description": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video scene text editing replaces text on sce...",
       "category": "image",
       "tags": [
         "Research",
         "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2608.26965v2",
-      "hotScore": 84,
-      "content": "We introduce ClusterAttention, a general training-free speedup of bidirectional attention at large token counts. We point out two common assumptions in contemporary training-free methods; attention sparsity, and context that can be leveraged, such as structure in the input or multiple similar forward passes, and show when they fail. Our proposed method utilizes a fast attention-aware recursive clustering method, and compensation of excluded clusters through their mean. The clustering method gives power-of-two cluster sizes, allowing block-sparse attention to match dense attention in GPU throughput. On TabPFN-3 arXiv:2605.13986, a model where none of the assumptions hold, ClusterAttention is to our knowledge the first method to provide a substantial speedup over the default attention, while consistently keeping over 99\\% of its accuracy. On the largest dataset from the TALENT benchmark suite, it makes processing of the training dataset close to 8x faster at nearly 11x attention speedup. ClusterAttention is also competitive with domain-specific methods, while avoiding any of the domain-specific engineering. On video-generation with Wan 2.1-T2V-14B arXiv:2503.20314 it produces output closer to dense attention at a larger speedup (1.8x vs 1.4x) than SVOO arXiv:2603.18636, a leading method in this domain, with both evaluated without offline calibration."
+      "url": "http://arxiv.org/abs/2609.40356v1",
+      "hotScore": 86,
+      "content": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video scene text editing replaces text on scene surfaces, such as storefront signs, whiteboards, and product labels, while preserving the surrounding content, motion, and camera dynamics. Although scene text editing is well studied for images, video scene text editing that achieves high visual quality, temporal consistency, and edit locality remains underexplored. Existing resources offer limited paired real-video data, and general video-editing metrics do not directly measure whether the requested text remains correct over time. We introduce ViTeX-Bench, a benchmark suite comprising ViTeX-Dataset and a three-axis evaluation protocol. The dataset contains 387 real-world 720p videos with text-region masks and editing instructions: 230 provide reviewed, pipeline-generated paired edits for training, and 157 form a frozen evaluation split. The protocol evaluates text correctness, visual and temporal quality, and edit locality through 13 metrics, with one primary metric per axis and a Pareto comparison of their trade-offs. OCR calibration, human evaluation, and annotation-sensitivity analyses support the interpretation of these scores. Across eight baselines from four editing families, accurate text, temporal stability, and scene preservation remain difficult to achieve together. We also release ViTeX-Edit-14B, an open-source reference editor fine-tuned on the paired training split with motion-aligned glyph-video conditioning. It achieves CharAcc 0.688, the highest mean among the evaluated video-native editors, and the lowest comparable text-crop Warp among raw editor outputs. ViTeX-Bench provides a reproducible foundation for studying these trade-offs in video scene text editing."
     },
     {
       "id": "fetch-paper-4",
-      "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+      "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
       "source": "arXiv.org",
-      "date": "2026-09-29",
-      "description": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recurrent states to low precision often leads...",
+      "date": "2026-09-30",
+      "description": "We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstruction-based autoencoders for learning with u...",
       "category": "image",
       "tags": [
         "Research",
         "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2609.38169v1",
+      "url": "http://arxiv.org/abs/2609.40347v1",
       "hotScore": 87,
-      "content": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recurrent states to low precision often leads to severe accuracy degradation, as quantization errors propagate through successive state updates. We discover that the impact of these errors depends on two complementary dimensions: temporally, errors in long-lived memory can persist across many decoding steps; spatially, errors in different key rows affect model outputs differently, while state magnitudes vary substantially along both rows and columns. Motivated by these observations, we propose STEPQuant, a spatial-temporal post-training quantization framework for Delta-rule recurrent states. STEPQuant allocates precision according to error magnitude and memory lifetime, and jointly fits key-row and value-column scales based on state distributions and key-row impact on output error. Experiments on Qwen3.8-27B and Kimi-Linear-48B-A3B-Instruct across both long- and short-generation benchmarks show that STEPQuant closely matches FP32-state accuracy under a nominal 6-bit budget and outperforms uniform INT8 in its 4-bit configuration. Integrated into SGLang with optimized GPU kernels, 6-bit STEPQuant achieves over 5x recurrent-state compression and reduces total serving memory by up to 68.7%. Our code is available at https://github.com/Dreamer-Toby/STEPQuant."
+      "content": "We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstruction-based autoencoders for learning with unlabeled data, we repurpose standard image Vision Transformers by representing videos as super images which are grids composed of frames sampled from videos. From each super image, we construct two views: one with spatial patch masking and the other with temporal frame masking, ensuring no information leakage across frames. A shared Vision Transformer (ViT) encoder aligns their embeddings using a masked Siamese loss, capturing both motion and appearance cues without reconstruction. Our decoder-free formulation leverages an image foundation model towards efficient video representation learning. Starting from pretrained DINO-v3 and DeiT-v3 image encoders, VideoMSN achieves state-of-the-art performance on Kinetics-400, UCF101, and HMDB51 while requiring up to $32\\times$ fewer and $160\\times$ fewer video pretraining epochs compared to prior video self-supervised learning methods. Our proposed approach also shows strong performance in low-shot classification, confirming the transferability of the learned representations in a label-scarce scenario. Project Page: https://cvir.github.io/projects/videomsn."
     },
     {
       "id": "fetch-paper-5",
-      "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+      "title": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
       "source": "arXiv.org",
-      "date": "2026-09-29",
-      "description": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context into a fixed-size recurrent state and subst...",
+      "date": "2026-09-30",
+      "description": "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can keep returning the same pages as solutions ...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2609.38166v1",
-      "hotScore": 81,
-      "content": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context into a fixed-size recurrent state and substantially reduce the cost of long-context processing, repeatedly reading and updating that state remains a major inference bottleneck. Quantization offers a natural way to reduce this cost, but can significantly degrade model quality, due to the accumulation of rounding errors and the presence of outlier rows and columns in the state. To address these challenges, we propose LeapQuant, a training-free method that achieves near-lossless performance under 8-bit recurrent-state quantization. First, to mitigate error accumulation, we propose per-window quantization, which leaps over a window of tokens and quantizes the state only once at its end. Within a window, outputs are computed from the fixed low-bit state together with high-precision buffered updates. Second, to reduce the error introduced by each quantization, LeapQuant retains the state's largest outliers as a few high-precision Compensator Tokens, which share the update path of real tokens. We then smooth the remaining residual before quantization to further reduce the error. Comprehensive experiments across the Qwen, Kimi, and GLM model families show that LeapQuant substantially reduces memory and compute costs during inference. With accuracy comparable to the FP32 baseline, it achieves average speedups of 2.05--3.70$\\times$ at the kernel level and 1.47$\\times$ for end-to-end inference on NVIDIA B200, RTX PRO 6000, and RTX 5090 GPUs."
+      "url": "http://arxiv.org/abs/2609.40340v1",
+      "hotScore": 87,
+      "content": "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can keep returning the same pages as solutions change. We introduce EvoDuet, a bi-level optimization method that co-evolves solutions and search queries with fixed model parameters. At each iteration, a retrieval gate lets the LLM assess its knowledge gap and choose to retrieve new documents, reuse stored ones, or proceed without them. An inner loop refines queries and ranks documents by the solution scores they are predicted to yield; an outer loop generates candidates in parallel from these documents and records the evaluated outcomes for later searches. Across 21 optimization tasks with one candidate per iteration, EvoDuet raises OpenEvolve's normalized discovery gain from 74.1% to 78.0% with GPT-5.6-Luna and from 61.3% to 82.3% with Gemini-3.8-Flash, whereas Qwen3.5-9B does not benefit. Our best runs surpass the previously reported best scores on eight tasks, including Swap Reduction on Q20 and Rosetta, and match them on three more. EvoDuet also improves with other scaffolds (e.g., Top-K, EvoX) on Sums/Diffs and Denoising, demonstrating its applicability across evolutionary search scaffolds."
     },
     {
       "id": "fetch-paper-6",
-      "title": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
+      "title": "Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
       "source": "arXiv.org",
-      "date": "2026-09-29",
-      "description": "The landscape of satellite imagery time series datasets and boundary-pushing architectures for cropland segmentation has never been richer. However, in this gold rush, important truths are being missed on both fronts, as a drive for the mos...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2609.38165v1",
-      "hotScore": 84,
-      "content": "The landscape of satellite imagery time series datasets and boundary-pushing architectures for cropland segmentation has never been richer. However, in this gold rush, important truths are being missed on both fronts, as a drive for the most novel concepts or the largest datasets pushes finer details to the side. In this paper, we present our hybrid transformer-convolutional model, Cropland Parallel Attention and Refinement Network for Segmentation (PAtteRNS), the first model to use self-attention mechanisms separately for each of the temporal, spectral, and spatial aspects of Sentinel-2 multispectral SITS data. To achieve fully-factorised attention in our proposed model, we introduce a novel parallel transformer architecture which significantly reduces the computational complexity of triple-factorised self-attention. We validate our architecture with an in-depth ablation study, and analyse the performance of our model against state-of-the-art crop segmentation models on multiple tile-size variants of the popular PASTIS and MTLCC datasets. Our findings show our model to outperform all others in the task of crop class segmentation, verified across multiple important segmentation metrics, with especially strong performance against compared models seen in the often under-reported parcel delineation quality, for which we use the Boundary IoU metric. We also find that flawed class groupings within datasets can have a significant negative impact on model performance, and report that alternate tile-size variants of crop segmentation datasets produce results incomparable to one-another, invalidating fair comparison between model performance when trained on different tile-sizes. Based on these findings, we suggest further work is required to standardise best practices when constructing SITS crop segmentation datasets, and to enable future dynamic-tile-sizing for ideal model performance."
-    },
-    {
-      "id": "fetch-paper-7",
-      "title": "A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization",
-      "source": "arXiv.org",
-      "date": "2026-09-29",
-      "description": "Evaluations of graph reconstruction by language models typically report a single aggregate distance between the original and the reconstructed graph. We prove that for the Wasserstein distance between Laplacian spectra such a summary is bra...",
+      "date": "2026-09-30",
+      "description": "Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between input and output embeddings, a design c...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2609.38161v1",
-      "hotScore": 83,
-      "content": "Evaluations of graph reconstruction by language models typically report a single aggregate distance between the original and the reconstructed graph. We prove that for the Wasserstein distance between Laplacian spectra such a summary is bracketed by two edge counts, the net change in edge number from below and the symmetric difference from above, each scaled by $2/n$ where $n$ is the number of vertices. The bracket is sharp: its two ends coincide exactly when the reconstruction only adds edges or only deletes them, and on that class the distance is a rescaled edge count that says nothing about which edges changed. When the ends differ, the residual between the distance and the lower end is positive only if the reconstruction both invented and lost edges, which turns it into a certificate of mixed editing computable from the reported summaries alone. We characterize these regimes in 135 reconstructions produced by three open-weight models over 45 synthetic graphs. Seventy-seven outputs are one-sided and 29 mixed outputs have $X &gt; 0$, including cases where edge count is exactly preserved while nineteen edges were simultaneously invented and lost. The three models differ in editing policy, ranging from copying the input to attempting completion at the cost of large hallucination volume, a distinction that aggregate distortion does not reveal."
+      "url": "http://arxiv.org/abs/2609.40335v1",
+      "hotScore": 92,
+      "content": "Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between input and output embeddings, a design choice originally introduced for parameter efficiency and improved language modeling performance in the non-private setting. However, the impact of weight tying under differentially private training remains largely unexplored. In this work, we investigate the role of weight tying in the DP setting using GPT2 and DistilGPT2 as representative decoder-only architectures. Interestingly, we find that untied embeddings consistently outperform weight-tied models under DP-SGD, achieving gains of up to 4.74% points in accuracy on SST-2, QNLI, and QQP. Beyond improved utility, untying embeddings enables the use of memory-efficient ghost clipping for DP-SGD. By contrast, weight tying introduces shared-parameter interactions that complicate standard ghost norm computation and largely negate its computational advantages. As a result, untied models achieve over 60% lower memory usage while preserving the benefits of ghost clipping. Our results indicate that untied embeddings provide a more effective and scalable design for differentially private training of decoder-only LLMs and highlight the need to revisit standard LLM architectural choices in the privacy-preserving setting."
     },
     {
-      "id": "fetch-hf-2609.36322",
-      "title": "Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-27",
-      "description": "Chunked KV-cache compression reduces the memory and attention costs of long-context inference by compressing windows of consecutive tokens into fewer cache entries at a fixed stride. Such compression also introduces a new positional coordin...",
+      "id": "fetch-paper-7",
+      "title": "IatroBench: A Pre-Registered Benchmark of Clinical Omission in Language Models",
+      "source": "arXiv.org",
+      "date": "2026-04-09",
+      "description": "We introduce IatroBench, a benchmark with two axes of harm (commission and omission), comprising 60 pre-registered clinical scenarios, tested on 6 models. Matched scenarios are framed as a patient query and a doctor consultation, differing ...",
       "category": "llm",
       "tags": [
-        "Hugging Face",
-        "Paper"
+        "Research",
+        "LLM"
       ],
-      "url": "https://huggingface.co/papers/2609.36322",
-      "hotScore": 90,
-      "content": "Chunked KV-cache compression reduces the memory and attention costs of long-context inference by compressing windows of consecutive tokens into fewer cache entries at a fixed stride. Such compression also introduces a new positional coordinate: a token's phase, or its position relative to compression-window boundaries. We uncover a systematic asymmetry in models using such compression: the same information can be easy to retrieve at one phase and difficult at another. We call this periodic variation in retrieval performance phase sensitivity. In large open-weight models with such compression, long-context retrieval accuracy can differ by up to 40 percentage points across phases, revealing periodic weak spots that average benchmark scores can conceal.\n  To investigate this behavior, we pretrain a family of transformers from scratch across multiple KV-compression designs, reproducing phase sensitivity across the variants. Mechanistic analysis using causal interventions in these models reveals phase specialization: different attention components contribute asymmetrically to retrieving information at different source phases. We further analyze idealized retrieval models, showing how gradient flow dynamics may favor sharp phase specialization. Evaluating models with chunked KV-cache compression thus requires measuring across compression phases: high average accuracy can coexist with systematic positional failures."
+      "url": "http://arxiv.org/abs/2604.07709v6",
+      "hotScore": 86,
+      "content": "We introduce IatroBench, a benchmark with two axes of harm (commission and omission), comprising 60 pre-registered clinical scenarios, tested on 6 models. Matched scenarios are framed as a patient query and a doctor consultation, differing in register and request (with the implication of supervision by a treating physician in the latter). We analyse the responses of five different models and find that all share more information in the doctor framing than the patient framing (which we call \"framing-contingent withholding\"). For example, a model with strong safety training provides a benzodiazepine tapering schedule to a doctor, but does not provide this schedule to a patient who requests it. We use Claude Opus 4.6 for structured evaluation, and Gemini 3 Flash as our primary judge, to score model responses against a physician's rubrics. Our primary judge agrees with physicians' omission scores about as well as physicians agree with each other. We find a decoupling gap of +0.38 (p = 0.003) on average across models. With our primary judge (checked by physicians) the decoupling gap is +0.22 (95% CI 0.10-0.36, p = 0.0014). We find three distinct patterns underlying this gap, exemplified by each of the models below. In the doctor framing, Claude Opus demonstrates that it has the information, and withholds it in the patient framing. Llama 4 performs poorly in both framings, meaning the decoupling gap cannot distinguish between withholding and incompetence. Finally, GPT-5.2 (excluded from this analysis) failed to return text for 33.2% of doctor responses, compared to 0% of layperson responses. In 86.6% of cases that we score (through our structured evaluation) as having omission harms, our primary judge (Gemini 3 Flash) scores zero omission harm. Because our scenarios are designed to pit safety against helpfulness, these statistics hold only for this distribution."
     },
     {
-      "id": "fetch-hf-2609.34392",
-      "title": "Org-Agent: Beyond Personal Assistants Towards Organizational Agents",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-27",
-      "description": "Language model agents serving organizations must coordinate requests from multiple users while using knowledge distributed across their interactions. We identify two complementary capabilities for this setting, namely cross-user interaction...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.34392",
-      "hotScore": 89,
-      "content": "Language model agents serving organizations must coordinate requests from multiple users while using knowledge distributed across their interactions. We identify two complementary capabilities for this setting, namely cross-user interaction and decision-making, as well as cross-user memory and knowledge use. Both capabilities are governed by organizational constraints across three aspects: user identity, authority, and access permissions; the attribution and temporal validity of information; and rules for resolving conflicting requirements across users and completion requirements for joint decisions. These constraints shape what information or decisions must be obtained before an action can proceed and what conditions must be satisfied during its execution. Motivated by this, we introduce Org-Agent, a unified constraint-centric reasoning framework that organizes task execution in three stages. Specifically, Org-Agent decomposes a task into atomic subtasks and constructs a task dependency graph whose edges encode the dependencies among them. Building on this graph, it schedules the subtasks in dependency order through topological sorting. It then executes each subtask while accounting for the task's constraints, supported by evidence-acquisition and memory-management tools. Experiments on MUSES-Bench and GroupMemBench demonstrate the effectiveness of Org-Agent on both capabilities, and ablations further support the contributions of dependency modeling and tool use."
-    },
-    {
-      "id": "fetch-hf-2609.36730",
-      "title": "Can Agents Design Libraries for Agents?",
+      "id": "fetch-hf-2609.36484",
+      "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
       "source": "Hugging Face Daily",
       "date": "2026-09-28",
-      "description": "Agents increasingly build on code written by other agents, and they reimplement rather than reuse, growing the codebases later agents must work in. To measure how well agents design libraries for other agents, we introduce LibraryDesignBenc...",
+      "description": "On-policy distillation (OPD) trains a student to match the teacher's next-token distributions on the student's own trajectories and has yielded substantial empirical gains. Generalized variants allow the student to surpass the teacher by ex...",
+      "category": "research",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.36484",
+      "hotScore": 90,
+      "content": "On-policy distillation (OPD) trains a student to match the teacher's next-token distributions on the student's own trajectories and has yielded substantial empirical gains. Generalized variants allow the student to surpass the teacher by extrapolating an implicit reward in output space. The language-model head, however, attenuates this change anisotropically: much of the change encoded in the teacher's hidden states reaches the logits at a small fraction of its weight, and the sampled-token log-probability ratios on which output-space extrapolation relies inject noise that the extrapolation amplifies, making training unstable. We observe that reinforcement learning (RL) shifts a model's internal representations relative to its base checkpoint, and that the direction of this shift can be measured at every layer. Motivated by this observation, we propose RIDE (RL-Induced Direction Extrapolation), which extrapolates the RL-induced change directly in representation space: at every layer and token position, RIDE computes the residual between the teacher and its pre-RL checkpoint and regresses the student's hidden states toward targets displaced beyond the teacher along this residual. Conditioned on a sampled trajectory, this regression is equivalent to maximizing a linear directional reward defined by the residual under a quadratic penalty centered at the teacher, which makes explicit how the objective moves the student along the RL-induced direction while limiting its deviation from the teacher. Across four base/RL-teacher pairs spanning different scales, architectures, and pre-training lineages, RIDE approaches or exceeds the RL-trained teacher on every pair and is the only method whose mean does so, and it consistently outperforms output-space extrapolation, which degrades the student whenever the teacher is close to its base. Project page: https://github.com/xixixixixxxx/RIDE."
+    },
+    {
+      "id": "fetch-hf-2609.38121",
+      "title": "WUSH-KV: KV Cache Quantization with Data-Adaptive Transforms",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-28",
+      "description": "KV cache memory and bandwidth costs grow with context length and batch size, which limits efficient long-context inference. To address this bottleneck, we introduce WUSH-KV for low-bit KV-cache quantization. It adapts WUSH, which constructs...",
+      "category": "tooling",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.38121",
+      "hotScore": 89,
+      "content": "KV cache memory and bandwidth costs grow with context length and batch size, which limits efficient long-context inference. To address this bottleneck, we introduce WUSH-KV for low-bit KV-cache quantization. It adapts WUSH, which constructs a data-aware transform from the second-order statistics of both factors in a matrix product to reduce quantization error. WUSH-KV uses calibration data to construct separate key and value transforms, with the value transform folded into the model weights and the key transform applied after RoPE. The transforms can be paired with clipped quantizers. For one such quantizer, QuEST INT, we show that, under mild assumptions, the WUSH transform is near-optimal. With this quantizer, WUSH-KV reduces layerwise reconstruction error and achieves the lowest end-to-end perplexity among other tested transforms. For end-to-end evaluation, we integrate WUSH-KV into SGLang using OSCAR-style percentile-clipped affine quantization. At 2-bit, WUSH-KV performs comparably to or outperforms the OSCAR transform across all evaluated models and downstream tasks."
+    },
+    {
+      "id": "fetch-hf-2609.39564",
+      "title": "A2Z GameSpec-Bench: How Faithfully Can Coding Agents Generate Games from Game Design Specifications?",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-29",
+      "description": "Delegating complete application development to coding agents requires preserving the intended design rather than simply producing plausible outputs through naive prompting. Game development provides a demanding testbed, as long-form Game De...",
       "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2609.36730",
+      "url": "https://huggingface.co/papers/2609.39564",
       "hotScore": 88,
-      "content": "Agents increasingly build on code written by other agents, and they reimplement rather than reuse, growing the codebases later agents must work in. To measure how well agents design libraries for other agents, we introduce LibraryDesignBench, a two-phase benchmark in which an agent implements a full-featured library from a specification that defines required capabilities and potential use cases without prescribing the design. We evaluate the library through the correctness and simplicity of programs written by three user agents from different model families. The benchmark spans 242 expert-validated programming problems across 15 library-design tasks in four languages. On eleven of the fifteen tasks, agent designers reproduce the abstractions of the human-written production library. Downstream agents adopt agent- and human-written libraries alike but underuse them, reimplementing capabilities the library already provides. Our failure analysis finds that downstream agents write extra code mainly because agent-written libraries are rigid or hard to use, not because capabilities are missing. We also experiment with giving designers more prescriptive, agent-first guidance and having them test their library with subagents; this improves downstream scores and yields simpler programs. LibraryDesignBench provides both a testbed for evaluating library-design practices for agent users and an initial design baseline that improves downstream reuse."
+      "content": "Delegating complete application development to coding agents requires preserving the intended design rather than simply producing plausible outputs through naive prompting. Game development provides a demanding testbed, as long-form Game Design Documents (GDDs) describe requirements that must work together across game logic, visual rendering, and player interactions. However, existing game-development benchmarks typically use compact specifications and provide limited support for evaluating interdependent requirements across these aspects in long-form GDDs. We introduce A2Z GameSpec-Bench, a benchmark of 100 long-form GDDs for evaluating end-to-end game development by agents. We measure faithfulness by checking whether the game satisfies the GDD requirements and preserves the relationships among them. Each GDD is turned into a dependency-aware contract that contains rules, constraints, and prerequisite relations. Following game-development practices, we combine source-code inspection with agent-generated test policies for scenario-based replay and adaptive playtesting. The contract remains fixed across agents and revision rounds, while judgments and evidence linked to the same requirements support consistent comparison and failure detection. Our evaluations show that current agents struggle to jointly satisfy interdependent requirements across code implementation and actual play. Requirement-specific feedback improves GDD Fidelity by 10.9% relative to self-revision after two rounds. A2Z GameSpec-Bench assesses end-to-end specification-following ability beyond implementation judgments and provides targeted feedback to support more faithful game development. Code and datasets are available at https://a2z-gamespec-bench.github.io."
     },
     {
-      "id": "fetch-hf-2609.32722",
-      "title": "Scaling Properties of Same-Family On-Policy Distillation",
+      "id": "fetch-hf-2605.22493",
+      "title": "Understanding Multimodality in Generative Behavioral Cloning",
       "source": "Hugging Face Daily",
-      "date": "2026-09-25",
-      "description": "*Reinforcement learning (RL)* can induce substantial reasoning capabilities in large language models (LLMs), but how much of this capability transfers across model scales, and how quickly, remains unclear. We study the scaling properties of...",
-      "category": "llm",
+      "date": "2026-09-29",
+      "description": "Behavioral cloning becomes challenging when the same observation admits several valid actions. We study how generative behavioral-cloning policies represent such multimodal expert behavior and identify different bottlenecks across model par...",
+      "category": "tooling",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2609.32722",
+      "url": "https://huggingface.co/papers/2605.22493",
       "hotScore": 87,
-      "content": "*Reinforcement learning (RL)* can induce substantial reasoning capabilities in large language models (LLMs), but how much of this capability transfers across model scales, and how quickly, remains unclear. We study the scaling properties of *on-policy distillation (OPD)* across *weak-to-strong*, *same-base*, and *strong-to-weak* teacher--student setups. We find that early OPD training dynamics uniformly exhibit a regular *useful-transfer* regime, in which held-out accuracy (the *gold score*, G) rises approximately linearly in d=mathrm{KL(π_θVert π_{ref})}, the square root of token-level reverse KL divergence from the student initialization. In every observed weak-to-strong pair, the student's peak gold score exceeds its teacher's own, so a compact RL expert can transfer capability to a much larger student via OPD. To estimate OPD outcomes, we fit *power laws* for how G_{peak} and the slope of the useful-transfer regime scale with student and teacher parameter counts and with teacher gold score. These laws show that peak gold score improves with teacher scale only up to roughly the student's scale, and that at a matched gold score smaller teachers transfer better, so a teacher's score alone does not define its supervision value. We also study the scaling effects of two OPD variants, bootstrapping weak-to-strong OPD, and the degree of on-policy supervision."
+      "content": "Behavioral cloning becomes challenging when the same observation admits several valid actions. We study how generative behavioral-cloning policies represent such multimodal expert behavior and identify different bottlenecks across model parameterizations. For latent-variable policies, preserving demonstrated modes requires action-conditioned information in the latent representation. Excessive posterior-prior regularization can suppress this information and prevent the policy from distinguishing demonstrated modes. Weaker or aggregate regularization can preserve mode information, but shifts the challenge to ensuring that the deployment-time prior covers the relevant latent regions. For action-space generative policies, multimodality is constrained by the smoothness of the base-to-action transport: a map with a small Lipschitz constant cannot assign substantial probability to many well-separated modes. Covering many modes therefore requires either sharp transitions in base space or off-support bridge regions in action space. Experiments on synthetic multimodal navigation and a physical-robot bimodal manipulation task support these mechanisms. In contrast, our analysis reveals limited conditional multimodality in standard robotic simulation benchmarks, where deterministic regression remains competitive."
     },
     {
-      "id": "fetch-hf-2609.33620",
-      "title": "Learning Dynamics of Continual Learning: A Unified View of Data Attribution, Forgetting, and Plasticity Loss",
+      "id": "fetch-hf-2609.40325",
+      "title": "WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents",
       "source": "Hugging Face Daily",
-      "date": "2026-09-26",
-      "description": "Modern language models are likely to be updated throughout their lifetime rather than trained once and frozen. Each update therefore participates in a recurring cycle: decide which experience to learn from, understand what that update chang...",
-      "category": "llm",
+      "date": "2026-09-29",
+      "description": "As interactive 3D worlds are increasingly used to study intelligent behavior, it becomes important to develop efficient pipelines for identifying anomalies in these simulated environments, such as floating objects, traversable walls, or obj...",
+      "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2609.33620",
+      "url": "https://huggingface.co/papers/2609.40325",
       "hotScore": 86,
-      "content": "Modern language models are likely to be updated throughout their lifetime rather than trained once and frozen. Each update therefore participates in a recurring cycle: decide which experience to learn from, understand what that update changes, and remain capable of learning from what comes next. We show that these challenges are governed by the same evolving update--behavior interaction. We derive a token- and layer-wise decomposition of how learning from one token changes another prediction. By separating the softmax force, shared readout geometry, and residual connections, it exposes two interaction channels and yields a forward-computable approximation. Following this interaction through time reveals a unified picture of continual adaptation. Positive interaction identifies useful experience; negative interaction produces either concentrated collision or accumulated erosion; over longer horizons, updates reshape the shared geometry mediating future learning signals, reducing their transmission. These predictions lead to effective data selection, mechanism-specific controls for interference, and a readout-based diagnostic of future learnability whose degradation predicts the benefit of restoring the readout. Across models and training regimes, the same local interaction thus explains both what an update changes now and how learning today changes what can be learned tomorrow. This view connects data attribution, forgetting, and plasticity loss as distinct regimes of the same evolving learning dynamics."
+      "content": "As interactive 3D worlds are increasingly used to study intelligent behavior, it becomes important to develop efficient pipelines for identifying anomalies in these simulated environments, such as floating objects, traversable walls, or objects inconsistent with the surrounding scene. Multimodal AI systems, including vision-language models (VLMs) and vision-language-action models (VLAs), have shown potential for automating this task. However, 3D world auditing is complex, requiring the close coupling of two distinct capabilities: action, to navigate the 3D world and search for anomalies systematically and efficiently; and visual reasoning, to understand the environment and identify anomalies from multimodal observations. It remains largely unexplored whether multimodal agents can effectively couple these two capabilities, using visual reasoning to identify potential anomalies while taking actions to validate them. In this paper, we introduce WorldAuditBench, a benchmark for 3D world auditing comprising 213 anomaly tasks across 13 environments built with Unreal Engine 5 and Three.js, spanning five anomaly families. We evaluate five frontier models under a fixed exploration budget using two auditing paradigms: VLA-based exploration followed by VLM-based anomaly identification, and an end-to-end VLM agent in which visual reasoning directly guides action selection. Across the evaluated models and two paradigms, success rates range from 6.6% to 42.3%, substantially below human performance (83.4%). Through the task of world auditing, WorldAuditBench provides a testbed for studying how multimodal agents couple action and visual reasoning in interactive 3D environments, while highlighting current limitations in their ability to gather and interpret evidence during exploration."
     }
   ],
   "hfModels": [
@@ -461,7 +461,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 242844512,
-      "likes": 6151,
+      "likes": 6152,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -493,7 +493,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
       "downloads": 63395169,
-      "likes": 595,
+      "likes": 596,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -556,7 +556,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
       "downloads": 35675298,
-      "likes": 3768,
+      "likes": 3782,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -572,7 +572,7 @@
       "owner": "Community",
       "fullName": "Qwen/Qwen3-0.6B",
       "downloads": 29622035,
-      "likes": 1706,
+      "likes": 1709,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -588,7 +588,7 @@
       "owner": "Community",
       "fullName": "google-t5/t5-small",
       "downloads": 24122846,
-      "likes": 644,
+      "likes": 645,
       "category": "research",
       "tags": [
         "Translation",
@@ -618,6 +618,21 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-09-30",
+      "description": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member....",
+      "category": "agent",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "hotScore": 86,
+      "content": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member...."
+    },
+    {
+      "id": "fetch-gadget-1",
       "title": "Destro AI&#8217;s secret sauce is getting robots and humans on the same page",
       "source": "TechCrunch Gadgets",
       "date": "2026-09-30",
@@ -628,14 +643,14 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-      "hotScore": 98,
+      "hotScore": 96,
       "content": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"..."
     },
     {
       "id": "fetch-gadget-fb1",
       "title": "Ray-Ban Meta Glasses Add Real-time Translation",
       "source": "Meta Hardware",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "description": "Meta's popular smart glasses now feature real-time audio translation and multimodal AI search that understands the world around you.",
       "category": "image",
       "tags": [
@@ -650,7 +665,7 @@
       "id": "fetch-gadget-fb2",
       "title": "Humane Launches AI Pin 2.0 with Screen Projection",
       "source": "Humane News",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "description": "Humane introduced a new version of its AI Pin featuring a brighter laser ink projection, faster responses, and offline LLM capabilities.",
       "category": "tooling",
       "tags": [
