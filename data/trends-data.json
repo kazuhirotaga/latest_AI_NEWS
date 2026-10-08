@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-08T03:13:19.462Z",
+  "updatedAt": "2026-10-08T18:03:30.122Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 391611,
-      "forks": 82289,
+      "stars": 391456,
+      "forks": 82298,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 296428,
-      "forks": 26457,
+      "stars": 296499,
+      "forks": 26480,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 251980,
-      "forks": 54260,
+      "stars": 251991,
+      "forks": 54351,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 206844,
-      "forks": 61013,
+      "stars": 206713,
+      "forks": 61018,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "stars": 189536,
-      "forks": 10046,
+      "stars": 189572,
+      "forks": 10054,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187690,
-      "forks": 45938,
+      "stars": 187483,
+      "forks": 45937,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 172327,
-      "forks": 22054,
+      "stars": 172164,
+      "forks": 22057,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165212,
-      "forks": 32601,
+      "stars": 165026,
+      "forks": 32600,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 159070,
-      "forks": 46140,
+      "stars": 158887,
+      "forks": 46136,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 158048,
-      "forks": 24939,
+      "stars": 157921,
+      "forks": 24943,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 154174,
-      "forks": 22529,
+      "stars": 154040,
+      "forks": 22543,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 147547,
-      "forks": 24725,
+      "stars": 147402,
+      "forks": 24736,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 144081,
-      "forks": 34782,
+      "stars": 143908,
+      "forks": 34775,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 140567,
-      "forks": 12573,
+      "stars": 140466,
+      "forks": 12580,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 136524,
-      "forks": 16206,
+      "stars": 136436,
+      "forks": 16218,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -270,7 +270,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2610.10538v1",
-      "hotScore": 82,
+      "hotScore": 80,
       "content": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a similar memory from egocentric videos, by observing a person's day-to-day activities. We present Ledger, a persistent 3D object memory that combines object locations, their histories, and contextual descriptions. It associates observations across the recording and retains objects after they leave the view, including those the person never touches. It clusters each object's observations by resting locations and records a move only after repeated evidence, reducing the effect of localization noise. Short descriptions preserve details such as an object's contents or supporting surface. It saves these records to later answer spatial questions without having to access the original images or video. Our memory raises HD-EPIC accuracy from 29.7% to 42.6%, UCS-Bench accuracy from 33.8% to 38.5% and localizes Ego4D objects with a 0.99 m median error on returned predictions. Our analyses identify complementary roles for temporal persistence, contextual descriptions, and retrieval. Our study on 100 stitched streams of multiple scenes each further exposes failures in both retrieval and construction. Per-scene construction partially recovers the performance lost across scene changes compared to that of single scene streams."
     },
     {
@@ -285,7 +285,7 @@
         "LLM"
       ],
       "url": "http://arxiv.org/abs/2610.10536v1",
-      "hotScore": 82,
+      "hotScore": 87,
       "content": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In practice, however, augmenting RLVR with strong novelty incentives has seen limited success and can degrade model quality. Because verifiable rewards supervise only a narrow slice of the model's knowledge and behavior, such degradations are difficult to recover from. Instead, we decouple exploration from optimization in a framework we call Exploration-Distillation (ExpDis). We train one or more explorer policies with a novelty bonus in the reward, filter their trajectories for correctness and quality, and distill them into a separate student policy. The student policy is then trained without a novelty bonus. We repeat the above procedure for several rounds, alternating between exploration and optimization. This decoupling allows us to aggressively scale exploration without degrading the student policy. Across seven mathematical reasoning benchmarks and two model families, ExpDis outperforms DAPO at the same wall-clock budget. Moreover, we observe improved pass@$k$ scaling, indicating that ExpDis produces models that generate more diverse correct solutions."
     },
     {
@@ -314,7 +314,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2609.33043v2",
-      "hotScore": 82,
+      "hotScore": 80,
       "content": "The lower asymptotic proportion of distinct nontrivial zeros of the Riemann zeta function, relative to the total number counted with multiplicity, is at least $0.8369928814\\ldots$. Earlier work proves $0.83625\\ldots$, and a report we have not verified claims $0.83672\\ldots$. As in the proof of the bound $0.83625$, an unconditional version of Montgomery's pair-correlation theorem gives an asymptotic energy estimate. The new ingredient is a short matrix inequality with a free clipping parameter. It strengthens the lower bound for this energy in terms of the number of distinct zeros. The gain is a nonnegative correction from overlaps between different nearby zeros on the critical line, which is retained even when some of these zeros are double. The matrix inequality, the threshold lemma, the block dichotomy, the counting assembly and the exact arithmetic are proved formally in Lean 4. The constant relies on a computer-assisted local inequality from recent work that has not yet been refereed. That computation was re-run independently, and every imported input is listed. This paper is primarily an experiment in AI-assisted mathematical research (Section 4)."
     },
     {
@@ -329,7 +329,7 @@
         "LLM"
       ],
       "url": "http://arxiv.org/abs/2610.10533v1",
-      "hotScore": 91,
+      "hotScore": 81,
       "content": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, this architecture has demonstrated the potential to decouple factual knowledge storage from general-purpose computation, offering a promising route to updating factual knowledge while keeping the Transformer backbone fixed. Realizing this potential is challenging because different expressions of a fact may activate different n-gram embeddings, while updating shared embeddings can unintentionally change the model's predictions about other facts. We propose EngramEdit for decoupled knowledge updates through conditional memory. EngramEdit first computes target memory representations that make the model predict the updated fact across multiple expressions. It then jointly updates the shared n-gram embeddings to match these targets across expressions and edits, penalizing updates to frequently reused embeddings more strongly to preserve unrelated knowledge. Experiments show that EngramEdit enables independent factual knowledge updates through conditional memory, achieving near-perfect editing success. Revised knowledge is usable across unseen expressions and in multi-hop reasoning, with nearly three times the strongest baseline's accuracy under chain-of-thought (CoT) prompting. Unrelated knowledge and general capabilities are largely preserved even as factual updates accumulate. These findings show that EngramEdit turns conditional memory into an editable knowledge interface, extending its role beyond model scaling to support decoupled knowledge updates."
     },
     {
@@ -359,7 +359,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2610.10528v1",
-      "hotScore": 81,
+      "hotScore": 86,
       "content": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world-action models under real-time control constraints. Our central finding is that access to history is not the same as using it: longer histories pay off far more when the video foundation is pretrained autoregressively (AR). We first learn causal prediction from robot and egocentric videos without action labels, then preserve this history-to-future structure during world-action adaptation. On RoboCasa GR-1, increasing context from 0.0 to 19.2 seconds raises success from 63.3% to 78.7%, whereas a bidirectionally pretrained initialization shows no net gain; robot-domain AR pretraining further raises peak success on GR-1 and LIBERO-Long. Long-WAM also achieves the best results among compared methods on LIBERO-Long, RoboTwin 2.0, and DOMINO. Streaming observation encoding, asynchronous execution, and hardware-specific acceleration enable deployment on RTX 5090, DGX Spark, and Jetson AGX Thor without dropping future prediction; on RTX 5090, each action chunk, including future-video latent prediction, takes 107.4 ms. Real-time deployment on Unitree G1 and YAM supports dynamic and long-horizon manipulation, including 95% success on dynamic cup stacking, where Pi0.5 and Fast-WAM succeed in none of 20 trials. As a memory-informed executor, Long-WAM also complements higher-level planning in composite tasks."
     },
     {
@@ -374,83 +374,83 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2610.10527v1",
-      "hotScore": 87,
+      "hotScore": 92,
       "content": "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less is known in decentralized ones, where applying a nonlinearity to local gradients affects both optimization and consensus. Recent works on decentralized non-convex optimization have studied both clipping and normalization under heavy-tailed noise, with clipping yielding suboptimal rates and normalization needing local momentum or mini-batches to converge. This raises the question: can a baseline decentralized method using a nonlinearity achieve optimal convergence rates under heavy-tailed noise? We answer affirmatively with clipped decentralized SGD ($\\mathtt{DSGD}$). For smooth non-convex costs under bounded $p$-th moment noise, $p \\in (1,2]$, we show that clipped $\\mathtt{DSGD}$ achieves order-optimal rates both with high probability and in expectation. Moreover, we establish a linear speed-up in the number of agents, which, to our knowledge, has not been shown for decentralized methods with clipping. The key technical ingredient is a sharp analysis of the consensus gap that exploits the structure of clipping, relegating network effects to higher-order terms. Our results highlight an important distinction between clipping and normalization in decentralized settings: while normalized $\\mathtt{DSGD}$ can fail to converge, clipping retains magnitude information, enabling $\\mathtt{DSGD}$ to be convergent and order-optimal. Numerical experiments validate our theory."
     },
     {
-      "id": "fetch-hf-2610.10409",
-      "title": "RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments",
+      "id": "fetch-hf-2610.09450",
+      "title": "Iris-3B: Going Beyond the Latent with Pixel-Space Diffusion Training, Conversion and Fine-Tuning",
       "source": "Hugging Face Daily",
       "date": "2026-10-06",
-      "description": "General-purpose agents increasingly write code, use tools, and complete complex digital tasks, raising the question of how far these capabilities carry into the physical world. To investigate this, we introduce RobotWorld, a challenging sim...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2610.10409",
-      "hotScore": 90,
-      "content": "General-purpose agents increasingly write code, use tools, and complete complex digital tasks, raising the question of how far these capabilities carry into the physical world. To investigate this, we introduce RobotWorld, a challenging simulation testbed for robot use: turning instructions and observations into physical task execution through robot interfaces. Its 84 tasks span manipulation, mobile manipulation, locomotion, driving, and aerial control, with explicit interaction budgets and executable success checks. By analysing task outcomes alongside execution traces, we identify both the capabilities that transfer and the gaps that prevent reliable completion. Furthermore, we find that current agents can construct sophisticated perception and control workflows, including image segmentation, camera calibration, spatial estimation, and dynamics-based computation. These capabilities, however, do not consistently compose into successful behaviour: agents lose task-relevant object states despite reaching commanded poses, fail to correct ineffective actions, recover too late, or mistake unfinished tasks for completion. This uneven transfer also differs across models: Astra succeeds more often on spatial and constrained-contact goals, whereas Opus 5.5 succeeds more often on continuous-balance and timed-interaction goals. By linking these outcomes to execution behaviour, RobotWorld provides both a rigorous proving ground and an empirical account of the remaining capability gaps, thereby establishing concrete targets for training and designing more reliable physical-world agents."
-    },
-    {
-      "id": "fetch-hf-2610.06293",
-      "title": "VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction",
-      "source": "Hugging Face Daily",
-      "date": "2026-10-04",
-      "description": "Multimodal Large Language Models (MLLMs) have demonstrated remarkable potential in video understanding, yet their reliance on retrospective summarization and text-centric priors often limits their ability to bridge unobserved causal transit...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2610.06293",
-      "hotScore": 89,
-      "content": "Multimodal Large Language Models (MLLMs) have demonstrated remarkable potential in video understanding, yet their reliance on retrospective summarization and text-centric priors often limits their ability to bridge unobserved causal transitions when applied to Video Event Prediction (VEP). To address this, we propose VepAgent, an agentic framework that integrates causal-transition reasoning with tool-augmented reinforcement learning (RL) for robust VEP. Unlike prior methods that passively project future trajectories from historical dependencies, our approach explicitly models the logical progression from terminal observed states to future events. Specifically, we first construct futurebench-4K, a high-quality chain-of-thought dataset for supervised fine-tuning (SFT) that effectively bridges the causal-logic gap by structuring the deduction of unobserved intermediate states. Subsequently, we develop a diagnostic tool library integrating state tracking, frame retrieval, and region magnification, enabling the agent to dynamically augment reasoning with external tools to recover missing spatio-temporal evidence and resolve visual ambiguities during inference. Moreover, we propose a composite reward mechanism that jointly optimizes prediction accuracy, causal coherence, and reliable prior, compelling the agent to rely on genuine visual grounding rather than superficial textual similarities. Extensive evaluations on FutureBench and NEPBench datasets demonstrate that our method achieves state-of-the-art performance, significantly outperforming larger MLLMs and validating the empirical effectiveness of our agentic, future-oriented reasoning paradigm."
-    },
-    {
-      "id": "fetch-hf-2610.10388",
-      "title": "RoboQuest: Generalist Physical Agents that Search, Inspect and Test",
-      "source": "Hugging Face Daily",
-      "date": "2026-10-06",
-      "description": "Recent advances in multimodal foundation models have made them capable generalist physical agents for a range of manipulation tasks. However, successful operation in an unfamiliar environment may require an agent to seek task-relevant infor...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2610.10388",
-      "hotScore": 88,
-      "content": "Recent advances in multimodal foundation models have made them capable generalist physical agents for a range of manipulation tasks. However, successful operation in an unfamiliar environment may require an agent to seek task-relevant information through interaction when it is absent from the observations: it may need to determine where a relevant object is, inspect an unobserved property, or discover the effect of an unfamiliar tool. We thus introduce RoboQuest, a benchmark for goal-directed embodied exploration, where agents must actively acquire task-relevant information through physical interaction, use the resulting evidence to adapt subsequent actions, and autonomously decide when to commit to task completion. RoboQuest comprises ten mobile manipulation tasks centered on three forms of uncertainty: search, manipulation-based inspection, and interactive testing. We evaluate five frontier multimodal agents through a common visuomotor interface, as well as a π_{0.5} policy fine-tuned on the full-episode demonstrations we release. The best agent succeeds in only 23\\% of the episodes, and the fine-tuned policy almost never succeeds. Isolated tests of the execution skills the tasks are built from, with the hidden information supplied, show that the agents can carry out most of the required actions, and our failure analysis attributes only a minority of the failures to execution. Our failure analysis further finds that the agents often stop exploring too early as they make decisions before observing the required evidence for task completion. We also find that agents rarely prevent or repair the disturbances caused by their exploration. Moreover, learning by trial and error remains difficult for most models."
-    },
-    {
-      "id": "fetch-hf-2609.38169",
-      "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
-      "source": "Hugging Face Daily",
-      "date": "2026-09-28",
-      "description": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recurrent states to low precision often leads...",
+      "description": "Pixel-space diffusion models avoid the lossy VAE of latent models, which suggests an advantage on downstream tasks where fine-grained detail matters. We test this claim along both routes to a pixel-space backbone. We pretrain Iris-3B, a 3B-...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2609.38169",
-      "hotScore": 87,
-      "content": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recurrent states to low precision often leads to severe accuracy degradation, as quantization errors propagate through successive state updates. We discover that the impact of these errors depends on two complementary dimensions: temporally, errors in long-lived memory can persist across many decoding steps; spatially, errors in different key rows affect model outputs differently, while state magnitudes vary substantially along both rows and columns. Motivated by these observations, we propose STEPQuant, a spatial-temporal post-training quantization framework for Delta-rule recurrent states. STEPQuant allocates precision according to error magnitude and memory lifetime, and jointly fits key-row and value-column scales based on state distributions and key-row impact on output error. Experiments on Qwen3.8-27B and Kimi-Linear-48B-A3B-Instruct across both long- and short-generation benchmarks show that STEPQuant closely matches FP32-state accuracy under a nominal 6-bit budget and outperforms uniform INT8 in its 4-bit configuration. Integrated into SGLang with optimized GPU kernels, 6-bit STEPQuant achieves over 5x recurrent-state compression and reduces total serving memory by up to 68.7%. Our code is available at https://github.com/Dreamer-Toby/STEPQuant."
+      "url": "https://huggingface.co/papers/2610.09450",
+      "hotScore": 90,
+      "content": "Pixel-space diffusion models avoid the lossy VAE of latent models, which suggests an advantage on downstream tasks where fine-grained detail matters. We test this claim along both routes to a pixel-space backbone. We pretrain Iris-3B, a 3B-parameter pixel-space text-to-image transformer, from scratch through a 256to512to1024 curriculum, after first ablating the prediction target and representation alignment at 256^2 to decide what to scale. We also convert a pretrained latent model, FLUX.2 Klein base 4B, to pixel space. We fine-tune both families for monocular depth estimation and for image restoration/super-resolution. We find no significant improvement from using a pixel-space generative prior. Fine-tuned for depth with one matched direct-regression recipe, Iris-3B is level with the latent FLUX.2 Klein and the converted pixel FLUX.2 Klein falls behind it, and on 4times DIV2K restoration neither pixel model beats a latent FLUX.2 Klein fine-tune, the converted one trailing it slightly. We document the recipes, the failure modes and the remaining confounds behind this negative result. Nevertheless, Iris-3B shows that pixel-space pretraining with the pixel-transformer (PiT) head of PixelDiT scales to 3B parameters and to text-to-image quality competitive with latent models, matching Qwen-Image on OneIG under the official evaluators at 1024^2. We release its weights and training code in the hope that they help pave the way for further work on pixel-space generation."
     },
     {
-      "id": "fetch-hf-2610.06505",
-      "title": "Improving Proactive AI Assistance with Hierarchical Procedural Understanding",
+      "id": "fetch-hf-2610.07258",
+      "title": "Lineage-Aware Memory Governance: A Derivation-Gated Framework for Privacy-Preserving Column-Level Access Control in Enterprise AI Agents",
       "source": "Hugging Face Daily",
-      "date": "2026-10-05",
-      "description": "Proactive AI assistants continuously observe a user's activity and decide whether to provide new guidance or remain silent. They should provide appropriate guidance for the task, determine when to provide the next guidance based on task pro...",
-      "category": "research",
+      "date": "2026-10-04",
+      "description": "Enterprise AI agents that share a memory store face two unaddressed risks: sensitive data can leak through legitimately computed results the requester could not derive, and departments can silently compute a same-named key performance indic...",
+      "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2610.06505",
+      "url": "https://huggingface.co/papers/2610.07258",
+      "hotScore": 89,
+      "content": "Enterprise AI agents that share a memory store face two unaddressed risks: sensitive data can leak through legitimately computed results the requester could not derive, and departments can silently compute a same-named key performance indicator (KPI) through conflicting logic. Existing agent-memory systems (e.g., MemGPT, Zep, A-MEM) gate retrieval by content, ownership, and role, not derivation, missing a cached insight that embeds a forbidden column. We introduce the Analytical Memory Unit (AMU), a memory schema that attaches a full derivation (lineage) graph to every cached result, gated by a retrieval policy that serves a hit only when the requester is authorised for every column touched. Provided lineage recording is complete, we prove by construction that the policy blocks retrieval of results derived from a sensitive column outside the requester's permissions, at O(n) worst case -- a conditional design guarantee, not an empirical claim, that excludes derived features encoding sensitive information without naming their source. Eliminating measured leakage required 75-90% recorded lineage completeness, so we treat 90% as a conservative deployment target. Across six experiments, lineage-gated retrieval removes the 18.8-25.5% cross-department leakage naive content-gated memory suffers, keeping 81.5-82.6% of memory reuse at 13.8 microsecond worst-case overhead. A real-agent proof-of-concept with LLM-generated SQL is consistent with the guarantee: zero leaks over 9 round-trips, two conflicts caught automatically -- though a feasibility demonstration, not evidence of production viability. This offers a practical governance layer for shared agent memory, complementing source-layer access control and supporting EU AI Act compliance."
+    },
+    {
+      "id": "fetch-hf-2610.10460",
+      "title": "Composing What Each Teacher Learned: Multi-Teacher On-Policy Distillation through Teacher-Relative Shifts",
+      "source": "Hugging Face Daily",
+      "date": "2026-10-06",
+      "description": "Multi-teacher on-policy distillation (MOPD) is used in two settings. In common-domain composition, several teachers score each student rollout from one prompt domain and their signals form a single target; in routed-domain distillation, pro...",
+      "category": "tooling",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2610.10460",
+      "hotScore": 88,
+      "content": "Multi-teacher on-policy distillation (MOPD) is used in two settings. In common-domain composition, several teachers score each student rollout from one prompt domain and their signals form a single target; in routed-domain distillation, prompts from different domains are assigned to the corresponding specialist. Both settings usually transfer each teacher's endpoint policy, which mixes what post-training changed with preferences inherited from the teacher's base. We introduce Δ-MOPD, which transfers each teacher's teacher-minus-base logit shift re-anchored at the student's frozen initialization, and compare it with endpoint supervision in both settings while holding teacher selection fixed. We first expose the mechanism that impedes endpoint transfer: inherited base pull can exceed the post-training shift. Removing it reduces the teacher-term norm ratio and target--student KL.\n  Across our experiments, the results suggest that shift targets are particularly useful when teacher signals are combined at a state. With three composed teachers, Δ-MOPD exceeds endpoint composition by 4.11 Math and 1.95 five-benchmark points; with two, it matches endpoint accuracy. Under phased routing, it achieves higher mean performance in both phase orders and reduces the observed order gap from 10.50 to 6.42 points. Under interleaved routing, where each update involves one teacher, the two targets perform comparably. The phased results provide supporting evidence that the benefit may extend to signals accumulated across training phases. Target construction is thus an independent design axis in MOPD, complementary to teacher selection."
+    },
+    {
+      "id": "fetch-hf-2609.38466",
+      "title": "PAMI: Part Anchored Motion for Text to Human-Object Interaction Generation",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-28",
+      "description": "Text-conditioned full-body human-object interaction (HOI) generation requires synthesizing human motion and object trajectories that match the input text while remaining precisely coordinated over time. Most methods represent the human and ...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.38466",
+      "hotScore": 87,
+      "content": "Text-conditioned full-body human-object interaction (HOI) generation requires synthesizing human motion and object trajectories that match the input text while remaining precisely coordinated over time. Most methods represent the human and object as separate trajectories and predict the global human-object couplings. Learning this complex, dynamically changing relationship implicitly, however, often yields object drift, missed contact, and penetration. We introduce PAMI, a Part-Anchored Motion framework for Interaction generation. Inspired by the classic Hough Transform, our key idea is to localize object motion by letting body-part anchors vote for it: we express object motion relative to multiple body-part anchors and use PamiVAE to learn an interaction latent space, decoding frame-wise weights that aggregate these part-specific votes. Building on this representation, PAMI generates interactions in a coarse-to-fine hierarchy. PamiGen first generates a coarse human-object interaction from text in this structured latent space, and PamiRefiner then recursively resolves fine-grained contact geometry using a hybrid surface-sensing representation, combining long-range probes that capture overall body-part influence with short-range sensors that resolve detailed contacts near the object surface. Experiments on InterAct show that PAMI generates more faithful interactions and more accurate human-relative object motion than previous methods, achieving 14.5% higher contact recall than the previous state of the art. Extensive ablations validate the contributions of both the part-anchored voting representation and hybrid surface-sensing refinement."
+    },
+    {
+      "id": "fetch-hf-2610.09683",
+      "title": "System Switch: When Should a Fast Decision Model Stop and Think?",
+      "source": "Hugging Face Daily",
+      "date": "2026-10-06",
+      "description": "Dual-process agents pair a fast policy with a slow deliberative model. In real-time settings the slow model usually runs continuously; in turn-based agents and robot planners it is invoked on events such as uncertainty or a detected failure...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2610.09683",
       "hotScore": 86,
-      "content": "Proactive AI assistants continuously observe a user's activity and decide whether to provide new guidance or remain silent. They should provide appropriate guidance for the task, determine when to provide the next guidance based on task progress, and adjust the guidance level to the user's expertise and needs. Supporting these capabilities requires training and evaluation data that reflect procedural structure and capture how guidance should adapt to task progress and user needs. However, existing datasets either focus on detection-based proactive understanding or provide procedural guidance at a fixed granularity. Fixed-granularity guidance provides limited information about fine-grained progress and broader procedural context, making it difficult to determine completion and adapt guidance granularity. To address these limitations, we introduce the ProactiveCoach suite, comprising ProactiveCoach-Instruct for training, ProactiveCoachBench for evaluation, and fine-tuned VLMs with an adaptive guidance system. ProactiveCoach-Instruct provides hierarchically structured guidance at the phase, step, and action levels for learning task progress and procedural context. ProactiveCoachBench evaluates whether models provide appropriate guidance at the right time across different guidance levels and adapt when the requested level changes. We fine-tune pretrained VLMs on ProactiveCoach-Instruct and demonstrate its effectiveness across backbones. Compared with fixed-granularity supervision, hierarchical supervision improves overall performance across backbones by up to 9.6%p. We further build an adaptive guidance system by combining our fine-tuned model with a lightweight guidance router. Without additional fine-tuning, our system outperforms the in-context adaptation baseline by 57.1%p across four guidance-level transitions. Our project page is available at https://jinsuby.github.io/ProactiveCoach/."
+      "content": "Dual-process agents pair a fast policy with a slow deliberative model. In real-time settings the slow model usually runs continuously; in turn-based agents and robot planners it is invoked on events such as uncertainty or a detected failure. We study a fast learned actor that takes every decision and hands control to a reasoning vision-language model only when a gate opens, while the game keeps running. We use closed-loop Doom and the new open \"System One\" typed-decision models, served through a common llama.cpp interface. On 900 held-out questions, (i) zero-shot decision models from 0.15B to 9B parameters choose to collect items 1.6-1.8 times more often than chance among their errors, in any option order, although the order changes some models' accuracy; (ii) accuracy, calibration and sensitivity (how well confidence separates right from wrong answers) are distinct: models of similar accuracy differ widely in AUROC, and the confidence of the most sensitive one tracks which kinds of situation it fails, not which answers are wrong; (iii) offline, deferring the least confident 30% of decisions to a reasoning model gains over random deferral in proportion to the actor's AUROC (rank correlation 0.87); with actor and rate chosen on held-out games the gain is +0.13 [0.08, 0.18] with doomLaya's option order and +0.08 [0.02, 0.14] with shuffled options, and reasoning carries about half of it; (iv) in closed loop (33 games, three seeds) no variant reaches the exit. Committing to plans, the reasoner's or a fixed explore rule's, opens more doors and makes an actor that stands still play; with the rule the agent dies more often. Told that some doors need keys, the reasoner takes ordinary doors for locked ones, which the state cannot tell apart; without that knowledge it goes back to collecting. We release code, prompts, data and logs."
     }
   ],
   "hfModels": [
@@ -459,8 +459,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 234015516,
-      "likes": 6212,
+      "downloads": 232247017,
+      "likes": 6218,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -475,8 +475,8 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 83236540,
-      "likes": 359,
+      "downloads": 82504124,
+      "likes": 361,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -491,8 +491,8 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 62278766,
-      "likes": 601,
+      "downloads": 61931132,
+      "likes": 602,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -507,8 +507,8 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 50332290,
-      "likes": 1423,
+      "downloads": 49900292,
+      "likes": 1424,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -523,7 +523,7 @@
       "name": "electra-base-discriminator",
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
-      "downloads": 46039671,
+      "downloads": 46065089,
       "likes": 192,
       "category": "research",
       "tags": [
@@ -538,8 +538,8 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 38484646,
-      "likes": 3393,
+      "downloads": 37572806,
+      "likes": 3396,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -554,8 +554,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 33835381,
-      "likes": 3831,
+      "downloads": 33690050,
+      "likes": 3834,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -570,8 +570,8 @@
       "name": "Qwen3-0.6B",
       "owner": "Community",
       "fullName": "Qwen/Qwen3-0.6B",
-      "downloads": 31121660,
-      "likes": 1751,
+      "downloads": 31151426,
+      "likes": 1756,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -586,7 +586,7 @@
       "name": "t5-small",
       "owner": "Community",
       "fullName": "google-t5/t5-small",
-      "downloads": 24542652,
+      "downloads": 24442515,
       "likes": 655,
       "category": "research",
       "tags": [
@@ -602,8 +602,8 @@
       "name": "MiniMax-H3",
       "owner": "Community",
       "fullName": "Comfy-Org/MiniMax-H3",
-      "downloads": 23394103,
-      "likes": 2168,
+      "downloads": 23286378,
+      "likes": 2176,
       "category": "research",
       "tags": [
         "Diffusion-single-file",
@@ -616,6 +616,66 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-10-08",
+      "description": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker....",
+      "category": "agent",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "hotScore": 90,
+      "content": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker...."
+    },
+    {
+      "id": "fetch-gadget-1",
+      "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-10-08",
+      "description": "This is the first time the Alphabet-owned company has turned to debt financing....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
+      "hotScore": 98,
+      "content": "This is the first time the Alphabet-owned company has turned to debt financing...."
+    },
+    {
+      "id": "fetch-gadget-2",
+      "title": "Google releases a new local-first Granola competitor",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-10-08",
+      "description": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "hotScore": 85,
+      "content": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI...."
+    },
+    {
+      "id": "fetch-gadget-3",
+      "title": "Uber and China&#8217;s Pony.ai plan to launch robotaxis in London",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-10-08",
+      "description": "The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
+      "hotScore": 88,
+      "content": "The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks...."
+    },
+    {
+      "id": "fetch-gadget-4",
       "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
       "source": "TechCrunch Gadgets",
       "date": "2026-10-07",
@@ -626,53 +686,8 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-      "hotScore": 87,
+      "hotScore": 97,
       "content": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks...."
-    },
-    {
-      "id": "fetch-gadget-1",
-      "title": "Bloom raises $3.6M to become the &#8216;Alibaba&#8217; of American manufacturing",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-10-07",
-      "description": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
-      "hotScore": 85,
-      "content": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more...."
-    },
-    {
-      "id": "fetch-gadget-2",
-      "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-10-07",
-      "description": "Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
-      "hotScore": 86,
-      "content": "Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles...."
-    },
-    {
-      "id": "fetch-gadget-3",
-      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-10-07",
-      "description": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust....",
-      "category": "image",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-      "hotScore": 98,
-      "content": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust...."
     }
   ]
 }
