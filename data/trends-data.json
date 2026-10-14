@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-13T18:34:44.588Z",
+  "updatedAt": "2026-10-14T02:22:29.449Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 391872,
-      "forks": 82404,
+      "stars": 391919,
+      "forks": 82421,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 298572,
-      "forks": 26691,
+      "stars": 298704,
+      "forks": 26697,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 253409,
-      "forks": 54951,
+      "stars": 253516,
+      "forks": 54986,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,7 +57,7 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 207252,
+      "stars": 207273,
       "forks": 61122,
       "language": "TypeScript",
       "category": "research",
@@ -74,8 +74,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "stars": 191135,
-      "forks": 10143,
+      "stars": 191246,
+      "forks": 10145,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -91,7 +91,7 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187561,
+      "stars": 187563,
       "forks": 45941,
       "language": "Python",
       "category": "llm",
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 172839,
-      "forks": 22155,
+      "stars": 172880,
+      "forks": 22159,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165037,
-      "forks": 33257,
+      "stars": 165039,
+      "forks": 33301,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,7 +142,7 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 158995,
+      "stars": 159000,
       "forks": 46153,
       "language": "JavaScript",
       "category": "research",
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 158374,
-      "forks": 25040,
+      "stars": 158391,
+      "forks": 25046,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 155547,
-      "forks": 22677,
+      "stars": 155589,
+      "forks": 22680,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 147770,
-      "forks": 24786,
+      "stars": 147795,
+      "forks": 24787,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 144000,
-      "forks": 34752,
+      "stars": 144009,
+      "forks": 34755,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 141099,
-      "forks": 12625,
+      "stars": 141142,
+      "forks": 12627,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 137310,
-      "forks": 16349,
+      "stars": 137345,
+      "forks": 16354,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,195 +260,195 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "Can Language Models Play the Wikipedia Game?",
+      "title": "AutoNovo: Agentic Program Search Discovers Transferable Nucleic Acid Design Algorithms",
       "source": "arXiv.org",
-      "date": "2026-10-09",
-      "description": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test l...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2610.13948v1",
-      "hotScore": 94,
-      "content": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test language models on an analogous information retrieval task. In the game, players must reach a target article using only article links. We compared sentence embedding models and LLMs across five Wikipedia languages and five academic-literature datasets. We construct very large local graphs of Wikipedia pages and of paper citations using OpenAlex and provide code to build and navigate them. This allows the study of language models' navigation capabilities without relying on third-party APIs. We compared the models with human and TF-IDF benchmarks. The Wikipedia Game format enables robust comparisons across techniques, languages, and domains. No model significantly outperformed humans, although the best models (GPT-o3 mini, GPT-4o, QwQ:32B, and DeepSeek-R1:70B) achieved comparable success. Performance and rankings varied across languages and topics, with implications for practitioners utilising these techniques."
-    },
-    {
-      "id": "fetch-paper-1",
-      "title": "Measuring Harness-Induced Belief Divergence in Multi-Step LLM Agents",
-      "source": "arXiv.org",
-      "date": "2026-07-05",
-      "description": "Software agents are becoming increasingly important in modern coding workflows, where they solve complex tasks through multi-step interaction with code repositories. A central component of these systems is the execution harness, which gover...",
+      "date": "2026-10-12",
+      "description": "In-silico optimization of nucleic acids relies on predictive oracles that imperfectly capture biological function, so sequences optimized against one model may exploit model-specific artifacts and fail to generalize to independent models. R...",
       "category": "agent",
       "tags": [
         "Research",
         "Agent"
       ],
-      "url": "http://arxiv.org/abs/2607.04528v2",
-      "hotScore": 93,
-      "content": "Software agents are becoming increasingly important in modern coding workflows, where they solve complex tasks through multi-step interaction with code repositories. A central component of these systems is the execution harness, which governs how the underlying LLM observes, acts on, and verifies its environment. We show that the harness can in turn shape the agent's evolving beliefs about the environment, even when the task, environment, and base LLM remain fixed. To reveal this effect, we introduce a belief-rollout diagnostic that traces how an agent's anticipated world state and future decisions evolve under alternative harnesses. We further separate immediate divergence introduced by the interface from divergence that develops over longer horizons. Across controlled coding tasks include HIBench-Code, SWE-bench Verified and Terminal-Bench, we find substantial cross-harness belief divergence that is often invisible from terminal success alone and can propagate into different downstream actions. Building on this observation, we introduce \\textbf{Belief-Invariant World-Modeling (BIWM)}, which exposes evidence hidden or compressed by harness execution and aligns the resulting belief trajectories across different harnesses. Our findings reveal that harness design can systematically shape how software agents understand and act on their environments, providing practical guidance for building and evaluating more reliable coding agents."
+      "url": "http://arxiv.org/abs/2610.16232v1",
+      "hotScore": 82,
+      "content": "In-silico optimization of nucleic acids relies on predictive oracles that imperfectly capture biological function, so sequences optimized against one model may exploit model-specific artifacts and fail to generalize to independent models. Recent studies have shown that not all designers generalize equally well to independent models. In this work, we use agentic program search to iteratively propose, execute, evaluate, and revise code for nucleic-acid designers. We describe the successful strategies used to prompt the search. AutoNovo designers achieved the best observed mean among the evaluated methods on 3/3 DNA-design tasks in terms of in-silico performance, and 6/6 transfer tasks in terms of independent models. The designers come from a family of discovered nucleic acid designers rather than a single universal best designer. We plan to release the resulting designers. These results are the first steps in creating nucleic acid designers that maximize cross-model generalization, and thus improving the odds that in-silico designed sequences reflect real biology."
+    },
+    {
+      "id": "fetch-paper-1",
+      "title": "Learning to GUIDE the Group: Self-Learning LLM Facilitation Across Multi-Party Tasks",
+      "source": "arXiv.org",
+      "date": "2026-10-12",
+      "description": "As large language models are increasingly adopted as multi-party communication facilitators, there is a growing demand for agents capable of balancing diverse group dynamics across contexts. However, existing LLM facilitators are often fine...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2610.16231v1",
+      "hotScore": 83,
+      "content": "As large language models are increasingly adopted as multi-party communication facilitators, there is a growing demand for agents capable of balancing diverse group dynamics across contexts. However, existing LLM facilitators are often fine-tuned for task-specific objectives; generalized LLM-based facilitation methods that can adapt to different types of tasks and diverse group dynamics are underdeveloped. To address this gap, we present GUIDE (Generalized Unified Intervention for Dynamic Exchanges, a framework for developing generalized LLM-based facilitators across different multi-party contexts. GUIDE evaluates facilitation across both objective task outcomes and subjective metrics, including psychological safety and perceived friction. Within this framework, we study whether LLMs can self-learn generalized facilitation strategy offline to real-time interventions. We first collect multi-party human interactions guided by task-specific expert LLM facilitators (N=432 conversations). We then employ a self-learning method in which an LLM induces an actionable strategic playbook from conversations and iteratively refines it using feedback from an LLM judge aligned with human annotators (N=20), developing a single generalized facilitator that outperforms the three task-specific expert facilitators on held-out conversations 61.4% win rate. Finally, we evaluate these improvements empirically; in a real-time online empirical study, the self-learned generalized facilitator preserves facilitator performance and group productivity, improves speaking comfort and reduces interpersonal friction, while using 24.7% fewer turns and 29.0% fewer words than the expert prompts. These findings provide empirical evidence that LLMs can learn generalizable, task-agnostic social facilitation from task-specific human interactions, on-par with hand-crafted task-specific prompts across diverse group settings."
     },
     {
       "id": "fetch-paper-2",
-      "title": "Evolving Hybrid Quantum-Classical Architectures for Image Classification",
+      "title": "NetRL: Powering Network Decisions via NetGRPO-Driven Reinforcement Learning",
       "source": "arXiv.org",
-      "date": "2026-10-02",
-      "description": "Hybrid quantum classical neural networks integrate parameterized quantum circuits (PQCs) with established deep learning architectures, but their performance depends strongly on the choice of quantum circuit architecture, a choice that remai...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2610.03220v2",
-      "hotScore": 94,
-      "content": "Hybrid quantum classical neural networks integrate parameterized quantum circuits (PQCs) with established deep learning architectures, but their performance depends strongly on the choice of quantum circuit architecture, a choice that remains largely manual. Most existing approaches rely on hand-designed or fixed circuit ansätze, requiring circuit structure, gate composition, and qubit connectivity to be specified in advance with no guarantee that they suit the task. This limitation is especially acute in image classification, where quantum circuits must transform features extracted by classical networks while remaining compact enough for practical training, requirements that generic, task-agnostic ansätze are unlikely to satisfy simultaneously. We extend EXAQC, an evolutionary framework for automated quantum circuit discovery, to image classification. EXAQC evolves PQCs as intermediate processing modules while retaining classical feature-extraction and prediction layers. On MNIST, Fashion-MNIST, and CIFAR-10, EXAQC achieves 98.42%, 90.62%, and 85.47% accuracy, respectively, while using comparable gate counts to other quantum architecture-search methods. Against classical networks, evolved hybrid models maintain comparable accuracy with substantially fewer trainable parameters, reaching 85.68% on CIFAR-10 with over 25$\\times$ fewer parameters than a 10-layer CNN. Encoding choice also matters: rotation-based encodings (RX, RY, U3) outperform amplitude encoding by 22-25 points on CIFAR-10. These results demonstrate that automated circuit discovery yields compact quantum modules that can replace larger classical components in vision architectures while retaining competitive accuracy."
-    },
-    {
-      "id": "fetch-paper-3",
-      "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
-      "source": "arXiv.org",
-      "date": "2026-10-09",
-      "description": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can onl...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2610.13935v1",
-      "hotScore": 89,
-      "content": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They require access to model weights or large concept-annotated datasets, and most methods cannot provide image-level attribution. We propose Hide and Seek (HnS), a new method for concept-level attribution that does not require access to model weights or labeled concept datasets. HnS can interpret a wide range of vision models. Given a concept and image set, HnS retrieves concept-aligned images using a vision-language model, localizes the concept within each image, masks the localized region, and measures attribution from the change in the black-box model's output between the original and masked images. This enables faithful attribution by directly measuring the model's behavior and supporting local attributions. We validated HnS on CelebA and COCO-Stuff. Compared to existing methods, HnS showed better agreement with ground-truth attributions. We demonstrated the applicability of HnS on diverse tasks, including image captioning and satellite image segmentation, where no existing concept attribution method can be used. We provided our anonymous code in the supplementary material."
-    },
-    {
-      "id": "fetch-paper-4",
-      "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
-      "source": "arXiv.org",
-      "date": "2026-03-17",
-      "description": "Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether these models genuinely process acoustic signals or rely on text-based semantic inference. To...",
+      "date": "2026-10-12",
+      "description": "Network decision-making tasks, including adaptive bitrate streaming, load balancing, and congestion control, require policies to process heterogeneous states and actions while balancing near- and long-term consequences. Existing solutions g...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2603.18048v3",
-      "hotScore": 94,
-      "content": "Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether these models genuinely process acoustic signals or rely on text-based semantic inference. To systematically study this question, we introduce DEAF (Diagnostic Evaluation of Acoustic Faithfulness), a benchmark of over 2,700 conflict stimuli spanning three acoustic dimensions: emotional prosody, background sounds, and speaker identity. Then, we design a controlled multi-level evaluation framework that progressively increases textual influence, ranging from semantic conflicts in the content to misleading prompts and their combination, allowing us to disentangle content-driven bias from prompt-induced sycophancy. We further introduce diagnostic metrics to quantify model reliance on textual cues over acoustic signals. Our evaluation of seven Audio MLLMs reveals a consistent pattern of text dominance: models are sensitive to acoustic variations, yet predictions are predominantly driven by textual inputs, revealing a gap between high performance on standard speech benchmarks and genuine acoustic understanding."
+      "url": "http://arxiv.org/abs/2610.16226v1",
+      "hotScore": 83,
+      "content": "Network decision-making tasks, including adaptive bitrate streaming, load balancing, and congestion control, require policies to process heterogeneous states and actions while balancing near- and long-term consequences. Existing solutions generalize poorly across network tasks, require substantial task-specific redesign, and lack reliable evaluation of long- horizon action consequences. Methods that learn through online interaction additionally face unstable optimization. We present NetRL, a two-stage LLM-based reinforcement learning framework that combines supervised fine-tuning on demonstration trajectories with online policy optimization. A universal mixed-embedding interface combines textual task descriptions with precise numerical states, while a network action head produces valid decisions. At its core, NetGRPO evaluates candidate actions over multiple future trajectories, directs deeper search toward uncertain alternatives through confidence-aware budgeting, and performs group-relative, clipped, and KL-regularized updates. NetRL achieves 23.6% higher QoE than NetLLM, 12.2% lower job completion time than Genet, and 24.1% higher network utility than Orca, yielding state-of-the-art performance among the evaluated methods. Confidence-aware budgeting reduces end-to-end training time by 27.1% without reducing validation QoE. NetRL also converges stably and generalizes to unseen network traces without retraining. Code and model weights are available at the repository linked in this paper."
+    },
+    {
+      "id": "fetch-paper-3",
+      "title": "GEO-Bench: Benchmarking Ranking Manipulation in Generative Engine Optimization",
+      "source": "arXiv.org",
+      "date": "2026-05-27",
+      "description": "Large language models (LLMs) increasingly rank products, documents, and recommendations for user queries, which makes manipulating these rankings a growing concern for fairness and information integrity. Research on generative engine optimi...",
+      "category": "llm",
+      "tags": [
+        "Research",
+        "LLM"
+      ],
+      "url": "http://arxiv.org/abs/2605.29107v3",
+      "hotScore": 87,
+      "content": "Large language models (LLMs) increasingly rank products, documents, and recommendations for user queries, which makes manipulating these rankings a growing concern for fairness and information integrity. Research on generative engine optimization (GEO) has produced many manipulation methods, but each is evaluated on its own dataset with its own metrics, so their relative strength and detectability stay unclear. We present GEO-Bench, a benchmark that evaluates GEO ranking-manipulation attacks under one protocol. It unifies black-box prompt-based attacks (TAP, Zero-Shot), white-box gradient-based attacks (STS, RAF, StealthRank), and ten white-hat C-SEO strategies. We score every method on five datasets against a fixed open-weight ranker (Llama-3.1-8B-Instruct), using metrics for both effectiveness (NRG, Success@α, Promote@α) and stealth (keyword violation rate, perplexity ratio). Our evaluation shows that effectiveness and stealth trade off across adversarial attacks, that black-box content rewriting matches or exceeds gradient-based attacks on rank promotion while producing more fluent text and can evade both keyword- and perplexity-based detection on some domains, and that the access model does not predict attack strength. By standardizing datasets, attack implementations, and metrics, GEO-Bench enables the first direct comparison across these attack paradigms and supports the development of detection methods."
+    },
+    {
+      "id": "fetch-paper-4",
+      "title": "CrystalJev: calibrated foundation-model probabilities decide what to compute next in materials discovery",
+      "source": "arXiv.org",
+      "date": "2026-10-04",
+      "description": "Atomistic foundation models screen hypothetical crystals by thresholding predicted energies, an output that states neither how likely a candidate is to be stable nor whether more computation would change the decision. CrystalJev reads one f...",
+      "category": "research",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2610.06985v2",
+      "hotScore": 86,
+      "content": "Atomistic foundation models screen hypothetical crystals by thresholding predicted energies, an output that states neither how likely a candidate is to be stable nor whether more computation would change the decision. CrystalJev reads one forward pass of a frozen potential on the unrelaxed structure and returns calibrated probabilities, conformal guarantees and a rule for escalating candidates to relaxation or density-functional theory (DFT). Across 65 Matbench Discovery models, threshold calls hide cost assumptions, and ordering slower computation by its value for the decision, rather than by probability, recovers most of its benefit at a tenth of its cost. In a registered prospective test with 2,100 DFT calculations on ionic substitutions, forecasts calibrated on existing data over-stated the stable fraction of new candidates by 0.9--2.2 percentage points, because the population had shifted, not the labelling protocol; a few hundred labels from the new pool removed this bias more reliably than label-free corrections."
     },
     {
       "id": "fetch-paper-5",
-      "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+      "title": "Look Back to Move Forward: Learning to Revisit for Agentic Compositional Image Generation",
       "source": "arXiv.org",
-      "date": "2026-10-09",
-      "description": "The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand binary classification and is often form...",
-      "category": "research",
+      "date": "2026-10-12",
+      "description": "Text-to-image models have made remarkable progress in visual fidelity and instruction following, yet complex compositional generation remains challenging. Existing agentic approaches address this limitation through iterative generation and ...",
+      "category": "agent",
       "tags": [
-        "Research"
+        "Research",
+        "Agent"
       ],
-      "url": "http://arxiv.org/abs/2610.13931v1",
-      "hotScore": 85,
-      "content": "The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand binary classification and is often formulated in terms of the Betti numbers of a decision boundary $β(Φ^{-1}(0))$. Despite its popularity, this measure is not as useful for regression and other problems that do not involve a decision boundary. Instead, we propose to study topological expressivity in terms of the Betti numbers of the output of a neural network $β(Φ(X))$. We formally prove that a ReLU network with architecture $(d,\\sum\\limits_{k=1}^{d } β_k(3k+2),\\sum\\limits_{k=1}^{d}β_k(k+1))$ can express spaces homotopy equivalent to wedge sums of spheres with arbitrary Betti numbers. This gives upper bounds for any arbitrary connected ($β_0=1$) sequence of Betti numbers, but by constructing spaces homotopy equivalent to products of $N$ spheres of dimension $d_1,...,d_N$ we achieve much better bounds $(\\sum\\limits_{n=1} d_n, 3\\sum\\limits_{n=1}\\limits^N d_n + 2N, \\sum\\limits_{n=1}\\limits^N d_n + N) $ for Betti numbers given by $\\prod_n (1+x^{d_n})$. Finally we conjecture a much stronger tight bound which gives the architectural bound $(d,d+1,d+1)$ for a space homeomorphic to the sphere."
+      "url": "http://arxiv.org/abs/2610.16224v1",
+      "hotScore": 87,
+      "content": "Text-to-image models have made remarkable progress in visual fidelity and instruction following, yet complex compositional generation remains challenging. Existing agentic approaches address this limitation through iterative generation and editing, adapting their actions based on interaction history. However, they typically fix the continuation state (i.e., the image from which refinement proceeds) to the latest image. Since iterative editing is not necessarily monotonic, the agent may continue refining from the latest image even when it has already degraded. In this work, we introduce GenRevisit, an agentic framework that extends action selection to joint continuation-state and action selection. The agent can not only use interaction history to adjust editing instructions but also select an image candidate to edit, jointly deciding where to continue from and how to refine. We train GenRevisit with SFT followed by agentic reinforcement learning. To address the coarse credit assignment of final outcome reward in GRPO, which assigns the same trajectory-level advantage to all actions, we further propose Normalized Action Credit Assignment (NACA) to redistribute positive advantage according to each action's contribution to reducing the remaining objective. On GenEval2, GenRevisit achieves GM scores of 84.3 and 74.4 with Qwen-Image-2512 and Z-Image-Turbo, surpassing the strongest baselines using the same generators by 12.7 and 10.9 points respectively. GenRevisit achieves state-of-the-art performance on GenEval, GenEval++, and GenEval2 among baselines."
     },
     {
       "id": "fetch-paper-6",
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "title": "When Participant Disjoint Validation Is Not Enough to Establish Generalization in Parkinson's Gait Classification",
       "source": "arXiv.org",
-      "date": "2026-10-09",
-      "description": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions ...",
-      "category": "research",
+      "date": "2026-10-12",
+      "description": "Participant-disjoint cross-validation prevents direct participant overlap, but it may still produce optimistic estimates when acquisition site and diagnosis are structurally dependent. We examined Parkinson's disease classification using 15...",
+      "category": "tooling",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2610.13928v1",
-      "hotScore": 92,
-      "content": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural networks within host model weights, decrypting and executing them only upon receiving a secret trigger. Using digital lockers, these hidden circuits remain provably hard to elicit and interpret under cryptographic assumptions, even given full access to model weights, extending prior work from hiding fixed strings to arbitrary computations. We implement our proof of concept constructions in PyTorch and evaluate elicitation through fine-tuning, weight noising, gradient-based trigger search, and latent adversarial training on a small chemical reaction prediction task - a proxy for CBRN-relevant capabilities. Our results demonstrate resistance to these methods and, together with our cryptographic guarantees, reveal a limit of elicitation-based capability audits. We release our models to support the improvement of defenses."
+      "url": "http://arxiv.org/abs/2610.16220v1",
+      "hotScore": 94,
+      "content": "Participant-disjoint cross-validation prevents direct participant overlap, but it may still produce optimistic estimates when acquisition site and diagnosis are structurally dependent. We examined Parkinson's disease classification using 159 pressure-walkway summary features from 133 WearGait-PD participants, including 65 participants with Parkinson's disease and 68 controls. The cohort was non-factorial: two sites contained only one diagnostic group, whereas VA-Seattle was the only site containing both groups. In repeated participant-level nested cross-validation, site alone achieved an area under the receiver operating characteristic curve (AUC) of 0.955 plus or minus 0.003, exceeding the gait-feature model (0.882 plus or minus 0.014). Under the evaluated logistic-regression pipelines, adding gait features to site, age, and sex produced no measurable improvement in pooled discrimination. More site-controlled evaluations produced lower and imprecise estimates: VA-Seattle same-site AUC was 0.668 (95% bootstrap confidence interval 0.477 to 0.836), and the JHOC + Bayview-to-VA-Seattle transport stress test achieved 0.576 (0.375 to 0.770). Supporting within-diagnosis site-prediction and site-conditioned permutation analyses showed that the gait representation retained substantial acquisition-site structure. These findings indicate that participant-disjoint pooled validation did not isolate disease-related discrimination from site-associated variation. They encourage careful examination of site-label dependence and, where possible, support for pooled results through within-site or independent validation before broader claims are made about generalization across institutions."
     },
     {
       "id": "fetch-paper-7",
-      "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
+      "title": "AI Alignment and Fiduciary Obligation",
       "source": "arXiv.org",
-      "date": "2026-10-09",
-      "description": "A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-averaged divergence $\\mathbb{E}_U D_{\\mathrm{K...",
+      "date": "2026-08-01",
+      "description": "Advanced AI assistants engage users in extended interactions across a widening range of roles, including advice, decision support, collaboration, learning, emotional support, and companionship among others. Current alignment efforts conside...",
       "category": "research",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2610.13924v1",
-      "hotScore": 91,
-      "content": "A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-averaged divergence $\\mathbb{E}_U D_{\\mathrm{KL}}(p\\|q_U)$ with the output-law divergence $D_{\\mathrm{KL}}(p\\|\\mathbb{E}_U q_U)$, in nats. Rounds commit independent draws from exact conditional marginals frozen at the round's start, each output's schedule is drawn before sampling from a finite mixture of schedules, and every scheduled round is charged. For the uniform distribution on binary strings of even length $n$ with $n/2$ ones, the least expected number of rounds at a fixed tolerance $\\varepsilon&gt;0$ is $Θ_\\varepsilon((\\log n)^2)$ under the first criterion but $(e^{-\\varepsilon}+o(1))\\log_2\\ln n$ under the second, and the double-logarithmic order is attainable with the same round count on every run. For this target, a count-state recursion gives the exact least output divergence at every round cap over all causal randomized policies. The separation extends to weighted fixed-count targets with bounded weight ratios and quota fractions bounded away from zero and one, without permutation symmetry, and to the full-support Beta$(1,1)$--Bernoulli target, where the sharp expected cost under the output-law criterion is $(e^{-\\varepsilon}/2+o(1))\\log_2\\log_2n$, attained with rare $n$-round runs. Prior work implies the order of the schedule-averaged cost on the balanced target and its $O_\\varepsilon((\\log n)^2)$ upper bounds on both extensions."
-    },
-    {
-      "id": "fetch-hf-2610.12099",
-      "title": "UNITAS: A 3D-Native World Action Model for Embodied Manipulation",
-      "source": "Hugging Face Daily",
-      "date": "2026-10-07",
-      "description": "World action models (WAMs) aim to answer a coupled physical question: given a task instruction, what motion should the robot execute, and how will that motion change the surrounding world? Most existing WAMs build on pretrained video genera...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2610.12099",
-      "hotScore": 90,
-      "content": "World action models (WAMs) aim to answer a coupled physical question: given a task instruction, what motion should the robot execute, and how will that motion change the surrounding world? Most existing WAMs build on pretrained video generators and represent world evolution through images or visual latents. Robotic interaction, however, takes place in metric three-dimensional space, while images are view-dependent projections whose pixel distances do not directly encode physical distances. We introduce UNITAS, to our knowledge the first 3D-native world action model that unifies observations, actions, and scene dynamics in a shared metric 3D frame within each interaction, using a common representation across robot embodiments and human hands. Action flow represents human hands and robot grippers as 3D point trajectories, while scene flow describes scene-point displacements conditioned on these trajectories. World-aligned 3D positional embeddings ground visual tokens with or without depth input, and a physical-time trajectory tokenizer encodes each point trajectory as one token anchored at its current 3D position. This interface supports both direct action execution and action-conditioned scene prediction. With 1.7B parameters, UNITAS achieves the best action-conditioned scene prediction on RoboTwin among the compared methods, with up to 49% lower displacement errors than PointWorld, and state-of-the-art manipulation success, including 99.8% on LIBERO and an average of 85% across real-world tasks. The code is available at https://github.com/DexForce/UNITAS."
-    },
-    {
-      "id": "fetch-hf-2610.05637",
-      "title": "Visual Grounding Safety in Vision-Language Models",
-      "source": "Hugging Face Daily",
-      "date": "2026-10-04",
-      "description": "Vision-language models (VLMs) are increasingly trained to generate structured outputs like points and bounding boxes that downstream interfaces, agents, and robots can act on, yet safety alignment of this output channel has not been systema...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2610.05637",
+      "url": "http://arxiv.org/abs/2608.02660v3",
       "hotScore": 89,
-      "content": "Vision-language models (VLMs) are increasingly trained to generate structured outputs like points and bounding boxes that downstream interfaces, agents, and robots can act on, yet safety alignment of this output channel has not been systematically analyzed. We study visual grounding safety by repurposing three safety benchmarks spanning direct harm (VLSU), social bias (BBQ-V), and situational safety (Asimov-2.0) into 15,401 matched pairs of harmful requests that differ only in the requested output: a free-text answer (VQA) or a grounding (point or bounding box). Across five VLMs, models that refuse a harmful request posed as a question often comply when the same request asks for a grounding: averaged over models, grounding refusal trails VQA refusal by 31-59 percentage points, depending on the domain, and safety system prompts do not close this gap. We propose a fine-tuning approach that combines grounding-form refusals with capability grounding data and self-distilled benign data to counter over-refusal. For Qwen3-VL-8B and VisionReasoner-7B, it improves grounding refusal by 77-95 percentage points on VLSU and BBQ-V and by 64-85 points on the held-out Asimov-2.0 domain, while also improving VQA refusal, preserving grounding capability, and keeping over-refusal limited. Representation analysis shows that fine-tuning moves harmful requests toward each model's refusal direction, most strongly for grounding, while leaving benign requests near the harmless reference."
+      "content": "Advanced AI assistants engage users in extended interactions across a widening range of roles, including advice, decision support, collaboration, learning, emotional support, and companionship among others. Current alignment efforts consider what alignment criteria should govern these relationships, drawing on moral traditions developed for human relationships such as bioethics, virtue ethics, care ethics, and relationship science. This paper considers AI alignment criteria in the user-AI-developer triad, since every user-AI interaction is mediated by a developer who exercises discretionary control over a system's behaviour, memory, and engagement parameters. Drawing on business ethics and legal scholarship, I argue that fiduciary theory applies to extended AI assistant deployment. On this basis, the four canonical fiduciary duties of loyalty, care, good faith, and candour can generate alignment criteria for the developer-user relationship. I map four user-side risks of extended AI assistant deployment to the four duties and specify institutional measures that follow from discharging each duty. The discussion complements existing approaches by grounding alignment criteria in obligations the developer owes the user, rather than in values the user-AI interaction should promote, and by showing that those obligations hold independently of any de facto harm to users."
     },
     {
-      "id": "fetch-hf-2610.02740",
-      "title": "Prospective Hindsight: Self-Calibrating Reinforcement Learning via Prediction-Reality Gaps",
+      "id": "fetch-hf-2610.13990",
+      "title": "DoSA: Dots Sparse Attention",
       "source": "Hugging Face Daily",
-      "date": "2026-10-01",
-      "description": "Reinforcement learning for long-horizon agents relies on purely retrospective training signals: credit is assigned only after observing environmental consequences, leaving the agent's belief at action time invisible to the gradient. We intr...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2610.02740",
-      "hotScore": 88,
-      "content": "Reinforcement learning for long-horizon agents relies on purely retrospective training signals: credit is assigned only after observing environmental consequences, leaving the agent's belief at action time invisible to the gradient. We introduce Prospective Hindsight (PH), a self-calibrating training principle that augments any retrospective base method with a signal derived from the gap between the agent's prospective prediction (before feedback) and the retrospective evaluation (after feedback). This per-rollout surprise identifies samples where the agent's self-model is most inaccurate and amplifies their gradient contribution through a stop-gradient surprise-weighted advantage. Since the prospective predictor shares parameters with the policy, the two co-evolve, progressively shifting focus to the agent's remaining blind spots. We connect this principle to a privileged-information gap and show that minimizing the surprise residual provides a descent pathway on the agent's miscalibration rate; calibration thus emerges as a byproduct of optimization rather than from an added objective. On single-turn verifiable tasks and a multi-turn personal-agent task (under GRPO, on-policy distillation, and their combination), PH improves both task performance and calibration, with consistent gains across model scales. Notably, the dominant miscalibration mode shifts structurally between regimes, overconfident failures in single-turn, underconfident successes in multi-turn, yet the same training principle addresses both successfully."
-    },
-    {
-      "id": "fetch-hf-2610.12998",
-      "title": "Evaluating LLM Creativity through Long-Tail Performance",
-      "source": "Hugging Face Daily",
-      "date": "2026-10-08",
-      "description": "Creativity benchmarks for large language models (LLMs) vary widely in task and metric design. This raises the question of whether they capture a common notion of creativity. We propose that this shared target can be formalized as task-speci...",
-      "category": "llm",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2610.12998",
-      "hotScore": 87,
-      "content": "Creativity benchmarks for large language models (LLMs) vary widely in task and metric design. This raises the question of whether they capture a common notion of creativity. We propose that this shared target can be formalized as task-specific performance in the long tail of a reference input-output distribution, which describes how common input-output pairs are relative to a chosen source of text. We ground this proposition in the novelty-quality product formulation and evaluate it empirically across 15 benchmarks and 26 open-weight models, using n-gram absence from the pretraining data as a novelty proxy. Our results show that creativity benchmarks lie further in the tail regions than standard benchmarks. Moreover, on both creativity and standard benchmarks, model rankings from higher-tail subsets of each benchmark align more closely with human creativity judgments in LM-Arena. Building on these findings, we introduce q@Tail(α), a lower-cost creativity diagnostic that measures mean task quality on the tail fraction of an existing benchmark. Applying it to creativity-promoting methods reveals substantial room to improve LLM creativity through stronger tail performance."
-    },
-    {
-      "id": "fetch-hf-2610.03825",
-      "title": "Same Output, Different Gold: Measuring How Reference Choice Moves a Multilingual Benchmark Score",
-      "source": "Hugging Face Daily",
-      "date": "2026-10-01",
-      "description": "A benchmark score compares a system output against a reference, and methodological attention falls almost entirely on the first term. We measure the second. The retained annotation record of a six-language benchmark for personally identifia...",
+      "date": "2026-09-25",
+      "description": "Sparse attention visits few keys, yet finding them can still require scoring every key with every indexer head. We introduce DoSA (Dots Sparse Attention), a lossless method for making this computation conditional while preserving exact toke...",
       "category": "tooling",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2610.03825",
+      "url": "https://huggingface.co/papers/2610.13990",
+      "hotScore": 90,
+      "content": "Sparse attention visits few keys, yet finding them can still require scoring every key with every indexer head. We introduce DoSA (Dots Sparse Attention), a lossless method for making this computation conditional while preserving exact token selection. Its central observation is that Top-K selection requires sufficient evidence to reject a candidate, not necessarily its full score. A seed set supplies a lower bound on the winning threshold. Nonnegative head projections and joint residual bounds upper-bound positive contributions, while activation-informed aggregation bounds the magnitude subtracted by negative heads. The certificate directs full scoring toward candidates that remain eligible; exact-score filtering further reduces writeback and selection work. We establish the certificate and its exact-selection conditions, and analyze how geometry and selection margins govern its effectiveness. Our GPU implementation accelerates the complete Indexer by up to 2.74 times over SGLang and 1.69 times over LiteTopK across English, Chinese, and code workloads. End-to-end evaluation on GLM-5.2 and DeepSeek-V3.2 achieves up to 1.94 times and 1.50 times time-to-first-token speedups over the two baselines, respectively."
+    },
+    {
+      "id": "fetch-hf-2610.12818",
+      "title": "LeWAM: End-to-End World and Action Modeling with JEPAs",
+      "source": "Hugging Face Daily",
+      "date": "2026-10-07",
+      "description": "Joint-embedding predictive architectures (JEPAs) learn compact latent world models without pixel reconstruction. Existing JEPA pipelines typically train visual representations and action-conditioned dynamics before adding a control policy o...",
+      "category": "tooling",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2610.12818",
+      "hotScore": 89,
+      "content": "Joint-embedding predictive architectures (JEPAs) learn compact latent world models without pixel reconstruction. Existing JEPA pipelines typically train visual representations and action-conditioned dynamics before adding a control policy or solver. We introduce LeWAM, an end-to-end JEPA for control with: (1) a joint training objective over next latent state prediction and action flow matching, and (2) an isotropic Gaussian constraint on the latent state, enabling a single model to support direct policy execution and efficient planning by evaluating sampled actions with its learned latent dynamics. Compared with prior JEPAs in visual planning, LeWAM improves success rate from 28.6% to 89.7% on contact-rich tasks and from 10.9% to 46.2% on long-horizon tasks, and plans 32.3 times faster. On behavior cloning tasks in simulation and physical robots, LeWAM is also competitive with established methods. Interpretability analyses show that LeWAM learns control-relevant representations and action distributions effectively guiding test-time planning and control."
+    },
+    {
+      "id": "fetch-hf-2610.15124",
+      "title": "ShellElastic: Scalable Elastic Pretraining with Simultaneous Maximal Updates and Hyperparameter Transfer",
+      "source": "Hugging Face Daily",
+      "date": "2026-10-09",
+      "description": "Foundation models need to support diverse inference budgets, yet training a separate model for each budget duplicates pretraining effort. Elastic models train several nested sub-networks inside one weight-shared supernet, but existing recip...",
+      "category": "llm",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2610.15124",
+      "hotScore": 88,
+      "content": "Foundation models need to support diverse inference budgets, yet training a separate model for each budget duplicates pretraining effort. Elastic models train several nested sub-networks inside one weight-shared supernet, but existing recipes face three obstacles: variable per-step workloads that hinder distributed scaling, limited hyperparameter (HP) transfer across model sizes, and no guarantee that all sub-networks are maximally updated at once. We present \\Ours, an elastic transformer that organizes hidden dimensions into a dense core and successive shells, so that every hidden matrix is block lower triangular. One full-width forward pass contains every sub-network's exact hidden states as prefixes, so joint training keeps a fixed computation graph and costs about as much per step as training the widest sub-network alone. We further introduce \\muE, an extension of maximal update parameterization (\\mup) to \\Ours and other elastic architectures. Its scaling rules provably keep all sub-networks of a supernet maximally updated simultaneously (\\muI), and keep doing so when the supernet is widened or given more shells; sweeps confirm that HPs tuned on a small non-elastic proxy stay near-optimal for elastic families and larger supernets (\\muT). A single \\Ours run produces sub-networks that outperform MatFormer and fully elastic baselines at matched parameter counts, and approach separately trained models that together take several times the steps."
+    },
+    {
+      "id": "fetch-hf-2610.15208",
+      "title": "PANINI-DR: Controlled Deep Research through Generative Semantic Workspaces",
+      "source": "Hugging Face Daily",
+      "date": "2026-10-09",
+      "description": "Deep research requires connecting multiple steps of search, reasoning, and computation, with intermediate findings guiding what to investigate next. As investigations grow, agents must maintain research state across model calls and check fi...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2610.15208",
+      "hotScore": 87,
+      "content": "Deep research requires connecting multiple steps of search, reasoning, and computation, with intermediate findings guiding what to investigate next. As investigations grow, agents must maintain research state across model calls and check findings before errors propagate into subsequent work. We introduce PANINI-DR, a multi-agent harness that separates coordination of the overall investigation from the research and verification of individual subquestions. A shared workspace, built on the Generative Semantic Workspace representation, records subquestions, their dependencies, findings, and supporting evidence. Researchers investigate individual subquestions, while a separate verification agent checks proposed answers against those subquestions and their evidence. Verification feedback guides further investigation, and recorded findings inform subsequent assignments. We evaluate PANINI-DR on BrowseComp-Plus, FRAMES, and MoNaCo against seven state-of-the-art deep-research harnesses, all using a shared language-model backbone and frozen corpora. PANINI-DR achieves the strongest average performance across the three benchmarks. On BrowseComp-Plus, it achieves 73.3% accuracy, outperforming the next-best harness by 16.0 points. Its advantage is strongest on hard questions, where it answers nearly twice as many as the next-best harness. Ablations further show that structured planning and persistent state improve performance, as does checking each finding against its cited evidence before it is reused. Because a model can answer correctly from memory alone, we also analyze the evidence retained by each harness. PANINI-DR achieves the highest answer recoverability from saved evidence on all three benchmarks, while complementary claim-support audits show stronger evidence-backed answers. Accounting for this evidence changes how harnesses compare and further strengthens PANINI-DR's advantage."
+    },
+    {
+      "id": "fetch-hf-2609.38377",
+      "title": "PhyProbe: Rethinking Physical Consistency Evaluation in Generated Videos",
+      "source": "Hugging Face Daily",
+      "date": "2026-09-28",
+      "description": "Evaluating the physical consistency of generated videos remains a fundamental challenge. Existing approaches rely on off-the-shelf vision-language models, which can often be myopic to physical dynamics, or fine-tuned evaluators trained on h...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2609.38377",
       "hotScore": 86,
-      "content": "A benchmark score compares a system output against a reference, and methodological attention falls almost entirely on the first term. We measure the second. The retained annotation record of a six-language benchmark for personally identifiable information contains two independent annotator labellings, the aggregate shipped as gold, and a reviewer gold from independent expert re-annotation of a sample. Using it, we hold the scored output fixed and exchange the reference. The score moves by 4.95 F1 points for one output and 2.00 for the other (95% CIs [3.23, 6.27] and [0.26, 3.37]), and by 7.55 in the worst language. The comparison between two outputs moves as well: the paired interaction between reference and system is +2.95 points (CI [+1.97, +3.87]), survives correction for multiple testing, and changes one language's margin outright. The cause is an undocumented aggregation default that usually kept one annotator when adjudication did not fire, making the shipped reference a partial copy of an output being scored. We report the resulting reference-sensitivity band, show how to compute one from any retained annotation record, and argue that the quantity belongs beside the score."
+      "content": "Evaluating the physical consistency of generated videos remains a fundamental challenge. Existing approaches rely on off-the-shelf vision-language models, which can often be myopic to physical dynamics, or fine-tuned evaluators trained on human annotations, which overfit to dataset-specific cues and fail to generalize. A key challenge is that existing supervision sources provide either relative ordering or absolute scores, but not both reliably and consistently across varied settings. To this end, we introduce PhyProbe, an evaluator that extracts features from a frozen pretrained spatio-temporal encoder and maps them to a scalar physical consistency violation score via a lightweight scoring head. PhyProbe is trained through a unified objective combining pairwise ranking, regression on noisy scalar annotations, and anchor-based calibration over a curated set of heterogeneous supervision sources. Experiments show that PhyProbe outperforms prior methods on most pairwise benchmarks spanning real-generated and generated-generated pairs under varying correspondence, with the largest gains in no-correspondence and generated-generated settings where existing fine-tuned evaluators degrade sharply. PhyProbe achieves strong correlation with human judgments, with close agreement between rank-based and linear metrics, indicating that scores are both well ordered and anchored to a stable [0, 1] scale. Further, despite being trained on supervision indicative of physical consistency, without explicit general-preference labels, PhyProbe also performs competitively on human preference benchmarks: consistent with the observation that physics violations are entangled with broader quality degradations."
     }
   ],
   "hfModels": [
@@ -458,7 +458,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 220348634,
-      "likes": 6337,
+      "likes": 6339,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -569,7 +569,7 @@
       "owner": "Community",
       "fullName": "Qwen/Qwen3-0.6B",
       "downloads": 30726361,
-      "likes": 1812,
+      "likes": 1813,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -601,7 +601,7 @@
       "owner": "Community",
       "fullName": "Comfy-Org/MiniMax-H3",
       "downloads": 23813859,
-      "likes": 2264,
+      "likes": 2265,
       "category": "research",
       "tags": [
         "Diffusion-single-file",
@@ -614,7 +614,67 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
-      "title": "Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field",
+      "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-10-13",
+      "description": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "hotScore": 92,
+      "content": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud...."
+    },
+    {
+      "id": "fetch-gadget-1",
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-10-13",
+      "description": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "hotScore": 89,
+      "content": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor...."
+    },
+    {
+      "id": "fetch-gadget-2",
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-10-13",
+      "description": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence techn...",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "hotScore": 98,
+      "content": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence techn..."
+    },
+    {
+      "id": "fetch-gadget-3",
+      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-10-13",
+      "description": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
+      "hotScore": 98,
+      "content": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants...."
+    },
+    {
+      "id": "fetch-gadget-4",
+      "title": "Rivian&#8217;s startup Mind Robotics hires former Ford EV chief Doug Field",
       "source": "TechCrunch Gadgets",
       "date": "2026-10-13",
       "description": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3....",
@@ -623,12 +683,12 @@
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/",
-      "hotScore": 98,
+      "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+      "hotScore": 95,
       "content": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3...."
     },
     {
-      "id": "fetch-gadget-1",
+      "id": "fetch-gadget-5",
       "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
       "source": "TechCrunch Gadgets",
       "date": "2026-10-13",
@@ -639,26 +699,26 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-      "hotScore": 90,
+      "hotScore": 97,
       "content": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure...."
     },
     {
-      "id": "fetch-gadget-2",
+      "id": "fetch-gadget-6",
       "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
       "source": "TechCrunch Gadgets",
       "date": "2026-10-13",
-      "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at ...",
+      "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in ...",
       "category": "agent",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "hotScore": 89,
-      "content": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at ..."
+      "hotScore": 94,
+      "content": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in ..."
     },
     {
-      "id": "fetch-gadget-3",
+      "id": "fetch-gadget-7",
       "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
       "source": "TechCrunch Gadgets",
       "date": "2026-10-13",
@@ -669,38 +729,8 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "hotScore": 91,
+      "hotScore": 94,
       "content": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security h..."
-    },
-    {
-      "id": "fetch-gadget-4",
-      "title": "Apple&#8217;s new smart home lineup includes a smart lock, thermostat, and video doorbells",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-10-13",
-      "description": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps....",
-      "category": "image",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
-      "hotScore": 85,
-      "content": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps...."
-    },
-    {
-      "id": "fetch-gadget-5",
-      "title": "India delays digital payments fee rollout amid retailer pushback",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-10-13",
-      "description": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
-      "hotScore": 87,
-      "content": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season...."
     }
   ]
 }
