@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-17T14:31:23.018Z",
+  "updatedAt": "2026-10-18T01:46:13.672Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 392258,
+      "stars": 392288,
       "forks": 82459,
       "language": "TypeScript",
       "category": "research",
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 301017,
-      "forks": 26875,
+      "stars": 301238,
+      "forks": 26896,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 254584,
-      "forks": 55340,
+      "stars": 254701,
+      "forks": 55367,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 207783,
-      "forks": 61163,
+      "stars": 207834,
+      "forks": 61170,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "stars": 192379,
-      "forks": 10163,
+      "stars": 192509,
+      "forks": 10168,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187620,
-      "forks": 45909,
+      "stars": 187629,
+      "forks": 45908,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 173245,
-      "forks": 22161,
+      "stars": 173266,
+      "forks": 22163,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -126,7 +126,7 @@
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
       "stars": 165070,
-      "forks": 33560,
+      "forks": 33559,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,7 +142,7 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 159096,
+      "stars": 159097,
       "forks": 46119,
       "language": "JavaScript",
       "category": "research",
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 158701,
-      "forks": 25083,
+      "stars": 158729,
+      "forks": 25087,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 155955,
-      "forks": 22700,
+      "stars": 155999,
+      "forks": 22704,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 147979,
-      "forks": 24836,
+      "stars": 148002,
+      "forks": 24838,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 144063,
-      "forks": 34733,
+      "stars": 144071,
+      "forks": 34731,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 141624,
-      "forks": 12671,
+      "stars": 141680,
+      "forks": 12675,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 138005,
-      "forks": 16438,
+      "stars": 138071,
+      "forks": 16451,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -270,7 +270,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2610.22372v1",
-      "hotScore": 88,
+      "hotScore": 87,
       "content": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from preference satisfaction. We introduce LIBERO-PeRM, a benchmark for preference learning in embodied agents. LIBERO-PeRM studies five questions: 1) how policies follow preferences in zero-shot settings; 2) how they learn single preferences from demonstrations; 3) how efficiently they acquire preferences as demonstrations increase; 4) how learned preferences generalize across layouts and tasks; and 5) how policies compose preferences and behave under conflicts. We propose a controlled formulation and taxonomy of observable preferences in simulation, covering motion, skill, and user-profile choices. This formulation is restricted to language-expressible preferences that can be instantiated in LIBERO without changing the task goal, evaluated automatically, and reused across tasks. Building on LIBERO, our procedural pipeline generates paired demonstrations with and without preferences. We create five task suites (312 tasks) with high-quality demonstrations, rich metadata, and preference-satisfaction metrics. Experiments show that current VLA policies struggle with zero-shot personalization, while SFT makes preferences learnable. Mixed training achieves better no-preference retention than sequential adaptation and improves performance with contextual prompts compared with preference-only training, but can weaken motion-preference learning; preference generalization, decomposition, and conflict handling remain difficult. The code, datasets, and demos can be found on the project website: https://libero-perm.github.io/."
     },
     {
@@ -285,7 +285,7 @@
         "LLM"
       ],
       "url": "http://arxiv.org/abs/2610.22367v1",
-      "hotScore": 82,
+      "hotScore": 90,
       "content": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource costs are associated with a small set of computational primitives, optimizing them in the quantum setting presents unique challenges, including a reversibility constraint absent from ordinary classical computation. Here we introduce an evolutionary framework in which large language models (LLMs) propose circuit designs and an independent evaluator verifies and scores them. We apply this framework to tasks spanning numerical computation, chemistry, optimization, quantum simulation, and number theory. In seven of the eight tasks, the discovered circuits significantly reduce both Toffoli and qubit counts relative to the state of the art. In the eighth, the search discovers a new reversible architecture for prime-field modular inversion. By handling reversibility differently, the architecture makes divsteps -- a classical algorithm previously impractical for reversible integer arithmetic -- viable and substantially improves the Toffoli-qubit trade-off for modular inversion. These results open the door for evaluator-guided LLM co-design of new algorithmic structures for quantum computation."
     },
     {
@@ -329,7 +329,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2610.22362v1",
-      "hotScore": 80,
+      "hotScore": 89,
       "content": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures and supervision that helps it overcome them. We introduce CoDA, a framework in which a simulation data engine and an action policy co-evolve through a shared heterogeneous memory of environment construction, policy failures, and learning progress. The memory compiles validated diagnoses from a vision-language critic into generation programs that recreate difficulties and training programs that help the policy overcome them. We further propose Text2potential to convert these diagnoses into staged potentials for action-chunk value learning, providing dense supervision for policy updates while preserving the task's optimal policy under standard shaping assumptions. Measured learning progress guides further generation and program refinement. Across four manipulation task families, CoDA improves out-of-distribution success from 5.3% after supervised fine-tuning to 27.6%, exceeding the strongest closed-loop baseline by 9.5 percentage points with the same generation budget. On LIBERO-Pro, 15 rounds of generation and training raise success from 25% to 84% under position perturbations and from 1% to 76% under instruction perturbations."
     },
     {
@@ -343,7 +343,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2610.22358v1",
-      "hotScore": 91,
+      "hotScore": 89,
       "content": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories unspecified. This distinction matters for trajectory-dependent quantities such as cumulative demand, peak load, and event timing, yet point and marginal scores do not reveal it. To model this dependence, we introduce PathFM, a trajectory-based forecasting model that uses flow matching to generate complete future paths. We further distill the model to one or two steps and share history attention cache across draws. Together, these enable PathFM to generate multiple paths for a single series in roughly the time needed for one query to a quantile model. The distilled sampler also makes it practical to optimize a calibration loss directly. PathFM achieves competitive marginal accuracy on the established forecasting benchmarks fev-bench and TIME. To complement these evaluations, we introduce Forecast Path Score Bench (fps-bench), which augments fev-bench tasks with energy and variogram scores and downstream metrics. PathFM achieves a higher aggregate path score on fps-bench than all evaluated external baselines. Experiments on chaotic systems further show that our flow model sustains long-run variability, while strong baselines rapidly collapse. PathFM makes generative time series forecasting both competitive and practical, enabling diverse downstream applications."
     },
     {
@@ -358,7 +358,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2610.22355v1",
-      "hotScore": 94,
+      "hotScore": 92,
       "content": "Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements, we move beyond conventional binary verifiers that produce only True/False discrete judgments and introduce a verifier that automatically decomposes complex prompts or environmental rules into fine-grained components and assigns pointwise scores to provide a continuous and more informative critique signal. Our experiments further demonstrate that these structured and interpretable outputs improve the verifier's generalization to out-of-domain multimodal critic tasks. To train this verifier, we introduce a Decoupled RL training strategy that jointly optimizes sub-question-level binary judgment and global alignment scoring, using precise local feedback to develop fine-grained verification capabilities that provide a foundation for reliable continuous scoring at the global level. Under a general reinforcement learning framework, we first empirically demonstrate that the proposed pointwise graded verifier significantly outperforms binary verifiers in traditional text-to-image scenarios. We then extend our investigation to rule-governed generative world modeling where generative models are leveraged for world simulation and world reasoning under explicit rules. From a theoretical standpoint, we further show that a pairwise verification paradigm yields more accurate critiques than the pointwise formulation when ground-truth images are available, with empirical results on diverse structured world-modeling tasks such as Maze and Sudoku further validating the effectiveness of our approach. Overall, our findings suggest a key insight: the transition from generative models to structured world-modeling agents critically hinges on the availability of accurate pairwise graded visual verifiers."
     },
     {
@@ -372,7 +372,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2610.20247v2",
-      "hotScore": 94,
+      "hotScore": 89,
       "content": "Multilingual models share capacity across languages, so adding languages can hurt performance on existing ones. Mixture-of-experts models expand this capacity with little additional per-token computation. Given this extra capacity, does adding experts reduce what each additional language costs? To answer this question, we propose a repetition-aware joint scaling law relating number of active parameters, training tokens per language, number of experts, and language coverage. Fitted on 26,300 per-language loss observations from 64 pretrained configurations, our law reduces prediction error on held-out configurations by 28% relative to the strongest evaluated baseline. At matched number of active parameters and training tokens per language, 32 experts reduce the loss penalty of expanding from 12 to 200 languages by 83% compared with a dense model. Our law further shows that broader language coverage favors more experts across a wider range of compute budgets, guiding capacity allocation as multilingual models scale."
     },
     {
@@ -458,7 +458,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 211561799,
-      "likes": 6351,
+      "likes": 6352,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -474,7 +474,7 @@
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
       "downloads": 77453390,
-      "likes": 417,
+      "likes": 418,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -490,7 +490,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
       "downloads": 58513910,
-      "likes": 643,
+      "likes": 644,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -537,7 +537,7 @@
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
       "downloads": 31937945,
-      "likes": 3433,
+      "likes": 3432,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -553,7 +553,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
       "downloads": 31866948,
-      "likes": 3902,
+      "likes": 3903,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -569,7 +569,7 @@
       "owner": "Community",
       "fullName": "Qwen/Qwen3-0.6B",
       "downloads": 30073785,
-      "likes": 1824,
+      "likes": 1826,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -585,7 +585,7 @@
       "owner": "Community",
       "fullName": "Comfy-Org/MiniMax-H3",
       "downloads": 24983722,
-      "likes": 2314,
+      "likes": 2317,
       "category": "research",
       "tags": [
         "Diffusion-single-file",
@@ -614,6 +614,21 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-10-17",
+      "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "hotScore": 97,
+      "content": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web...."
+    },
+    {
+      "id": "fetch-gadget-1",
       "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
       "source": "TechCrunch Gadgets",
       "date": "2026-10-16",
@@ -624,11 +639,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "hotScore": 89,
+      "hotScore": 92,
       "content": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic..."
     },
     {
-      "id": "fetch-gadget-1",
+      "id": "fetch-gadget-2",
       "title": "Waymo&#8217;s robotaxis are headed to Canada",
       "source": "TechCrunch Gadgets",
       "date": "2026-10-16",
@@ -639,38 +654,8 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-      "hotScore": 85,
+      "hotScore": 95,
       "content": "The company will start off by testing its self-driving vehicles on Toronto's streets...."
-    },
-    {
-      "id": "fetch-gadget-2",
-      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-10-15",
-      "description": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-      "hotScore": 94,
-      "content": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products...."
-    },
-    {
-      "id": "fetch-gadget-3",
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-10-15",
-      "description": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "hotScore": 90,
-      "content": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands...."
     }
   ]
 }
