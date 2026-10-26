@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-26T01:59:17.554Z",
+  "updatedAt": "2026-10-26T17:44:41.521Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 393055,
-      "forks": 82617,
+      "stars": 393138,
+      "forks": 82647,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 305074,
-      "forks": 27180,
+      "stars": 305489,
+      "forks": 27208,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 257075,
-      "forks": 56311,
+      "stars": 257332,
+      "forks": 56372,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 208593,
-      "forks": 61254,
+      "stars": 208653,
+      "forks": 61255,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "stars": 195345,
-      "forks": 10305,
+      "stars": 195603,
+      "forks": 10321,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187747,
-      "forks": 45895,
+      "stars": 187771,
+      "forks": 45903,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 174559,
-      "forks": 22298,
+      "stars": 174650,
+      "forks": 22311,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165140,
-      "forks": 32510,
+      "stars": 165150,
+      "forks": 32515,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 159534,
-      "forks": 25213,
+      "stars": 159607,
+      "forks": 25225,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 159251,
-      "forks": 46125,
+      "stars": 159268,
+      "forks": 46128,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 156756,
-      "forks": 22826,
+      "stars": 156823,
+      "forks": 22840,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 148449,
-      "forks": 24916,
+      "stars": 148498,
+      "forks": 24928,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -210,7 +210,7 @@
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 144256,
+      "stars": 144272,
       "forks": 34703,
       "language": "Python",
       "category": "agent",
@@ -227,8 +227,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 142957,
-      "forks": 16876,
+      "stars": 143200,
+      "forks": 16910,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 142876,
-      "forks": 12794,
+      "stars": 142999,
+      "forks": 12815,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -260,195 +260,194 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "Interpretable Singing Emotion Recognition Using Acoustic and Vocal Technique Features",
+      "title": "The Language of Instruction: Genre and Generative AI",
       "source": "arXiv.org",
       "date": "2026-10-23",
-      "description": "Singing emotion recognition relies predominantly on deep learning models that achieve strong performance but offer limited insight into the vocal characteristics driving emotion, of- ten overlooking the singing voice as a distinct signal. W...",
-      "category": "tooling",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2610.32629v1",
-      "hotScore": 87,
-      "content": "Singing emotion recognition relies predominantly on deep learning models that achieve strong performance but offer limited insight into the vocal characteristics driving emotion, of- ten overlooking the singing voice as a distinct signal. We propose an interpretable singing emotion recognition framework using a compact set of singing-specific descriptors across prosody, spec- tral features, phonetics, and vocal technique. To decode model decisions and link predictions to measurable acoustic phenomena, we employ SHAP and apply GRAD-CAM to qualitatively assess the learned representations of vocal techniques. Evaluations show that singing-specific features reduce cross-singer variability, while vocal technique descriptors provide interpretable insights into singing expression. Furthermore, out-of-domain evaluation on VocalSet reveals interesting associations between emotional expression and ground-truth technical execution. The analysis highlights vibrato and pharyngeal techniques as salient cues of emotional delivery, with SHAP indicating that vibrato is context-dependent on articulation rate. These findings emphasize the value of domain-specific features for interpretable singing emotion analysis."
-    },
-    {
-      "id": "fetch-paper-1",
-      "title": "Acquisition for Spherical-Linear Bayesian Optimization on the Cube",
-      "source": "arXiv.org",
-      "date": "2026-10-23",
-      "description": "Recent work demonstrated that executing Bayesian Optimization (BO) using simply a linear surrogate with a clever transformation is enough to approximate the performance of the standard Gaussian-Process (GP) based version on high-dimensional...",
-      "category": "research",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2610.32628v1",
-      "hotScore": 84,
-      "content": "Recent work demonstrated that executing Bayesian Optimization (BO) using simply a linear surrogate with a clever transformation is enough to approximate the performance of the standard Gaussian-Process (GP) based version on high-dimensional test functions. When the decision region is a sphere, this strategy admits rapid exact acquisition. However, it is the unit cube we encounter most often in the BO literature, and in this setting a standard approach, namely a multi-start quasi-Newton method, is employed for solving the acquisition subproblem. In this article, we will discuss a series of results, both positive and negative, regarding the complexity of global resolution of various acquisition subproblems over the unit cube. On the basis of this discussion, we will propose a new acquisition function which is globally optimizable using significantly less execution time than the incumbent approach while maintaining or improving performance. The resulting method is competitive with GP-based BO in terms of accuracy per evaluation, and is superior in terms of accuracy per walltime on black-boxes of low to moderate computational intensity."
-    },
-    {
-      "id": "fetch-paper-2",
-      "title": "Testing Transformer Learnability on the Arithmetic Sequence of Rooted Trees",
-      "source": "arXiv.org",
-      "date": "2025-12-01",
-      "description": "We study whether a transformer network can learn the deterministic sequence of trees generated by the iterated prime factorization of the natural numbers. Each integer is mapped into a rooted planar tree and the resulting sequence $\\mathbb{...",
+      "description": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive language from prior conver...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2512.01870v3",
-      "hotScore": 93,
-      "content": "We study whether a transformer network can learn the deterministic sequence of trees generated by the iterated prime factorization of the natural numbers. Each integer is mapped into a rooted planar tree and the resulting sequence $\\mathbb{N}\\mathscr{T}$ defines an arithmetic text with measurable statistical structure. A transformer network (the GPT-2 architecture) is trained from scratch on the first $10^{11}$ elements and evaluated on next-token prediction and masked-token prediction tasks, with a Hidden Markov Model as baseline and a scaling analysis over context window, dataset size, vocabulary size and model size. The model reaches a word accuracy of about $0.4$, well above the baseline, and its performance remains stable on test blocks located at $10^{13}$-$10^{15}$, far beyond the training interval. Moreover, the likelihood assigned by the trained model separates the arithmetic text from two controls: synthetic token sequences that preserve the marginal token frequencies but not their order, with a separation that widens with the context, and sequences containing more than three consecutive square-free integers, a configuration that arithmetic forbids. These results indicate that the transformer captures regularities of the arithmetic text that go beyond its frequency profile."
+      "url": "http://arxiv.org/abs/2610.32982v1",
+      "hotScore": 81,
+      "content": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive language from prior conversations between generative models and humans recursively run through these massive neural networks. It is instantiated in applications through instruction fine-tuning, the inclusion of a pretext known as a system prompt, and the formalization of inputs in mark-up languages characterized by the use of special tokens and role assignment in turntaking structures."
     },
     {
-      "id": "fetch-paper-3",
-      "title": "LGMT: A Tool for Testing the Logical Reasoning Reliability of LLMs",
+      "id": "fetch-paper-1",
+      "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
       "source": "arXiv.org",
       "date": "2026-10-23",
-      "description": "Large Language Models (LLMs) increasingly serve as reasoning components in modern software systems, yet a model that answers a logical query correctly can contradict itself when the same problem is restated in an equivalent form. Static ben...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2610.32627v1",
-      "hotScore": 82,
-      "content": "Large Language Models (LLMs) increasingly serve as reasoning components in modern software systems, yet a model that answers a logical query correctly can contradict itself when the same problem is restated in an equivalent form. Static benchmarks evaluate queries in isolation and therefore fail to expose such inconsistencies. To address this limitation, we present LGMT, an open-source tool that detects reasoning inconsistencies through metamorphic relations grounded in first-order logic. Given a source test case in premise-conclusion form, LGMT generates logically equivalent follow-up cases and checks whether the model's entailment predictions agree across the pair, without ground-truth labels. The tool provides 20 built-in metamorphic relations, supports custom ones verified by the Z3 theorem prover, and runs from a CLI or a web studio, including an offline mock mode requiring no API key. Across six widely used LLMs on a bundled benchmark of 3,091 metamorphic groups, LGMT reveals inconsistency rates ranging from 20.84% to 29.44%. LGMT is publicly available on GitHub at https://github.com/MaxwelsDonc/lgmt-tool, with a demonstration video at https://youtu.be/gou4opptu1U."
-    },
-    {
-      "id": "fetch-paper-4",
-      "title": "What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design",
-      "source": "arXiv.org",
-      "date": "2026-10-23",
-      "description": "LLM agents optimize a ligand in a protein pocket by editing it step by step and docking each edit. Recent agents first spend extra dockings probing the complex with controlled edits; guidance induced from these probes is reported to help mo...",
+      "description": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visu...",
       "category": "agent",
       "tags": [
         "Research",
         "Agent"
       ],
-      "url": "http://arxiv.org/abs/2610.32620v1",
-      "hotScore": 89,
-      "content": "LLM agents optimize a ligand in a protein pocket by editing it step by step and docking each edit. Recent agents first spend extra dockings probing the complex with controlled edits; guidance induced from these probes is reported to help more than the chemical knowledge the model already carries. The probes are then discarded with the instance that produced them, so the obvious next step is to keep them in an experience base, letting a new pocket inherit what earlier ones already paid for. Such a base is read through a \\emph{key}: the record properties under which past edits are pooled and a new one is looked up. Using the full log of one such run over the CrossDocked2020 test-set pockets, we ask whether its keys recur on a pocket the base has never seen and still separate improving from worsening edits. \\crchange{Using} the contacts at the site being edited, the action, and the round as \\crchange{a} key, the base separates them sharply. Within our analysis, this separation is largely explained by how much the edit changed the molecule's size, the action, and the round, none of which describes the target. That is not because the target is irrelevant: naming it outright separates them several times more sharply. For a pocket absent from the base, transfer must rely on a description rather than its identity. Among the exact-match descriptions we evaluate, the more specific ones rarely recur, whereas the coarser ones provide little separation; the signals that do transfer primarily describe the edit and the molecule it produced rather than the target. Under the representations and lookup scheme studied here, an experience base may be more useful for prioritizing an agent's own proposals for docking than for directly prescribing what to build."
+      "url": "http://arxiv.org/abs/2610.32978v1",
+      "hotScore": 85,
+      "content": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visual generative models offer rich priors over plausible arrangements, yet their outputs require geometric reasoning to become physically valid 3D scenes. We introduce SceneBloom, an agentic framework that combines visual layout sampling with contract-guided 3D compilation. A hierarchical sampler uses diffusion priors to generate furniture arrangements within functional zones. A compiler then uses relations extracted from each proposal to guide geometric fitting and local pose correction. Across five room types, SceneBloom attains the highest visual quality and physical stability among the compared methods and is the only method with no detected mesh collisions and out-of-bounds objects. Its layouts are also closer to the distribution of real rooms than those of all compared baselines. Object navigation policies trained in these realistic scenes achieve a higher success rate in held-out real scans than those trained on an equal number of real training scans. Code is available at https://github.com/Tinaliu0123/scenebloom."
+    },
+    {
+      "id": "fetch-paper-2",
+      "title": "Q-MMR: Off-Policy Evaluation via Recursive Reweighting and Moment Matching",
+      "source": "arXiv.org",
+      "date": "2026-05-07",
+      "description": "We present a novel theoretical framework, Q-MMR, for off-policy evaluation in finite-horizon MDPs. Q-MMR learns a set of scalar weights, one for each data point, such that the reweighted rewards approximate the expected return under the tar...",
+      "category": "tooling",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2605.06474v3",
+      "hotScore": 85,
+      "content": "We present a novel theoretical framework, Q-MMR, for off-policy evaluation in finite-horizon MDPs. Q-MMR learns a set of scalar weights, one for each data point, such that the reweighted rewards approximate the expected return under the target policy. The weights are learned inductively in a top-down manner via a moment matching objective against a value-function discriminator class. Notably, and perhaps surprisingly, a data-dependent finite-sample guarantee for general function approximation can be established under only the realizability of $Q^π$, with a dimension-free bound -- that is, the error does not depend on the statistical complexity of the function class. We also establish connections to several existing methods, such as importance sampling and linear FQE. Further theoretical analyses shed new light on the nature of coverage, a concept of fundamental importance to offline RL."
+    },
+    {
+      "id": "fetch-paper-3",
+      "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+      "source": "arXiv.org",
+      "date": "2026-10-23",
+      "description": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles, yet two major barr...",
+      "category": "tooling",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2610.32971v1",
+      "hotScore": 82,
+      "content": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles, yet two major barriers limit their broader potential: limited algorithm reusability and an unclear empirical capability boundary. We introduce RobustRLlib, an algorithm-centric library and benchmark that addresses both challenges. It integrates 17 representative robust online, offline, and safe RL algorithms under a unified interface for substantially improved reusability, together with an enhanced evaluation platform spanning diverse real-world shifts and advanced humanoid and vision-language-action tasks. Systematic evaluation over 273 perturbation configurations provides an up-to-date capability map of current robust RL algorithms, revealing where they remain effective and where substantial robustness gaps persist. As an open-source, user-friendly platform, RobustRLlib offers a reproducible and extensible codebase for applying existing methods to new problems and developing new robust RL algorithms."
+    },
+    {
+      "id": "fetch-paper-4",
+      "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+      "source": "arXiv.org",
+      "date": "2026-10-23",
+      "description": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coordinating many finge...",
+      "category": "research",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2610.32969v1",
+      "hotScore": 82,
+      "content": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coordinating many finger joints on the operator. Human demonstrations are easier to collect, but their motions must be estimated and retargeted to the robot, and they do not directly provide robot actions. In this paper, we introduce DexPort, a portable data-collection interface for high-DoF robot hands. It uses the same hand hardware for collection and deployment, avoiding a hand embodiment gap, and records both commanded joint targets and measured joint states. Our key observation is that a small set of skills can support a wide range of dexterous tasks. During collection, the operator moves the hand-held interface to specify the robot wrist motion and selects or adjusts skills that coordinate the finger motion. This removes the need to control each joint independently while retaining behaviors such as precise grasping and in-hand manipulation. We collect demonstrations across several real-world tasks and in unstructured environments without a robot arm. We then use behavior cloning to train visuomotor policies directly on the recorded wrist motions and hand commands, without skill labels. We evaluate across 4 tasks: pick-and-place with diverse objects, screwing with in-hand tool use, drawer stowage which requires simultaneous grasp and pulling, and a bimanual scanning task. We collect over 2,500 demonstrations with our portable device, in both laboratory and in-the-wild settings. Across our tasks, we see an improvement from 11% to 64% when using recorded robot commands instead of states, and an improvement from 36% to 78% for task success when using in-the-wild data."
     },
     {
       "id": "fetch-paper-5",
-      "title": "Earth embeddings are decomposable records of the land surface",
+      "title": "From Dueling Bandits to Episodic MDPs: Learning with Adversarial Preference Feedback",
+      "source": "arXiv.org",
+      "date": "2025-07-15",
+      "description": "In dueling bandits, the learner compares two arms in each round and observes only which one is preferred. This paper asks what changes when the compared pair also affects the next state, as in a recommendation interface where the pair shown...",
+      "category": "research",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2507.11706v2",
+      "hotScore": 88,
+      "content": "In dueling bandits, the learner compares two arms in each round and observes only which one is preferred. This paper asks what changes when the compared pair also affects the next state, as in a recommendation interface where the pair shown to a user affects the user's next context. We formulate this problem as a state-wise preference-based MDP, an episodic tabular MDP in which the learner selects a pair of arms at each visited state, observes only a noisy comparison between them, and moves to a next state that may depend on the pair. The preferences may change adversarially across episodes, and the loss of a pair is defined through Borda scores. We show that the minimax regret of this problem under known transitions is $\\tildeΘ(\\min\\{HT,(H^3SK)^{1/3}T^{2/3}\\})$, where $H$, $S$, $K$, and $T$ are the numbers of steps per episode, states, arms, and episodes, and that this rate is achieved by an algorithm based on online linear optimization over the set of occupancy measures. If the pair did not affect the next state, each state would be a separate dueling bandit, and the $T^{2/3}$ term of the minimax regret would be smaller by a factor of $H^{1/3}$, demonstrating the cost of having action-dependent state transitions. We also give a policy optimization algorithm with closed-form updates, whose regret is $\\tilde{O}((H^4SK^3)^{1/3}T^{2/3})$ up to lower-order terms, and we extend both algorithms to unknown transitions."
+    },
+    {
+      "id": "fetch-paper-6",
+      "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
       "source": "arXiv.org",
       "date": "2026-10-23",
-      "description": "Ecological monitoring, carbon accounting and biodiversity assessment increasingly rely on annual Earth embeddings--learned vectors that compress a year of satellite observation for every ten-meter pixel on Earth, consumed in place of the im...",
+      "description": "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear structure, or risk reproducing anomalous...",
       "category": "image",
       "tags": [
         "Research",
         "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2610.32617v1",
+      "url": "http://arxiv.org/abs/2610.32964v1",
       "hotScore": 91,
-      "content": "Ecological monitoring, carbon accounting and biodiversity assessment increasingly rely on annual Earth embeddings--learned vectors that compress a year of satellite observation for every ten-meter pixel on Earth, consumed in place of the imagery itself. What these vectors mean has not been established. Here we decompose two widely used embedding products and show that they contain individual ecological features, including fire, forest clearing and crop type, validated against independent reference data on events across six continents. The recovered concepts date abrupt canopy loss to the first post-disturbance growing season and resolve severity well enough to separate prescribed fire from wildfire. Small fires that recover quickly are detectable in one product but not the other, which instead separates crops more strongly."
-    },
-    {
-      "id": "fetch-paper-6",
-      "title": "Cross-Model In-Context Neurofeedback Reveals (Limited) Activation Control in LLMs",
-      "source": "arXiv.org",
-      "date": "2026-10-14",
-      "description": "Probes on activation vectors are widely used to detect misbehavior in language models, but their success relies on the assumption that models cannot control what their activations encode. Humans can learn, through neurofeedback, to control ...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2610.20179v2",
-      "hotScore": 89,
-      "content": "Probes on activation vectors are widely used to detect misbehavior in language models, but their success relies on the assumption that models cannot control what their activations encode. Humans can learn, through neurofeedback, to control the firing of even single neurons, and recent studies investigated whether this ability extends to language models, reaching conflicting conclusions. No experimental design so far disentangles competence at the task from genuine access to one's own activations. We fill this gap with in-context neurofeedback sessions, in which a \"subject\" model is asked to maximize (or minimize) a score derived from its activations, shown back to it at every turn. In our first experiment, the sentences are generated either by the subject or by a second \"writer\" model, while the score always derives from the activations of the subject. We test ten open-weight models from five families, with sizes from 9B to 32B. Some models move their own scores considerably, but no more than a writer of comparable competence moves them. Is this because the task requires no privileged access, or because the subject controls its activations while processing the sentences, whoever wrote them? To answer this, we prefill a fixed sentence as the subject's reply at every turn and ask it to increase or decrease the score. Three out of ten models show small but consistent control effects. We further ask whether models can control their activations to the point of fooling an activation monitor. We make models repeat sentences a monitor would flag, such as a deceptive answer for a deception monitor, and ask them to raise or lower the monitor's score. No model learns to lower it, but one model can raise it. In-context control of a model's own activations might not yet be a threat to activation monitors, but it exists in a few models and needs to be tracked as models evolve."
+      "content": "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear structure, or risk reproducing anomalous content. Flownomaly instead casts the problem as normal-counterpart recovery in frozen DINOv2 feature space. Given normal supports, a velocity field is learned through conditional flow matching over frozen patch tokens to transport Gaussian noise toward normal features. Along straight paths, a single recovery step using one evaluation of the optimal field yields the posterior mean of the clean normal token without trajectory integration. The operating time governs how strongly recovery modifies a query token. With no anomalous validation samples available for tuning, a normal-only Jacobian gain-to-noise criterion selects this time from the supports alone. Squared residuals between query tokens and their recovered counterparts yield anomaly signals for both dense localization and image-level detection. Across 1-, 2-, and 4-shot benchmarks on MVTec-AD and VisA, together with sample-shot evaluations on Real-IAD, Flownomaly achieves state-of-the-art performance against recent category-specific methods. In the 1-shot setting, image- and pixel-level AUROC reach 97.8% and 98.0% on MVTec-AD and 95.3% and 98.7% on VisA, with a 2.1-point image-level AUROC improvement over the strongest baseline on VisA. Code is available at https://github.com/b-rbmp/Flownomaly."
     },
     {
       "id": "fetch-paper-7",
-      "title": "EvalCards: A Framework for Standardized Evaluation Reporting",
+      "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
       "source": "arXiv.org",
-      "date": "2025-11-05",
-      "description": "Evaluation reports guide the use of general-purpose AI (GPAI) models, yet inconsistent reporting often leaves essential questions unanswered. Through a review of prior work, we identify three central issues in evaluation reporting practices...",
-      "category": "tooling",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2511.21695v2",
-      "hotScore": 93,
-      "content": "Evaluation reports guide the use of general-purpose AI (GPAI) models, yet inconsistent reporting often leaves essential questions unanswered. Through a review of prior work, we identify three central issues in evaluation reporting practices today, reproducibility, accessibility, and accountability, and examine how existing reporting artifacts fall short in addressing them. We introduce the EvalCards framework, outlining its key dimensions and presenting a preliminary format for concise evaluation summaries. We conclude by discussing how the framework can guide the future development of evaluation reporting standards."
-    },
-    {
-      "id": "fetch-hf-2610.27103",
-      "title": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
-      "source": "Hugging Face Daily",
-      "date": "2026-10-18",
-      "description": "Recent Omni LLMs (OLLMs) have demonstrated remarkable capabilities in joint audio-visual reasoning, yet cross-modal hallucinations remain a major challenge. Existing mitigation methods mainly operate at the output level, overlooking the ent...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2610.27103",
-      "hotScore": 90,
-      "content": "Recent Omni LLMs (OLLMs) have demonstrated remarkable capabilities in joint audio-visual reasoning, yet cross-modal hallucinations remain a major challenge. Existing mitigation methods mainly operate at the output level, overlooking the entanglement of grounding evidence and learned priors within fused representations. To address this issue, we propose Omni-Woodpecker (OWP), a training-free framework that shifts hallucination mitigation from output-level manipulation to conflict-conditioned representation rebalancing. Specifically, OWP first identifies cross-modal conflicts from complementary modality-specific views. It then employs orthogonal decomposition to separate grounding evidence from competing priors within the hidden states. Finally, OWP adaptively rebalances fused representations by suppressing misleading priors and restoring ignored evidence before decoding. Extensive experiments demonstrate the effectiveness and strong cross-architecture generalization of OWP. Using Qwen2.5-Omni-7B as the backbone, OWP improves performance by 12.9 and 8.6 points on CMM and AVHBench, respectively, while consistently achieving gains of 0.67-2.25 points across four general OLLM reasoning benchmarks. Furthermore, OWP generalizes effectively to VideoLLaMA2-AV, improving performance by 4.6 and 3.9 points on the same benchmarks. Code is publicly available at https://github.com/ZiiJianLiu/Omni-Woodpecker"
-    },
-    {
-      "id": "fetch-hf-2610.30043",
-      "title": "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments",
-      "source": "Hugging Face Daily",
-      "date": "2026-10-20",
-      "description": "Robots must act under physical and social constraints while adapting to changes in their environment and human needs. Existing embodied-agent systems often focus on specified goals or abstract execution into symbolic actions, limiting evalu...",
+      "date": "2026-10-23",
+      "description": "Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were written by the system itself. We present F...",
       "category": "agent",
       "tags": [
-        "Hugging Face",
-        "Paper"
+        "Research",
+        "Agent"
       ],
-      "url": "https://huggingface.co/papers/2610.30043",
-      "hotScore": 89,
-      "content": "Robots must act under physical and social constraints while adapting to changes in their environment and human needs. Existing embodied-agent systems often focus on specified goals or abstract execution into symbolic actions, limiting evaluation in an evolving world. We introduce TARSphere, a robot-oriented full-stack framework for physically and socially grounded long-horizon embodied agents. TARSphere-Infra runs robot policies in a physics simulator with embodied NPCs and constrained dialogue. An event-driven finite-state machine (FSM) uses completed actions and delivered information to update task states and evaluate outcomes. TARSphere-Harness, its embodied brain harness, lets a frozen multimodal large language model (MLLM) act through multi-level executable skills, using observations, hierarchical memory, and execution feedback to revise its decisions. On this foundation, agent-in-the-loop curation aligns task semantics, causal dependencies, and scene geometry to construct TARSphere-Bench: 360 episodes across 30 indoor scenes. Five paired conditions assess perceptual robustness, disruption adaptation, task update, human coordination, and intent understanding for navigate-and-report and fetch-and-deliver tasks. Our evaluation of 8 MLLMs shows that general-purpose models can outperform embodied models, while task updates and human interaction remain difficult. Frequent collisions and falls further motivate evaluating execution safety alongside task success, even with a shared action interface and decision budget."
+      "url": "http://arxiv.org/abs/2610.32955v1",
+      "hotScore": 94,
+      "content": "Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were written by the system itself. We present Foyer, a self-hosted personal inbox agent in daily use, and a measurement protocol (stratified sampling, frozen snapshots, thread-grouped splits, pre-registered hypotheses, human labels in the agent's review loop) that yields ground truth before any training. On 739 real Italian/English emails labelled by the owner (231 unbiased, 500 adversarially sampled), we compare nine systems under thread-grouped cross-validation: the production keyword rules, a TF-IDF + logistic-regression baseline, local typed decision models (Tev1, Nimble), a hosted decision model (Nimble v4-max), and hosted generative LLMs (Qwen2.5-7B, Gemma 4 26B/31B). Four results. The production rules score 28% on message type against a 58% majority class: the field shown most prominently carried no information. With ~200 labels, logistic regression has the highest accuracy on every field (type 0.79, urgency 0.74, needs-reply 0.83, is-noise 0.90), though it never predicts the two rarest classes and is statistically tied with Gemma 4 on type; few-shot prompting does not close the gap. The sender's relationship (client, supplier, service) is recovered from other emails of the same contact with 98.6% accuracy where the contact has been seen, and is not inferable from a single message by any model: it belongs in the contact graph, not the prompt. Finally, accuracy is not the product metric: composed into actions, the most accurate system most often ignores emails needing action (18% vs 4% for the best LLM); a cost-chosen threshold on its noise probability halves that rate and makes it the cheapest system."
     },
     {
-      "id": "fetch-hf-2610.22722",
-      "title": "The LLM-Attacker: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems",
+      "id": "fetch-hf-2610.31779",
+      "title": "FLORA: An Open Model Suite for Scaling Robotics Data Engines",
       "source": "Hugging Face Daily",
-      "date": "2026-10-14",
-      "description": "Split language models keep input text on a client but send intermediate representations to a server. Attacks can reconstruct text from these messages. Comparing privacy evaluations is difficult when attackers see different messages, know di...",
+      "date": "2026-10-21",
+      "description": "The life-cycle of robotics foundation models crucially depends on data labels. Outcome reward labels are needed for monitoring real-world deployments. Process reward labels are needed during RL post-training. Timestamped captions are needed...",
       "category": "llm",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2610.22722",
-      "hotScore": 88,
-      "content": "Split language models keep input text on a client but send intermediate representations to a server. Attacks can reconstruct text from these messages. Comparing privacy evaluations is difficult when attackers see different messages, know different model weights or use different datasets and recovery measures. We present LLM-Attacker, a framework that records these choices and lets researchers check, compare and extend an evaluation. Compatible attacks reuse recorded messages, and their predictions are saved for independent scoring. The scoring rule requires a linked undefended reference before a defence can pass. Reports also identify attacks that remain untested. In a controlled GPT-2 experiment, adding gradients returned during training increased token recovery from 94.20% to 97.38% and exact-document recovery from 13.71% to 37.77%. The 95% interval for the token gain lay above the two-percentage-point threshold fixed before testing. This experiment is shared with a companion study; here, it tests how the evaluation responds to a change in attacker access. Further studies measure how corpus choice and compression defences affect recovery, compare an adapted published attack with its reference implementation, and test the measurement code. The framework reports implementation checks separately from measured attack effectiveness. Each privacy claim should state the attacker, dataset and scoring rule, report its controls and identify untested attacks."
+      "url": "https://huggingface.co/papers/2610.31779",
+      "hotScore": 90,
+      "content": "The life-cycle of robotics foundation models crucially depends on data labels. Outcome reward labels are needed for monitoring real-world deployments. Process reward labels are needed during RL post-training. Timestamped captions are needed for filtering and balancing pretraining data. We present Flora, an industrial-quality data engine used for training GR00T models, that simultaneously covers these capabilities. Flora achieves SOTA scores on the captioning benchmark WGO-Bench and reward benchmarks RoboReward and Robometer. On internal benchmarks it is competitive with GPT-6 Astra while beating other frontier models. The model is substantially cheaper than API-based alternatives, roughly 125 times cheaper than GPT-6 Astra. Florais battle tested at scale, labeling 200,000 hours of data per day across 512 GB300s. By open-sourcing our data engine, we enable researchers to scale custom robotics datasets and explore emerging applications such as physical auto-research and human-to-robot transfer."
     },
     {
-      "id": "fetch-hf-2610.04184",
-      "title": "EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?",
+      "id": "fetch-hf-2610.20117",
+      "title": "KANLab: TensorFlow Playground for Kolmogorov-Arnold Networks",
       "source": "Hugging Face Daily",
-      "date": "2026-10-15",
-      "description": "Recursive self-improvement (RSI) relies on evaluation feedback to assess progress and guide further research, yet repeatedly running complex benchmarks is costly and slows iteration. Human experts reduce this cost by selecting benchmark sub...",
+      "date": "2026-10-13",
+      "description": "KANLab is a browser-based visualization tool designed to interactively teach the core concepts of Kolmogorov-Arnold Networks (KAN), forked from the widely successful TensorFlow Playground. To maximize educational clarity, KANLab omits resid...",
+      "category": "research",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2610.20117",
+      "hotScore": 89,
+      "content": "KANLab is a browser-based visualization tool designed to interactively teach the core concepts of Kolmogorov-Arnold Networks (KAN), forked from the widely successful TensorFlow Playground. To maximize educational clarity, KANLab omits residual connections and learnable scaling parameters found in modern KAN implementations, ensuring that displayed B-spline activation curves directly correspond to their underlying trainable control points. Users can inspect and modify activation functions, initialization schemes and observe gradient descent correcting manual disruptions. Furthermore, user can explore phenomena such as activation variance, interactive pruning, and re\\-/training within a compact 2D machine learning setting. KANLab is open-source and available at https://kanlab.app/"
+    },
+    {
+      "id": "fetch-hf-2610.30524",
+      "title": "LLM2Cert: LLM Synthesis of Certificates with SMT/Lean Verification",
+      "source": "Hugging Face Daily",
+      "date": "2026-10-20",
+      "description": "Lyapunov functions and barrier certificates give state-space guarantees of stability and safety, but synthesizing and verifying them---especially for nonlinear, high-dimensional systems---remains an open challenge. Existing pipelines verify...",
       "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2610.04184",
-      "hotScore": 87,
-      "content": "Recursive self-improvement (RSI) relies on evaluation feedback to assess progress and guide further research, yet repeatedly running complex benchmarks is costly and slows iteration. Human experts reduce this cost by selecting benchmark subsets or designing compact suites. We ask whether AI agents can automate this design process and introduce EvalResearchBench (ERB), a benchmark for autonomous evaluation research. Given target materials, development references, candidate APIs, and fixed time and API budgets, an agent called the researcher selects or synthesizes tasks, implements graders, and revises them in pilot tests before freezing an executable evaluator for coding, co-work, and reasoning. We study 9 researchers and 13 candidate models and compare each frozen evaluator with 14 target benchmarks on score concordance and pairwise agreement. The best evaluators order about 75\\% of candidate pairs as the targets do, below the 91\\% ceiling set by disagreements among the targets. No researcher leads on every metric, and the best evaluator on development targets is not the best on sealed targets hidden from the researcher. A human-designed sample of public tasks remains a strong baseline, and the evaluator with the lowest recorded execution cost attains the highest pairwise agreement. Agents repair tasks and graders through pilot feedback, yet their evaluators can still truncate answers, exhaust the evaluation budget, or let a few questions dominate a domain score."
+      "url": "https://huggingface.co/papers/2610.30524",
+      "hotScore": 88,
+      "content": "Lyapunov functions and barrier certificates give state-space guarantees of stability and safety, but synthesizing and verifying them---especially for nonlinear, high-dimensional systems---remains an open challenge. Existing pipelines verify candidates with numerical solvers (sum-of-squares programs), interval methods, or satisfiability-modulo-theories (SMT) solvers, which often require relaxations, are conservative, or scale poorly with model dimension and nonlinearity. These limitations have also shaped benchmark design: standard test suites are dominated by low-dimensional polynomial systems chosen to suit what solvers can handle rather than what engineering applications require. We address both sides of this challenge. First, we introduce DynaCertBench, a benchmark of 105 instances: 80 non-redundant systems curated from the literature, extended with high-dimensional and control-constrained variants and new nonlinearly coupled systems, comprehensively spanning stability, region-of-attraction, forward-invariance, and safety tasks. Second, we present LLM2Cert, an LLM-driven framework that synthesizes candidate certificates and verifies them against their proof obligations: each obligation is routed to an SMT solver or directly to the Lean Proof-Repair agent. On DynaCertBench, LLM2Cert verifies 81 of 105 instances (77.1%), a 17.1 percentage point improvement over one-shot proposal without feedback. On the 81 fixed certificates, LLM2Cert verifies 22 that All-SMT leaves unresolved. Code and data are available at https://github.com/FormalCert-AI/llm2cert."
     },
     {
-      "id": "fetch-hf-2610.25835",
-      "title": "Diffusion Language Models Change Speed Across Tasks and Languages",
+      "id": "fetch-hf-2610.19589",
+      "title": "JockeyBench: Evaluating LLM Agents on Horse-Racing Decision-Making",
       "source": "Hugging Face Daily",
-      "date": "2026-10-19",
-      "description": "Diffusion language models can write several tokens in one forward pass, and they decide during generation how many passes to spend. Two outputs of the same token length can therefore vary a lot in cost. To understand the underlying factors ...",
-      "category": "image",
+      "date": "2026-10-13",
+      "description": "Repeated event forecasting requires extracting predictive signals from noisy evidence and evaluating their value across successive decisions. We introduce JockeyBench, a benchmark and evaluation protocol that studies this problem through hi...",
+      "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2610.25835",
+      "url": "https://huggingface.co/papers/2610.19589",
+      "hotScore": 87,
+      "content": "Repeated event forecasting requires extracting predictive signals from noisy evidence and evaluating their value across successive decisions. We introduce JockeyBench, a benchmark and evaluation protocol that studies this problem through historical Japanese horse racing. The protocol combines time-gated evidence, priced tools, paired frozen-program controls, and two workflows: executing an LLM-written predictor or acquiring evidence for a fresh per-race LLM forecast. Evaluation separates forecast quality, benchmark-specific net utility, and retrospective betting returns and risk under fixed decision rules. Across 28 model--scaffold configurations on 324 races, paired tests identify seven revision gains and two declines after multiple-testing correction. Yet every configuration has negative mean profit under capped-Kelly settlement. In a four-model comparison, the reusable-program workflow has higher mean betting profit and lower research fees, although both workflows lose on average. Further diagnostics reveal that mean probability bias reverses on selected bets and that profitable individual runs can depend on concentrated returns. These findings motivate evaluating predictive competence, adaptation, resource use, and decision value separately when assessing agents for repeated event forecasting."
+    },
+    {
+      "id": "fetch-hf-2610.31810",
+      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+      "source": "Hugging Face Daily",
+      "date": "2026-10-21",
+      "description": "Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper i...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2610.31810",
       "hotScore": 86,
-      "content": "Diffusion language models can write several tokens in one forward pass, and they decide during generation how many passes to spend. Two outputs of the same token length can therefore vary a lot in cost. To understand the underlying factors of this cost variation, we analyze two diffusion models across 10 tasks. We find that the number of forward passes per token depends heavily on the task. Text copied or lightly edited from the input is cheap, while open-ended writing is costly. In DiffusionGemma, generating a token for story writing requires more than three times as many forward passes as for grammar correction. Two output properties explain much of this gap: how much of it is new relative to the input, and how rare its words are within the task. The same holds within a single response when thinking is involved. The final answer is cheap when it repeats the model's reasoning trace and costly when it adds something new. In multilingual generation, we find that highly tokenized languages also require more passes per token, adding to the cost they already pay with more tokens. Finally, cost tracks correctness: on the same math problem, wrong answers take more passes per token than correct ones, and weighting candidate answers by decoding speed beats majority voting by up to 4.2 points at no extra cost. Taken together, our results show that diffusion's computational advantage depends on how much of the output is already determined, while its decoding effort offers a practical signal for making inference more efficient and reliable."
+      "content": "Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-verified version. Starting from the LaTeX source, PaperFormalizer transcribes the paper into a dependency graph of statements, audits each statement in natural language for faithfulness, ambiguity and correctness, and then formalizes and proves the statements in Lean against Mathlib, optional domain libraries and the author's personal toolkit. Only the author knows what a statement is meant to say and how a formalization gap in a result is best fixed. The pipeline therefore stops and asks the author whenever a statement admits more than one reading, presents every repair, in natural language and TeX symbols, as a proposal that the author can accept, decline or redirect, and leaves to the author every decision that could potentially change what the paper claims. The output is an annotated and revised version of the paper, a report of the changes, and Lean code in which each declaration is linked to the statement it formalizes. The author's toolkit grows as more papers are formalized, and authors can share their verified papers so that researchers who build on them can reuse their Lean code. By making verified papers practical to produce, PaperFormalizer aims to make research that rests on mathematical proofs more robust. PaperFormalizer runs inside a coding agent (Claude Code or Codex) and is available at https://github.com/Jiyuan-Tan/PaperFormalizer. Papers with Lean code shared by users are available at https://paperformalizer.org."
     }
   ],
   "hfModels": [
@@ -457,8 +456,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 191688814,
-      "likes": 6014,
+      "downloads": 190188384,
+      "likes": 6016,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -473,8 +472,8 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 71105432,
-      "likes": 432,
+      "downloads": 70640218,
+      "likes": 433,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -489,7 +488,7 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 53621819,
+      "downloads": 53066972,
       "likes": 652,
       "category": "research",
       "tags": [
@@ -505,8 +504,8 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 39777448,
-      "likes": 1489,
+      "downloads": 39228036,
+      "likes": 1491,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -521,7 +520,7 @@
       "name": "electra-base-discriminator",
       "owner": "Community",
       "fullName": "google/electra-base-discriminator",
-      "downloads": 33217650,
+      "downloads": 31308093,
       "likes": 217,
       "category": "research",
       "tags": [
@@ -536,8 +535,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 29659669,
-      "likes": 3928,
+      "downloads": 29675435,
+      "likes": 3930,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -552,8 +551,8 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 28972374,
-      "likes": 3053,
+      "downloads": 29039388,
+      "likes": 3057,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -568,8 +567,8 @@
       "name": "MiniMax-H3",
       "owner": "Community",
       "fullName": "Comfy-Org/MiniMax-H3",
-      "downloads": 26539748,
-      "likes": 2409,
+      "downloads": 27042104,
+      "likes": 2412,
       "category": "research",
       "tags": [
         "Diffusion-single-file",
@@ -583,8 +582,8 @@
       "name": "t5-small",
       "owner": "Community",
       "fullName": "google-t5/t5-small",
-      "downloads": 24780329,
-      "likes": 684,
+      "downloads": 24892291,
+      "likes": 685,
       "category": "research",
       "tags": [
         "Translation",
@@ -599,8 +598,8 @@
       "name": "Qwen3-0.6B",
       "owner": "Community",
       "fullName": "Qwen/Qwen3-0.6B",
-      "downloads": 23833726,
-      "likes": 1850,
+      "downloads": 23729057,
+      "likes": 1851,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -614,6 +613,21 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-10-26",
+      "description": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust...",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "hotScore": 92,
+      "content": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust..."
+    },
+    {
+      "id": "fetch-gadget-1",
       "title": "The hottest AI wearables and gadgets you should know about",
       "source": "TechCrunch Gadgets",
       "date": "2026-10-25",
@@ -626,21 +640,6 @@
       "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
       "hotScore": 92,
       "content": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more...."
-    },
-    {
-      "id": "fetch-gadget-1",
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-10-23",
-      "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "hotScore": 96,
-      "content": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command...."
     },
     {
       "id": "fetch-gadget-fb1",
