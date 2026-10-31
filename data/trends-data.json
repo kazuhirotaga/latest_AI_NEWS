@@ -1,13 +1,30 @@
 {
-  "updatedAt": "2026-10-31T02:56:11.017Z",
+  "updatedAt": "2026-10-31T16:24:26.251Z",
   "githubProjects": [
+    {
+      "id": "fetch-repo-1209966933",
+      "name": "rea",
+      "owner": "morluto",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 414635,
+      "forks": 103713,
+      "language": "TypeScript",
+      "category": "agent",
+      "tags": [
+        "Agent-skills",
+        "Ai",
+        "Android"
+      ],
+      "url": "https://github.com/morluto/rea",
+      "hotScore": 100
+    },
     {
       "id": "fetch-repo-1103012935",
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 393492,
-      "forks": 82703,
+      "stars": 393542,
+      "forks": 82716,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -16,15 +33,15 @@
         "Crustacean"
       ],
       "url": "https://github.com/openclaw/openclaw",
-      "hotScore": 100
+      "hotScore": 98
     },
     {
       "id": "fetch-repo-1073224795",
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 309484,
-      "forks": 27538,
+      "stars": 309849,
+      "forks": 27560,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -33,15 +50,15 @@
         "Coding"
       ],
       "url": "https://github.com/obra/superpowers",
-      "hotScore": 98
+      "hotScore": 96
     },
     {
       "id": "fetch-repo-1024554267",
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 258907,
-      "forks": 56914,
+      "stars": 259093,
+      "forks": 56964,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -50,15 +67,15 @@
         "Ai-agents"
       ],
       "url": "https://github.com/NousResearch/hermes-agent",
-      "hotScore": 96
+      "hotScore": 94
     },
     {
       "id": "fetch-repo-193215554",
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 209154,
-      "forks": 61326,
+      "stars": 209200,
+      "forks": 61335,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -67,15 +84,15 @@
         "Automation"
       ],
       "url": "https://github.com/n8n-io/n8n",
-      "hotScore": 94
+      "hotScore": 92
     },
     {
       "id": "fetch-repo-787076358",
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "stars": 197143,
-      "forks": 10413,
+      "stars": 197316,
+      "forks": 10422,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -84,15 +101,15 @@
         "Ai-crawler"
       ],
       "url": "https://github.com/firecrawl/firecrawl",
-      "hotScore": 92
+      "hotScore": 90
     },
     {
       "id": "fetch-repo-614765452",
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187840,
-      "forks": 45909,
+      "stars": 187845,
+      "forks": 45905,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -101,15 +118,15 @@
         "Ai"
       ],
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "hotScore": 90
+      "hotScore": 88
     },
     {
       "id": "fetch-repo-574523116",
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 175312,
-      "forks": 22375,
+      "stars": 175409,
+      "forks": 22388,
       "language": "HTML",
       "category": "llm",
       "tags": [
@@ -118,15 +135,15 @@
         "Awesome-list"
       ],
       "url": "https://github.com/f/prompts.chat",
-      "hotScore": 88
+      "hotScore": 86
     },
     {
       "id": "fetch-repo-527591471",
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165186,
-      "forks": 32478,
+      "stars": 165198,
+      "forks": 32480,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -135,15 +152,15 @@
         "Deep-learning"
       ],
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "hotScore": 86
+      "hotScore": 84
     },
     {
       "id": "fetch-repo-626805178",
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 160037,
-      "forks": 25291,
+      "stars": 160090,
+      "forks": 25301,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -152,15 +169,15 @@
         "Agentic-framework"
       ],
       "url": "https://github.com/langgenius/dify",
-      "hotScore": 84
+      "hotScore": 82
     },
     {
       "id": "fetch-repo-132464395",
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 159354,
-      "forks": 46133,
+      "stars": 159363,
+      "forks": 46132,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -169,15 +186,15 @@
         "Context-engineering"
       ],
       "url": "https://github.com/Snailclimb/JavaGuide",
-      "hotScore": 82
+      "hotScore": 80
     },
     {
       "id": "fetch-repo-701547123",
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 157307,
-      "forks": 22882,
+      "stars": 157373,
+      "forks": 22884,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -186,15 +203,15 @@
         "Llm-ui"
       ],
       "url": "https://github.com/open-webui/open-webui",
-      "hotScore": 80
+      "hotScore": 78
     },
     {
       "id": "fetch-repo-552661142",
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 148745,
-      "forks": 24997,
+      "stars": 148769,
+      "forks": 25000,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -203,15 +220,15 @@
         "Ai-agents"
       ],
       "url": "https://github.com/langchain-ai/langchain",
-      "hotScore": 78
+      "hotScore": 76
     },
     {
       "id": "fetch-repo-943398999",
       "name": "system-prompts-and-models-of-ai-tools",
       "owner": "x1xhlol",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 144369,
-      "forks": 34705,
+      "stars": 144379,
+      "forks": 34702,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -220,15 +237,15 @@
         "Cluely"
       ],
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "hotScore": 76
+      "hotScore": 74
     },
     {
       "id": "fetch-repo-589831718",
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 144214,
-      "forks": 17125,
+      "stars": 144313,
+      "forks": 17151,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -237,23 +254,6 @@
         "Comfyui"
       ],
       "url": "https://github.com/Comfy-Org/ComfyUI",
-      "hotScore": 74
-    },
-    {
-      "id": "fetch-repo-1042367133",
-      "name": "spec-kit",
-      "owner": "github",
-      "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 144134,
-      "forks": 12919,
-      "language": "Python",
-      "category": "research",
-      "tags": [
-        "Ai",
-        "Copilot",
-        "Development"
-      ],
-      "url": "https://github.com/github/spec-kit",
       "hotScore": 72
     }
   ],
@@ -270,7 +270,7 @@
         "LLM"
       ],
       "url": "http://arxiv.org/abs/2610.40655v1",
-      "hotScore": 90,
+      "hotScore": 88,
       "content": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To diagnose these failures, we explore the design space of LLM data attribution, with a primary focus on evaluation. We introduce the Controlled Attribution Benchmark (CATT) for fact tracing, in which we fine-tune LLMs on entirely fictitious knowledge, providing unambiguous ground truth for attribution. This synthetic setup allows us to systematically alter one dataset configuration at a time, such as document redundancy and lexical distractors. With this configurable evaluation, we demonstrate that redundancy and distractors consistently degrade attribution performance. Rather than proposing a new estimator, we examine two design choices that are underexplored: the loss used to compute gradients and how per-token attribution scores are aggregated into a document score. We find that the true causal evidence within a training document is highly localized, but standard methods dilute this evidence into noise by averaging attribution scores across the entire document. We find that replacing standard cross-entropy loss gradients with the negative log-odds gradients surfaces the critical tokens from other uninformative ones. We can then aggregate only the top token scores to improve ground truth recall by 35 to 72 percentage points across multiple baselines on our diagnostic benchmark. The negative log-odds correction also generalizes to FTRACE-TREX, improving counterfactual retraining performance for every method we test, by up to 4.9x."
     },
     {
@@ -284,7 +284,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2610.40654v1",
-      "hotScore": 90,
+      "hotScore": 86,
       "content": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data would allow far less. Removing them first would restore the smaller scale, but the removal must itself be private. We introduce \\emph{propose-filter-release} (PFR), which, by privately filtering its input, turns a mechanism that protects the addition or removal of a typical record, one that fits the remaining data, into one that is differentially private in the standard sense, on every input. Using our novel filtering step, PFR requires only a concave friendliness score, which measures how well a record fits a dataset, and a release mechanism that is friendly-DP, that is, private when the changed record fits the remaining data. For every such score and release mechanism, it guarantees differential privacy under public conditions on the number of records, so it is a general privacy primitive, comparable to propose-test-release, and FriendlyCore can be viewed as one of its implementations. We illustrate the generality of PFR by instantiating it for scalar statistics, principal subspace estimation, the KL divergence of user histograms, the effective resistances of a graph, and treatment-rule selection."
     },
     {
@@ -299,7 +299,7 @@
         "LLM"
       ],
       "url": "http://arxiv.org/abs/2610.40649v1",
-      "hotScore": 82,
+      "hotScore": 92,
       "content": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen and adding a random bias to its output logits matches or exceeds full-weight perturbations on most reasoning tasks. This suggests an alternative explanation based on output diversity, validation-based selection, and voting. We formalize this view as Perturb-Select-Vote (PSV), a general procedure that generates perturbed predictors, selects high-performing members on a small validation set, and aggregates their predictions. This interpretation connects Neural Thickets to established inference-time methods, including sampling, self-consistency, and verifier-guided selection. A first-order analysis further shows that small weight perturbations act primarily through their induced logit shifts. We extend this analysis to vision, where logit PSV substantially improves performance under domain shift, including on Earth observation, while full-weight perturbations provide little additional benefit. Together, these results suggest that the gains attributed to nearby weight-space experts can instead be obtained through output diversity, selection, and voting. Logit PSV realizes these benefits with a fully frozen model, providing a simple, training-free alternative to full-weight perturbation ensembles across language and vision."
     },
     {
@@ -314,7 +314,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2610.40647v1",
-      "hotScore": 87,
+      "hotScore": 84,
       "content": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange, while high-frequency detail can be modeled locally. Based on this insight, we introduce SpecSlot, a pixel-space rectified-flow Transformer that decouples output detail from the length of the global attention sequence. SpecSlot expands each spatial anchor into multiple slots, each assigned a disjoint band of DCT coefficients; this separates anchor density from spectral subdivision. Only the lowest-frequency slot from each anchor participates in global attention, while all slots interact locally. This allows the model to increase spectral detail without enlarging the global sequence. A spatial head further adds a local correction to the spectral prediction, while the generative state, target, and loss remain in pixel space. On ImageNet-256, SpecSlot achieves a comparable final FID to a FLOPs-matched JiT control while converging faster. On ImageNet-512, it improves FID by 2.84 over the control with 3.9% fewer FLOPs, and comes within only 0.69 FID of JiT-B/16 at 38.2% lower cost. On text-to-image generation, SpecSlot surpasses JiT-B/8 on DPG-Bench by 1.06 at 40.6% lower forward cost."
     },
     {
@@ -329,7 +329,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2610.40644v1",
-      "hotScore": 82,
+      "hotScore": 90,
       "content": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record, including on realizations the data-generating process cannot produce, against which the decision is then hedged as well. We instead propose a Kullback-Leibler (KL) ball centered at a density model fitted to the record, the learned nominal, which lets the adversary up-weight costly unobserved realizations in proportion to the probability the model assigns them. Solving the resulting problem poses a second difficulty, because it can accommodate only a few scenarios, and an independent sample of that size is likely to omit the rare realizations on which the worst case concentrates. We therefore build the scenario set adaptively, alternating between solving the finite problem and drawing new realizations from the learned nominal, steered toward the worst case at the current decision, with importance weights that correct the draws back to the model. On a multi-item newsvendor problem and a capacity expansion problem on realistic grid data, centering the ball at the learned nominal rather than at the record lowers cost under distribution shift, at comparable in-distribution cost, when the record is scarce and the model class captures structure that lets it extrapolate beyond the record. The advantage fades as the record grows or as the shift departs from the structure the model has learned."
     },
     {
@@ -344,7 +344,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2610.40643v1",
-      "hotScore": 86,
+      "hotScore": 88,
       "content": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint camera views in complex environments such as airports, train stations and border crossing. While existing approaches primarily focus on appearance-based cropped image matching under relatively clean conditions, real-world scenarios are characterized by frequent occlusions, cluttered background and crowded scenes which significantly degrade performance. Yet, strategies leveraging the complementarity of multiple shots and views from different video streams is overlooked. In this paper, we study strategies for an end-to-end pipeline that operates from multiple video streams to detect and re-identify luggage. We evaluate different variants on a benchmark dataset acquired in real-world environments to address the questions of selecting and merging different views and shots of the same luggage as well as training on different environment datasets for an overall ReID performance improvement in practical applications."
     },
     {
@@ -359,7 +359,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2610.40641v1",
-      "hotScore": 83,
+      "hotScore": 88,
       "content": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many sources. We present WxCrop, the first agent that judges agricultural hazards from physically interpretable weather indices examined by causal analysis, and the first that combines weather and agricultural information to predict crop loss reliably for past and forecast dates. We demonstrate it in Florida on hurricanes, freezes and dry heat, with a loss model calibrated on insurance records for each, and the same procedure extends to other hazards and areas. Three checks show reliability: the hurricane index detects recorded cyclone days with an AUC of 0.98, recorded losses in held-out years are reproduced to within 2%, and independent production records confirm the county rankings (rank correlation 0.63). Users ask the agent for each crop group's loss as a fraction of expected season value, every number sourced, so that governments, growers and scientists respond to agricultural disasters quickly."
     },
     {
@@ -373,7 +373,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2610.40637v1",
-      "hotScore": 80,
+      "hotScore": 94,
       "content": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduce world2vec to learn mechanistic world models without reward information directly from observations and actions. World2vec learns latent dynamics that faithfully reproduce the true system over long prediction horizons, with at least one order of magnitude fewer parameters than DreamerV3, TD-MPC2 and LeWM. This enables state of the art performance in controlling continuous environments from pixels and accurate system identification across a benchmark of 71 attractors, demonstrating how world models are amenable to scientific discovery."
     },
     {
@@ -458,8 +458,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 186334547,
-      "likes": 6045,
+      "downloads": 185884304,
+      "likes": 6048,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -474,7 +474,7 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 68904195,
+      "downloads": 68613512,
       "likes": 437,
       "category": "research",
       "tags": [
@@ -490,8 +490,8 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 51350674,
-      "likes": 661,
+      "downloads": 51064443,
+      "likes": 662,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -506,7 +506,7 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 33435635,
+      "downloads": 31592858,
       "likes": 1495,
       "category": "llm",
       "tags": [
@@ -522,8 +522,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 30192732,
-      "likes": 3948,
+      "downloads": 30351006,
+      "likes": 3949,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -538,7 +538,7 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 29160167,
+      "downloads": 29830833,
       "likes": 3060,
       "category": "research",
       "tags": [
@@ -554,8 +554,8 @@
       "name": "MiniMax-H3",
       "owner": "Community",
       "fullName": "Comfy-Org/MiniMax-H3",
-      "downloads": 28838337,
-      "likes": 2456,
+      "downloads": 29589269,
+      "likes": 2463,
       "category": "research",
       "tags": [
         "Diffusion-single-file",
@@ -569,8 +569,8 @@
       "name": "gpt2",
       "owner": "Community",
       "fullName": "openai-community/gpt2",
-      "downloads": 25794572,
-      "likes": 3903,
+      "downloads": 27788286,
+      "likes": 3906,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -585,7 +585,7 @@
       "name": "t5-small",
       "owner": "Community",
       "fullName": "google-t5/t5-small",
-      "downloads": 24176863,
+      "downloads": 23978844,
       "likes": 686,
       "category": "research",
       "tags": [
@@ -601,8 +601,8 @@
       "name": "Qwen3-0.6B",
       "owner": "Community",
       "fullName": "Qwen/Qwen3-0.6B",
-      "downloads": 23941880,
-      "likes": 1862,
+      "downloads": 23843302,
+      "likes": 1863,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -614,21 +614,6 @@
     }
   ],
   "aiGadgets": [
-    {
-      "id": "fetch-gadget-0",
-      "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-10-30",
-      "description": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-      "hotScore": 86,
-      "content": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker...."
-    },
     {
       "id": "fetch-gadget-fb1",
       "title": "Ray-Ban Meta Glasses Add Real-time Translation",
