@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-01T17:18:29.802Z",
+  "updatedAt": "2026-11-02T02:57:38.157Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1209966933",
       "name": "rea",
       "owner": "morluto",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 417916,
-      "forks": 104425,
+      "stars": 419190,
+      "forks": 104714,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -23,7 +23,7 @@
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 393628,
+      "stars": 393648,
       "forks": 82732,
       "language": "TypeScript",
       "category": "research",
@@ -40,8 +40,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 310479,
-      "forks": 27628,
+      "stars": 310690,
+      "forks": 27652,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 259418,
-      "forks": 57071,
+      "stars": 259544,
+      "forks": 57117,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 209284,
-      "forks": 61344,
+      "stars": 209313,
+      "forks": 61350,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "stars": 197606,
-      "forks": 10440,
+      "stars": 197710,
+      "forks": 10446,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187854,
-      "forks": 45902,
+      "stars": 187860,
+      "forks": 45903,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 175501,
-      "forks": 22402,
+      "stars": 175553,
+      "forks": 22401,
       "language": "MDX",
       "category": "llm",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165212,
-      "forks": 31916,
+      "stars": 165216,
+      "forks": 31915,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 160163,
-      "forks": 25323,
+      "stars": 160181,
+      "forks": 25326,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 159369,
-      "forks": 46133,
+      "stars": 159372,
+      "forks": 46132,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 157463,
-      "forks": 22896,
+      "stars": 157490,
+      "forks": 22898,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 148823,
-      "forks": 25014,
+      "stars": 148848,
+      "forks": 25018,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 144828,
-      "forks": 12979,
+      "stars": 145056,
+      "forks": 12999,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 144459,
-      "forks": 17201,
+      "stars": 144513,
+      "forks": 17217,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,121 +260,148 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "Elucidating the Design Space of LM Data Attribution",
+      "title": "How Much Reconstruction Does Quantum Machine Learning Need? Late Fusion of Uncoupled Quantum Subcircuits",
       "source": "arXiv.org",
-      "date": "2026-10-29",
-      "description": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly wh...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2610.40655v1",
-      "hotScore": 80,
-      "content": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To diagnose these failures, we explore the design space of LLM data attribution, with a primary focus on evaluation. We introduce the Controlled Attribution Benchmark (CATT) for fact tracing, in which we fine-tune LLMs on entirely fictitious knowledge, providing unambiguous ground truth for attribution. This synthetic setup allows us to systematically alter one dataset configuration at a time, such as document redundancy and lexical distractors. With this configurable evaluation, we demonstrate that redundancy and distractors consistently degrade attribution performance. Rather than proposing a new estimator, we examine two design choices that are underexplored: the loss used to compute gradients and how per-token attribution scores are aggregated into a document score. We find that the true causal evidence within a training document is highly localized, but standard methods dilute this evidence into noise by averaging attribution scores across the entire document. We find that replacing standard cross-entropy loss gradients with the negative log-odds gradients surfaces the critical tokens from other uninformative ones. We can then aggregate only the top token scores to improve ground truth recall by 35 to 72 percentage points across multiple baselines on our diagnostic benchmark. The negative log-odds correction also generalizes to FTRACE-TREX, improving counterfactual retraining performance for every method we test, by up to 4.9x."
-    },
-    {
-      "id": "fetch-paper-1",
-      "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
-      "source": "arXiv.org",
-      "date": "2026-10-29",
-      "description": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate ...",
-      "category": "research",
+      "date": "2026-08-06",
+      "description": "Circuit cutting lets a large quantum neural network (QNN) run as independent subcircuits on small devices, but rebuilding its outputs by quasiprobability reconstruction carries a classical sampling overhead exponential in the number of cuts...",
+      "category": "tooling",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2610.40654v1",
-      "hotScore": 84,
-      "content": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data would allow far less. Removing them first would restore the smaller scale, but the removal must itself be private. We introduce \\emph{propose-filter-release} (PFR), which, by privately filtering its input, turns a mechanism that protects the addition or removal of a typical record, one that fits the remaining data, into one that is differentially private in the standard sense, on every input. Using our novel filtering step, PFR requires only a concave friendliness score, which measures how well a record fits a dataset, and a release mechanism that is friendly-DP, that is, private when the changed record fits the remaining data. For every such score and release mechanism, it guarantees differential privacy under public conditions on the number of records, so it is a general privacy primitive, comparable to propose-test-release, and FriendlyCore can be viewed as one of its implementations. We illustrate the generality of PFR by instantiating it for scalar statistics, principal subspace estimation, the KL divergence of user histograms, the effective resistances of a graph, and treatment-rule selection."
+      "url": "http://arxiv.org/abs/2608.05595v2",
+      "hotScore": 80,
+      "content": "Circuit cutting lets a large quantum neural network (QNN) run as independent subcircuits on small devices, but rebuilding its outputs by quasiprobability reconstruction carries a classical sampling overhead exponential in the number of cuts. This paper asks whether machine-learning tasks need this step. We replace it with late fusion: subcircuits are trained without cross-cut coupling, and a small classical head combines their local measurements at a cost constant in the cut count. To characterize the trade-off, we introduce a reconstruction dial $Q$, a physically executable budget that retains a fraction of the quasiprobability terms, and a cut-entanglement diagnostic that indicates, within a fixed scale, how much reconstruction a task needs (Spearman $ρ=0.59$ over $104$ runs). Across synthetic and standard datasets, uncoupled late fusion is equivalent to full reconstruction within a predefined margin of $0.02$ accuracy on most benchmarks and pooled over the controlled sweep, at exponentially lower cost; deficits of $0.02$-$0.04$ remain on the most cross-cut tasks. Fusion tops the dial's accuracy/cost frontier, is more robust to shot and device noise, and loses nothing as the coupled model's entangling depth grows. We state the exact condition under which fusion must lose accuracy, a decision-relevant cross-cut correlator, and realize it with entangled-state inputs; for classical inputs the register partition discards no information. We claim no advantage over classical machine learning."
     },
     {
-      "id": "fetch-paper-2",
-      "title": "Rethinking Neural Thickets Without Weight Perturbations",
+      "id": "fetch-paper-1",
+      "title": "From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?",
       "source": "arXiv.org",
-      "date": "2026-10-29",
-      "description": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they ...",
-      "category": "llm",
-      "tags": [
-        "Research",
-        "LLM"
-      ],
-      "url": "http://arxiv.org/abs/2610.40649v1",
-      "hotScore": 81,
-      "content": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen and adding a random bias to its output logits matches or exceeds full-weight perturbations on most reasoning tasks. This suggests an alternative explanation based on output diversity, validation-based selection, and voting. We formalize this view as Perturb-Select-Vote (PSV), a general procedure that generates perturbed predictors, selects high-performing members on a small validation set, and aggregates their predictions. This interpretation connects Neural Thickets to established inference-time methods, including sampling, self-consistency, and verifier-guided selection. A first-order analysis further shows that small weight perturbations act primarily through their induced logit shifts. We extend this analysis to vision, where logit PSV substantially improves performance under domain shift, including on Earth observation, while full-weight perturbations provide little additional benefit. Together, these results suggest that the gains attributed to nearby weight-space experts can instead be obtained through output diversity, selection, and voting. Logit PSV realizes these benefits with a fully frozen model, providing a simple, training-free alternative to full-weight perturbation ensembles across language and vision."
-    },
-    {
-      "id": "fetch-paper-3",
-      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-      "source": "arXiv.org",
-      "date": "2026-10-29",
-      "description": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more gl...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2610.40647v1",
-      "hotScore": 88,
-      "content": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange, while high-frequency detail can be modeled locally. Based on this insight, we introduce SpecSlot, a pixel-space rectified-flow Transformer that decouples output detail from the length of the global attention sequence. SpecSlot expands each spatial anchor into multiple slots, each assigned a disjoint band of DCT coefficients; this separates anchor density from spectral subdivision. Only the lowest-frequency slot from each anchor participates in global attention, while all slots interact locally. This allows the model to increase spectral detail without enlarging the global sequence. A spatial head further adds a local correction to the spectral prediction, while the generative state, target, and loss remain in pixel space. On ImageNet-256, SpecSlot achieves a comparable final FID to a FLOPs-matched JiT control while converging faster. On ImageNet-512, it improves FID by 2.84 over the control with 3.9% fewer FLOPs, and comes within only 0.69 FID of JiT-B/16 at 38.2% lower cost. On text-to-image generation, SpecSlot surpasses JiT-B/8 on DPG-Bench by 1.06 at 40.6% lower forward cost."
-    },
-    {
-      "id": "fetch-paper-4",
-      "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
-      "source": "arXiv.org",
-      "date": "2026-10-29",
-      "description": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2610.40644v1",
-      "hotScore": 82,
-      "content": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record, including on realizations the data-generating process cannot produce, against which the decision is then hedged as well. We instead propose a Kullback-Leibler (KL) ball centered at a density model fitted to the record, the learned nominal, which lets the adversary up-weight costly unobserved realizations in proportion to the probability the model assigns them. Solving the resulting problem poses a second difficulty, because it can accommodate only a few scenarios, and an independent sample of that size is likely to omit the rare realizations on which the worst case concentrates. We therefore build the scenario set adaptively, alternating between solving the finite problem and drawing new realizations from the learned nominal, steered toward the worst case at the current decision, with importance weights that correct the draws back to the model. On a multi-item newsvendor problem and a capacity expansion problem on realistic grid data, centering the ball at the learned nominal rather than at the record lowers cost under distribution shift, at comparable in-distribution cost, when the record is scarce and the model class captures structure that lets it extrapolate beyond the record. The advantage fades as the record grows or as the shift departs from the structure the model has learned."
-    },
-    {
-      "id": "fetch-paper-5",
-      "title": "Luggage re-identification: A study of strategies towards a real-world application",
-      "source": "arXiv.org",
-      "date": "2026-10-29",
-      "description": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the asso...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2610.40643v1",
-      "hotScore": 81,
-      "content": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint camera views in complex environments such as airports, train stations and border crossing. While existing approaches primarily focus on appearance-based cropped image matching under relatively clean conditions, real-world scenarios are characterized by frequent occlusions, cluttered background and crowded scenes which significantly degrade performance. Yet, strategies leveraging the complementarity of multiple shots and views from different video streams is overlooked. In this paper, we study strategies for an end-to-end pipeline that operates from multiple video streams to detect and re-identify luggage. We evaluate different variants on a benchmark dataset acquired in real-world environments to address the questions of selecting and merging different views and shots of the same luggage as well as training on different environment datasets for an overall ReID performance improvement in practical applications."
-    },
-    {
-      "id": "fetch-paper-6",
-      "title": "From extreme weather to agricultural consequences with agentic AI",
-      "source": "arXiv.org",
-      "date": "2026-10-29",
-      "description": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many so...",
+      "date": "2026-10-30",
+      "description": "Turning an engineering request into a simulation requires consistent geometry, physics, boundary conditions, and numerical settings. Recent agent-assisted systems automate simulation setup, but successful execution alone does not establish ...",
       "category": "agent",
       "tags": [
         "Research",
         "Agent"
       ],
-      "url": "http://arxiv.org/abs/2610.40641v1",
-      "hotScore": 93,
-      "content": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many sources. We present WxCrop, the first agent that judges agricultural hazards from physically interpretable weather indices examined by causal analysis, and the first that combines weather and agricultural information to predict crop loss reliably for past and forecast dates. We demonstrate it in Florida on hurricanes, freezes and dry heat, with a loss model calibrated on insurance records for each, and the same procedure extends to other hazards and areas. Three checks show reliability: the hurricane index detects recorded cyclone days with an AUC of 0.98, recorded losses in held-out years are reproduced to within 2%, and independent production records confirm the county rankings (rank correlation 0.63). Users ask the agent for each crop group's loss as a fraction of expected season value, every number sourced, so that governments, growers and scientists respond to agricultural disasters quickly."
+      "url": "http://arxiv.org/abs/2610.41267v1",
+      "hotScore": 84,
+      "content": "Turning an engineering request into a simulation requires consistent geometry, physics, boundary conditions, and numerical settings. Recent agent-assisted systems automate simulation setup, but successful execution alone does not establish whether the specification preserves the intended problem or correctly handles missing information. We study whether agents can reliably construct complete executable JSON specifications for automated geometry creation, meshing, PDE solving, and result export. Our workflow combines model extraction with deterministic scientific and capability checks, explicit clarification, and validated local patches that preserve unrelated accepted fields. We evaluate specification correctness, execution completion, and numerical verification separately. On 120 template-related requests, the full workflow achieves 98.3% correct first-turn specification and decision outcomes, compared with 92.5% for schema-assisted single shot and 82.5% for model-only: gains of 5.8 and 15.8 percentage points, respectively. It makes no false-ready decisions among the 42 requests requiring clarification or rejection. Component ablations identify contributions from scientific checks and conditional repair. Separate downstream studies cover 1D, 2D, and 3D steady and unsteady, linear and nonlinear problems, including flow and elasticity with complex three-dimensional wing geometries. A 30-case gallery demonstrates automated execution from retained JSON specifications, while 9 of 12 selected live user-to-results tests achieve joint specification, execution, export, and numerical-reference success (75.0%). These results support traceable, engineer-reviewed simulation assistance within the tested scope, while fresh-response regressions identify consistency as a priority for further improvement."
     },
     {
-      "id": "fetch-paper-7",
-      "title": "world2vec: Mechanistic world models through latent dynamics learning",
+      "id": "fetch-paper-2",
+      "title": "Rome Wasn't Built in One Turn: Replay-Grounded Reward Signals for Long-Horizon Freeciv Agents",
       "source": "arXiv.org",
-      "date": "2026-10-29",
-      "description": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduce world2vec to learn me...",
+      "date": "2026-10-30",
+      "description": "Training language-model agents to play long-horizon strategy games is hard because deterministic feedback is sparse and often arrives only at the end of a game. In-game scores can offer dense signals, but they do not reliably predict future...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2610.41264v1",
+      "hotScore": 90,
+      "content": "Training language-model agents to play long-horizon strategy games is hard because deterministic feedback is sparse and often arrives only at the end of a game. In-game scores can offer dense signals, but they do not reliably predict future outcomes: in 8-68% of position pairs across eight strategy games, the higher-scoring position leads to the worse outcome. We term this phenomenon scoreboard traps. In Freeciv, an open-source turn-based empire-building game where several players manage units, cities, and diplomacy over hundreds of turns, we look into better reward signals for gameplay agents. To facilitate this, we build CivHarness, an open system that saves current game states, branches on different decisions, and replays the game to future turns to provide measurable long-horizon feedback from saved positions. We use CivHarness to train CivTelescope, an LLM Judge that predicts which one of two game positions will yield the better outcome. On scoreboard-trap pairs, CivTelescope is 1.3-2.0 times more accurate than off-the-shelf language models, and it generalizes to new game starts, later turns, and unseen rules. We then train a Freeciv gameplay agent with CivTelescope as a dense reward, and call this recipe CivMarshmallow. When used in the middle stage of the game where scoreboard traps are common, CivMarshmallow reaches an average training phase gain of 8.94 points, 77% more than the best baseline, the end-of-game reward. Over the full 120-turn game, CivMarshmallow uses a hybrid reward that starts from the scoreboard or the end-of-game reward and shifts to CivTelescope as the game advances; this hybrid reward scores highest among the rewards we compare."
+    },
+    {
+      "id": "fetch-paper-3",
+      "title": "Accelerating Min-Max Optimization via Power-Law Stepsizes",
+      "source": "arXiv.org",
+      "date": "2026-06-01",
+      "description": "We revisit the convergence guarantees of the Extragradient (EG) method for unconstrained biaffine min-max optimization. It is known that EG with a fixed stepsize achieves a $Θ(T^{-1/2})$ last-iterate convergence rate, which is slower than t...",
+      "category": "research",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2606.01764v2",
+      "hotScore": 85,
+      "content": "We revisit the convergence guarantees of the Extragradient (EG) method for unconstrained biaffine min-max optimization. It is known that EG with a fixed stepsize achieves a $Θ(T^{-1/2})$ last-iterate convergence rate, which is slower than the optimal $\\mathcal{O}(T^{-1})$ rate attainable by incorporating additional mechanisms such as anchoring. Motivated by recent advances showing that dynamic stepsizes alone can significantly accelerate gradient descent, we ask whether dynamic stepsizes can similarly accelerate the last-iterate convergence of EG. We present the first positive result in this direction. Specifically, we provide a deterministic dynamic stepsize schedule that accelerates the convergence rate of EG to $\\mathcal{O}(T^{-2/3+\\varepsilon})$ for any $\\varepsilon &gt; 0$. We also show that this rate is nearly tight when the extrapolation and update steps of EG use the same stepsize. We then show that allowing different stepsizes for the extrapolation and update steps further improves the convergence rate to the near-optimal $\\mathcal{O}(T^{-1+\\varepsilon})$. Our analysis reduces stepsize scheduling to an optimization problem, whose solution leads to a stepsize schedule that follows (a discretization of) a power-law distribution. Our proposed stepsize schedules and analysis extend to other methods, such as Optimistic Gradient (OG), and suggest broader applicability to general min-max optimization problems."
+    },
+    {
+      "id": "fetch-paper-4",
+      "title": "Free energy landscape of Dense Associative Memory",
+      "source": "arXiv.org",
+      "date": "2026-07-21",
+      "description": "Using large deviations theory, we solve and obtain a general expression for the free energy functional for a broad class of associative memories, including dense associative memories. We illustrate the method by reproducing classical result...",
       "category": "tooling",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2610.40637v1",
-      "hotScore": 91,
-      "content": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduce world2vec to learn mechanistic world models without reward information directly from observations and actions. World2vec learns latent dynamics that faithfully reproduce the true system over long prediction horizons, with at least one order of magnitude fewer parameters than DreamerV3, TD-MPC2 and LeWM. This enables state of the art performance in controlling continuous environments from pixels and accurate system identification across a benchmark of 71 attractors, demonstrating how world models are amenable to scientific discovery."
+      "url": "http://arxiv.org/abs/2607.19195v3",
+      "hotScore": 87,
+      "content": "Using large deviations theory, we solve and obtain a general expression for the free energy functional for a broad class of associative memories, including dense associative memories. We illustrate the method by reproducing classical results for the Hopfield model. For a finite number of patterns, we derive the temperature-dependent free energy functional for dense associative memories featuring polynomial interactions and Log-Sum-Exponential (LSE) activation. We also obtain the disorder-averaged ground-state energy landscape of these systems in the extensive limit. Our analytical framework reveals how memory retrieval depends on the initial state in higher-order dense networks, and gives the exact error-free threshold for the LSE model. This method provides a systematic procedure for analyzing diverse, complex architectures in associative memory."
+    },
+    {
+      "id": "fetch-paper-5",
+      "title": "A Theory-guided Weighted $L^2$ Loss for solving the BGK model via Physics-informed neural networks",
+      "source": "arXiv.org",
+      "date": "2026-04-04",
+      "description": "While Physics-Informed Neural Networks offer a promising framework for solving partial differential equations, the standard $L^2$ loss formulation is fundamentally insufficient when applied to the Bhatnagar-Gross-Krook (BGK) model. Specific...",
+      "category": "tooling",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2604.04971v2",
+      "hotScore": 84,
+      "content": "While Physics-Informed Neural Networks offer a promising framework for solving partial differential equations, the standard $L^2$ loss formulation is fundamentally insufficient when applied to the Bhatnagar-Gross-Krook (BGK) model. Specifically, simply minimizing the standard loss does not guarantee accurate predictions of the macroscopic moments, causing the approximate solutions to fail in capturing the true physical solution. To overcome this limitation, we introduce a velocity-weighted $L^2$ loss function designed to effectively penalize errors in the high-velocity regions. By establishing a stability estimate for the proposed approach, we shows that minimizing the proposed weighted loss guarantees the convergence of the approximate solution. Also, numerical experiments demonstrate that employing this weighted PINN loss leads to superior accuracy and robustness across various benchmarks compared to the standard approach."
+    },
+    {
+      "id": "fetch-paper-6",
+      "title": "MEMIG: Self-evolving Memory Construction for Antibody Optimization",
+      "source": "arXiv.org",
+      "date": "2026-10-30",
+      "description": "Memory has become central to self-evolving LLM agents, which store and retrieve experience from past rollouts to guide future decisions. Existing systems represent this experience as free-form natural language and maintain it by rewriting, ...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2610.41245v1",
+      "hotScore": 93,
+      "content": "Memory has become central to self-evolving LLM agents, which store and retrieve experience from past rollouts to guide future decisions. Existing systems represent this experience as free-form natural language and maintain it by rewriting, which fits tasks whose experience is narratable. However, in scientific discovery and optimization, experience is often a quantity measured by an oracle under a specific context. Rewriting it as text leaves no index for where a record should be, replaces a measurement with a description, and cannot express how interventions interact. To address this, we argue that agent memory for biomolecule optimization should instead be indexable, quantitative, and structured, and we introduce MEMIG. This memory construction framework realizes these three properties. In detail, MEMIG addresses each insight with a domain-grounded identifier and accumulates the quantitative effect measured by a property oracle, so that updates remain local and retrieval becomes an exact lookup. Next, MEMIG connects insights whose interventions are applied together and measures their epistasis by decomposing each evaluated set. Our results show that MEMIG improves performance in most settings across in silico antibody optimization tasks."
+    },
+    {
+      "id": "fetch-paper-7",
+      "title": "A Unified Framework for Probability Estimation of Data-Dependent Events",
+      "source": "arXiv.org",
+      "date": "2026-10-30",
+      "description": "We study the general problem of estimating $D(\\dde(S))$, the probability that an unknown distribution $D$ assigns to an event determined by a sample $S$ of $n$ i.i.d.\\ draws from $D$ through a known mapping $\\dde$. The estimation algorithm ...",
+      "category": "tooling",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2610.41244v1",
+      "hotScore": 86,
+      "content": "We study the general problem of estimating $D(\\dde(S))$, the probability that an unknown distribution $D$ assigns to an event determined by a sample $S$ of $n$ i.i.d.\\ draws from $D$ through a known mapping $\\dde$. The estimation algorithm knows $\\dde$ and $S$ but does not have access to any additional samples from $D$. This formulation captures classical missing mass, the data-dependent targets of adaptive data analysis and post-selection inference, and the test error of a data-trained predictor, whose estimation was recently studied by \\new{Gastpar et al.\\ (2024a,b)}. Within this framework we examine the two classical approaches to estimation. The error of the empirical plug-in estimator is exactly a generalization gap, so generalization bounds transfer to it directly. The leave-one-out estimator, which recovers the Good--Turing estimator, is accurate for every mapping that is stable under the deletion of one sample point, including new structured examples such as neighborhoods of the sample and pierced sets. The main application of our framework is to error estimation for a predictor that combines a base classifier with memorized exceptions, a structure common in theory and in practice. For it, the test error is exactly the missing mass restricted to the error region of the base classifier, a region selected by the same sample. We formulate the general problem of \\emph{adaptive missing mass estimation} to address such dependence and propose a natural hybrid estimator, the Good--Turing estimator restricted to the selected region. We show that the generalization of the base classifier alone does not guarantee the accuracy of this estimator, and derive two bounds on its error: the first one based on the VC dimension of possible error regions and another based on the mutual information of the selected region with the sample."
+    },
+    {
+      "id": "fetch-hf-2610.40748",
+      "title": "WorldBridge: Bridging Video and Action for Task Generalization in World Action Models",
+      "source": "Hugging Face Daily",
+      "date": "2026-10-28",
+      "description": "Achieving the broad task generalization of embodied models in physical environments remains a central challenge in robot learning. We study this challenge in World Action Models (WAMs) through two complementary capabilities: video generaliz...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2610.40748",
+      "hotScore": 90,
+      "content": "Achieving the broad task generalization of embodied models in physical environments remains a central challenge in robot learning. We study this challenge in World Action Models (WAMs) through two complementary capabilities: video generalization, which predicts the visual evolution of new tasks, and action generalization, which translates these predictions into executable behavior through a video-to-action bridge. By varying video and action supervision for tasks outside an initial training set, we examine their respective contributions to task transfer. On RoboTwin 2.0, using only in-distribution video-action supervision yields a 25.07% success rate on out-of-distribution tasks. Introducing videos of these tasks without their action labels raises success to 55.90%, while adding just one action-labeled demonstration per task further improves it to 70.70%. These findings suggest that broader video coverage enables task transfer by leveraging existing inverse-dynamics capabilities, while even sparse action supervision further strengthens those capabilities. Guided by this perspective, we introduce WorldBridge, a WAM with separate video and action experts connected through structured attention and trained with joint flow matching. WorldBridge incorporates visual memory at two temporal scales and action forcing, alongside a unified data processing pipeline that standardizes and filters heterogeneous robot trajectories and egocentric hand-derived supervision. Across multiple manipulation benchmarks, WorldBridge achieves state-of-the-art performance among the compared methods, including 96.23% on RoboTwin 2.0 full data setting and 80.9% on clean to random setting, 82.8% on RoboCasa GR1 TableTop, and 57.6% on DOMINO Level-1. Our study highlights the complementary roles of video prediction and action grounding in developing robots that generalize across tasks."
+    },
+    {
+      "id": "fetch-hf-2610.40373",
+      "title": "HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model",
+      "source": "Hugging Face Daily",
+      "date": "2026-10-28",
+      "description": "Vision-Language-Action (VLA) models have demonstrated promising capabilities in robotic manipulation by integrating visual perception, language understanding, and action generation. Recent advances have further incorporated future predictio...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2610.40373",
+      "hotScore": 89,
+      "content": "Vision-Language-Action (VLA) models have demonstrated promising capabilities in robotic manipulation by integrating visual perception, language understanding, and action generation. Recent advances have further incorporated future prediction to enhance the understanding of environmental dynamics and task progression. However, existing methods often model short-term dynamics and long-term task objectives separately, while directly incorporating predicted futures into action policies without sufficiently considering their relevance to current action requirements. To address these limitations, we propose HiFOR, a hierarchical foresight framework with action-guided world retrieval. Specifically, Hierarchical Foresight Prediction jointly predicts short-term state evolution, semantic milestones, and final goal states through a Hierarchical Dependency Mask (HDM), establishing dependencies across temporal horizons. Building upon these predictions, Structure-Aware Latent World Modeling organizes future latent representations along the horizon, view, and spatial dimensions to facilitate fine-grained retrieval. Furthermore, Action-Guided Factorized World Retrieval adaptively retrieves relevant future information from the structured latent world based on evolving action representations during denoising, providing targeted guidance for action generation. Extensive experiments on two simulation benchmarks and six real-world robotic manipulation tasks demonstrate the effectiveness of our approach."
     },
     {
       "id": "fetch-hf-2610.38293",
@@ -388,7 +415,7 @@
         "Paper"
       ],
       "url": "https://huggingface.co/papers/2610.38293",
-      "hotScore": 90,
+      "hotScore": 88,
       "content": "Quarterly earnings forecasting requires an agent to connect financial evidence to the income-statement line items that produce a company's reported earnings. We introduce EPSBench, a benchmark for studying this ability across 149 firm-quarters from 86 US companies. Agents read a fixed collection of filings, earnings-call transcripts, and news, then estimate company-specific income-statement drivers with cited evidence. A shared accounting calculator converts these estimates into GAAP diluted earnings per share (EPS), providing a common basis for comparing forecast assumptions. We evaluate six models under a common harness, assessing point forecast error relative to date-matched analyst consensus and checking whether their prediction intervals achieve the stated coverage. Three models show no detectable paired difference in point forecast error from consensus, and three have higher error. Across all six models, nominal 80% intervals contain reported EPS in only 37--70% of runs that return an interval, and most misses fall above the upper bound because the forecasts run low. The driver records trace most of the error gap between models to operating-income estimates."
     },
     {
@@ -403,7 +430,7 @@
         "Paper"
       ],
       "url": "https://huggingface.co/papers/2610.38681",
-      "hotScore": 89,
+      "hotScore": 87,
       "content": "Self-distillation offers a way to improve reasoning models when a suitable external teacher is unavailable. However, common approaches rely on privileged information to construct a stronger self-teacher, limiting their use when only unlabeled prompts are available. In this paper, we introduce Weakening-Induced On-Policy Self-Distillation (WISD), which instead constructs a weaker counterpart of the original model and uses the contrast between the two as a training signal without requiring privileged information. We explore two ways to construct the weaker model: low-bit quantization and magnitude pruning. We evaluate WISD across diverse architectures and scales on mathematical and coding reasoning tasks. Across these benchmarks, quantization and pruning improve average accuracy over the original models by 4.0 and 5.5 percentage points, respectively, achieving state-of-the-art performance even without privileged information. Notably, pruning raises Qwen3.5-4B's accuracy from 57.7% to 70.5% on HMMT 2025 and from 39.1% to 56.7% on LiveCodeBench v6. Quantization raises Qwen3.6-35B-A3B's accuracy from 68.5% to 74.6% and from 61.8% to 69.5% on the same benchmarks, respectively. These results establish WISD as a novel and effective self-distillation framework for large reasoning models."
     },
     {
@@ -418,38 +445,8 @@
         "Paper"
       ],
       "url": "https://huggingface.co/papers/2610.39293",
-      "hotScore": 88,
-      "content": "Autoregressive (AR) image generators are powerful in principle but inflexible in practice: training with a fixed raster-scan order hardcodes a single factorization of the image distribution into the model, leaving it unable to inpaint, outpaint, or edit at inference time. Existing solutions, including the modern discrete-diffusion family, train from scratch on a mixture of token orderings, paying roughly 3x the compute of standard raster-scan training; discrete diffusion further sacrifices compatibility with the AR inference ecosystem (KV caching, vLLM) by construction. We argue that this cost is unnecessary. A pretrained raster-scan AR model has already learned the joint distribution over image tokens; what it lacks is not knowledge but the ability to express that knowledge through non-sequential conditional pathways. We propose a recipe for adapting pretrained raster-scan models into any-order generators using two components: future-aware positional embeddings that resolve a target-position identifiability problem at negligible overhead, and an ordering curriculum that traces a stable optimization path from the pretrained solution to a good any-order basin. Applied to four base models across two architectures and two scales (LlamaGen-L/XL, RAR-L/XL), the recipe substantially outperforms MaskGIT on ImageNet inpainting (FID 6.21 vs. 10.44) and outpainting, is competitive with MAR-L, trades a 1.2-1.9 increase in class-conditional FID for this flexibility, and costs 13-33% additional compute beyond pretraining, while leaving the standard AR inference stack untouched. Inpainting, outpainting, and editing, our results suggest, need not be added to autoregressive image models. They can be unlocked from the ones that exist. Code is available at https://github.com/Ordered-AR/unlockedadaptation."
-    },
-    {
-      "id": "fetch-hf-2610.34298",
-      "title": "Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents",
-      "source": "Hugging Face Daily",
-      "date": "2026-10-24",
-      "description": "Language agents increasingly act through external tools and interactive environments, making the interface between the model and its executable capabilities part of the decision process. Model Context Protocol (MCP) and command-line interfa...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2610.34298",
-      "hotScore": 87,
-      "content": "Language agents increasingly act through external tools and interactive environments, making the interface between the model and its executable capabilities part of the decision process. Model Context Protocol (MCP) and command-line interfaces (CLI) can expose the same semantic operations through markedly different model-facing representations. We study whether these representational differences change agent behavior when executable capabilities are matched. We introduce Matched Interface Comparison and Analysis (MICA), which renders MCP and CLI from a shared semantic action contract and routes decoded actions through the same runtime. Across six models and three interactive environments, matched interfaces produce substantial differences in task performance and interaction cost. These effects extend beyond surface validity to semantic action selection, failure pathways, and recovery. Matched-state probes localize sensitivity to capability presentation, realization, and feedback. Paired natural trajectories reveal structured divergence in 94.3% of 2,004 episodes and show that early differences propagate through subsequent interaction. This analysis identifies interface realization as a direct intervention boundary. We therefore introduce Decoupled Action Realization and Targeted Repair (DART), which preserves validated semantic commitments while repairing interface-specific realization. DART improves benchmark score in all six evaluated settings by up to 9.0 points and reduces MCP token cost in all three environments by up to 27.1k tokens per task. Together, these results establish interface representation as part of the closed-loop decision environment shaping agent behavior."
-    },
-    {
-      "id": "fetch-hf-2609.05881",
-      "title": "Broken on Arrival: Non-Functional Quantized LLM Artifacts in Public Model Registries and How to Catch Them",
-      "source": "Hugging Face Daily",
-      "date": "2026-10-24",
-      "description": "Developers download quantized large language models (LLMs) from public registries to run them locally. None of the registries we examined documented functional testing of their files. We tested all 305 eligible code-capable GGUF tags (the l...",
-      "category": "llm",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2609.05881",
       "hotScore": 86,
-      "content": "Developers download quantized large language models (LLMs) from public registries to run them locally. None of the registries we examined documented functional testing of their files. We tested all 305 eligible code-capable GGUF tags (the llama.cpp format) across 15 model lines in the official Ollama library, plus 22 popular Hugging Face community files. A 15-task code screen identified suspects, which we retested on all 164 HumanEval+ tasks. Seven official tags (2.3%) solved at most six of them. All were low-bit quantizations of models with at most four billion parameters. We rebuilt five suspect files from the original weights. All five registry files matched our uncalibrated rebuilds tensor for tensor, so none was corrupted. Exact reproducibility did not imply function. With the weights, toolchain and tensor mix held fixed, adding an importance matrix raised three Qwen2.5-Coder-3B builds from zero to 76-113 solved tasks. The same uncalibrated recipe left the smaller Qwen2.5-Coder-1.5B functional, showing that the recipe alone does not predict failure. None of 66 sampled tags that passed the screen was non-functional. We release the audit data and the quantcheck tool and recommend screening low-bit tags before publication, then calibrating or withholding failures."
+      "content": "Autoregressive (AR) image generators are powerful in principle but inflexible in practice: training with a fixed raster-scan order hardcodes a single factorization of the image distribution into the model, leaving it unable to inpaint, outpaint, or edit at inference time. Existing solutions, including the modern discrete-diffusion family, train from scratch on a mixture of token orderings, paying roughly 3x the compute of standard raster-scan training; discrete diffusion further sacrifices compatibility with the AR inference ecosystem (KV caching, vLLM) by construction. We argue that this cost is unnecessary. A pretrained raster-scan AR model has already learned the joint distribution over image tokens; what it lacks is not knowledge but the ability to express that knowledge through non-sequential conditional pathways. We propose a recipe for adapting pretrained raster-scan models into any-order generators using two components: future-aware positional embeddings that resolve a target-position identifiability problem at negligible overhead, and an ordering curriculum that traces a stable optimization path from the pretrained solution to a good any-order basin. Applied to four base models across two architectures and two scales (LlamaGen-L/XL, RAR-L/XL), the recipe substantially outperforms MaskGIT on ImageNet inpainting (FID 6.21 vs. 10.44) and outpainting, is competitive with MAR-L, trades a 1.2-1.9 increase in class-conditional FID for this flexibility, and costs 13-33% additional compute beyond pretraining, while leaving the standard AR inference stack untouched. Inpainting, outpainting, and editing, our results suggest, need not be added to autoregressive image models. They can be unlocked from the ones that exist. Code is available at https://github.com/Ordered-AR/unlockedadaptation."
     }
   ],
   "hfModels": [
@@ -459,7 +456,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 183847521,
-      "likes": 6050,
+      "likes": 6051,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -507,7 +504,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
       "downloads": 30268327,
-      "likes": 3957,
+      "likes": 3958,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -523,7 +520,7 @@
       "owner": "Community",
       "fullName": "Comfy-Org/MiniMax-H3",
       "downloads": 30246865,
-      "likes": 2475,
+      "likes": 2476,
       "category": "research",
       "tags": [
         "Diffusion-single-file",
@@ -618,7 +615,7 @@
       "id": "fetch-gadget-fb1",
       "title": "Ray-Ban Meta Glasses Add Real-time Translation",
       "source": "Meta Hardware",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "description": "Meta's popular smart glasses now feature real-time audio translation and multimodal AI search that understands the world around you.",
       "category": "image",
       "tags": [
@@ -633,7 +630,7 @@
       "id": "fetch-gadget-fb2",
       "title": "Humane Launches AI Pin 2.0 with Screen Projection",
       "source": "Humane News",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "description": "Humane introduced a new version of its AI Pin featuring a brighter laser ink projection, faster responses, and offline LLM capabilities.",
       "category": "tooling",
       "tags": [
