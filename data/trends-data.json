@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-03T04:16:08.347Z",
+  "updatedAt": "2026-11-03T18:43:58.301Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1209966933",
       "name": "rea",
       "owner": "morluto",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 423572,
-      "forks": 105594,
+      "stars": 426323,
+      "forks": 106156,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 393760,
-      "forks": 82762,
+      "stars": 393844,
+      "forks": 82788,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 311330,
-      "forks": 27704,
+      "stars": 311751,
+      "forks": 27737,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 259921,
-      "forks": 57236,
+      "stars": 260192,
+      "forks": 57340,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 209412,
-      "forks": 61358,
+      "stars": 209453,
+      "forks": 61370,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "stars": 198057,
-      "forks": 10462,
+      "stars": 198260,
+      "forks": 10473,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187884,
-      "forks": 45905,
+      "stars": 187885,
+      "forks": 45902,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 175643,
-      "forks": 22415,
+      "stars": 175709,
+      "forks": 22424,
       "language": "MDX",
       "category": "llm",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165231,
-      "forks": 31920,
+      "stars": 165235,
+      "forks": 31926,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 160279,
-      "forks": 25343,
+      "stars": 160331,
+      "forks": 25363,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -175,8 +175,8 @@
       "id": "fetch-repo-132464395",
       "name": "JavaGuide",
       "owner": "Snailclimb",
-      "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 159393,
+      "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础��数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "stars": 159406,
       "forks": 46132,
       "language": "JavaScript",
       "category": "research",
@@ -193,9 +193,9 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 157600,
-      "forks": 22933,
-      "language": "Python",
+      "stars": 157664,
+      "forks": 22938,
+      "language": "Svelte",
       "category": "llm",
       "tags": [
         "Ai",
@@ -210,8 +210,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 148919,
-      "forks": 25036,
+      "stars": 148950,
+      "forks": 25053,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 145692,
-      "forks": 13066,
+      "stars": 146513,
+      "forks": 13139,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 144699,
-      "forks": 17247,
+      "stars": 144840,
+      "forks": 17240,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,196 +260,197 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "MIRA: Mutual Information guided calibration for Reliable Test-Time Adaptation",
+      "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
       "source": "arXiv.org",
-      "date": "2026-11-01",
-      "description": "Test-time adaptation (TTA) updates a deployed model using only unlabeled target data, but standard entropy-based methods often rely on deterministic confidence and can reinforce overconfident errors under distribution shift. We propose MIRA...",
+      "date": "2026-11-02",
+      "description": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whole-body policies from human data. We firs...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2611.03647v1",
+      "hotScore": 89,
+      "content": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whole-body policies from human data. We first introduce Environment-Aware Retargeting (EAR), which combines reconstructed scene geometry with demonstrated head and gripper trajectories to determine robot posture and generate collision-aware joint and base targets. Delay-calibrated action assignment converts these trajectories into actions. However, kinematic differences can leave residual pose errors, creating viewpoint mismatches between human demonstrations and robot observations. We therefore introduce Retargeting-Error-Aware Masking (REAM), which uses these errors during training to reduce reliance on mismatched views at deployment. Finally, because estimated actions cannot fully capture contact-rich interactions, we collect on-policy human corrections through DAgger to improve performance. We evaluate Pixel-UMI on five challenging tasks spanning articulated-object manipulation, deformable-object handling, constrained-space reaching, whole-body collision avoidance, and contact-rich bimanual coordination, achieving 87.0% average task progress. Video results are available at https://pixel-robot.com/pixel-umi"
+    },
+    {
+      "id": "fetch-paper-1",
+      "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+      "source": "arXiv.org",
+      "date": "2026-11-02",
+      "description": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these components are often developed independently, c...",
       "category": "tooling",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2611.02003v1",
-      "hotScore": 80,
-      "content": "Test-time adaptation (TTA) updates a deployed model using only unlabeled target data, but standard entropy-based methods often rely on deterministic confidence and can reinforce overconfident errors under distribution shift. We propose MIRA, Mutual Information guided calibration for Reliable Test-Time Adaptation, a source-free online adaptation method that uses lightweight last-layer Gaussian perturbations to probe prediction reliability. For each target batch, MIRA reuses a single feature extraction pass and samples perturbed classifiers around the source classifier, forming an efficient local predictive distribution. Rather than fitting a Bayesian posterior, MIRA treats the perturbation scale as a local probing radius and selects a batch-specific scale using mutual information (MI) and prediction agreement. The resulting perturbation-sensitivity signal identifies predictions that are confident and locally stable under classifier perturbations, while suppressing brittle predictions with high stochastic disagreement. MIRA then performs adaptation with an MI-confidence weighted entropy loss, which down-weights perturbation-sensitive or low-confidence samples before they drive entropy minimization. This weighted loss reduces the influence of brittle predictions that can otherwise cause harmful adaptation under distribution shift. The method requires no source data, retraining, model ensembles, or offline posterior fitting, and can be applied as a plug-and-play modification to entropy-minimization TTA. Experiments on distribution-shift benchmarks show improvements in accuracy, calibration, and negative log-likelihood, suggesting that mutual-information-guided perturbation probing and weighted adaptation yield more robust online TTA than deterministic confidence."
-    },
-    {
-      "id": "fetch-paper-1",
-      "title": "To Align Long, Plan Short: Simulating Diverse Profile-Aligned Students by Realizing Short-Term Plans in Long-Horizon Learning Environments",
-      "source": "arXiv.org",
-      "date": "2026-11-01",
-      "description": "Simulated students offer a scalable way to test learning platforms and AI tutors before deployment with real students and to augment scarce data for studying learning at scale. Existing LLM-based simulators primarily target short, language-...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2611.02002v1",
-      "hotScore": 85,
-      "content": "Simulated students offer a scalable way to test learning platforms and AI tutors before deployment with real students and to augment scarce data for studying learning at scale. Existing LLM-based simulators primarily target short, language-centered interactions. In open-ended learning environments, however, student behavior emerges from patterns across long-horizon interaction trajectories, where turn-level prompting can drift from an assigned behavior profile. We introduce ALPS (Align Long-term by Planning Short-term), a hierarchical simulated student conditioned on observable, environment-specific behavior profiles. Rather than selecting every action independently, ALPS alternates between planning profile-aligned task segments and generating the corresponding actions. We evaluate ALPS in both data-sufficient and data-scarce settings, where supervision comes either from real student trajectories or from a teacher LLM. Across both settings, we compare in-context learning (ICL), supervised fine-tuning (SFT), reward-ranked fine-tuning (RAFT), and their sequential combination (SFT followed by RAFT). Experiments in an inquiry-based physics game and a pharmacy simulation evaluate behavioral density and coverage against held-out real data, and profile consistency using a human-aligned LLM judge. Across both settings, ALPS consistently outperforms turn-level generation, achieving comparable density and judge pass rates under scarce supervision, although coverage remains lower. These results show that hierarchical planning enables faithful, profile-aligned simulation over long interaction horizons, even with limited real student data."
+      "url": "http://arxiv.org/abs/2611.03648v1",
+      "hotScore": 84,
+      "content": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these components are often developed independently, creating mismatches that limit the capabilities of the complete system. We present Pixel, a co-designed full-stack system for learning general-purpose mobile manipulation. Pixel combines a low-cost wheeled humanoid with human-aligned kinematics and compliant grippers, multiple teleoperation and robot-free human data-collection interfaces, a unified whole-body controller, and a common policy learning pipeline across human and robot demonstrations. A hierarchical learning stack further enables language-conditioned visuomotor control and long-horizon task execution. We evaluate the system across hardware, data collection, and policy learning, and demonstrate mobile-manipulation behaviors requiring dexterity, active perception, navigation, and whole-body coordination. We hope that Pixel provides an integrated and extensible foundation for studying how robot hardware, data, control, and learning can be designed together for robot learning. More results at https://pixel-robot.com/pixel"
     },
     {
       "id": "fetch-paper-2",
-      "title": "TrackMem: Tracking Evolving Beliefs in Long-Horizon Financial Dialogue",
+      "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
       "source": "arXiv.org",
-      "date": "2026-11-01",
-      "description": "Memory systems for LLM agents are evaluated mostly on social dialogue, where facts accumulate and rarely change, so remembering reduces largely to finding the turn in which something was said. Financial dialogue breaks this assumption: figu...",
-      "category": "agent",
+      "date": "2026-11-02",
+      "description": "Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style question answering. Despite these advances, pu...",
+      "category": "image",
       "tags": [
         "Research",
-        "Agent"
+        "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2611.02001v1",
-      "hotScore": 91,
-      "content": "Memory systems for LLM agents are evaluated mostly on social dialogue, where facts accumulate and rarely change, so remembering reduces largely to finding the turn in which something was said. Financial dialogue breaks this assumption: figures are revised, stances shift without being restated, rules stated once govern later questions, and a single company is discussed under several analytical lenses. Memory systems that retrieve the passages most similar to a question, or the most recent ones, therefore return superseded values, miss rules that share no wording with the question, and cannot recover a stance spread across sessions. We present TrackMem, a per-speaker graph memory that tracks the history of figures, separates perspectives by entity and lens, and preserves each speaker's actions in chronological order. To evaluate it, we introduce FinLoCoMo, a benchmark of 15 long-horizon investment conversations with 765 questions in two splits: one following the LoCoMo categories and one targeting four failure modes. With two readers, TrackMem outperforms existing memory systems on both splits. On the failure-mode split it reaches 73.9% macro accuracy against 69.4% for the strongest baseline, with the largest gains on questions about revised figures (86.5% against 73.4%)."
+      "url": "http://arxiv.org/abs/2611.03641v1",
+      "hotScore": 83,
+      "content": "Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style question answering. Despite these advances, purely neural LLMs continue to struggle with elementary logical reasoning problems and lack the determinism, soundness, and reliability characteristic of symbolic reasoning systems. Conversely, classical symbolic methods such as SAT solving and exact cover guarantee correctness and completeness, but require problems to be expressed in highly specialized formal encodings, limiting their applicability to natural language inputs. In this work, we present a synergistic neuro-symbolic framework that bridges this gap by combining neural semantic parsing with deterministic exact cover reasoning. Given a Zebra-style logic puzzle in natural language, an LLM translates entities and constraints into structured tool calls that construct an exact cover instance. A symbolic solver then computes the solution and provides feedback to iteratively refine invalid, under- or overconstrained encodings, exploiting the uniqueness property of Zebra puzzles. We conduct a comprehensive empirical evaluation across multiple parameter scales, post-training paradigms, and LLM families. The results demonstrate that our hybrid approach consistently outperforms strong plain neural baselines, including CoT prompting, as well as recent neuro-symbolic methods."
     },
     {
       "id": "fetch-paper-3",
-      "title": "Kernel Ridge Regression over Hölder Classes: Function and Derivative Losses",
+      "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
       "source": "arXiv.org",
-      "date": "2026-06-19",
-      "description": "We study ordinary kernel ridge regression over full Hölder-Zygmund balls, measuring errors in Sobolev norms and in pointwise and uniform losses for mixed derivatives. For targets of smoothness $s$, every RKHS norm equivalent to $H^{s+d/2}$ ...",
-      "category": "research",
+      "date": "2026-11-02",
+      "description": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and limited coverage of authenticated workflow...",
+      "category": "agent",
       "tags": [
-        "Research"
+        "Research",
+        "Agent"
       ],
-      "url": "http://arxiv.org/abs/2607.26065v2",
-      "hotScore": 81,
-      "content": "We study ordinary kernel ridge regression over full Hölder-Zygmund balls, measuring errors in Sobolev norms and in pointwise and uniform losses for mixed derivatives. For targets of smoothness $s$, every RKHS norm equivalent to $H^{s+d/2}$ gives the optimal $H^r$ risk for $0\\le r&lt;s$; integer choices of $r$ include integrated squared derivative losses. Pointwise and uniform guarantees require additional kernel structure. A localized wavelet kernel attains the sharp derivative rates with the same regularization orders as for function estimation, whereas equivalent changes of the RKHS norm can destroy the population bias rates. For the ordinary Gaussian kernel with a shrinking bandwidth, we prove a uniform derivative risk bound with the optimal polynomial rate and an explicit, unoptimized logarithmic factor. The results allow bounded measurable design densities bounded away from zero and conditionally sub-Gaussian noise."
+      "url": "http://arxiv.org/abs/2611.03634v1",
+      "hotScore": 89,
+      "content": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and limited coverage of authenticated workflows, while existing synthetic environments for training often lack functional depth and visual fidelity. We propose WebHarbor, a suite of 153 executable and dockerized website environments that faithfully reconstruct the visual interfaces, content, and functional workflows of real-world web services under deterministic control. We build WebHarbor through task-driven human-agent collaboration, where environments evolve as new tasks expand their functional scope, coding agents implement the required changes, and human contributors audit visual fidelity, functional correctness, and task validity. The resulting suite comprises 3,518 tasks spanning multi-step and post-authentication workflows, where existing works often fail to cover. Beyond reliable evaluation, WebHarbor provides high-fidelity synthetic web environments for cost-efficient reinforcement learning (RL). We demonstrate that a Qwen 4B-level GUI agent trained with RL in WebHarbor generalizes to unseen tasks and performs competitively with leading open-source GUI web agents across four benchmarks. The code and data are publicly available at https://github.com/aiming-lab/WebHarbor."
     },
     {
       "id": "fetch-paper-4",
-      "title": "FAOPs: Normal Forms and an Algebra for AI Agent Workflows",
+      "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
       "source": "arXiv.org",
-      "date": "2026-10-15",
-      "description": "Organizations increasingly encode operational procedures as multi-step agent skills, here called Agent Operating Procedures (AOPs), that must be traceable, auditable, reproducible, access-controlled, and bounded in time and cost, as regulat...",
-      "category": "agent",
+      "date": "2026-11-02",
+      "description": "Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's advantage persists after fine-tuning. In this...",
+      "category": "llm",
       "tags": [
         "Research",
-        "Agent"
+        "LLM"
       ],
-      "url": "http://arxiv.org/abs/2610.22061v2",
-      "hotScore": 94,
-      "content": "Organizations increasingly encode operational procedures as multi-step agent skills, here called Agent Operating Procedures (AOPs), that must be traceable, auditable, reproducible, access-controlled, and bounded in time and cost, as regulated sectors require. Yet AOPs are typically kept as coarse-grained files, in which steps bundle actions, copied procedures drift apart, any step may reach any tool, and refactoring goes unchecked. We present Functional Agent Operating Procedures (FAOP), a formal theory that brings database-grade discipline to AI agent workflows. FAOP recasts each workflow as a typed function over scoped state and subjects an entire library to four progressive normal forms: Decomposed (FNF-1) splits a workflow into atomic steps, Typed (FNF-2) makes its data flow explicit and type-checked, Factored (FNF-3) gives each shared sub-workflow a single canonical definition so a change propagates instead of drifting, and Scoped (FNF-4) checks that each FAOP lists resources used by its own actions and the FAOPs it calls, while guardrails declared by it and by FAOPs that call it remain attached to their sources. A FAOP algebra of provably sound equalities turns refactoring and parallelization into compiler rewrites; orthogonal extensions add optimization (+O), bounded completion with time and cost limits (+B), and reachability checks (+R); and an architectural-level classifier (0-3) determines whether a workflow needs AI at all. Together, these make integrity, isolation, typing, stopping limits, cost, and optimization compile-time concerns across the whole library, not runtime hopes. We implement the theory in SkillBase, an AOP management system (what PostgreSQL is to data, SkillBase is to AOPs), and a separate executor that loads FAOPs from SkillBase and enforces these guarantees at run time. A worked financial workflow illustrates the approach end to end."
+      "url": "http://arxiv.org/abs/2611.03633v1",
+      "hotScore": 86,
+      "content": "Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's advantage persists after fine-tuning. In this paper, we study the downstream behavior of Muon and AdamW and uncover a surprising trend: beyond a sufficiently large pretraining data budget, AdamW outperforms Muon after fine-tuning. Moreover, as model size increases, AdamW overtakes Muon at progressively smaller pretraining token-parameter ratios. To explain this reversal, we view fine-tuning as a perturbation of the outputs and introduce the margin-to-spread ratio, which measures how far the correct logit lies above the wrong ones relative to how widely the wrong logits are spread. In language models, Muon has the larger margin-to-spread ratio at small data budgets and AdamW at large ones, mirroring the fine-tuning trend. In a linear associative memory, we prove that after one update the margin-to-spread ratio of gradient descent gains on that of Muon as the data budget grows, and simulations show that this trend persists after extended training."
     },
     {
       "id": "fetch-paper-5",
-      "title": "Safety4DM: A Vision-Language Framework for Risk-Aware Dynamic Maps in Vehicle-Road-Cloud Collaborative Driving",
+      "title": "Drafting Agents, Not Just Tokens: Speculative Recursive Self-Improvement for Agentic Systems",
       "source": "arXiv.org",
-      "date": "2026-11-01",
-      "description": "Dynamic map (DM) is a core information infrastructure for vehicle-road-cloud (VRC) cooperative autonomous driving. It fuses perception data from multiple sources to overcome the inherent line-of-sight and field-of-view limits of single-vehi...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2611.01996v1",
-      "hotScore": 83,
-      "content": "Dynamic map (DM) is a core information infrastructure for vehicle-road-cloud (VRC) cooperative autonomous driving. It fuses perception data from multiple sources to overcome the inherent line-of-sight and field-of-view limits of single-vehicle perception. However, DM still falls short on driving safety in two ways. First, DM data specifications already define road conditions semantically, but no pipeline yet turns real-world road observations into fine-grained risk entities in the DM. Second, existing DM systems lack a natural language interface for driving risks. To close these gaps, we propose Safety4DM, a safety-oriented language system for VRC dynamic maps. We first build RoadRisk, a real-world road image dataset that covers four types of road conditions and four risk levels. On this dataset, we fine-tune a vision-language model (VLM) for road safety risk perception. The model outputs structured risk representations that the DM can ingest directly. We then introduce a Safety-aware Step-wise Prompting (SafeStep) mechanism as the natural language query interface of the DM. SafeStep answers queries accurately and also generates actionable driving advice. To build and evaluate this interface, we develop SafeVRC-Sim, a VRC cooperative simulation framework, and SafeDM-QA, a safety question-answering benchmark. Experiments show that even the compact Qwen3-VL-4B reaches 89.83% accuracy on risk perception after fine-tuning. SafeStep also plugs easily into multiple LLM families. With medium and large models (20B and above) from five families, it achieves over 93% natural language query accuracy in every case, which shows strong generalization."
-    },
-    {
-      "id": "fetch-paper-6",
-      "title": "Community HydroAgent: Formalizing Forecaster Expertise into Skill-Orchestrated Flood Forecasting Workflows",
-      "source": "arXiv.org",
-      "date": "2026-07-27",
-      "description": "Operational flood forecasting depends on tacit forecaster expertise that is difficult to formalize, audit, and transfer. Although artificial intelligence methods have advanced flood prediction and model-error correction, few studies explici...",
+      "date": "2026-10-12",
+      "description": "Improving an agent through successive revisions requires balancing exploration and evaluation under a limited budget. A narrow search can miss useful sequences of edits, while fully evaluating every intermediate version often exhausts the b...",
       "category": "agent",
       "tags": [
         "Research",
         "Agent"
       ],
-      "url": "http://arxiv.org/abs/2607.23983v2",
-      "hotScore": 88,
-      "content": "Operational flood forecasting depends on tacit forecaster expertise that is difficult to formalize, audit, and transfer. Although artificial intelligence methods have advanced flood prediction and model-error correction, few studies explicitly represent the tacit expert rules, review checkpoints, and workflow constraints that connect model outputs to operational warning decisions. Here, we propose Community HydroAgent for Flood Forecasting (CHA-Flood), a skill-orchestrated agent framework that embeds Large Language Models (LLMs) into a model-driven flood forecasting workflow, where each skill encodes explicit rules to bound LLM reasoning. We validated its effectiveness using five state-of-the-art LLMs in the South Yamhill River basin (USA). Prior judgment captures observed peak flow and flood volume within 5% tolerance in 10 and 11 out of 14 events, and 5-fold cross-validation over 129 events yields Pearson correlations of 0.62 and 0.84. Building on a high-baseline scheme library (average KGE 0.890), the guided scheme selection further improves KGE by 0.023-0.154. All five tested LLMs successfully execute the CHA-Flood workflow with comparable judgment accuracy (each spanning 40%-80% across cross-validation folds) but with substantial cost differences. Removing only the language-model narrowing lowers median KGE from 0.723-0.753 to 0.662 for all five LLMs, indicating that the gain comes from LLM reasoning rather than from the choice of LLM. CHA-Flood does not aim to replace human forecasters; instead, it translates their tacit expertise into an auditable and reproducible workflow. This skill-orchestrated paradigm demonstrates how explicit rule boundaries can guide LLM reasoning to complement physically based simulation in next-generation flood forecasting."
+      "url": "http://arxiv.org/abs/2610.16491v2",
+      "hotScore": 91,
+      "content": "Improving an agent through successive revisions requires balancing exploration and evaluation under a limited budget. A narrow search can miss useful sequences of edits, while fully evaluating every intermediate version often exhausts the budget before those sequences yield a verified improvement. Inspired by the draft--verify principle of speculative decoding, we propose Speculative Recursive Self-Improvement (SpecRSI), a two-level framework coupling inner-loop agent search with outer-loop improver learning. SpecRSI drafts successors before their predecessors are fully evaluated, while adopting only fully evaluated, admissible versions. In the inner loop, Verification-Aware Tree Search (VATS) allocates the budget between further edits and outstanding checks using the predicted verified return of a continuation. In the outer loop, Group Verification Optimization (GVO) updates the improver from completed searches while keeping the real evaluator fixed. We evaluate SpecRSI on scientific optimization (including active queue management (AQM) for network infrastructure), coding, and general agent-system benchmarks. Under matched evaluation-call budgets, SpecRSI improves scientific terminal gain over Janus by 60.0%--96.3% and area under the budget curve by 32.1%--91.6%, while achieving higher means across all 50 scientific backbone--task pairs and outperforming MetaRSI-v1 by 1.30--2.70 percentage points (pp) in system score across twenty backbones. On instance-level comparisons, it further improves PyBaMM terminal gain by 142.6% and SWE-Pro success by 6.0 pp at 7.0% and 9.2% lower token cost, respectively. These results demonstrate the efficacy of the proposed approach."
+    },
+    {
+      "id": "fetch-paper-6",
+      "title": "Agent Skill Evaluation and Evolution: Frameworks and Benchmarks",
+      "source": "arXiv.org",
+      "date": "2026-06-09",
+      "description": "The growth of agent skills has transformed how agentic systems are built, evaluated, and deployed. As skill libraries continue to scale, rigorous evaluation becomes critical to ensuring their utility, quality, and safety in real-world appli...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2606.11435v2",
+      "hotScore": 87,
+      "content": "The growth of agent skills has transformed how agentic systems are built, evaluated, and deployed. As skill libraries continue to scale, rigorous evaluation becomes critical to ensuring their utility, quality, and safety in real-world applications. Consequently, the field is undergoing an emerging paradigm shift from isolated skill creation to automated, evaluation-driven skill evolution. In this survey, we systematically examine the landscape of skill evolution and evaluation beyond foundational skill creation. We categorize evolution into four distinct paradigms, spanning execution feedback, trajectory distillation, compression, and reinforcement learning, showing how each element contributes to improving skill utility and reliability. We also provide an analysis of six skill-centric benchmark categories, identifying structural gaps in benchmark coverage, trade-offs, and metric richness to advance skill research. Finally, we identify open directions for building skill ecosystems that are generalizable, efficient, and verifiably safe. The project URL is https://github.com/Cassie07/AgentSkill_Survey"
     },
     {
       "id": "fetch-paper-7",
-      "title": "Seeing Why: Exact Evidence Maps for Quantum and Optical Image Classifiers",
+      "title": "Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers",
       "source": "arXiv.org",
-      "date": "2026-11-01",
-      "description": "When an image classifier decides, we can usually only estimate why. For quantum and all-optical classifiers that act linearly on amplitude-encoded pictures up to the measurement, with no trained classical network before or after them, the d...",
+      "date": "2026-07-26",
+      "description": "Siri Expressive Voices synthesize rich, configurable speech in real time and entirely on device, powered by AFM 3 Core Advanced, Apple's most powerful on-device foundation model. This work presents the memory-efficient audio synthesis archi...",
       "category": "image",
       "tags": [
         "Research",
         "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2611.01993v1",
-      "hotScore": 86,
-      "content": "When an image classifier decides, we can usually only estimate why. For quantum and all-optical classifiers that act linearly on amplitude-encoded pictures up to the measurement, with no trained classical network before or after them, the decomposition needs no approximation: each class's probability above its no-information share splits exactly into contributions of the encoded amplitudes, shown as Born evidence maps (BEM) over the picture and measurable on the hardware that classifies. For the quadratic form behind each class probability it equals Integrated Gradients from a zero baseline, in closed form. Deleting the 5 % of pixels with the highest evidence drops accuracy from 73 % to 9 %, as occlusion does with 1,024 extra runs per picture, whereas gradient saliency removes much less. One architecture serves both: a Fourier-plane mask followed by a brickwall circuit on qubits or by phase plates on a lens bench, read by a Born headroom readout with no trained parameter; centring each picture on its own mean lets dark features count as much as bright ones. In simulation, four phase plates at a single wavelength reach 72.3 % on Caltech-10 colour photographs (96.8 % on MNIST, 86.7 % on Fashion-MNIST, 47.9 % on colour CIFAR-10). On IBM's ibm_kingston, with the mask applied before approximate loading, 300 Caltech-10 test pictures were classified at 37.7 % against 10 % by chance (56.3 % in exact simulation), and 2x2 maps of ten correctly and confidently classified pictures, estimated on the chip, agreed with the exact ones (r = 0.77). The maps also revealed a shortcut in the data."
+      "url": "http://arxiv.org/abs/2607.23811v3",
+      "hotScore": 88,
+      "content": "Siri Expressive Voices synthesize rich, configurable speech in real time and entirely on device, powered by AFM 3 Core Advanced, Apple's most powerful on-device foundation model. This work presents the memory-efficient audio synthesis architecture behind that capability: a detokenizer that converts the semantic audio tokens emitted by the foundation model into high-fidelity audio within the tight compute and memory budget of the Scalable Matrix Extension (SME). We convert semantic audio tokens to a residual vector quantization (RVQ) representation with a three-component design, a streaming encoder, a temporal decoder, and a depth decoder, that systematically decouples temporal and depth processing. A single reusable depth decoder with Diffusion Transformer (DiT)-style stage conditioning generates all RVQ levels autoregressively, replacing the dedicated per-level decoders of prior multi-decoder architectures, while causal sliding window attention with fixed-window key-value caching yields constant memory complexity independent of sequence length. Deployed on the AMX, the detokenizer sustains roughly 10 ms per generation step, about 16x faster than real time, with a peak runtime memory of only 21 MB and 329 MB of on-device assets, enabling continuous streaming synthesis of 20-320 seconds of audio. This constant, small footprint replaces the linear and quadratic memory scaling of conventional transformer- and GAN-based approaches. Ablation studies validate the key architectural components, and audio quality assessment confirms that the architecture maintains synthesis fidelity while achieving efficiency gains over existing methods. Operating at a 1-billion-parameter activation size within AFM 3 Core Advanced, it improves Mean Opinion Score by +0.28 overall (4.15 vs. 3.87) and by +0.42 on conversational speech (4.24 vs. 3.82) over the prior on-device text-to-speech system."
     },
     {
-      "id": "fetch-hf-2611.00859",
-      "title": "Wave Forcing: Towards Speed-of-Light Streaming Video Generation",
+      "id": "fetch-hf-2611.03424",
+      "title": "IdeaTaste: Do LLMs Share the Research Taste of Human Researchers?",
       "source": "Hugging Face Daily",
-      "date": "2026-10-30",
-      "description": "Real-time long-video generation requires continuous output with consistent appearance and natural motion. Existing chunk-wise autoregressive methods face challenges in both generation efficiency and long-video quality: serialized denoising ...",
+      "date": "2026-11-01",
+      "description": "Research taste, the judgment of what to read, which problems to pursue, and which methods to try, increasingly shapes the work of AI scientists, yet it remains far less understood than their ability to execute research. We introduce IdeaTas...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2611.03424",
+      "hotScore": 90,
+      "content": "Research taste, the judgment of what to read, which problems to pursue, and which methods to try, increasingly shapes the work of AI scientists, yet it remains far less understood than their ability to execute research. We introduce IdeaTaste, a benchmark that scores an LLM by how closely the research proposals it writes from a literature snapshot frozen at 2025 match the work the same communities published in 2026. Our experiments span six contemporary language models and four research areas from established to emerging fields, covering more than 90{,}000 proposals in total. LLM agents fall well short of human communities in both the literature they cite and the ideas they state, reaching about 26\\% of the human level on citation matching and only 18\\% on idea matching. Their populations can cite as diversely as a community and take up its tasks and methods, yet rarely arrive at the concrete approaches and research plans it pursues. Neither richer field context nor larger populations substantially close this gap. In blinded expert review, AI proposals trail the 2026 papers least in presentation and most in expected success, echoing their gap in concrete approaches, and those whose ideas no human paper shares fare worst, suggesting weaker directions rather than overlooked opportunities. These results indicate that the main bottleneck in AI research taste lies less in finding the directions a community works on than in turning them into the concrete approaches it goes on to pursue. We release IdeaTaste as an open, continuously updated leaderboard (https://cxcscmu.github.io/IdeaTaste) that benchmarks contemporary AI proposals against future publication cycles."
+    },
+    {
+      "id": "fetch-hf-2611.02112",
+      "title": "Order-Only On-Policy Distillation",
+      "source": "Hugging Face Daily",
+      "date": "2026-10-31",
+      "description": "On-policy distillation (OPD) trains a student on its own generations by matching the teacher's token probabilities. These probabilities entangle two kinds of information: which tokens the teacher prefers, and how confident it is. The latter...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2611.00859",
-      "hotScore": 90,
-      "content": "Real-time long-video generation requires continuous output with consistent appearance and natural motion. Existing chunk-wise autoregressive methods face challenges in both generation efficiency and long-video quality: serialized denoising and history-cache refresh require two forward passes even with one-step denoising, and longer rollouts can degrade quality and cause camera drift. We propose Wave Forcing (WF), which co-designs generation, training, and execution for continuous video output with multi-step denoising. WF uses chunk-wise causal attention to access earlier, cleaner chunks before their denoising is complete, and distributes staggered denoising and cache-refresh stages across full-model replicas to achieve 1F1C: one output chunk per concurrent forward round after pipeline fill. To adapt the model to this continuous generation process, we develop a three-stage training procedure that successively introduces mixed-noise denoising, motion supervision, and causal adaptation using self-generated history. To execute this process efficiently, Wave Runtime (WaveRT) uses Wave Parallelism (WP) for early K/V delivery and communication-computation overlap, together with optimized kernels and pipelined VAE decoding. Experiments on Wan2.1-T2V-1.3B show that 5-step WF maintains overall quality comparable to Rolling Forcing while achieving higher Dynamic Degree on both short and long videos. Our system efficiency experiments show that 4-step WF achieves 147.6 DiT FPS and 134.8 end-to-end FPS on eight H200 GPUs, yielding 7.07x the single-GPU end-to-end throughput. In DiT-only tests with matched SageAttention+W8A8 backends, denoising steps, and GPU counts, WP delivers up to 2.53x the throughput of the faster of the Ulysses and Ring context-parallel baselines across six model scales (1.3B-14B)."
-    },
-    {
-      "id": "fetch-hf-2610.41216",
-      "title": "TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents",
-      "source": "Hugging Face Daily",
-      "date": "2026-10-29",
-      "description": "Robot agents built on vision-language models depend on both the planner and its harness: the tools, feedback, memory, and recovery logic around it. Can improvements to a large teacher's harness be carried into a compact agent with lower inf...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2610.41216",
+      "url": "https://huggingface.co/papers/2611.02112",
       "hotScore": 89,
-      "content": "Robot agents built on vision-language models depend on both the planner and its harness: the tools, feedback, memory, and recovery logic around it. Can improvements to a large teacher's harness be carried into a compact agent with lower inference compute cost? We present TinyAstral, a two-stage approach. We first freeze an open-weight teacher and improve its harness through recursive self-improvement (RSI): frontier LLM agents read the teacher's trajectories and propose harness edits, and each edit is accepted only if it passes a paired statistical test. We then freeze the final harness, collect teacher trajectories with reasoning and failure recovery, and distill a small student that replaces the teacher in the same harness. On RoboTwin, harness evolution raises the teacher's success from 33.4% to 63.6%; the final 4B student reaches 62.8%. Across four harness versions, distilled 4B students score close to their corresponding teachers, and later versions yield stronger students, showing that harness evolution gains carry into compact models. The harness gains also transfer to other frozen planners without retraining. On identical episodes, the final 4B student outperforms open 4B agents, the open 27B harness-RSI model SenseNova-RoboRSI, and our own teacher model placed in three competitors' harnesses. It stays close to its teacher on all three training benchmarks, and on three benchmarks never used for RSI or training it scores close to a 552B planner running the same harness. On the measured deployment episodes, it uses about one fifth of its teacher's accelerator time."
+      "content": "On-policy distillation (OPD) trains a student on its own generations by matching the teacher's token probabilities. These probabilities entangle two kinds of information: which tokens the teacher prefers, and how confident it is. The latter reflects the teacher's own capacity and calibration, which a smaller student may be unable to reproduce. Because the teacher temperature changes these values without changing the ordering, OPD is also sensitive to the temperature choice. We ask whether the teacher's ordering of candidate tokens is enough, and propose Order-Only On-Policy Distillation (O^{3}PD). At each student-generated prefix, O^{3}PD trains the student to reproduce the order of the teacher's top-K tokens, without fitting their probability values. The objective is therefore invariant to the teacher temperature and needs no temperature tuning. Across six teacher--student pairs, O^{3}PD outperforms OPD on the average over HMMT25, AIME24, and AIME25 in every pair, by up to 2.9 points, with gains of up to 5.6 points on AIME25. Other ranking losses yield similar gains, so the benefit comes from ordinal supervision itself. Analysis shows that O^{3}PD departs further from the teacher's probabilities than OPD, yet reproduces its ranking more faithfully and yields a stronger student. The ranking, not the probability values, thus carries the knowledge that on-policy distillation needs to transfer."
     },
     {
-      "id": "fetch-hf-2610.27954",
-      "title": "Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay",
+      "id": "fetch-hf-2610.32878",
+      "title": "Advancing SVD-based LLM Compression via Layer-Wise Error Model Search",
       "source": "Hugging Face Daily",
-      "date": "2026-10-19",
-      "description": "Recent advances in large (vision) language models have enabled computer-use agents that automate digital workflows via fine-grained keyboard and mouse operations. However, such agents remain fragile in long-horizon settings, where errors ac...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2610.27954",
-      "hotScore": 88,
-      "content": "Recent advances in large (vision) language models have enabled computer-use agents that automate digital workflows via fine-grained keyboard and mouse operations. However, such agents remain fragile in long-horizon settings, where errors accumulate and executed actions leave unintended side effects, making the ability to recover from failures critical. Yet, existing remedies remain inadequate: environment resets are infeasible in proprietary settings, action replay is prohibitively expensive over long horizons, and API-based rollback is limited to web environments, leaving model-based recovery largely unexplored. To address this gap, we present ReTrace, a scalable evaluation framework for systematically studying recovery behavior in computer-use agents. We formalize Transition-Consistent Recovery: identical downstream actions from the recovered and target states must yield identical outcomes. We operationalize this criterion through goal-oriented action replay following controlled error injection. Using ReTrace, we present the first systematic study of autonomous, model-based recovery, revealing that (i) ideal recovery can unlock model's latent task completion capabilities, (ii) current computer-use agents fail to exploit their latent recovery capabilities, and (iii) accurate model-based recovery yields measurable end-to-end gains. Together, these findings establish recovery as a fundamental capability for building reliable computer-use agents. Our code and dataset is available at https://github.com/BangProx/ReTRACE."
-    },
-    {
-      "id": "fetch-hf-2610.40191",
-      "title": "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement",
-      "source": "Hugging Face Daily",
-      "date": "2026-10-29",
-      "description": "Video generation is shifting from end-to-end synthesis toward agentic generation, where planning, tool use, and feedback enable coherent, controllable multi-shot videos. In parallel, video world models provide action-conditioned observation...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2610.40191",
-      "hotScore": 87,
-      "content": "Video generation is shifting from end-to-end synthesis toward agentic generation, where planning, tool use, and feedback enable coherent, controllable multi-shot videos. In parallel, video world models provide action-conditioned observations and predicted futures, serving as interactive environments for agents. We study their intersection through the agent harness: an executable runtime that constructs context, exposes tools, maintains state, routes feedback, and manages budgets around video models. This report examines three directions. First, agentic video generation, where harnesses coordinate scripting, shot planning, asset management, production, and editing, alongside the evaluation challenges of these systems. Second, agentic world modeling, where harnesses mediate observation, control, execution, and state. We discuss hybrid designs in which game engines or agent-written programs maintain world state while video models render observations, and how agents and world models can mutually evaluate and improve one another. Third, recursive self-improvement (RSI) in video model development, distinguishing output revisions, updates to harness state, generator parameters, and evaluators, and changes to the improvement procedure itself. We identify how these improvements feed back into subsequent development. Across these directions, we analyze essential agent capabilities, including audiovisual perception, long-horizon planning, memory, code-based interaction, feedback-guided control, skill reuse, and multi-agent coordination. We conclude with challenges in autonomous video production, lifelong memory, programmable hybrid control, autonomous model development, provenance, cost accounting, and evaluation linking video quality and task performance to sustained improvements in models and harnesses."
-    },
-    {
-      "id": "fetch-hf-2610.39419",
-      "title": "Diagnosing the Reference Gap: What Visual Scaffolds Can and Cannot Fix in Multimodal Reasoning",
-      "source": "Hugging Face Daily",
-      "date": "2026-10-29",
-      "description": "Multimodal large language models can recognize visual content yet struggle to reason reliably over it across multiple steps. In counting, a model may see all objects but lose track of which ones it has counted. We argue that such failures, ...",
+      "date": "2026-10-22",
+      "description": "Low-rank SVD-based compression offers a powerful strategy to reduce the computational costs of LLMs. However, existing methods face two key limitations: (i) global rank allocation, where uncalibrated error proxies fail to capture complex er...",
       "category": "llm",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2610.39419",
+      "url": "https://huggingface.co/papers/2610.32878",
+      "hotScore": 88,
+      "content": "Low-rank SVD-based compression offers a powerful strategy to reduce the computational costs of LLMs. However, existing methods face two key limitations: (i) global rank allocation, where uncalibrated error proxies fail to capture complex error propagation, and (ii) decomposition quality, where Fisher-based estimators suffer from severe rank collapse. In this work, we address these limitations by introducing Layer-wise Error Modeling Search (LEMS) and KFAC-SVD. LEMS advances rank allocation by introducing a layer-wise error surrogate that integrates local and global layer importance alongside a propagation bias, enabling effective global rank allocation via an ILP formulation. KFAC-SVD improves decomposition quality by utilizing token-wise statistics, mitigating the rank deficiency observed in prior Fisher-based SVD approaches. Across Mistral, Qwen3, and Llama 3 model families, we show that LEMS consistently outperforms existing search strategies, delivering significant zero-shot accuracy gains of up to 4.8 p.p. that generalize to model sizes of 70B parameters, while KFAC-SVD achieves an average perplexity improvement of 15%. Project page and code: https://lems-svd.github.io"
+    },
+    {
+      "id": "fetch-hf-2610.41994",
+      "title": "DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention",
+      "source": "Hugging Face Daily",
+      "date": "2026-10-29",
+      "description": "Linear attention scales linearly with sequence length, but its finite-state memory can limit long-context retrieval. In gated linear recurrences, memory retention depends on state decay, which is shaped jointly by gate parameters A_log and ...",
+      "category": "llm",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2610.41994",
+      "hotScore": 87,
+      "content": "Linear attention scales linearly with sequence length, but its finite-state memory can limit long-context retrieval. In gated linear recurrences, memory retention depends on state decay, which is shaped jointly by gate parameters A_log and dt_bias and by input activations. In controlled Gated DeltaNet (GDN) experiments, both parameters remain highly correlated with their initial values after training, highlighting the importance of initialization. Therefore, we introduce Dual-Axis Memory Initialization (DAMI), which jointly configures these parameters before training. DAMI assigns geometric timescales across heads for varied retrieval distances and a low-high-low input-sensitivity profile across layers. A small activation sample calibrates the GDN-family implementation to match both behavioral targets without adding trainable parameters. Across GDN, KDA, GDN2, Mamba-2, and RWKV-7, DAMI improves average RULER-style retrieval accuracy by 5.29 to 16.71 percentage points over the corresponding random-initialization baselines. Performance on language modeling, commonsense reasoning, and 2K real-world retrieval remains broadly comparable to those baselines. Our code is available at https://speedai.com/research/dami."
+    },
+    {
+      "id": "fetch-hf-2611.03097",
+      "title": "DR Pixel: Page-Native Deep Research with Vision-Language Models",
+      "source": "Hugging Face Daily",
+      "date": "2026-11-01",
+      "description": "Complex documents such as scientific papers contain rich information in tables, figures, and equations; however, existing deep research (DR) agents typically reduce papers to OCR-extracted text. We instead ask whether vision-language models...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2611.03097",
       "hotScore": 86,
-      "content": "Multimodal large language models can recognize visual content yet struggle to reason reliably over it across multiple steps. In counting, a model may see all objects but lose track of which ones it has counted. We argue that such failures, commonly attributed to perception, reveal a reference gap: the failure to bind language to the relevant visual entities, regions, or locations. Motivated by the theory of visual routines, we test whether external references such as numbering can narrow this gap. We introduce ReGap-Bench, a paired benchmark of five visual reasoning tasks in which the scene, question, and answer are fixed and only the reference varies. Results show that task-matched references improve accuracy by up to 25\\%, while mismatched references provide little benefit or even hurt performance. These findings identify the reference gap as a bottleneck distinct from visual perception and show that constructing task-appropriate visual references can serve as a training-free visual skill for improving multimodal reasoning."
+      "content": "Complex documents such as scientific papers contain rich information in tables, figures, and equations; however, existing deep research (DR) agents typically reduce papers to OCR-extracted text. We instead ask whether vision-language models (VLMs) can enable page-native deep research: directly retrieving and reasoning over rendered document page images. We introduce DR Pixel, the first open-source end-to-end multimodal DR agent that uses rendered page images as its sole retrieval and reasoning unit, operating over a corpus of 1.06M pages. To evaluate this setting, we construct DRPixelBench, a benchmark on scientific papers requiring reasoning over text, figures, tables, and equations. Surprisingly, page-native DR already works well without training, outperforming OCR-based baselines across state-of-the-art models like GPT-5.4, Gemini-3.5-Flash, and Qwen3.6-27B, while requiring fewer tool calls. We next turn to DR training. A key challenge is that teacher trajectories for agentic supervised finetuning are noisy, mixing critical reasoning and action steps with redundant or failed attempts. To address this, we introduce counterfactual credit reweighting, a fine-grained credit assignment method that weights individual reasoning and action steps by their counterfactual contribution to the final answer. Our training improves retrieval recall by about 15 points and final accuracy by over 10 points on DRPixelBench, and likewise outperforms the untrained baseline on four existing benchmarks. On out-of-distribution ViDoRe-V3, DR Pixel comes within 1.8 points of an oracle that is given the gold pages directly. Our results suggest that the conventional OCR-then-retrieve pipeline is not only unnecessary but suboptimal: directly retrieving and reasoning over visual document pages makes complex DR both more effective and more efficient."
     }
   ],
   "hfModels": [
@@ -458,8 +459,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 182509097,
-      "likes": 6059,
+      "downloads": 182461837,
+      "likes": 6062,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -474,7 +475,7 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 66901235,
+      "downloads": 66397898,
       "likes": 439,
       "category": "research",
       "tags": [
@@ -490,7 +491,7 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 49836681,
+      "downloads": 49421693,
       "likes": 662,
       "category": "research",
       "tags": [
@@ -506,8 +507,8 @@
       "name": "MiniMax-H3",
       "owner": "Community",
       "fullName": "Comfy-Org/MiniMax-H3",
-      "downloads": 31098855,
-      "likes": 2490,
+      "downloads": 31821266,
+      "likes": 2503,
       "category": "research",
       "tags": [
         "Diffusion-single-file",
@@ -517,75 +518,11 @@
       "hotScore": 94
     },
     {
-      "id": "fetch-model-BAAI--bge-m3",
-      "name": "bge-m3",
-      "owner": "Community",
-      "fullName": "BAAI/bge-m3",
-      "downloads": 30252576,
-      "likes": 3961,
-      "category": "research",
-      "tags": [
-        "Sentence-similarity",
-        "Sentence-transformers",
-        "Pytorch"
-      ],
-      "url": "https://huggingface.co/BAAI/bge-m3",
-      "hotScore": 92
-    },
-    {
-      "id": "fetch-model-openai-community--gpt2",
-      "name": "gpt2",
-      "owner": "Community",
-      "fullName": "openai-community/gpt2",
-      "downloads": 29307840,
-      "likes": 3913,
-      "category": "image",
-      "tags": [
-        "Text-generation",
-        "Transformers",
-        "Pytorch"
-      ],
-      "url": "https://huggingface.co/openai-community/gpt2",
-      "hotScore": 90
-    },
-    {
-      "id": "fetch-model-google-bert--bert-base-uncased",
-      "name": "bert-base-uncased",
-      "owner": "Community",
-      "fullName": "google-bert/bert-base-uncased",
-      "downloads": 29234461,
-      "likes": 3060,
-      "category": "research",
-      "tags": [
-        "Fill-mask",
-        "Transformers",
-        "Pytorch"
-      ],
-      "url": "https://huggingface.co/google-bert/bert-base-uncased",
-      "hotScore": 88
-    },
-    {
-      "id": "fetch-model-sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2",
-      "name": "paraphrase-multilingual-MiniLM-L12-v2",
-      "owner": "Community",
-      "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 28384395,
-      "likes": 1497,
-      "category": "llm",
-      "tags": [
-        "Sentence-similarity",
-        "Sentence-transformers",
-        "Pytorch"
-      ],
-      "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "hotScore": 86
-    },
-    {
       "id": "fetch-model-argmaxinc--whisperkit-coreml",
       "name": "whisperkit-coreml",
       "owner": "Community",
       "fullName": "argmaxinc/whisperkit-coreml",
-      "downloads": 27332146,
+      "downloads": 31110151,
       "likes": 260,
       "category": "research",
       "tags": [
@@ -594,6 +531,70 @@
         "Whisperkit"
       ],
       "url": "https://huggingface.co/argmaxinc/whisperkit-coreml",
+      "hotScore": 92
+    },
+    {
+      "id": "fetch-model-BAAI--bge-m3",
+      "name": "bge-m3",
+      "owner": "Community",
+      "fullName": "BAAI/bge-m3",
+      "downloads": 30361308,
+      "likes": 3962,
+      "category": "research",
+      "tags": [
+        "Sentence-similarity",
+        "Sentence-transformers",
+        "Pytorch"
+      ],
+      "url": "https://huggingface.co/BAAI/bge-m3",
+      "hotScore": 90
+    },
+    {
+      "id": "fetch-model-openai-community--gpt2",
+      "name": "gpt2",
+      "owner": "Community",
+      "fullName": "openai-community/gpt2",
+      "downloads": 29775719,
+      "likes": 3913,
+      "category": "image",
+      "tags": [
+        "Text-generation",
+        "Transformers",
+        "Pytorch"
+      ],
+      "url": "https://huggingface.co/openai-community/gpt2",
+      "hotScore": 88
+    },
+    {
+      "id": "fetch-model-google-bert--bert-base-uncased",
+      "name": "bert-base-uncased",
+      "owner": "Community",
+      "fullName": "google-bert/bert-base-uncased",
+      "downloads": 29590515,
+      "likes": 3060,
+      "category": "research",
+      "tags": [
+        "Fill-mask",
+        "Transformers",
+        "Pytorch"
+      ],
+      "url": "https://huggingface.co/google-bert/bert-base-uncased",
+      "hotScore": 86
+    },
+    {
+      "id": "fetch-model-sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2",
+      "name": "paraphrase-multilingual-MiniLM-L12-v2",
+      "owner": "Community",
+      "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "downloads": 28259788,
+      "likes": 1498,
+      "category": "llm",
+      "tags": [
+        "Sentence-similarity",
+        "Sentence-transformers",
+        "Pytorch"
+      ],
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "hotScore": 84
     },
     {
@@ -601,7 +602,7 @@
       "name": "chronos-2",
       "owner": "Community",
       "fullName": "autogluon/chronos-2",
-      "downloads": 23513356,
+      "downloads": 24324549,
       "likes": 94,
       "category": "research",
       "tags": [
@@ -616,6 +617,36 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "Rivian spinout Also was working on an e-moto project in Kenya &#8212; until it walked away",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-11-03",
+      "description": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+      "hotScore": 95,
+      "content": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles...."
+    },
+    {
+      "id": "fetch-gadget-1",
+      "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-11-03",
+      "description": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "hotScore": 86,
+      "content": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations...."
+    },
+    {
+      "id": "fetch-gadget-2",
       "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
       "source": "TechCrunch Gadgets",
       "date": "2026-11-03",
@@ -626,11 +657,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-      "hotScore": 90,
+      "hotScore": 93,
       "content": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals coul..."
     },
     {
-      "id": "fetch-gadget-1",
+      "id": "fetch-gadget-3",
       "title": "Apple says it&#8217;s &#8216;hard to predict&#8217; when iPhone Duo constraints will improve",
       "source": "TechCrunch Gadgets",
       "date": "2026-11-02",
@@ -641,11 +672,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
-      "hotScore": 94,
+      "hotScore": 93,
       "content": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year...."
     },
     {
-      "id": "fetch-gadget-2",
+      "id": "fetch-gadget-4",
       "title": "Apple&#8217;s inventory surges 154% as memory chip costs climb",
       "source": "TechCrunch Gadgets",
       "date": "2026-11-02",
@@ -656,23 +687,8 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
-      "hotScore": 89,
+      "hotScore": 94,
       "content": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion...."
-    },
-    {
-      "id": "fetch-gadget-3",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-11-02",
-      "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe...",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "hotScore": 93,
-      "content": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe..."
     }
   ]
 }
