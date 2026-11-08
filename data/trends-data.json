@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-07T17:03:20.120Z",
+  "updatedAt": "2026-11-08T02:55:32.416Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1209966933",
       "name": "rea",
       "owner": "morluto",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 440220,
-      "forks": 108967,
+      "stars": 441257,
+      "forks": 109176,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 394117,
-      "forks": 82817,
+      "stars": 394150,
+      "forks": 82830,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 313979,
-      "forks": 27929,
+      "stars": 314158,
+      "forks": 27953,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 261420,
-      "forks": 57939,
+      "stars": 261537,
+      "forks": 58031,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 209759,
-      "forks": 61395,
+      "stars": 209780,
+      "forks": 61399,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "stars": 199448,
-      "forks": 10499,
+      "stars": 199544,
+      "forks": 10502,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187933,
-      "forks": 45900,
+      "stars": 187934,
+      "forks": 45898,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 176192,
-      "forks": 22466,
+      "stars": 176265,
+      "forks": 22473,
       "language": "MDX",
       "category": "llm",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165252,
-      "forks": 31886,
+      "stars": 165249,
+      "forks": 31884,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 160620,
-      "forks": 25413,
+      "stars": 160637,
+      "forks": 25416,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -175,9 +175,9 @@
       "id": "fetch-repo-132464395",
       "name": "JavaGuide",
       "owner": "Snailclimb",
-      "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、��据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 159458,
-      "forks": 46125,
+      "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "stars": 159463,
+      "forks": 46126,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 158018,
-      "forks": 22970,
+      "stars": 158050,
+      "forks": 22977,
       "language": "Svelte",
       "category": "llm",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 149161,
-      "forks": 25091,
+      "stars": 149179,
+      "forks": 25088,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 148349,
-      "forks": 13330,
+      "stars": 148451,
+      "forks": 13341,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 145561,
-      "forks": 17320,
+      "stars": 145607,
+      "forks": 17334,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -270,7 +270,7 @@
         "LLM"
       ],
       "url": "http://arxiv.org/abs/2611.08487v1",
-      "hotScore": 87,
+      "hotScore": 81,
       "content": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user embeddings can be understood as sparse superpositions of interpretable behavioral modes. This structure is directly predicted by generative models of user behavior for linear embeddings and extends approximately to deep-learning representations by the superposition hypothesis. Superimposed modes can naturally be recovered by sparse dictionary learning methods, such as sparse autoencoders (SAEs), and recovered modes can be automatically named and queried in natural language. We validate mode recovery against known ground truth on synthetic data, where SAEs recover modes better than classical sparse baselines, including on transformer-encoded embeddings. We then apply the method to classical and transformer-based user embeddings from two real-world datasets. We also show how the corresponding natural-language labels enable zero-shot audience retrieval and characterization over embeddings never trained on text. The framework is post-hoc and model-agnostic, requiring no modification to the upstream embedding system."
     },
     {
@@ -285,7 +285,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2611.08483v1",
-      "hotScore": 89,
+      "hotScore": 90,
       "content": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round work in swarms, reason in latent space without decoding to text, and share information by passing KV caches. Each swarm studies the problem from a different angle. A novelty filter keeps the most distinct agent ideas by directly measuring the distances between the agents' hidden state vectors. Crossover of ideas happens naturally in latent space, as a summarizer agent receives the combined KV caches of all swarm members. On 21 problems in mathematical discovery and scientific computing, SwarmEvolve gets the highest average score and needs a median of only 3 to 8 minutes to reach the best scores that other state-of-the-art frameworks reach in 60 minutes. On several problems, SwarmEvolve with Qwen3 8B improves on the solutions that AlphaEvolve first found with frontier LLMs. Our work shows that agent swarms that communicate in latent space offer a fast, low-cost approach to program search for scientific problems."
     },
     {
@@ -300,7 +300,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2604.13081v3",
-      "hotScore": 89,
+      "hotScore": 86,
       "content": "The Forward-Forward (FF) algorithm trains networks layer-by-layer using a local \"goodness function,\" yet the choice of activity statistic remains an important design question. We systematically study how selectivity and activity shape affect FF learning, introducing selective goodness functions based on top-$k$ and entmax-weighted energy alongside shape-sensitive objectives based on normalized higher-order moments. In particular, we propose burstiness goodness, a parameter-free, scale-invariant excess-kurtosis objective that rewards heavy-tailed activity patterns. Our study examines goodness functions together with activation and label-injection choices across six small-image datasets, and uses controlled experiments to isolate their effects. In validation-tuned, five-seed Fashion-MNIST experiments with matched ReLU activation, standard label injection, and per-layer scoring, burstiness improves accuracy from $73.2\\pm0.9\\%$ to $88.6\\pm0.4\\%$ over sum-of-squares. On CIFAR-10, burstiness improves block-local ResNet-18 accuracy from $28.9\\pm0.5\\%$ to $46.8\\pm2.5\\%$ under the same separate per-block label pathway. These results show that activity-shape statistics can provide effective local learning signals across the tested settings. Code is available at https://github.com/suayptalha/ff-selectivity-shape."
     },
     {
@@ -314,7 +314,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2611.08478v1",
-      "hotScore": 89,
+      "hotScore": 85,
       "content": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes an executable environment. Our autonomous pipeline extracts each paper's open-ended research question and reproduces its proposed method as the baseline; an AI-Scientist entering the environment is evaluated against what the human authors achieved. We release the first 1,000 verified environments. With the world as an evaluation, we found that frontier AI-Scientists can already surpass the human researchers 74% of the time. As a record of how AI does science, it contains 6,400 hours of research traces, with every idea, experiment, failure, and success. As a training ground, we are able to raise (+158%) a small model to match frontier models in research ideation. At last, AI-Scientists' own world has arrived, grown from and growing with science itself."
     },
     {
@@ -329,7 +329,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2611.08472v1",
-      "hotScore": 83,
+      "hotScore": 93,
       "content": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1) a practical need, since it unlocks different hardware for researchers, and (2) a natural benchmark: it involves different frameworks and hardware, covers whole repositories, and is long-horizon and challenging. We introduce XStack, a benchmark that evaluates agents on migrating ML repositories between these two ecosystems. Each agent receives a PyTorch repository and a clean TPU machine and must deliver a JAX repository. Its output passes if it meets our grading criteria, based on the source repository's published result, authenticated and calibrated by us. Migration by agents remains unreliable: Claude Opus 5 passes 75%, GPT-5.6-sol 45%, and every other agent at most 40%. XStack is a step toward freeing ML code from its ecosystem. We release XStack to make progress toward reliable migration across frameworks and hardware measurable."
     },
     {
@@ -343,7 +343,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2611.08469v1",
-      "hotScore": 80,
+      "hotScore": 86,
       "content": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions. We ask when such a quantity is identifiable from an experiment's access, continuous in the mechanism and certifiable from finite data, and answer exactly for a deliberately demanding case - the integrated information $\\varphi$ of integrated information theory - in stochastic networks of four and five units with known ground truth. Behavior can be silent: a recurrent and a feed-forward network with identical input-output laws at their response delay carry 0.28 and 0 bits, yet internal recordings separate them within 4-53 trials. Partial access can be just as blind: in our examples, units left out of a one-step recording impose precision floors of 0.30-1.02 bits that no sample size lowers, and in all-but-self parity networks, recordings of any length see several hidden units only through the product of their fidelities - a symmetry that one intervention broke in exact checks. The measure has sharp edges: because $\\varphi$ selects a partition, and the cause and effect it specifies, by one criterion and reports another, infinitesimal changes of mechanism that cross an edge change it by 25-100% at 99% of the edges we found in random networks, and about 1% of surrogate models that fit interventional data almost perfectly misreport it by more than 20%. One-sided claims survive: the same data certify a lower bound on both sides of an edge, and we prove $\\varphi&gt;1.004$ bits throughout a 64-dimensional region of mechanisms and certify it from about $10^7$ controlled transitions with false-certificate probability at most $α$. Measurability is thus a design question with computable answers."
     },
     {
@@ -358,7 +358,7 @@
         "LLM"
       ],
       "url": "http://arxiv.org/abs/2611.08465v1",
-      "hotScore": 92,
+      "hotScore": 83,
       "content": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Maximally-Activating Example Metamodels (MAEMs), language models which map residual stream directions from a subject model to text exemplars that strongly activate those directions. Our objective is to maximise the cosine similarity of a supplied residual stream direction with the activations of the text generated by the MAEM. This label-free RL objective helps to scale MAEMs on diverse sources of residual stream directions. Empirically, we find the resultant metamodel produces informative exemplars: a Qwen3.6-27B MAEM inverts held-out activations better than corpus search or a natural-language autoencoder (NLA), beats corpus search (at 10M tokens) on a majority of held-out languages/domains, and activates 89% of held-out SAE features. It also identifies concepts behind steering vectors about as well as NLAs, recovers the payloads of LoRA backdoors more often than corpus search, and can even verbalise some model workspace inner monologue. Unlike explanations produced by other metamodels (e.g. NLAs), MAEM exemplars can be verified with a forward pass on the subject model, making the MAEM objective a grounded alternative for scaling the training of metamodels."
     },
     {
@@ -373,7 +373,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2605.26032v2",
-      "hotScore": 91,
+      "hotScore": 84,
       "content": "Creating images from noise is image generation; reconstructing fine details from coarse inputs is super-resolution. Despite their practical differences, both can be understood as reversing information loss across scales. We introduce $\\textbf{SKILD}$, a $\\textbf{S}$cale-invariant $\\textbf{K}$-Space $\\textbf{I}$mage $\\textbf{L}$earning $\\textbf{D}$iffusion model that unifies generation and continuous super-resolution within a single unconditional framework. Both natural images and critical physical systems exhibit scale invariance, and we leverage it to design a forward process that attenuates image content from fine to coarse scales while injecting spectrum-matched Gaussian noise, making scale an explicit coordinate of the diffusion dynamics. The same trained reverse process performs generation and continuous super-resolution by varying only the starting timestep: $\\textit{no task-specific architecture, no conditioning branch, no classifier-free guidance, no retraining per scale factor}$. Empirically, SKILD reaches FID $2.61$ and Inception Score $9.65$ on unconditional CIFAR-10, performs $2\\times$--$8\\times$ super-resolution on ImageNet from a single unconditional checkpoint while outperforming conditional models across perceptual metrics, and reconstructs critical Ising models whose connected four-point correlations closely track the ground truth."
     },
     {
@@ -459,7 +459,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 180607757,
-      "likes": 6076,
+      "likes": 6077,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -523,7 +523,7 @@
       "owner": "Community",
       "fullName": "Comfy-Org/MiniMax-H3",
       "downloads": 32357570,
-      "likes": 2544,
+      "likes": 2547,
       "category": "research",
       "tags": [
         "Diffusion-single-file",
@@ -570,7 +570,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
       "downloads": 30102339,
-      "likes": 3970,
+      "likes": 3971,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -616,6 +616,36 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-11-07",
+      "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home p...",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "hotScore": 90,
+      "content": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home p..."
+    },
+    {
+      "id": "fetch-gadget-1",
+      "title": "Amazon&#8217;s new basic Kindle proves you don&#8217;t need all the bells and whistles",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-11-07",
+      "description": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "hotScore": 90,
+      "content": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models...."
+    },
+    {
+      "id": "fetch-gadget-2",
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "source": "TechCrunch Gadgets",
       "date": "2026-11-07",
@@ -626,11 +656,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "hotScore": 99,
+      "hotScore": 86,
       "content": "The deal highlights the challenges of developing massive AI data centers...."
     },
     {
-      "id": "fetch-gadget-1",
+      "id": "fetch-gadget-3",
       "title": "Physicl raises $10M to make the digital world real enough for robots",
       "source": "TechCrunch Gadgets",
       "date": "2026-11-06",
@@ -641,38 +671,8 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "hotScore": 93,
+      "hotScore": 85,
       "content": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online...."
-    },
-    {
-      "id": "fetch-gadget-fb1",
-      "title": "Ray-Ban Meta Glasses Add Real-time Translation",
-      "source": "Meta Hardware",
-      "date": "2026-11-07",
-      "description": "Meta's popular smart glasses now feature real-time audio translation and multimodal AI search that understands the world around you.",
-      "category": "image",
-      "tags": [
-        "Meta",
-        "Smart-Glasses"
-      ],
-      "url": "https://about.fb.com/",
-      "hotScore": 96,
-      "content": "Ray-Ban Meta Smart Glasses continue to lead the consumer AI hardware category, showing high consumer engagement with features like hands-free capture, smart lookup, and now, instant language translation."
-    },
-    {
-      "id": "fetch-gadget-fb2",
-      "title": "Humane Launches AI Pin 2.0 with Screen Projection",
-      "source": "Humane News",
-      "date": "2026-11-07",
-      "description": "Humane introduced a new version of its AI Pin featuring a brighter laser ink projection, faster responses, and offline LLM capabilities.",
-      "category": "tooling",
-      "tags": [
-        "Humane",
-        "AI-Pin"
-      ],
-      "url": "https://humane.com",
-      "hotScore": 89,
-      "content": "The Humane AI Pin 2.0 addresses issues of thermal throttling and latency. Using quantized on-device small language models (SLMs), it provides offline translation and navigation tools."
     }
   ]
 }
