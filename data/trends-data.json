@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-10T04:55:40.256Z",
+  "updatedAt": "2026-11-10T18:57:51.330Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1209966933",
       "name": "rea",
       "owner": "morluto",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 447518,
-      "forks": 110344,
+      "stars": 449470,
+      "forks": 110689,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 394264,
-      "forks": 82855,
+      "stars": 394300,
+      "forks": 82857,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 315253,
-      "forks": 28039,
+      "stars": 315622,
+      "forks": 28069,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 262138,
-      "forks": 58427,
+      "stars": 262391,
+      "forks": 58586,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 209960,
-      "forks": 61426,
+      "stars": 210010,
+      "forks": 61435,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "stars": 200234,
-      "forks": 10537,
+      "stars": 200445,
+      "forks": 10543,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187975,
-      "forks": 45885,
+      "stars": 187986,
+      "forks": 45877,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 176770,
-      "forks": 22547,
+      "stars": 176834,
+      "forks": 22555,
       "language": "MDX",
       "category": "llm",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165275,
-      "forks": 31145,
+      "stars": 165285,
+      "forks": 31153,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 160792,
-      "forks": 25436,
+      "stars": 160871,
+      "forks": 25444,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 159505,
-      "forks": 46124,
+      "stars": 159514,
+      "forks": 46123,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 158252,
-      "forks": 23002,
+      "stars": 158309,
+      "forks": 23017,
       "language": "Svelte",
       "category": "llm",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 149287,
-      "forks": 25099,
+      "stars": 149319,
+      "forks": 25103,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 149061,
-      "forks": 13381,
+      "stars": 149174,
+      "forks": 13395,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 146025,
-      "forks": 17397,
+      "stars": 146153,
+      "forks": 17404,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,191 +260,197 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "TID System for Speech-COSER Challenge 2026: ASR Track",
+      "title": "Guiding Data Allocation for Robust Subpopulation Generalization",
       "source": "arXiv.org",
-      "date": "2026-11-08",
-      "description": "We describe the system submitted by Telefónica Innovación Digital to the Speech-COSER Challenge 2026, which features spontaneous speech from elderly speakers recorded in rural Spain. For ASR, we perform CTC-based pseudo-forced alignment sco...",
-      "category": "research",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2611.11497v1",
-      "hotScore": 88,
-      "content": "We describe the system submitted by Telefónica Innovación Digital to the Speech-COSER Challenge 2026, which features spontaneous speech from elderly speakers recorded in rural Spain. For ASR, we perform CTC-based pseudo-forced alignment scores audio-text match quality to guide a two-stage LoRA curriculum, followed by post-hoc magnitude pruning of the LoRA matrices to enhance generalization. An ensemble of seven systems combined via ROVER achieves 36.25\\% unnormalized and 22.17\\% normalized WER."
-    },
-    {
-      "id": "fetch-paper-1",
-      "title": "Regret without Optimal-Arm Feedback under Reward-Dependent Delays",
-      "source": "arXiv.org",
-      "date": "2026-11-08",
-      "description": "We study stochastic bandits with reward-dependent delays, possibly infinite, whose reports omit the originating round. For each $c\\in[0,1)$, Balanced Historical Optimism (BHO) has a delay term controlled by the largest suboptimal-arm quanti...",
-      "category": "research",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2611.11494v1",
-      "hotScore": 83,
-      "content": "We study stochastic bandits with reward-dependent delays, possibly infinite, whose reports omit the originating round. For each $c\\in[0,1)$, Balanced Historical Optimism (BHO) has a delay term controlled by the largest suboptimal-arm quantile at level $1-cΔ_i$, without requiring optimal-arm reports. Lower bounds give an inverse-square slack cost in the logarithmic statistical regime and linear minimax regret at $c=1$. A family with growing $K$ forces worst-case regret $Ω(G\\log K)$ for every learner, where $G=\\max_iΔ_i h_i$ is the largest gap-weighted suboptimal cutoff. Pending-triggered balance preserves BHO's weighted-cutoff bound for $c&lt;1$ and attains the historical-greedy exploration coefficient with deterministic rewards, a unique optimum and fixed bounded delays. Gap-weighted comparisons and experiments show when shared waiting helps and what balanced exploration costs."
-    },
-    {
-      "id": "fetch-paper-2",
-      "title": "Marking Contour Tones in Yorùbá: A Typographic and Computational Proposal",
-      "source": "arXiv.org",
-      "date": "2026-09-29",
-      "description": "Yorùbá is a tonal language in which contour tones pose persistent orthographic challenges. These are especially notable for personal names and lexical items whose conventional spellings avoid vowel lengthening that would otherwise provide a...",
-      "category": "research",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2609.38627v9",
-      "hotScore": 86,
-      "content": "Yorùbá is a tonal language in which contour tones pose persistent orthographic challenges. These are especially notable for personal names and lexical items whose conventional spellings avoid vowel lengthening that would otherwise provide a host syllable for the second tone. A particular concern is a class of names in which the conventional spelling does not just omit tonal information but inverts the meaning of said name, sometimes asserting the opposite of what the name intends. This paper describes the problem, illustrates the inadequacy of current solutions, and proposes the adoption of the caron and circumflex marks. These are symbols with precedent in Yorùbá phonological scholarship since Olmsted (1951), used as orthographic conventions on single vowels to encode rising and falling contour tones, making them accessible for the first time through standard keyboard input and computational text processing. The proposal is supported by an implementation in the WriteYoruba keyboard and the TTSYoruba speech synthesizer, whose architecture and listener evaluation are reported separately (Tubosun, Oluokun, et al. 2026)."
-    },
-    {
-      "id": "fetch-paper-3",
-      "title": "XDecideBench: Evaluating Typed Decision Models and Confidence Policies Across Languages",
-      "source": "arXiv.org",
-      "date": "2026-11-01",
-      "description": "Typed Decision Models such as Jev, Clef and pplx-decider return a probability for each answer an application provides. Applications use them in many languages, but are compared mostly in English. We introduce XDecideBench, a multilingual be...",
+      "date": "2026-11-09",
+      "description": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions, but full balance c...",
       "category": "tooling",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2611.01370v2",
-      "hotScore": 82,
-      "content": "Typed Decision Models such as Jev, Clef and pplx-decider return a probability for each answer an application provides. Applications use them in many languages, but are compared mostly in English. We introduce XDecideBench, a multilingual benchmark of nine suites in 122 languages. On our twelve-language suite, three open models fine-tuned for typed decisions beat their Qwen base models in every language. On new test data with local base models, their accuracy gain is larger in languages with less web text than in those with more. They fix a similar share of base-model errors in both, so the larger gain may reflect weaker base models. The best model on the twelve-language suite is best on only two other suites. The best English model on each suite, chosen in hindsight, is significantly beaten in about a quarter of suite and language combinations. On Belebele, Decision-1 is best in English but falls far behind Jev in Burmese. A confidence threshold fitted on English to allow 5% errors gives a higher error rate on XNLI, even in German and French. XDecideBench shows that results from one suite or from English are a poor guide to how a model and its threshold behave in other languages."
+      "url": "http://arxiv.org/abs/2611.12884v1",
+      "hotScore": 85,
+      "content": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions, but full balance can be costly, infeasible, and not always necessary. In this work, we study whether balanced training data is the unique optimal configuration for robust subpopulation generalization. We extend a Gaussian feature-model framework to theoretically characterize the performance landscape across general training subgroup distributions. We show that multiple configurations, including substantially imbalanced ones, can perform comparably to the balanced one. We further derive gradient-based directions for adjusting subgroup proportions to improve adjusted accuracy and worst-group accuracy more efficiently. These findings suggest that strategically allocating data offers a more flexible and principled path to robust performance than simple balancing. The code is available at https://github.com/zhaoyingpan/subpop-data-allocation."
+    },
+    {
+      "id": "fetch-paper-1",
+      "title": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
+      "source": "arXiv.org",
+      "date": "2026-11-09",
+      "description": "Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration steps are inexpensive, observing meaningful...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2611.12880v1",
+      "hotScore": 92,
+      "content": "Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration steps are inexpensive, observing meaningful events or transitions can require millions of sequential steps, resulting in substantial wall-clock simulation time and poor hardware utilization. Deep learning offers an alternative by amortizing many integration steps into a single neural network forward pass, potentially enabling much faster simulation. However, existing supervised approaches typically require long simulated trajectory data, which restricts their applicability. In this work, we introduce Kolmogorov-Chapman Maps (KC-Maps), a method for learning the transition kernel of an SDE that relies only on the trajectory-free marginal samples together with the known drift and diffusion coefficients. Given an initial time and state of a process, KC-Maps models its distribution integrated to any given time, corresponding to the weak solution of the SDE. To recover the correct dynamics, KC-Maps satisfies two key properties: (i) it satisfies the boundary conditions, which we incorporate directly into the neural network architecture, and (ii) it respects the Kolmogorov--Chapman equation, which provides an efficient training objective. We empirically demonstrate that KC-Maps learns to integrate the dynamics of peptide molecular systems and outperforms classical molecular dynamics in terms of GPU-hours."
+    },
+    {
+      "id": "fetch-paper-2",
+      "title": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
+      "source": "arXiv.org",
+      "date": "2026-11-09",
+      "description": "Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent interacting with an unknown environment (m...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2611.12878v1",
+      "hotScore": 88,
+      "content": "Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent interacting with an unknown environment (modeled as a Markov Decision Process) transmits quantized estimates of a temporal-difference (TD) learning update direction to a server over a finite-capacity channel. Our goal is to investigate to what extent one can preserve the statistical convergence rates achievable when the channel has infinite capacity. To that end, we propose a new algorithm called Batched Adaptively Quantized TD (BAQ-TD), which uses batching to reduce the variance of the transmitted information, and adaptive quantization to encode innovations. We prove a high-probability finite-time error bound for BAQ-TD, and show that, above a certain finite channel capacity, BAQ-TD preserves the convergence rate of unquantized TD up to logarithmic factors. Specifically, for a $d$-dimensional value function parameter, we establish that transmitting a total of $\\mathcal{O}(d \\log(T))$ bits over a horizon of length $T$ suffices to achieve the order-optimal rate of $\\tilde{\\mathcal{O}}(1/T)$, marking an exponential improvement in communication-complexity over prior work."
+    },
+    {
+      "id": "fetch-paper-3",
+      "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+      "source": "arXiv.org",
+      "date": "2026-11-09",
+      "description": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semantic retrieval over com...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2611.12872v1",
+      "hotScore": 90,
+      "content": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semantic retrieval over compressed memories and expose predefined representations, which may miss relevant memories and overlook heterogeneous evidence needs across queries. We introduce \\textbf{\\hivemem}, a multimodal memory framework that interleaves \\textbf{\\textsc{H}}or\\textbf{\\textsc{i}}zontal Memory Expansion with \\textbf{\\textsc{Ve}}rtical Evidence Composition. For horizontal memory expansion, \\hivemem organizes memory episodes into a relational graph using textual and visual anchors, expanding semantically retrieved seeds with related neighbors to recover complementary information. For vertical evidence composition, each retrieved memory retains multiple evidence forms, including compact summaries, captions, grounded visual views, raw images, and interaction history. A lightweight trainable selector independently composes an evidence subset for each retrieved memory, enabling query-adaptive utilization of heterogeneous multimodal information. This two-dimensional design jointly broadens memory coverage and adapts the evidence contributed by individual memories. Experiments across three multimodal memory benchmarks show that \\hivemem consistently improves task performance across base models while reducing token consumption by about 90\\% compared with the most efficient competing multimodal baselines."
     },
     {
       "id": "fetch-paper-4",
-      "title": "Learning through Capacity Awareness to Minimize Hospital Readmissions",
+      "title": "Bench-MFG: A Benchmark Suite for Learning in Stationary Mean Field Games",
       "source": "arXiv.org",
-      "date": "2026-11-08",
-      "description": "Predictive algorithms are increasingly used to guide hospital discharge decisions, yet these models can exhibit censoring bias for vulnerable patients due to insufficient historical data or past discharge decisions. When biased readmission ...",
-      "category": "research",
+      "date": "2026-02-13",
+      "description": "The rise of Mean Field Games (MFGs) has fostered a growing family of algorithms designed to solve large-scale multi-agent systems. However, the field currently lacks a standardized evaluation protocol, forcing researchers to rely on bespoke...",
+      "category": "agent",
       "tags": [
-        "Research"
+        "Research",
+        "Agent"
       ],
-      "url": "http://arxiv.org/abs/2611.11493v1",
-      "hotScore": 85,
-      "content": "Predictive algorithms are increasingly used to guide hospital discharge decisions, yet these models can exhibit censoring bias for vulnerable patients due to insufficient historical data or past discharge decisions. When biased readmission risk predictors are used to inform discharges, the training data generated by discharge decisions may perpetuate similar biases when predictors are re-trained, leading to a vicious cycle. We extend a queueing-based Markov decision process for hospital discharge to incorporate periodically retrained readmission risk predictors. Our key insight is that cost-optimal, \"capacity-aware\" operational decision policies can naturally diversify the lengths of stay at which patient outcomes are observed, enabling consistent estimation of readmission risk without explicit fairness constraints. We prove that repeated retraining under discharge-up-to policies converges to unbiased risk estimates under well-specification. In synthetic experiments and calibrated simulations based on patient-level data from a partner hospital, we find that where commonly used threshold-on-risk policies can remain persistently biased, discharge-up-to policies reduce learning error over status quo decision policies (such as thresholding on risk) by 24%-25%. These improvements to estimation also mitigate some forms of bias, reducing readmission cost disparities (adjusted for baseline risk differences between demographic groups) by 38%-63%. Our results demonstrate how capacity-aware decision policies can improve both predictive performance and fairness by addressing censoring bias."
+      "url": "http://arxiv.org/abs/2602.12517v2",
+      "hotScore": 94,
+      "content": "The rise of Mean Field Games (MFGs) has fostered a growing family of algorithms designed to solve large-scale multi-agent systems. However, the field currently lacks a standardized evaluation protocol, forcing researchers to rely on bespoke, isolated, and often simplistic environments. This fragmentation makes it difficult to assess the robustness, generalization, and failure modes of emerging methods. To address this gap, we propose a comprehensive benchmark suite for MFGs, focusing on the discrete-time, discrete-space, stationary setting. We introduce a taxonomy of problem classes, ranging from no-interaction and monotone games to potential and dynamics-coupled games, and provide prototypical environments for each. Furthermore, we present MF-Garnets, a method for generating random MFG instances to facilitate rigorous statistical testing. We benchmark a variety of learning algorithms across these environments, including a novel population-based approach (MF-PSO). To our knowledge, this is the first benchmark for MFGs."
     },
     {
       "id": "fetch-paper-5",
-      "title": "Moxia: A Trust-First Neuro-Symbolic Execution Architecture for Self-Explaining Mathematical Reasoning",
+      "title": "Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection",
       "source": "arXiv.org",
-      "date": "2026-05-30",
-      "description": "We present Moxia, a trust-first neuro-symbolic architecture for self-explaining mathematical reasoning over natural-language input. Its language model is strictly a canonicalizer: it rewrites informal problem text into a narrow schema consu...",
+      "date": "2026-11-09",
+      "description": "Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance from a fitted distribution, making them sen...",
+      "category": "image",
+      "tags": [
+        "Research",
+        "ImageGen"
+      ],
+      "url": "http://arxiv.org/abs/2611.12871v1",
+      "hotScore": 91,
+      "content": "Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance from a fitted distribution, making them sensitive to neighborhood scale, partitioning choices, or restrictive distributional assumptions. In this work, we introduce a new paradigm by formulating anomaly detection from a diversity perspective. We propose the $\\textit{Vendi Anomaly Score}$ (VAS), which detects anomalies by quantifying how much a sample changes the diversity of the dataset, as measured by the Vendi score, when removed. VAS captures both local redundancy and global data structure without relying on density estimation or partitioning heuristics. Moreover, VAS requires no hyperparameter tuning, instead adapting automatically to the spectral structure of the data. VAS is non-parametric and scales linearly with dataset size. Across 148 benchmark embedding datasets derived from 10 source datasets and 4 embedding architectures, VAS achieves state-of-the-art AD performance. We further validate VAS on large-scale ImageNet experiments, where it remains robust as both contamination rate and dataset scale increase."
+    },
+    {
+      "id": "fetch-paper-6",
+      "title": "Discovering formally verified quantum programs with AI",
+      "source": "arXiv.org",
+      "date": "2026-11-06",
+      "description": "The timeline by which quantum computers can solve breakthrough problems in science depends on improved quantum algorithms as much as on better hardware. Such algorithmic advances are typically achieved through many years of expert human col...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2611.09822v2",
+      "hotScore": 86,
+      "content": "The timeline by which quantum computers can solve breakthrough problems in science depends on improved quantum algorithms as much as on better hardware. Such algorithmic advances are typically achieved through many years of expert human collaboration. In mathematics and computer science, large language models have accelerated progress through automated discovery loops. However, quantum algorithms can only be evaluated by classical computers on restricted or small instances. Here we demonstrate automated discovery of quantum programs beyond these regimes including order-of-magnitude improvements on scientific applications. To achieve this, we build a quantum program library in the Lean theorem prover in which Gemini 4 agents synthesize novel programs against formal problem specifications and verify their correctness and cost. Agent teams collaborate, sharing results and knowledge through wikis and discussing ideas at organized conferences. Our results improve on prior baselines for parallel search (up to 2.55x), quantum arithmetic (290x), and simulations relevant to fusion, photochemistry and drug-metabolism by 11x, 8x and 2.5x respectively. Combining human and artificial intelligence at scale, under the rigor of mathematical proof, lets researchers design algorithms that today's classical and quantum computers cannot test, shortening the path to practical quantum computation."
+    },
+    {
+      "id": "fetch-paper-7",
+      "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
+      "source": "arXiv.org",
+      "date": "2026-11-09",
+      "description": "The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are aligning with those of vision models. However,...",
       "category": "llm",
       "tags": [
         "Research",
         "LLM"
       ],
-      "url": "http://arxiv.org/abs/2606.00671v4",
-      "hotScore": 82,
-      "content": "We present Moxia, a trust-first neuro-symbolic architecture for self-explaining mathematical reasoning over natural-language input. Its language model is strictly a canonicalizer: it rewrites informal problem text into a narrow schema consumed by a deterministic Computer-Algebra-System (CAS) pipeline, which derives the answer or abstains as a first-class output. Routing follows a 1:1:1 alignment of problem-shape regex, schema-specific prompt, and closed-form handler: 5,741 routes, 75.9% of which answer without invoking the model, with zero LOST_CORRECT regressions as a standing release gate. Because the answer is derived, so is its explanation, rendered from the steps the handler took; where the derivation fits a fragment of Lean 4 with Mathlib, the same declared data become a theorem the kernel checks. On the full 5,000-record MATH test split, designed against, Moxia answers 95.6% (4,780/5,000) with zero confident-wrong answers and abstains, saying where, on the other 220; its MATH-500 subset reads 95.2% (476/500), also with zero wrong. Earlier versions called MATH-500 held out; it is a subset of the test split, and this version says so. We release the run record by record: the problem, the expected answer, the model's transcription, the answer or abstention, the explanation, and the Lean theorem marked as compiled. 3,142 of the 4,780 correct answers carry a theorem, and all 3,142 compile; building the theorems actually served, not only a fixture corpus, found seven that did not, two of them false statements beside correct answers, all repaired before release. What we emphasize is not an accuracy figure but the forward dynamic: every logged abstain is a candidate correct after one ship cycle, since new tasks compose without regressing the registry."
-    },
-    {
-      "id": "fetch-paper-6",
-      "title": "CallCleaner: Lightweight Bioacoustic Denoising from an Audio Foundation Model",
-      "source": "arXiv.org",
-      "date": "2026-11-08",
-      "description": "Many studies of animal vocalizations require clean recordings, but animals are usually recorded in the field, with background noise from weather, vehicles, and other animals. Animal vocalization denoising is challenged by the scarcity of cl...",
-      "category": "research",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2611.11491v1",
-      "hotScore": 81,
-      "content": "Many studies of animal vocalizations require clean recordings, but animals are usually recorded in the field, with background noise from weather, vehicles, and other animals. Animal vocalization denoising is challenged by the scarcity of clean training data and the extreme diversity of animal vocalizations. Classical spectral gates leave residual noise, especially without voice activity detection (VAD), while detector-free neural denoisers designed for bioacoustics remove less noise. We show that a general-purpose source separation foundation model, SAM-Audio, removes more noise than either of these types of methods, when used without training and prompted with time spans from a simple animal VAD. To turn this heavy method into a practical tool, we distill it into CallCleaner, a 19M-parameter denoiser that needs no detector and runs ~90x faster than real time on a laptop CPU. We find that SI-SDR has limited utility in our setting as it penalizes regenerated output and conflates noise removal with call fidelity, a trade-off our separate metrics reveal. CallCleaner leaves 11 dB less noise around the call than Biodenoising, the leading neural bioacoustic denoiser with public weights, and among fast, CPU-capable systems it pushes the Pareto frontier of noise removal vs. call fidelity, without requiring a detector. We release code and weights for CallCleaner, which enables fast, private, local denoising of single-caller recordings without specialized hardware."
-    },
-    {
-      "id": "fetch-paper-7",
-      "title": "Transductive Generalization for GNNs via Optimal Transport",
-      "source": "arXiv.org",
-      "date": "2026-03-10",
-      "description": "Analyzing the generalization of graph neural networks (GNNs) on node classification is challenging: message passing induces dependencies that break the i.i.d. assumption underlying standard inductive generalization theory. While distributio...",
-      "category": "research",
-      "tags": [
-        "Research"
-      ],
-      "url": "http://arxiv.org/abs/2603.09257v2",
+      "url": "http://arxiv.org/abs/2611.12869v1",
       "hotScore": 87,
-      "content": "Analyzing the generalization of graph neural networks (GNNs) on node classification is challenging: message passing induces dependencies that break the i.i.d. assumption underlying standard inductive generalization theory. While distribution-free transductive theory resolves this dependency issue, existing classical bounds are either intractable or correlate poorly with empirical generalization. To fill this gap, we propose a transductive generalization bound based on optimal transport, connecting generalization to intra-class concentration and inter-class separation in the feature space. Empirically, our bound aligns strongly with the generalization gap. Building on this representation-based approach, we analyze how feature geometry evolves under repeated message passing. This explains the non-monotonic relationship between GNN depth and generalization, providing new insights into oversmoothing research. Practically, our bound serves as a geometry-aware regularizer that corrects the harmful behavior of message passing, yielding consistent performance improvements. The code is available at https://github.com/ml-postech/Transductive-OT-Gen-Bound."
+      "content": "The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are aligning with those of vision models. However, recent work has questioned whether this trend continues to hold for newer language models. Moreover, it has been shown that representation similarity metrics can be confounded by model depth and width, requiring appropriate baselines for interpretation. In this work, we first investigate where alignment emerges between unimodal models across model layers and representation dimensions. Next, we find that the PRH capability-alignment trend persists for newer models as long as the captions are sufficiently clean and informative. Finally, we contextualize cross-modal alignment, introducing unimodal and multimodal baselines on various datasets. Our results show that the cross-modal representational alignment of unimodal models can surpass that of explicitly aligned vision-language models, but remains substantially behind the alignment observed for models of the same modality. Code is available at https://github.com/ExplainableML/prh-closer-look."
     },
     {
-      "id": "fetch-hf-2610.36980",
-      "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations",
+      "id": "fetch-hf-2611.10556",
+      "title": "onóna: Twin Embeddings with Tied Unembeddings",
       "source": "Hugging Face Daily",
-      "date": "2026-10-27",
-      "description": "Large language model (LLM) agents are extending agent-mediated commerce on the Web from shopping for consumers to operating businesses for sellers. In online-to-offline (O2O) commerce, decisions are issued through Web-based platforms but re...",
-      "category": "agent",
+      "date": "2026-11-06",
+      "description": "Weight tying reduces the parameter cost of language models, but the usual tied output head is limited to a single softmax. We introduce onóna, a two-table parameterization that increases output expressiveness while preserving input-output w...",
+      "category": "llm",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2610.36980",
+      "url": "https://huggingface.co/papers/2611.10556",
       "hotScore": 90,
-      "content": "Large language model (LLM) agents are extending agent-mediated commerce on the Web from shopping for consumers to operating businesses for sellers. In online-to-offline (O2O) commerce, decisions are issued through Web-based platforms but realized through costly physical execution. Evaluating such agents requires going beyond individual transactions to ask whether decisions made online turn into sustained economic returns. We introduce AutoVend, a benchmark in which one LLM agent manages 20 vending machines across five site types through a Web-based operating interface for 180 simulated days. Its data-grounded simulator combines a shared warehouse, procurement lead times, paid replenishment, inventory expiration, and recurring operating costs. We evaluate five LLM agents against a rule-based inventory-control baseline and diagnose their site coordination, execution, and performance over time. Four of five evaluated LLM agents fall short of this baseline, and returns per dollar of inference cost rank models differently from returns alone. Operational analyses show that gains in individual metrics do not consistently yield stronger economic growth, as inventory and execution costs erode these gains. Trajectory analysis further reveals difficulties in grounding feasible actions, managing inventory commitments, and converting feedback into effective policy revisions."
+      "content": "Weight tying reduces the parameter cost of language models, but the usual tied output head is limited to a single softmax. We introduce onóna, a two-table parameterization that increases output expressiveness while preserving input-output weight sharing. The Transformer takes the average of two embedding tables as input, and the output head combines the softmax distributions defined by those same tables. A gate conditioned only on the current input token determines the mixture weight. Its values can be precomputed for inference, and the Transformer body remains unchanged. We evaluate onóna across Dense, Gated DeltaNet hybrid, mixture-of-experts, and Attention Residual architectures at 142M, 330M, and 1B scales. Under matched token budgets, onóna lowers final validation loss and external perplexity in 11 of 12 comparisons and raises the average accuracy over eight downstream tasks in 10 of 12. The one exception on loss is the 1B MoE model. The cost is one extra embedding table and one extra vocabulary projection."
     },
     {
-      "id": "fetch-hf-2611.10690",
-      "title": "JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation",
-      "source": "Hugging Face Daily",
-      "date": "2026-11-07",
-      "description": "Generating high-fidelity voxels while keeping their lightweight nature remains an open problem in computer vision. Current generators are either high-fidelity but computationally heavy, or lightweight but of lower fidelity. Hierarchical met...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2611.10690",
-      "hotScore": 89,
-      "content": "Generating high-fidelity voxels while keeping their lightweight nature remains an open problem in computer vision. Current generators are either high-fidelity but computationally heavy, or lightweight but of lower fidelity. Hierarchical methods keep the lightweight nature of voxels. However, their coarse levels, which decide where all finer cells can appear, are generated with the least information about the shape and are never revisited, so they are often plausible but wrong. Our key insight is to let finer cells take part in deciding coarse cells. To this end, we propose JoVox, a discrete flow matching framework that learns the joint distribution of all levels of the voxel hierarchy, instead of a separate distribution for each level, so that coarse cells can be predicted with finer cells already generated nearby. Within this framework, we further introduce a two-level prediction, which outputs the cells two levels finer at once instead of one level finer, halving the number of levels that the network processes and yielding voxels of higher fidelity. We also introduce an unmasking strategy that revisits early decisions once finer cells are generated and corrects inconsistencies in masked diffusion models. Our framework outperforms the baselines on both unconditional and image-conditioned voxel generation. Compared with the current state-of-the-art TRELLIS.2, we achieve 8x higher training throughput, 1/15 of the FLOPs in a forward pass, train on 4 vs. 32 GPUs, and obtain higher quality with an 11% lower Chamfer distance."
-    },
-    {
-      "id": "fetch-hf-2611.08452",
-      "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+      "id": "fetch-hf-2611.09709",
+      "title": "RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill",
       "source": "Hugging Face Daily",
       "date": "2026-11-05",
-      "description": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend on their ability to ...",
-      "category": "agent",
+      "description": "RidgeFill shortens prefill by not computing most of a model's upper layers for the prompt. The lower layers run exactly up to a split; from the split layer's state a per-layer map predicts every later layer's input, and each late layer writ...",
+      "category": "llm",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2611.08452",
-      "hotScore": 88,
-      "content": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend on their ability to fill in missing details, rather than on the released artifacts alone. We ask whether preserving recovered procedures and decisions improves subsequent independent reproduction. We define a standardized artifact design comprising a refined codebase, environment setup, experiment launchers, and a reproduction guide, and introduce ReproBridge, an agent workflow for constructing these refined reproducible artifacts. ReproBridge-Bench provides 1,029 tasks from 387 experiments across 36 papers, anchored by five human-verified reference scores per task. Agents attempt tasks in fresh sessions with raw code or refined artifacts; a separate Auditor checks execution evidence. Across four evaluated models, refined artifacts raise mean reproduction success from 76.4% to 92.6% and reduce downstream API spending by 19.7% on average. The cross-model success-rate spread narrows from 21.6 to 3.9 percentage points, with all four models achieving mean success rates above 90%. Removing any component reduces success in the ablation study, with the largest losses from code and environment removal. These results suggest that preserving execution knowledge helps even models with lower raw-code success reproduce experiments more reliably and at lower API cost."
+      "url": "https://huggingface.co/papers/2611.09709",
+      "hotScore": 89,
+      "content": "RidgeFill shortens prefill by not computing most of a model's upper layers for the prompt. The lower layers run exactly up to a split; from the split layer's state a per-layer map predicts every later layer's input, and each late layer writes its cache from that prediction. The design follows YOCO and DeepSeek-V4.1-Flash, where the projection is trained into the model. RidgeFill retrofits it onto models that were never trained for it: the map is a ridge regression fitted once in closed form from one pass over calibration text, the layer's own projections run unchanged, and a chosen set of rows, the last few thousand tokens, and every decoding step run the full model. Nothing is trained and no token is dropped.\n  Most of the work was in measurement, finding a repeatable methodology. Loss averaged over all tokens hides RidgeFill's error. Needle retrieval in the filled region, loss on tokens that depend on distant context, and splice tests that swap filled keys or values for exact ones show which component carries it: the keys on Llama-3.1-8B, half of it in their scale, and the values and the recurrent state on Qwen3.5-9B.\n  On Qwen3.8-27B in a llama.cpp fork on an A100, time to first token is 1.25 to 1.31x faster at 16K to 120K tokens with the maps in VRAM; RULER changes by -1.2 and -1.4 points and LongBench v2 by -1.4; the 95 % intervals include zero but do not rule out losses of a few points. On Qwen3.8-Flash-Next in vLLM it is 1.50 to 1.60x faster than exact at 9K to 32K tokens, with RULER's needle tasks at 99.8 against 100.0 and perplexity on novel tokens 2.65 % higher [-0.02 %, +4.93 %]. On three 8 to 9B reference models, at the same split and tail as the identity fill, the fitted map retrieves 49.1 and 49.6 more filled-region RULER points on the two dense models (at that split Llama's loss is worse), and its long-document loss is +/-0.03 nats of the released SwiftKV checkpoint's."
     },
     {
-      "id": "fetch-hf-2610.42148",
-      "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+      "id": "fetch-hf-2611.11740",
+      "title": "Creative Priming: Decoupling Process from Product to Escape the Creative Paradox",
       "source": "Hugging Face Daily",
-      "date": "2026-10-30",
-      "description": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existing generation-oriented inference engines ...",
-      "category": "agent",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2610.42148",
-      "hotScore": 87,
-      "content": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existing generation-oriented inference engines fail to support these workloads effectively, suffering from severe prefix recomputation overheads or distorted output probabilities. To address this challenge, we propose Flide, an efficient and exact inference engine that decouples the logical tree structure of a decision request from its physical execution within a single flattened token stream. Through ForkAttention, Flide navigates request dependencies using GPU-resident indices across both standard attention and recurrent Gated DeltaNet layers, guaranteeing in exact arithmetic that every query branch evaluates identically to an isolated forward pass. By expressing branch topologies directly in GPU-resident metadata, Flide accommodates diverse request mixtures with a compact set of pre-recorded execution graphs while enabling expanding agent histories to resume from checkpoints saved in earlier passes. Extensive evaluations on public hybrid and decision models demonstrate that Flide answers queries up to 9.5 times faster than vLLM and SGLang while staying closest to a float32 reference in total variation distance. By unifying physical execution throughput with mathematical exactness, Flide establishes a principled foundation for scalable, latency-critical decision intelligence in agent systems."
-    },
-    {
-      "id": "fetch-hf-2611.10771",
-      "title": "WorldFoundry: Towards Unified Infrastructure for World Intelligence",
-      "source": "Hugging Face Daily",
-      "date": "2026-11-07",
-      "description": "Visual generative models increasingly blur the line between synthesizing observations and simulating environments. Yet visual plausibility alone does not constitute successful world modeling: compelling outputs may lack persistent state, ph...",
+      "date": "2026-11-08",
+      "description": "Many of the most consequential advances promised by AI, from curing diseases and inventing new technologies to formulating new scientific theories, are fundamentally creative acts. Yet creativity is uniquely difficult to learn because it fa...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2611.10771",
+      "url": "https://huggingface.co/papers/2611.11740",
+      "hotScore": 88,
+      "content": "Many of the most consequential advances promised by AI, from curing diseases and inventing new technologies to formulating new scientific theories, are fundamentally creative acts. Yet creativity is uniquely difficult to learn because it faces a creative paradox: learning to repeat past examples of creative success makes those specific examples more likely to recur, inhibiting the very creativity desired. This work argues that creativity is better modeled as an explicit process rather than as a property of individual artifacts, and proposes to learn the underlying generative principles behind the creative process. In particular, to escape the paradox, we introduce creative priming (CP), wherein a trained priming model generates a prompt-specific primer that assists a response model in being creative, explicitly decoupling the creative process from response generation. The priming model learns through GRPO, rewarding primers that lead to responses that are novel, high-quality, and diverse, thereby reinforcing the process that yields creative responses without reinforcing any specific response."
+    },
+    {
+      "id": "fetch-hf-2611.12875",
+      "title": "Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks",
+      "source": "Hugging Face Daily",
+      "date": "2026-11-08",
+      "description": "Despite impressive progress, existing feed-forward large 3D reconstruction models produce a single, irrevocable prediction. When these models fail, there is no mechanism to correct their mistakes. To address this limitation, we introduce Cl...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2611.12875",
+      "hotScore": 87,
+      "content": "Despite impressive progress, existing feed-forward large 3D reconstruction models produce a single, irrevocable prediction. When these models fail, there is no mechanism to correct their mistakes. To address this limitation, we introduce Click3R, a framework for interactive geometric correction of feed-forward models using sparse human correspondence clicks. Given an image pair and a small set of cross-view point correspondences provided by a user, Click3R injects geometric constraints into the 3D reconstruction networks through a lightweight point correspondence adapter, enabling the model to resolve ambiguities in challenging scenarios such as repetitive textures, symmetric structures, large viewpoint changes, or textureless regions. To evaluate interactive reconstruction, we curate a challenging benchmark specifically designed to expose failure modes of existing feed-forward 3D reconstruction methods. Experiments show that Click3R reduces reconstruction error with as few as a single correspondence click, improving performance on both standard and our curated benchmarks. Our results highlight that sparse human interaction provides an effective and practical mechanism for correcting geometric reconstruction errors."
+    },
+    {
+      "id": "fetch-hf-2610.37570",
+      "title": "LCM-Promo: An LLM-Based Uplift Model for Promotion Allocation",
+      "source": "Hugging Face Daily",
+      "date": "2026-10-27",
+      "description": "We present LCM-Promo, an LLM-based uplift model for promotion allocation. LCM-Promo is a task-specific Large Commerce Model (LCM): a finetuned LLM trained on transactional commerce data to predict user intent and promotion response. It lear...",
+      "category": "llm",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2610.37570",
       "hotScore": 86,
-      "content": "Visual generative models increasingly blur the line between synthesizing observations and simulating environments. Yet visual plausibility alone does not constitute successful world modeling: compelling outputs may lack persistent state, physical dynamics, or causally consistent responses to interactions. We define a generative world model as a predictive dynamical system that maintains a persistent, history-conditioned representation of an environment, updates that representation in response to actions or interventions, and generates temporally coherent trajectories that reflect outcomes under observed and counterfactual interventions. From this definition, we derive an intelligence-oriented framework spanning perceptual grounding, persistent state modeling, controllable transformation, dynamics-aware prediction, and closed-loop interaction. We present WorldFoundry, open-source infrastructure for reproducible inference and evaluation across video, 3D and 4D, embodied action, and interactive world systems. WorldFoundry unifies model and benchmark discovery, runtime and asset preparation, execution orchestration, artifact management, and interactive visualization, while modality-specific adapters preserve native inputs, execution semantics, output representations, and evaluation protocols. Explicit manifests, durable artifact contracts, and evidence-aware scorecards separate execution readiness from evaluative claims, making each claim traceable to its supporting artifacts. The catalog contains 270 model entries, 74 benchmarks, and 62 registered metric entries, with readiness and execution evidence recorded separately. WorldFoundry enables reproducible comparison of persistent, controllable dynamics across heterogeneous systems, advancing the field from perceptual synthesis toward measurable world intelligence."
+      "content": "We present LCM-Promo, an LLM-based uplift model for promotion allocation. LCM-Promo is a task-specific Large Commerce Model (LCM): a finetuned LLM trained on transactional commerce data to predict user intent and promotion response. It learns monotonic promotion-response curves from production logs by interpreting single-token outputs as conversion-threshold probabilities, while conditioning on session context such as day and delivery shift. In a production A/B test on churn reactivation, LCM-Promo increased conversion by 1% and reduced promotion cost by 6% relative to the Segment-EMA production baseline."
     }
   ],
   "hfModels": [
@@ -453,8 +459,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 177602109,
-      "likes": 6087,
+      "downloads": 177011779,
+      "likes": 6092,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -469,8 +475,8 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 63128527,
-      "likes": 441,
+      "downloads": 62404301,
+      "likes": 443,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -485,7 +491,7 @@
       "name": "whisperkit-coreml",
       "owner": "Community",
       "fullName": "argmaxinc/whisperkit-coreml",
-      "downloads": 51550655,
+      "downloads": 54455770,
       "likes": 262,
       "category": "research",
       "tags": [
@@ -501,7 +507,7 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 47585573,
+      "downloads": 47146596,
       "likes": 669,
       "category": "research",
       "tags": [
@@ -517,8 +523,8 @@
       "name": "MiniMax-H3",
       "owner": "Community",
       "fullName": "Comfy-Org/MiniMax-H3",
-      "downloads": 32229772,
-      "likes": 2579,
+      "downloads": 32531539,
+      "likes": 2585,
       "category": "research",
       "tags": [
         "Diffusion-single-file",
@@ -532,8 +538,8 @@
       "name": "gpt2",
       "owner": "Community",
       "fullName": "openai-community/gpt2",
-      "downloads": 31775505,
-      "likes": 3924,
+      "downloads": 32217183,
+      "likes": 3926,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -548,7 +554,7 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 30996824,
+      "downloads": 31436641,
       "likes": 3064,
       "category": "research",
       "tags": [
@@ -560,27 +566,11 @@
       "hotScore": 88
     },
     {
-      "id": "fetch-model-BAAI--bge-m3",
-      "name": "bge-m3",
-      "owner": "Community",
-      "fullName": "BAAI/bge-m3",
-      "downloads": 29564329,
-      "likes": 3981,
-      "category": "research",
-      "tags": [
-        "Sentence-similarity",
-        "Sentence-transformers",
-        "Pytorch"
-      ],
-      "url": "https://huggingface.co/BAAI/bge-m3",
-      "hotScore": 86
-    },
-    {
       "id": "fetch-model-autogluon--chronos-2",
       "name": "chronos-2",
       "owner": "Community",
       "fullName": "autogluon/chronos-2",
-      "downloads": 29494100,
+      "downloads": 30344866,
       "likes": 94,
       "category": "research",
       "tags": [
@@ -589,6 +579,22 @@
         "Safetensors"
       ],
       "url": "https://huggingface.co/autogluon/chronos-2",
+      "hotScore": 86
+    },
+    {
+      "id": "fetch-model-BAAI--bge-m3",
+      "name": "bge-m3",
+      "owner": "Community",
+      "fullName": "BAAI/bge-m3",
+      "downloads": 29334229,
+      "likes": 3985,
+      "category": "research",
+      "tags": [
+        "Sentence-similarity",
+        "Sentence-transformers",
+        "Pytorch"
+      ],
+      "url": "https://huggingface.co/BAAI/bge-m3",
       "hotScore": 84
     },
     {
@@ -596,7 +602,7 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 27107729,
+      "downloads": 26935053,
       "likes": 1502,
       "category": "llm",
       "tags": [
@@ -611,48 +617,78 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
-      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "title": "Pixel Tag, Google&#8217;s $30 Android-ready answer to Apple&#8217;s AirTag, is now available",
       "source": "TechCrunch Gadgets",
-      "date": "2026-11-09",
-      "description": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation....",
+      "date": "2026-11-10",
+      "description": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-      "hotScore": 86,
-      "content": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation...."
+      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+      "hotScore": 90,
+      "content": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag...."
     },
     {
       "id": "fetch-gadget-1",
-      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+      "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
       "source": "TechCrunch Gadgets",
-      "date": "2026-11-09",
-      "description": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service....",
-      "category": "research",
+      "date": "2026-11-10",
+      "description": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud....",
+      "category": "image",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+      "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
       "hotScore": 92,
-      "content": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service...."
+      "content": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud...."
     },
     {
       "id": "fetch-gadget-2",
-      "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
       "source": "TechCrunch Gadgets",
-      "date": "2026-11-09",
-      "description": "The update to Waymo's self-driving system was rolled out nearly a year ago....",
+      "date": "2026-11-10",
+      "description": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
-      "hotScore": 92,
-      "content": "The update to Waymo's self-driving system was rolled out nearly a year ago...."
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "hotScore": 89,
+      "content": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity...."
+    },
+    {
+      "id": "fetch-gadget-3",
+      "title": "Reddit is turning user conversations into AI-powered product reviews",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-11-10",
+      "description": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+      "hotScore": 91,
+      "content": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays...."
+    },
+    {
+      "id": "fetch-gadget-4",
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-11-10",
+      "description": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "hotScore": 86,
+      "content": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses...."
     }
   ]
 }
