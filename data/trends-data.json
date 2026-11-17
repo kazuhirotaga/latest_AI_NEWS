@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-17T05:26:16.405Z",
+  "updatedAt": "2026-11-17T20:07:44.036Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1209966933",
       "name": "rea",
       "owner": "morluto",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 464561,
-      "forks": 113717,
+      "stars": 466023,
+      "forks": 114043,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 394615,
-      "forks": 82909,
+      "stars": 394671,
+      "forks": 82920,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 318771,
-      "forks": 28405,
+      "stars": 319204,
+      "forks": 28462,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 263986,
-      "forks": 59534,
+      "stars": 264174,
+      "forks": 59599,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 210691,
-      "forks": 61533,
+      "stars": 210940,
+      "forks": 61639,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -90,9 +90,9 @@
       "id": "fetch-repo-787076358",
       "name": "firecrawl",
       "owner": "firecrawl",
-      "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "stars": 202415,
-      "forks": 10604,
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "stars": 202597,
+      "forks": 10607,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 188068,
-      "forks": 45856,
+      "stars": 188078,
+      "forks": 45866,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 177691,
-      "forks": 22664,
+      "stars": 177755,
+      "forks": 22669,
       "language": "MDX",
       "category": "llm",
       "tags": [
@@ -143,7 +143,7 @@
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
       "stars": 165327,
-      "forks": 31114,
+      "forks": 31115,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 161314,
-      "forks": 25516,
+      "stars": 161370,
+      "forks": 25517,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -176,7 +176,7 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、���据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 159593,
+      "stars": 159604,
       "forks": 46106,
       "language": "JavaScript",
       "category": "research",
@@ -193,8 +193,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 158872,
-      "forks": 23090,
+      "stars": 158950,
+      "forks": 23094,
       "language": "Svelte",
       "category": "llm",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 150144,
-      "forks": 13488,
+      "stars": 150255,
+      "forks": 13499,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 149736,
-      "forks": 25147,
+      "stars": 149788,
+      "forks": 25151,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 147221,
-      "forks": 17586,
+      "stars": 147342,
+      "forks": 17600,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -260,196 +260,195 @@
   "aiNews": [
     {
       "id": "fetch-paper-0",
-      "title": "STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies",
+      "title": "Latent Lattice Language Models",
       "source": "arXiv.org",
       "date": "2026-11-16",
-      "description": "Multimodal reinforcement learning (MRL) offers a promising paradigm for autonomous driving by jointly leveraging complementary sensor observations to learn effective decision-making policies. However, its effectiveness critically depends on...",
-      "category": "research",
+      "description": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the n...",
+      "category": "llm",
       "tags": [
-        "Research"
+        "Research",
+        "LLM"
       ],
-      "url": "http://arxiv.org/abs/2611.20765v1",
-      "hotScore": 91,
-      "content": "Multimodal reinforcement learning (MRL) offers a promising paradigm for autonomous driving by jointly leveraging complementary sensor observations to learn effective decision-making policies. However, its effectiveness critically depends on temporal alignment across modalities, making temporal inconsistency a fundamental vulnerability. Even subtle misalignment or latency can corrupt fused representations and ultimately lead to decision failures. Existing studies have explored adversarial attacks to induce cross-modal temporal inconsistencies, thereby enabling systematic evaluation of the temporal robustness of MRL policies. However, existing methods remain limited in generality, realism, and adaptivity. To address these limitations, we propose the Split Temporal Adversary (STA), which formulates multimodal temporal attacks as a unified decision process that jointly optimizes attack timing and modality selection under realistic policy-aware and budget-constrained settings. STA includes two mechanisms: a) a unified multimodal temporal perturbation mechanism that delays observations via historical states, removing the need for modality-specific noise; b) a split multimodal adversarial decision mechanism that jointly optimizes attack timing and modality selection through adaptive optimization while leveraging the victim policy's clean actions to identify sensitive decision patterns. We provide a theoretical analysis of the induced distribution shift and a modality selection principle. Experiments in the CARLA simulator show that STA more than doubles the collision rate of the strongest baseline against PPO while using 17.8\\% fewer attack attempts, and that it generalizes to a VLM-based driving policy. These results reveal temporal consistency as a critical vulnerability, highlighting temporal robustness as essential for safe autonomous driving."
+      "url": "http://arxiv.org/abs/2611.21608v1",
+      "hotScore": 93,
+      "content": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the number of active computational states a model maintains. We introduce the Lattice of Latents, a set of per-layer horizontal latent streams that run recurrently along time, alongside the vertical residual stream that flows through depth. Like hyper-connections, mHC, and attention or value residuals, the Lattice enhances the residual stream, but rather than adding or rerouting residual pathways through depth, it provides companion computational states that persist across tokens. Unlike hybrid Transformer-SSM architectures, whose recurrent states primarily serve as internal memory for sequence mixing, these latents directly condition the vertical stream's attention, KV-cache writes, MLP computation, and decoding. On Transformers trained on 20B FineWeb-Edu tokens, a 406M-parameter Lattice model lowers validation perplexity from 15.41 to 14.40 over a parameter-matched Transformer. These gains extend across architectural variants. The Lattice composes with prior residual-stream enhancements: with hyper-connections and input residuals, it lowers validation perplexity from 15.41 (base Transformer) and 14.22 (Transformer with the same enhancements) to 13.61. On Gated DeltaNet, Mamba-2, Triadic GDN, and GDN-Mamba-2 hybrids, it improves perplexity at every tested native state size, with Lattice-GDN and Lattice-Triadic-GDN variants outperforming pure baselines with 4x larger native states. These results identify persistent per-layer state as a complementary axis for scaling language-model computation."
     },
     {
       "id": "fetch-paper-1",
-      "title": "MindTopo: Can Foundation Models Reason in Topological Space?",
+      "title": "AI4BayesCode: From Natural Language Descriptions to Validated Modular Stateful Bayesian Samplers",
       "source": "arXiv.org",
-      "date": "2026-09-10",
-      "description": "Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also on topological relations that remain invariant under continuous deformation. Cognitive science identifies these relations as foundational t...",
+      "date": "2026-05-18",
+      "description": "Coding and computation remain major bottlenecks in Markov chain Monte Carlo (MCMC) workflows, especially as modern sampling algorithms have become increasingly complex and existing probabilistic programming systems remain limited in model s...",
       "category": "agent",
       "tags": [
         "Research",
         "Agent"
       ],
-      "url": "http://arxiv.org/abs/2609.11900v2",
+      "url": "http://arxiv.org/abs/2605.18476v3",
       "hotScore": 92,
-      "content": "Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also on topological relations that remain invariant under continuous deformation. Cognitive science identifies these relations as foundational to spatial understanding, yet foundation-model evaluations largely focus on metric or viewpoint-dependent relations. We introduce MindTopo, a benchmark of topological intuition across five properties grounded in cognitive science and formal topology, namely continuity, separation, order, enclosure, and knots. MindTopo evaluates each property at two cognitive levels. Reasoning asks a model to identify topological relations or infer how they change. Planning instantiates a foundation model as a closed-loop agent whose policy selects environment actions. MindTopo provides a Core Set of 3,900 instances across 13 procedurally generated task types, split into an Easy and a Hard level, and an Extended Set of 11,035 original instances. On the Core Set, we benchmark 13 multimodal large language models (MLLMs) and study agent configurations augmented with image and video generation, covering seven video generative models in planning settings. Every MLLM performs better on reasoning than on planning. On the Easy level, where human scores are available, the strongest model trails humans in both reasoning and planning. On Qwen3-VL-2B-Instruct, supervised fine-tuning and reinforcement learning improve reasoning more than planning. Generated observations retain local cues and reach solved endpoints, yet none of the 1,890 evaluated video rollouts passes all process-validity checks."
+      "content": "Coding and computation remain major bottlenecks in Markov chain Monte Carlo (MCMC) workflows, especially as modern sampling algorithms have become increasingly complex and existing probabilistic programming systems remain limited in model support, extensibility, and composability. We introduce AI4BayesCode, an extensible LLM-driven system that translates natural-language Bayesian model descriptions into runnable, validated MCMC samplers. To improve reliability, AI4BayesCode adopts a modular design that decomposes models into modular sampling blocks and maps each block to a built-in sampling component, reducing the need to implement complex sampling algorithms from scratch. Reliability is further improved through pre-generation validation of model specifications and post-generation validation of generated sampler code. AI4BayesCode also introduces a novel recursively stateful coding paradigm for MCMC, allowing modular sampling components, potentially developed by different contributors, to be composed coherently within larger MCMC procedures. We develop a benchmark suite to evaluate AI4BayesCode for sampler-generation. Experiments show that AI4BayesCode can implement a wide range of Bayesian models from natural-language descriptions alone. As an open-ended system, its capability can continue to expand with improvements in the underlying AI agent and the addition of new built-in blocks. The software is available at https://ai4bayescode.com/."
     },
     {
       "id": "fetch-paper-2",
-      "title": "quanda: An Interpretability Toolkit for Training Data Attribution Evaluation",
+      "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
       "source": "arXiv.org",
-      "date": "2024-10-09",
-      "description": "Training data attribution (TDA) methods estimate the influence of individual training samples on a model's predictions, offering a principled lens for interpreting neural networks. Despite rapid methodological progress, TDA evaluation remai...",
-      "category": "image",
-      "tags": [
-        "Research",
-        "ImageGen"
-      ],
-      "url": "http://arxiv.org/abs/2410.07158v3",
-      "hotScore": 91,
-      "content": "Training data attribution (TDA) methods estimate the influence of individual training samples on a model's predictions, offering a principled lens for interpreting neural networks. Despite rapid methodological progress, TDA evaluation remains scattered across papers and rarely reproducible, making fair comparison between methods challenging. We introduce quanda, a Python toolkit that standardizes TDA evaluation. quanda features a comprehensive collection of evaluation metrics and ready-to-use benchmarks spanning image classification, text classification, and language modeling, alongside a uniform interface for integrating diverse TDA implementations. We showcase quanda through a comparative study of existing TDA methods and find that no approach excels uniformly across metrics, with clear trade-offs between ground-truth faithfulness and downstream task performance. By consolidating the tooling around TDA, quanda equips the community to evaluate attribution methods rigorously and reproducibly. The toolkit is thoroughly tested, documented, and available as an open-source library on PyPI and at https://github.com/dilyabareeva/quanda."
-    },
-    {
-      "id": "fetch-paper-3",
-      "title": "A Survey of Bugs in AI-Generated Code",
-      "source": "arXiv.org",
-      "date": "2025-12-04",
-      "description": "AI coding systems are increasingly used to help developers write code at scale, improving software development efficiency and boosting productivity. While these models and agents have shown strong performance, concerns persist regarding the...",
+      "date": "2026-11-16",
+      "description": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer...",
       "category": "agent",
       "tags": [
         "Research",
         "Agent"
       ],
-      "url": "http://arxiv.org/abs/2512.05239v2",
-      "hotScore": 90,
-      "content": "AI coding systems are increasingly used to help developers write code at scale, improving software development efficiency and boosting productivity. While these models and agents have shown strong performance, concerns persist regarding the quality of the AI-generated code. Although prior work has reported a range of quality issues associated with AI-generated code, these findings remain scattered and lack a systematic synthesis. A comprehensive review is lacking that demonstrates the bug types, patterns, distribution, their correlation with specific AI coding systems, and the remediation strategies proposed to address them. To fill this gap, we conduct a systematic literature review of existing studies on AI-generated code to develop a comprehensive understanding of bugs in the generated code and provide a foundation for future improvements in AI-assisted coding. Our results show that bugs are widespread in AI-generated code, with functional and stability bugs emerging as the most frequently reported categories across the reviewed studies, a substantial proportion of which is attributed to model hallucination. Model size, instruction-following capability, and the quality and diversity of training data are key factors influencing bug occurrence. To mitigate bugs, prompt engineering techniques are widely used; however, certain domain-specific or semantically complex issues remain difficult to resolve automatically and still require human intervention."
+      "url": "http://arxiv.org/abs/2611.21605v1",
+      "hotScore": 81,
+      "content": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer cannot correct this, because a guess earns the same reward as reading. We propose Cross-Input Relative Policy Optimization (CrossRPO), which trains agents on contrast sets. A contrast set asks one question about several versions of an image that differ only in a small region with the evidence and have different answers, so only reading the evidence solves the whole set. CrossRPO rewards solving the whole set, and we prove that it does not reinforce a set answered from common sense. We build contrast sets for training (ViRA-Train) and evaluation (ViRA-Bench) by editing one small object in images of 21 to 120 megapixels, and we photograph further sets with real changes (ViRA-Bench-Real) to exclude editing traces. We train two Visual Reasoning Agents, ViRA-9B and ViRA-27B, with CrossRPO on only about 3,500 items of ViRA-Train each. CrossRPO achieves 63.3% set accuracy on ViRA-Bench at the maximum resolution, against 59.3% for GRPO. ViRA-9B is the most accurate open model of its size on all benchmarks, and ViRA-27B outperforms Claude Haiku 5.5 and GPT-6-Luna, both at their highest thinking level, on most benchmarks."
     },
     {
-      "id": "fetch-paper-4",
-      "title": "Functional Degeneracy in Neural Networks: Measurement and Pruning",
+      "id": "fetch-paper-3",
+      "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
       "source": "arXiv.org",
-      "date": "2026-08-31",
-      "description": "A central question in modern machine learning is how much a trained model can be compressed without changing its behavior, to reduce the memory, compute and energy required to deploy it. To study this, we quantify functional degeneracy thro...",
+      "date": "2026-11-16",
+      "description": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for intensity forecasting beyond a set of numeri...",
       "category": "tooling",
       "tags": [
         "Research"
       ],
-      "url": "http://arxiv.org/abs/2608.30741v2",
-      "hotScore": 85,
-      "content": "A central question in modern machine learning is how much a trained model can be compressed without changing its behavior, to reduce the memory, compute and energy required to deploy it. To study this, we quantify functional degeneracy through the behavioral recovery rank, the number of leading behavioral-Hessian eigendirections required to recover a model's performance to a given tolerance. Using it as a geometric benchmark for compression, we find that the rank flattens once the task is saturated, while the number of parameters retained by one-shot pruning keeps growing. This gap suggests that functional degeneracy is distributed across parameter directions and not exposed by individual weights or neurons."
+      "url": "http://arxiv.org/abs/2611.21602v1",
+      "hotScore": 81,
+      "content": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for intensity forecasting beyond a set of numerical predictors. For 637 Atlantic and eastern North Pacific tropical cyclones from the 2002-2023 hurricane seasons, we analyze the discussion text and its combination with 13 hurricane environmental predictors from SHIPS and ERA5 10-meter wind fields, for forecasting intensity changes at lead times of 24 to 120 hours using three modeling methods. In one approach, an end-to-end deep learning framework for the text shows that the discussions alone offer comparable value for 24-hour intensity forecasts to the SHIPS predictors. Adding discussion information to the SHIPS predictors in an ensemble of five such models reduces the mean absolute error of 24-hour maximum sustained wind forecasts for 2022-2023 cyclones from 9.89 to 8.90 kt, with a confidence interval that excludes zero when whole storms are resampled. The ERA5 wind fields have a minor effect on mean absolute error in wind predictions, and model rankings differ across predicted variables, lead times and model types. We provide prediction intervals for these forecasts, whose coverage falls below the 90% target during rapid intensification. Analysis of the text shows that words related to intensity and intensity change (such as intensify, weaken, eyewall and category) are important for the model predictions. This retrospective study shows the added value of the forecasters' discussions and suggests that multi-modal learning can help understand the predictive contribution of expert human judgment. The reanalysis data differ from real-time analyses, and the discussions are issued at least three hours after the valid time of the other inputs, so these results should not be interpreted operationally."
     },
     {
-      "id": "fetch-paper-5",
-      "title": "Instant Weight-Space Consolidation for Long-Term Memory in LLMs",
+      "id": "fetch-paper-4",
+      "title": "How VLMs Plan What's Next",
       "source": "arXiv.org",
       "date": "2026-11-16",
-      "description": "Agentic memory systems give LLMs persistent memory by extracting experience into text and retrieving it at query time, but the model itself does not evolve: however many interactions it has had, it starts each query the same. Extraction err...",
-      "category": "agent",
-      "tags": [
-        "Research",
-        "Agent"
-      ],
-      "url": "http://arxiv.org/abs/2611.20759v1",
-      "hotScore": 81,
-      "content": "Agentic memory systems give LLMs persistent memory by extracting experience into text and retrieving it at query time, but the model itself does not evolve: however many interactions it has had, it starts each query the same. Extraction errors compound, implicit cross-session patterns that no single fragment states cannot be surfaced, and the construction cost grows with every conversation. Fine-tuning on past interactions does change the weights, but requires backpropagation at serving time and degrades on long histories. We introduce CLAM (Carried Latent Adapter Memory), which combines the strengths of both: a recurrent hypernetwork performs parametric consolidation, compiling a stream of session activations into a low-rank adapter in a single forward pass with no gradient steps and no language-model generation calls, while a complementary episodic buffer supplies verbatim detail at inference. A gated latent state carries knowledge across sessions in fixed size, so the parametric memory accumulates without growing. On LoCoMo and LongMemEval-S across three open models (2-7B parameters), CLAM leads all agentic baselines by 1-45 points and all gradient-based parametric methods by 10-45 points, while requiring zero generative LLM calls, zero gradient steps, and 3-151x less wall-clock time than extraction systems to build its memory. The two channels are complementary: the consolidated adapter adds 12-15 accuracy points when the episodic buffer misses the gold evidence, and still adds 4-5 points even with an oracle buffer."
-    },
-    {
-      "id": "fetch-paper-6",
-      "title": "CODE-SHARP: Continuous Open-ended Discovery and Evolution of Skills as Hierarchical Reward Programs",
-      "source": "arXiv.org",
-      "date": "2026-02-10",
-      "description": "A core quality of general intelligence is the ability to open-endedly expand and evolve its set of mastered skills autonomously. While recent Foundation Model (FM) driven approaches have shown promising results towards this goal, they typic...",
-      "category": "agent",
-      "tags": [
-        "Research",
-        "Agent"
-      ],
-      "url": "http://arxiv.org/abs/2602.10085v4",
-      "hotScore": 89,
-      "content": "A core quality of general intelligence is the ability to open-endedly expand and evolve its set of mastered skills autonomously. While recent Foundation Model (FM) driven approaches have shown promising results towards this goal, they typically rely on significant human-in-the-loop engineering, limiting their transferability to novel environments. To address this, we introduce Continuous Open-ended Discovery and Evolution of Skills as Hierarchical Reward Programs (CODE-SHARP), a framework that leverages FMs to open-endedly grow and evolve an archive of Python programs encoding skills to train a generalist agent policy entirely from scratch via reinforcement learning, directly from source code. These programs, termed Skills as Hierarchical Reward Programs (SHARPs), each encode a local success condition and a set of prerequisites delegated to previously discovered SHARPs. At runtime, SHARPs dynamically route the agent through their prerequisite chain based on the current state, rewarding each completion along the way, requiring the agent to learn only the marginal behaviour each new SHARP introduces, enabling efficient learning of long-horizon skills without any pre-defined rewards. On Craftax-Classic and XLand-MiniGrid, agents trained fully autonomously by CODE-SHARP outperform previous works by 6x and 2.7x in median performance and are the only agents capable of crafting iron tools and mining diamonds. On AI2-THOR, CODE-SHARP achieves 66.7% median success versus 0% for ELLM and OMNI, using only the initial environment state instead of the full source code. Scaled to Craftax-Extended, CODE-SHARP trains a generalist agent on over 90 discovered SHARPs, enabling the agent to solve challenging long-horizon tasks zero-shot, matching agents trained on ground-truth rewards."
-    },
-    {
-      "id": "fetch-paper-7",
-      "title": "Skeleton-to-Image Encoding: Enabling Skeleton Representation Learning via Vision-Pretrained Models",
-      "source": "arXiv.org",
-      "date": "2026-03-06",
-      "description": "Recent advances in large-scale pretrained vision models have demonstrated impressive capabilities across a wide range of downstream tasks, including cross-modal and multi-modal scenarios. However, their direct application to 3D human skelet...",
+      "description": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM uses to decide where to look before it ...",
       "category": "image",
       "tags": [
         "Research",
         "ImageGen"
       ],
-      "url": "http://arxiv.org/abs/2603.05963v3",
-      "hotScore": 83,
-      "content": "Recent advances in large-scale pretrained vision models have demonstrated impressive capabilities across a wide range of downstream tasks, including cross-modal and multi-modal scenarios. However, their direct application to 3D human skeleton data remains challenging due to fundamental differences in data format. Moreover, the scarcity of large-scale skeleton datasets and the need to incorporate skeleton data into multi-modal action recognition without introducing additional model branches present significant research opportunities. To address these challenges, we introduce Skeleton-to-Image Encoding (S2I), a novel representation that transforms skeleton sequences into image-like data by partitioning and arranging joints based on body-part semantics and resizing to standardized image dimensions. This encoding enables, for the first time, the use of powerful vision-pretrained models for self-supervised skeleton representation learning, effectively transferring rich visual-domain knowledge to skeleton analysis. While existing skeleton methods often design models tailored to specific, homogeneous skeleton formats, they overlook the structural heterogeneity that naturally arises from diverse data sources. In contrast, our S2I representation offers a unified image-like format that naturally accommodates heterogeneous skeleton data. Extensive experiments on NTU-60, NTU-120, and PKU-MMD demonstrate the effectiveness and generalizability of our method for self-supervised skeleton representation learning, including under challenging cross-format evaluation settings."
+      "url": "http://arxiv.org/abs/2611.21600v1",
+      "hotScore": 80,
+      "content": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM uses to decide where to look before it looks. The mechanism has four main parts. First, binding heads match the relevant text tokens against the image and resolve them into pointers to the matched image region. Second, the same binding heads bind each written answer to the region it came from, and the model turns it into a progress signal: a cursor, the position in the image up to which the list has been written. Third, a select step chooses the nearest unwritten region after the cursor, or stops. Finally, gaze heads execute the chosen pointer and return a concept of what is drawn there, which language heads and the late MLPs turn into a word in the language of the question. We validate each part of this mechanism through causal patching in Qwen3-VL models on a synthetic visual retrieval task, and test our mechanisms against alternative hypotheses. We further show that the mechanism holds across input formats, natural photographs, and languages, and that its binding, relay, and gaze heads appear at every model size from 2B to 32B. This work allows us to investigate how a VLM turns a question and an image into a sequence of answers, layer by layer and token by token. More broadly, it opens a way to study how models plan over complex multi-step tasks with long rollouts. Our project is available at https://plan.baulab.info/"
     },
     {
-      "id": "fetch-hf-2611.16661",
-      "title": "Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination",
+      "id": "fetch-paper-5",
+      "title": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks",
+      "source": "arXiv.org",
+      "date": "2026-11-16",
+      "description": "We introduce Hyperlyve (Hyperplane Partitioned Lyapunov Verification and Enumeration), a framework for proving the asymptotic stability of nonlinear dynamical systems, including those with neural network controllers. Hyperlyve learns and fo...",
+      "category": "tooling",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2611.21599v1",
+      "hotScore": 85,
+      "content": "We introduce Hyperlyve (Hyperplane Partitioned Lyapunov Verification and Enumeration), a framework for proving the asymptotic stability of nonlinear dynamical systems, including those with neural network controllers. Hyperlyve learns and formally certifies continuous piecewise-affine (CPA) neural Lyapunov functions within a counterexample-guided inductive synthesis (CEGIS) loop. Hyperlyve's key innovation is a parallel algorithm that enumerates the hyperplane arrangement formed by the ReLU activations of deep networks and certifies that Lyapunov conditions hold within each polyhedral region. We derive sound and complete regional tests to verify the asymptotic stability of the exact smooth dynamics (rather than a piecewise-linear approximation) within a compact domain of interest. Furthermore, we formally characterize the computational complexity of the CPA neural Lyapunov verification problem as co-NP-complete, filling a key gap in the literature. Empirical results demonstrate that Hyperlyve enumerates ReLU networks over 150-times faster than competing tools, which contributes to Hyperlyve proving the asymptotic stability of systems that are currently intractable for state-of-the-art verifiers."
+    },
+    {
+      "id": "fetch-paper-6",
+      "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
+      "source": "arXiv.org",
+      "date": "2026-11-16",
+      "description": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evolutionary search can provide a reusable ...",
+      "category": "agent",
+      "tags": [
+        "Research",
+        "Agent"
+      ],
+      "url": "http://arxiv.org/abs/2611.21598v1",
+      "hotScore": 90,
+      "content": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evolutionary search can provide a reusable memory when combined with environment detection and failure-driven search. The Evolutionary Neuroplastic Agent (ENA) evolves small neural networks without gradients, archives selected policies by detected dynamic regime, and retrieves them through Bayesian policy reuse. The architecture was evaluated in non-stationary CartPole and HalfCheetah environments. In the 30-replicate CartPole ablation, the complete architecture achieved a mean success rate of 83.2% across the five test environments. Among variants that learned the harder CartPole environments, the complete architecture showed the most consistent retention. A selection ablation also showed that the retrieval rule affected performance. In the evaluated sequences, ENA adapted more slowly than PPO on CartPole and achieved lower returns than SAC on HalfCheetah. The evidence concerns the complete architecture and does not isolate gradient-free optimization as the cause of retention or establish superiority over other continual-learning methods."
+    },
+    {
+      "id": "fetch-paper-7",
+      "title": "Optimal Autoregressive Chain-of-Thought Learning via Bagging",
+      "source": "arXiv.org",
+      "date": "2026-11-16",
+      "description": "We study how to learn an autoregressive next-token generator $f\\colonΣ^\\star\\toΣ$ from a class $\\mathcal{F}$, given chain-of-thought (CoT) demonstrations of length $T$ generated by $f$. We present a simple algorithm based on bagging, which ...",
+      "category": "research",
+      "tags": [
+        "Research"
+      ],
+      "url": "http://arxiv.org/abs/2611.21597v1",
+      "hotScore": 92,
+      "content": "We study how to learn an autoregressive next-token generator $f\\colonΣ^\\star\\toΣ$ from a class $\\mathcal{F}$, given chain-of-thought (CoT) demonstrations of length $T$ generated by $f$. We present a simple algorithm based on bagging, which outputs a majority vote of generators that are trained to be CoT-consistent on bootstrap samples of the training data. For binary token sets, it achieves the optimal sample complexity of $O((d_{\\mathrm{VC}}+\\log(1/δ))/ε)$, independent of the CoT length $T$, where $d_{\\mathrm{VC}}$ is the VC dimension of $\\mathcal{F}$. For finite token sets $Σ$, the VC dimension is replaced by a multiclass analogue, the Graph dimension $d_{\\mathrm{G}}$, and the sample complexity is optimal up to a $\\log|Σ|$ factor. The number of generators in the majority-vote ensemble is $O(\\log(T/δ))$, and we show that the ensemble can be distilled into a single generator in $\\mathcal{F}$ at the expense of $n\\log(nT)$ unlabeled prompts."
+    },
+    {
+      "id": "fetch-hf-2611.18330",
+      "title": "Marimba: A System One Model for Speech",
       "source": "Hugging Face Daily",
-      "date": "2026-11-11",
-      "description": "Efficient batch execution of agent tasks is critical to LLM training and development workflows, including benchmark evaluation, synthetic-data generation, and RL rollouts. Since these tasks alternate between LLM inference and environment in...",
+      "date": "2026-11-12",
+      "description": "Speech applications require decisions about term presence, turn completion, and language within an audio window. We present Marimba, an interface for typed speech decisions built on frozen Qwen3-ASR 0.6B features. Lexical questions use zero...",
+      "category": "tooling",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2611.18330",
+      "hotScore": 90,
+      "content": "Speech applications require decisions about term presence, turn completion, and language within an audio window. We present Marimba, an interface for typed speech decisions built on frozen Qwen3-ASR 0.6B features. Lexical questions use zero-shot scoring of ASR transcripts; non-lexical questions use a question-conditioned head and a separate layer-18 turn-end readout. Language identification uses the ASR model's own language scores. On private conversational test sets, decoder AUROC is 0.80-0.92; on public read speech it is 0.92-0.97. Speech Commands four-way accuracy is 0.93; binary lexical ECE is at most 0.08. Personal-information detection, which passes the greedy transcript to a private, curated PII pipeline, reaches item-level F1 0.904 on synthetic Brazilian Portuguese speech (1.000 on reference transcripts). Layer-12 speaker readouts detect speaker change with AUROC 0.966-0.980 on AMI and VoxConverse, above an ECAPA baseline, and count speakers (0, 1, 2, or 3+) more accurately than pyannote 3.1. The turn-end readout reaches AUROC 0.930 versus Smart Turn v3.2 at 0.982 on Smart Turn's own test set. On a subset of ICSI meetings labeled by next speaker, AUROC is 0.716 versus 0.712; the paired confidence interval includes zero."
+    },
+    {
+      "id": "fetch-hf-2611.20595",
+      "title": "Invariant-Aware Harness Enforcement to Protect LLM Agents from Silent API Failures",
+      "source": "Hugging Face Daily",
+      "date": "2026-11-15",
+      "description": "LLM agents answer questions by calling APIs and trusting the results. An API can fail silently. It ignores part of a request, such as a misnamed filter, yet returns HTTP 200 and a plausible but wrong result. Current fixes, such as checklist...",
       "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2611.16661",
-      "hotScore": 90,
-      "content": "Efficient batch execution of agent tasks is critical to LLM training and development workflows, including benchmark evaluation, synthetic-data generation, and RL rollouts. Since these tasks alternate between LLM inference and environment interaction, we present coordinated optimizations to reduce batch makespan, the time required to complete all tasks in a batch. For hybrid LLMs, a workload-based resource model guides GPU-memory allocation between key-value (KV) cache and recurrent state and provides a reference sample concurrency to exploit parallelism while limiting recomputation. Trajectory-aware routing and scheduling promote cache reuse while balancing worker load. Under constrained environment capacity, we decouple sample admission from environment execution and introduce Chain-Advancing Action Scheduling (CAAS), which prioritizes long chains using observed progress to shorten the batch tail. Controlled replay combines actual inference with recorded environment responses and durations for ablations of individual optimizations. Live evaluations with Ling-3.0-Flash and Ling-3.1-Flash on the BFCL, SWE-bench Multilingual, WideSearch, and MCP-Atlas benchmarks demonstrate makespan reductions of 10.4% to 65.0%, while evaluation scores remain aligned. Furthermore, these methods have been successfully applied to training and evaluation workflows for the Ling-3.x model series, accelerating the model-development cycle."
-    },
-    {
-      "id": "fetch-hf-2611.16010",
-      "title": "Iris-Z: Scaling One Generative Model Past Specialist Geometry Models",
-      "source": "Hugging Face Daily",
-      "date": "2026-11-10",
-      "description": "Language moved from many task-specific models to one unified model: a single generative model with a single generative training task that handles all of them within the same backbone, and keeps improving with data, parameters and compute. W...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2611.16010",
+      "url": "https://huggingface.co/papers/2611.20595",
       "hotScore": 89,
-      "content": "Language moved from many task-specific models to one unified model: a single generative model with a single generative training task that handles all of them within the same backbone, and keeps improving with data, parameters and compute. We believe the bitter lesson applies just as much to computer vision, 3D and spatial understanding, in the end to visual intelligence: the effort should go into general architectures that solve all these tasks in a unified way, and into scaling them, rather than into task-specific designs. We test this on monocular geometry, a task that has belonged to specialised architectures for years. Iris-Z is a general image generator that produces appearance and geometry together. A single backbone denoises, reasons about and understands the image and its depth at the same time, and one set of weights generates images with their depth, estimates depth from photographs and paints images onto a given depth. At enough scale it surpasses state-of-the-art specialists on established depth benchmarks while keeping the generative abilities of the backbone it started from without specialized layers. We release two models for the community."
+      "content": "LLM agents answer questions by calling APIs and trusting the results. An API can fail silently. It ignores part of a request, such as a misnamed filter, yet returns HTTP 200 and a plausible but wrong result. Current fixes, such as checklists, reviewer models and LLM judges, ask the model to catch it. But models often see the problem and answer anyway. We present SilentGuard, which moves the decision from the model to the harness running tool calls. It tests each result against invariants that any correct API must satisfy and withholds values that break one. We find silent failures in 11 of 15 public research APIs, with counts inflated up to 691 times. Current fixes leave over 70% of answers wrong, and agents report 77.4% of counts a judge flags. Across 7 open models, SilentGuard cuts wrong answers on its target faults from 74.0% to 1.7%, with no loss on fault-free tasks. On three frontier models they fall from 70.2% to 0.5%. A warning from the same check leaves 70.1% wrong, so enforcement is the key. On new fault types, the harness alone cuts wrong answers from 61.1% to 24.5%. It avoids wrong answers by abstaining rather than recovering."
     },
     {
-      "id": "fetch-hf-2611.17321",
-      "title": "BrickFlow: Connectivity-Guided Brick Reconstruction",
+      "id": "fetch-hf-2611.16694",
+      "title": "When Expert Disagreement Hurts: Prestige and Selectivity in LLM Decision Revision",
       "source": "Hugging Face Daily",
       "date": "2026-11-11",
-      "description": "Given a set of LEGO parts and an image of an assembled object, our task is to infer the pose of each part to assemble the object. In contrast with traditional 3D reconstruction, doing so requires satisfying discrete physical constraints, wh...",
-      "category": "image",
+      "description": "When language models revise a decision after another agent disagrees, neither reversal counts nor final accuracy shows whether they are fixing mistakes or abandoning correct answers. We introduce a controlled two-pass audit that holds the q...",
+      "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2611.17321",
+      "url": "https://huggingface.co/papers/2611.16694",
       "hotScore": 88,
-      "content": "Given a set of LEGO parts and an image of an assembled object, our task is to infer the pose of each part to assemble the object. In contrast with traditional 3D reconstruction, doing so requires satisfying discrete physical constraints, which provide structure but render the problem combinatorial and highly sensitive to small pose errors. To learn a prior over how parts fit together, we train a set-conditioned SE(3) flow model on procedurally generated assemblies. We then finetune this model to inject image conditioning, using 1% as much data. However, while the learned flow captures global structure, it does not enforce connectivity. To address this, we introduce an analytic connectivity-field guidance to pull predictions toward connected assemblies at test time. Through this, we demonstrate improved build quality with model size, pretraining, and guidance. We make our models and data available for research purposes at https://kulits.github.io/BrickFlow/"
+      "content": "When language models revise a decision after another agent disagrees, neither reversal counts nor final accuracy shows whether they are fixing mistakes or abandoning correct answers. We introduce a controlled two-pass audit that holds the question, the evidence, and the model's initial answer fixed and varies only the revision context: neutral reflection, anonymous disagreement, or disagreement attributed to a domain expert. For binary decisions the accounting is exact: revision raises accuracy only if it is selective enough, reversing wrong answers more than a/(1-a) times as often as correct ones, where a is initial accuracy (nine times at 90%). Across five models and 1,989 evidence-grounded decisions in medicine, science, and law, no model clears this bar under expert disagreement, and accuracy falls by up to 16.1 points. The expert label, a prestige cue, adds reversals for four of the five models, yet its effect on accuracy ranges from a 5.2-point loss to a 2.4-point gain, so reversal counts are a poor proxy for harm. With identical arguments from both sources, the label still raises reversal for three proprietary models and in a pooled analysis of four newer models. Models also respond to stated source reliability. Revision pipelines should therefore be evaluated with paired, conditional metrics, per model and protocol."
     },
     {
-      "id": "fetch-hf-2611.18550",
-      "title": "Restoring Diversity in Distilled Image and Video Generators by Probing Activations",
+      "id": "fetch-hf-2611.21605",
+      "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+      "source": "Hugging Face Daily",
+      "date": "2026-11-15",
+      "description": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2611.21605",
+      "hotScore": 87,
+      "content": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer cannot correct this, because a guess earns the same reward as reading. We propose Cross-Input Relative Policy Optimization (CrossRPO), which trains agents on contrast sets. A contrast set asks one question about several versions of an image that differ only in a small region with the evidence and have different answers, so only reading the evidence solves the whole set. CrossRPO rewards solving the whole set, and we prove that it does not reinforce a set answered from common sense. We build contrast sets for training (ViRA-Train) and evaluation (ViRA-Bench) by editing one small object in images of 21 to 120 megapixels, and we photograph further sets with real changes (ViRA-Bench-Real) to exclude editing traces. We train two Visual Reasoning Agents, ViRA-9B and ViRA-27B, with CrossRPO on only about 3,500 items of ViRA-Train each. CrossRPO achieves 63.3% set accuracy on ViRA-Bench at the maximum resolution, against 59.3% for GRPO. ViRA-9B is the most accurate open model of its size on all benchmarks, and ViRA-27B outperforms Claude Haiku 5.5 and GPT-6-Luna, both at their highest thinking level, on most benchmarks."
+    },
+    {
+      "id": "fetch-hf-2611.18981",
+      "title": "GPBam: A Retrieval-Aware German Public Law Exam Benchmark",
       "source": "Hugging Face Daily",
       "date": "2026-11-12",
-      "description": "Distilling diffusion models into few-step student models substantially reduces sampling latency, but induces severe diversity collapse: samples generated from different random seeds show minimal variation. In this work, we investigate the r...",
+      "description": "Legal reasoning in civil-law systems is not rule-lookup: the German state examination asks for a structured opinion (Gutachten) that names the governing norms, applies them to the facts, and argues to a conclusion. We introduce GPBam (Germa...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2611.18550",
-      "hotScore": 87,
-      "content": "Distilling diffusion models into few-step student models substantially reduces sampling latency, but induces severe diversity collapse: samples generated from different random seeds show minimal variation. In this work, we investigate the root cause of this failure by probing the internal representations of student models relative to their teachers. We find that distilled students maintain total activation variance comparable to their teachers, but concentrate it into substantially fewer directions. This directional collapse is localized to an identifiable intermediate block at the initial denoising step. Consequently, diversity collapse stems from a misallocation of activation variance rather than an inherent loss of generative capacity. Guided by this finding, we propose ReDiverse to reinstate the missing variance directions. At training time, ReDiverse-FT fine-tunes a lightweight adapter that regresses student activations onto the teacher's, reviving the teacher's feature variance characteristic. At inference time, ReDiverse-TF introduces a training-free mechanism that steers activations along precomputed teacher principal directions. Across image and video distillation benchmarks, ReDiverse consistently restores sample diversity while preserving generation quality, further supported by the user study."
-    },
-    {
-      "id": "fetch-hf-2611.14487",
-      "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
-      "source": "Hugging Face Daily",
-      "date": "2026-11-09",
-      "description": "Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations obscure this search process, making it difficult to understand how LLMs explore the space of research ideas and what lim...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2611.14487",
+      "url": "https://huggingface.co/papers/2611.18981",
       "hotScore": 86,
-      "content": "Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations obscure this search process, making it difficult to understand how LLMs explore the space of research ideas and what limits their progress. We introduce Re-Search, which adapts the format of Twenty Questions to research ideation: given only the research problem of a published paper, a model must rediscover the paper's core idea by asking yes-or-no questions. Built from 200 ICML 2026 papers, Re-Search tracks how a model's idea evolves as it asks questions and receives binary oracle feedback, isolating ideation from execution. Across six recent LLMs, nearly all progress happens within the first 30 of 100 questions, which largely decide how the game ends; after that, most models plateau. Through controlled interventions on the candidate questions and the hypothesis space, we find that the bottleneck is generation, not judgment: models recognize a good idea or a good question when one is offered, but often cannot produce it on their own. We further analyze the ideation traces and find that models fail by either over-exploiting one direction or over-exploring too many. These findings point to concrete design principles for autoresearch systems: since models can judge candidates they cannot produce, enriching the search with externally sourced ideas and questions may be more effective than improving any single model's generation ability."
+      "content": "Legal reasoning in civil-law systems is not rule-lookup: the German state examination asks for a structured opinion (Gutachten) that names the governing norms, applies them to the facts, and argues to a conclusion. We introduce GPBam (German Public Law Bar-style Exam), 81 public-law examination cases with reference solutions, paired with a recitation task over 200 statutory provisions. Drawn from state examination preparation, the cases are broad and rarely repeat, and are not publicly available - we find no evidence of exact-solution memorisation in the models we evaluate, and keeping them private limits contamination. Because each reference solution's cited norms form a retrieval gold set over the very instances the essays are graded on, GPBam scores retrieval and long-form generation jointly, which makes it a benchmark for legal retrieval as well as for legal writing and lets us ask how much retrieval quality a legal opinion actually needs. Across 32 open-weight and proprietary models evaluated without retrieval, scores span 4.81-76.42 out of 100. Supplying the law helps modestly: across seven models and eight retrieval configurations, retrieval performance varies nearly threefold and buys at most 4.1 essay points, and nothing significant for three of the seven, while an oracle with 91% gold-norm recall improves scores by 2-6 points. Essay quality strongly tracks prior knowledge: verbatim statute recall, measured in a separate task, correlates at ρ= 0.92 over 32 models."
     }
   ],
   "hfModels": [
@@ -458,8 +457,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 170160953,
-      "likes": 6137,
+      "downloads": 169858605,
+      "likes": 6142,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -474,8 +473,8 @@
       "name": "whisperkit-coreml",
       "owner": "Community",
       "fullName": "argmaxinc/whisperkit-coreml",
-      "downloads": 74682389,
-      "likes": 268,
+      "downloads": 77897989,
+      "likes": 271,
       "category": "research",
       "tags": [
         "Automatic-speech-recognition",
@@ -490,8 +489,8 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 57878163,
-      "likes": 446,
+      "downloads": 57532362,
+      "likes": 448,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -506,8 +505,8 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 44467542,
-      "likes": 675,
+      "downloads": 44264187,
+      "likes": 677,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -522,8 +521,8 @@
       "name": "gpt2",
       "owner": "Community",
       "fullName": "openai-community/gpt2",
-      "downloads": 34186762,
-      "likes": 3942,
+      "downloads": 34373187,
+      "likes": 3946,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -534,27 +533,12 @@
       "hotScore": 92
     },
     {
-      "id": "fetch-model-Comfy-Org--MiniMax-H3",
-      "name": "MiniMax-H3",
-      "owner": "Community",
-      "fullName": "Comfy-Org/MiniMax-H3",
-      "downloads": 33282001,
-      "likes": 2732,
-      "category": "research",
-      "tags": [
-        "Diffusion-single-file",
-        "Comfyui"
-      ],
-      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
-      "hotScore": 90
-    },
-    {
       "id": "fetch-model-autogluon--chronos-2",
       "name": "chronos-2",
       "owner": "Community",
       "fullName": "autogluon/chronos-2",
-      "downloads": 33281827,
-      "likes": 95,
+      "downloads": 33734387,
+      "likes": 96,
       "category": "research",
       "tags": [
         "Time-series-forecasting",
@@ -562,6 +546,21 @@
         "Safetensors"
       ],
       "url": "https://huggingface.co/autogluon/chronos-2",
+      "hotScore": 90
+    },
+    {
+      "id": "fetch-model-Comfy-Org--MiniMax-H3",
+      "name": "MiniMax-H3",
+      "owner": "Community",
+      "fullName": "Comfy-Org/MiniMax-H3",
+      "downloads": 33151088,
+      "likes": 2739,
+      "category": "research",
+      "tags": [
+        "Diffusion-single-file",
+        "Comfyui"
+      ],
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
       "hotScore": 88
     },
     {
@@ -569,8 +568,8 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 32211694,
-      "likes": 3078,
+      "downloads": 32966041,
+      "likes": 3081,
       "category": "research",
       "tags": [
         "Fill-mask",
@@ -585,8 +584,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 30561030,
-      "likes": 4009,
+      "downloads": 31076638,
+      "likes": 4015,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -601,8 +600,8 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 25549061,
-      "likes": 1509,
+      "downloads": 25403420,
+      "likes": 1512,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -616,18 +615,33 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
-      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "title": "Daydream&#8217;s new AI agent acts as your personal stylist — and can shop for you, too",
       "source": "TechCrunch Gadgets",
-      "date": "2026-11-16",
-      "description": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining....",
+      "date": "2026-11-17",
+      "description": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases....",
+      "category": "agent",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "hotScore": 99,
+      "content": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases...."
+    },
+    {
+      "id": "fetch-gadget-1",
+      "title": "Genesis AI raises $500M to deploy glove-wearing robots",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-11-17",
+      "description": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-      "hotScore": 98,
-      "content": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining...."
+      "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+      "hotScore": 99,
+      "content": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding...."
     },
     {
       "id": "fetch-gadget-fb1",
