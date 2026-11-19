@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-19T04:44:29.023Z",
+  "updatedAt": "2026-11-19T19:40:23.962Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1209966933",
       "name": "rea",
       "owner": "morluto",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 468560,
-      "forks": 114540,
+      "stars": 469749,
+      "forks": 114767,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 394774,
-      "forks": 82928,
+      "stars": 394817,
+      "forks": 82930,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 321429,
-      "forks": 28569,
+      "stars": 321948,
+      "forks": 28618,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 264540,
-      "forks": 59727,
+      "stars": 264716,
+      "forks": 59787,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 211180,
-      "forks": 61575,
+      "stars": 211418,
+      "forks": 61591,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
-      "stars": 203318,
-      "forks": 10649,
+      "stars": 203981,
+      "forks": 10689,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 188096,
-      "forks": 45856,
+      "stars": 188104,
+      "forks": 45857,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 177818,
-      "forks": 22674,
+      "stars": 177894,
+      "forks": 22678,
       "language": "MDX",
       "category": "llm",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165340,
-      "forks": 31109,
+      "stars": 165347,
+      "forks": 31102,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 161463,
-      "forks": 25529,
+      "stars": 161512,
+      "forks": 25534,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -176,7 +176,7 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 159612,
+      "stars": 159623,
       "forks": 46107,
       "language": "JavaScript",
       "category": "research",
@@ -193,8 +193,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 159057,
-      "forks": 23113,
+      "stars": 159095,
+      "forks": 23115,
       "language": "Svelte",
       "category": "llm",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 150530,
-      "forks": 13526,
+      "stars": 150672,
+      "forks": 13532,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 149860,
-      "forks": 25162,
+      "stars": 149909,
+      "forks": 25161,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 147547,
-      "forks": 17643,
+      "stars": 147649,
+      "forks": 17657,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -269,7 +269,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2605.00778v3",
-      "hotScore": 85,
+      "hotScore": 92,
       "content": "In biomechanical systems, observable performance is often used as a proxy for underlying organization, although similar outputs may arise from different adaptive configurations. This study considers the vertical dimension of occlusion (VDO) as a constraint applied to an adaptive neuromechanical system. A single-case design in a patient with Parkinson's disease enabled repeated intra-individual gait observations under six occlusal probes. Three complementary analytical levels were examined: (i) an aggregated scalar score of observable performance, (ii) a conceptual dynamical systems framework, and (iii) an exploratory UMAP representation of 55 standardized biomechanical variables from 270 M1 observations. The revised Level 1 analysis showed that the relative ranking of OC2.5 and OC3 depended on score construction, while their scalar distributions remained close. The Level 3 embedding showed substantial overlap among all six probes and did not identify independently separated condition-specific clusters. OC2.5 and OC3 displayed limited centroid displacement but broad observation-level overlap. The principal result is therefore representational non-identifiability: neither the aggregated score nor the selected low-dimensional embedding uniquely identifies an occlusal-condition-specific system state. VDO is interpreted as a constraint parameter rather than a causal determinant. The findings are exploratory, model dependent, and non causal. They do not establish distinct physiological states, an optimal VDO, clinical thresholds, or diagnostic, predictive, mechanistic, or prescriptive validity."
     },
     {
@@ -283,7 +283,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2607.07085v3",
-      "hotScore": 92,
+      "hotScore": 81,
       "content": "The Adaptive Data Analysis (ADA) problem formalizes the challenge of preventing false discovery and overfitting when a dataset is repeatedly reused. Formally, our input is a dataset containing $n$ i.i.d. samples from an unknown distribution $\\mathcal{P}$ over a domain $\\mathcal{X}$, and our goal is to answer a sequence of $k$ adaptively chosen statistical queries with respect to $\\mathcal{P}$. The main question is how many queries we can support (i.e., how large $k$ can be), primarily as a function of the number of samples $n$. This question has been intensively studied and is relatively well-understood for randomized mechanisms: there are computationally efficient mechanisms that support $k \\approx n^2$ queries, and no computationally efficient mechanism can answer $k \\gg n^2$ queries. In this paper, we address a fundamental question: is randomness necessary for ADA? Despite a decade of work on ADA, this question remains open. A folklore observation dating back to the initial works on ADA is that randomness is {\\em not} necessary when the analyst is computationally bounded. Yet, the necessity of randomness against computationally unbounded analysts has remained elusive. Our main contribution resolves this gap in the information-theoretic setting. Perhaps surprisingly, we show that randomness is {\\em strictly necessary} to answer a non-trivial number of adaptive queries: when the analyst is unbounded, any deterministic mechanism can be forced to fail after just $k = \\tilde{O}(n)$ queries."
     },
     {
@@ -298,7 +298,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2611.15789v2",
-      "hotScore": 82,
+      "hotScore": 88,
       "content": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by generating a 4D scene in Blender, yet no benchmark checks both these rendered proxy videos and the complex, multi-shot scenes behind them. We introduce VibePrevisBench, a benchmark for 4D scene generation: an agent turns a brief into an executable 4D scene and renders its proxy video. Its 242 tasks span four input kinds, including scripts, photos, continuations, and reference videos. Each delivery is scored along two evaluation dimensions. Rule-based Scene Check re-runs the code and compares the exported 4D scene with hidden ground truth facts in nine dimensions. VLM-based Screen Check asks a VLM judge whether facts that pass the rules are recognizable in the proxy video. We analyze the evaluation results and trajectories of 11 frontier coding agents and identify three key observations. First, multimodal understanding separates the agents, especially in understanding space and camera motion. Second, all agents seem to already master basic camera work and staging, and fail at challenging requests. Third, agents inspect their own renders but fail to correct their errors. Agents thus need better visual understanding of space and camera, explicit checks for challenging requests, and item-by-item verification of renders against the brief."
     },
     {
@@ -313,7 +313,7 @@
         "LLM"
       ],
       "url": "http://arxiv.org/abs/2611.24936v1",
-      "hotScore": 86,
+      "hotScore": 81,
       "content": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without training an additional downstream classifier. We propose Jailbreak Detection with Prototype Inference (JDPI), which uses binary safety labels to construct harmful and benign prototypes and makes predictions from relative prototype distances. JDPI uses only binary safety labels for encoder adaptation, prototype construction, and validation. In our setup, it uses fewer labeled examples than the classifier baseline (Method A) by avoiding the separate split used to train the downstream classifier. Across four benchmarks covering different input formats, contrastive fine-tuning improves JDPI's detection accuracy by 9.1-18.0 percentage points. Using the same encoder, JDPI achieves slightly higher ROC-AUC on one benchmark and stays within 0.017 of the baseline across all four. With dataset-specific adaptation, JDPI exceeds the released Llama Guard 3-8B baseline by 0.173-0.310 in ROC-AUC across the four benchmarks. In multi-turn replay on TomGibbs, JDPI uses accumulated user history as the conversation unfolds, achieving higher conversation-level accuracy than when it uses the current turn alone. Across 12 directed transfers, JDPI outperforms the classifier by an average of 1.59 percentage points in accuracy, demonstrating stronger cross-dataset robustness."
     },
     {
@@ -328,7 +328,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2611.24932v1",
-      "hotScore": 84,
+      "hotScore": 92,
       "content": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We develop a trait theory of reviewer value to make it precise. The theory makes five claims: value is governed by calibration rather than by activity, speed, agreement, or tenure; calibration leaves observable traces in behavioral telemetry; those traces are non-diagnostic on their own, because the fast, low-revision signature of a calibrated expert is indistinguishable from that of a confident novice until it is gated by outcomes; human calibration and a model's self-knowledge are the same construct, so the joint system should defer to whichever agent is better calibrated on each item; and individual calibration is causally identifiable only above the level of the single judgment. We ground each claim in a six-month production window of an AI-assisted accounting system (541621 reviewer events, 483 reviewers), and find that a purely behavioral expertise profile inverts the ground truth, scoring an overconfident cohort (5.2 percent correction survival) higher than genuine experts (99.2 percent); that reviewer quality is flat across tenure, so the trait is not learned on the job; and that the same calibration logic that separates good from bad reviewers, applied to the model, concentrates 92.5 percent of human effort on genuine errors. We close with the boundary the theory must respect: under majority-vote aggregation, individual causal value is unidentifiable."
     },
     {
@@ -342,7 +342,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2611.24927v1",
-      "hotScore": 85,
+      "hotScore": 82,
       "content": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors and components across layers remains sparsely documented. In this work, we focus on the organizations that make up the AI supply chain: the complex network of actors that contribute to the development and deployment of AI. We motivate the examination of the organizational AI supply chain---highlighting concerns about concentration, power, chokepoints, cascading failures, fragmented accountability, and risk---then describe our pipeline for mapping the AI supply chain. Our pipeline yields our main contribution: a multilayered, large-scale dataset of actors and relationships in the AI ecosystem, annotated with dates, descriptions, types, tags, and more. This work takes a step toward systematically mapping and measuring the AI supply chain and its properties, cataloging how models, data, chips, infrastructure, capital, and even talent flow between organizations. This data enable critical examinations of industry relationships and yield insights into the political economy of AI development and concentration. We provide several illustrative analyses, including studying the most central actors, analyzing network concentration, and identifying communities and chokepoints. While our dataset is fairly comprehensive, it is also necessarily incomplete: public documents omit private deals, and coverage is shaped by search design. Together, the approach, data, and findings aim to serve as a resource for studying the AI ecosystem. The dataset is publicly available at https://huggingface.co/datasets/sarahcen/ai-supply-chain and can be explored interactively at https://aisupplychains.org/."
     },
     {
@@ -356,7 +356,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2611.22268v2",
-      "hotScore": 94,
+      "hotScore": 85,
       "content": "Philosophers have recently been trying to develop uniform decision rules for instances in which physicians' judgments diverge from the recommendations of medical artificial intelligence (AI) systems. I argue that this effort is fatally flawed because the performance and appropriate use of algorithmic recommendation systems by physicians are highly context-specific, empirical medical matters rather than epistemological ones. In such instances, general decision rules can be stipulated only to the extent that they abstract away from relevant, indeed determinative, contextual circumstances. The alleged problem of physician-AI disagreement, and others like it, play into longstanding disputes in technology ethics about the viability and utility of envisioning possible futures: is this useful \"anticipation\" or wasteful \"speculation\"? I suggest that the two may be distinguished. Anticipation explores plausible futures to help inform present actions under irreducible uncertainty. Speculation abstracts away uncertainty, developing formal solutions to stipulated circumstances whose relationship to the real present is often quite unclear. Efforts to develop crisp philosophical solutions to physician-AI disagreement, among other problems, fall into the latter category. Technology ethics should remember that fruitful futures thinking must both begin from and return to the messy, uncertain present."
     },
     {
@@ -371,83 +371,83 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2611.24924v1",
-      "hotScore": 86,
+      "hotScore": 83,
       "content": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and interaction needs, while using a single evolution agent to modify the harness and benchmark scores to select changes. This process often produces narrow patches and leads to benchmark-specific local optima. We introduce Agentic Harness Engineering Beta (AHE-Beta), a requirement-centered loop that brings real-world engineering practices into harness evolution. The loop consists of three steps: (1) User-driven evaluation lets simulated users raise their requirements as issues while they work with the harness over multiple turns. (2) Team-based modification implements those requirements as generalizable changes rather than task-specific patches. (3) Requirement-driven selection merges a change only when it resolves a verified requirement and passes review. Empirically, on held-out tasks, AHE-Beta raises pass@1 from 21.9% to 33.3% while using 40.8% fewer tokens than Base Harness, and achieves higher pass@1 than Claude Code, Meta-Harness, and AHE. In a blind human A/B test, real users prefer AHE-Beta in 31 of 48 valid pairs and rate it higher on all five dimensions, matching the directional preference of the user simulator. The human A/B results show that AHE-Beta achieves its goal of aligning harness evolution with real-world user requirements. Without further evolution, the gains transfer to GLM-5.3 and DeepSeek-V4.1-Flash with pass@1 improvements of 15.8% and 5.3% over Base Harness. Together, these results show that requirement-centered harness evolution is a more general method for improving agent capabilities."
     },
     {
-      "id": "fetch-hf-2611.23824",
-      "title": "Evidence-Based Credit Assignment for Search-Augmented Language Models",
+      "id": "fetch-hf-2611.17605",
+      "title": "Choosing Quantized Code LLMs by File Size and Energy per Solved Task",
       "source": "Hugging Face Daily",
-      "date": "2026-11-17",
-      "description": "Reinforcement learning from terminal answer rewards enables search-augmented language models to interleave reasoning and retrieval without step-level annotations, yet outcome supervision assigns identical credit to every search in a traject...",
+      "date": "2026-11-12",
+      "description": "A developer running a code assistant on a laptop downloads one model file, and local inference moves the energy of every request onto that machine. A common rule says a larger model at lower precision tends to beat a smaller one at higher p...",
       "category": "llm",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2611.23824",
+      "url": "https://huggingface.co/papers/2611.17605",
       "hotScore": 90,
-      "content": "Reinforcement learning from terminal answer rewards enables search-augmented language models to interleave reasoning and retrieval without step-level annotations, yet outcome supervision assigns identical credit to every search in a trajectory regardless of whether it retrieved useful information. This limitation is especially severe when all sampled rollouts for a question fail, collapsing group-centered outcome advantages to zero even when trajectories gather markedly different evidence. We present Evidence-based Credit Assignment (ECA), which augments terminal outcome rewards with a training-only auxiliary signal measuring how retrieved documents improve the likelihood of a reference answer. Rather than scoring the full dialogue prefix, ECA queries a frozen snapshot of the current policy under an evidence-only prompt containing solely the question and the deduplicated documents observed so far, isolating the utility of retrieved passages from surface variations in generated thoughts or search queries. Within this framework, we compare two return formulations, ECA-Step (which accumulates step-clipped potential increments) and ECA-Horizon (which preserves the telescoping horizon gain in potential), paired with cross-fold group normalization, novelty gating, and search-local token assignment. Across seven Search QA benchmarks, ECA-Horizon improves strict macro exact match over an outcome-only GRPO baseline by 1.03 and 4.80 percentage points on Qwen2.5-3B- and 7B-Instruct, respectively, outperforming both RLOO and GiGPO. Zero-shot evaluation on MultiHop-RAG further demonstrates strong transfer to multi-hop inference queries."
+      "content": "A developer running a code assistant on a laptop downloads one model file, and local inference moves the energy of every request onto that machine. A common rule says a larger model at lower precision tends to beat a smaller one at higher precision. We ran 24 GGUF files of Qwen2.5-Coder at four sizes on a fanless MacBook Air M2 and priced each in energy per solved task on 542 EvalPlus tasks. The result is a selection guide indexed by Ollama's listed file size, with an evidence label on each pick. At 1 and 2 GB it picks the q4_K_M files of the 1.5B and 3B models, both on the correctness and energy frontier under every accounting. At 3 GB as listed, the larger-model rule picks 7B-q2_K, the only measured 7B file that fits, and there it does not pay. That file brings no significant gain in solves over the 2 GB pick, 3B-q4_K_M, and the 90% CI limits any 3B-q4_K_M deficit to 2.4 points. Yet 7B-q2_K needs 2.03 times the energy per solved task on CPU, GPU and memory rails, or 1.66 to 1.81 times on whole-system power. On HumanEval+, five alternating session pairs give a ratio of 1.925 against 1.956 in the main grid. At 8 GB, 7B-q6_K buys a significant gain over the 2 GB pick at a higher energy price. From 1.5B up, q4_K_M trails the highest precision measured at its size by less than 3 points (90% CI). We release per-task results, power logs and the analysis script."
     },
     {
-      "id": "fetch-hf-2611.24830",
-      "title": "A Foundation Model to Measure and Predict Human Behaviour",
+      "id": "fetch-hf-2611.23779",
+      "title": "TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning",
       "source": "Hugging Face Daily",
       "date": "2026-11-17",
-      "description": "Large language models (LLMs) are increasingly used to infer psychological attributes, predict individual behaviour, and simulate human populations. However, despite generating plausible responses, they often misrepresent individuals and dis...",
-      "category": "llm",
+      "description": "Recent advances in machine learning have accelerated biomedical prediction, but evaluation on structured biomedical data remains fragmented, especially for datasets with high dimensionality, large sample size, missingness, and class imbalan...",
+      "category": "tooling",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2611.24830",
+      "url": "https://huggingface.co/papers/2611.23779",
       "hotScore": 89,
-      "content": "Large language models (LLMs) are increasingly used to infer psychological attributes, predict individual behaviour, and simulate human populations. However, despite generating plausible responses, they often misrepresent individuals and distort population statistics. Here we introduce Chiron, a foundation model to measure and predict human behaviour. We jointly fine-tune an LLM to represent psychological constructs, predict individual behaviour, and align population response distributions with human statistics. The training and evaluation data span 36 behavioural domains and 78 social science experiments, comprising 288,307 person records, 1,411,750 atomic behavioural decisions, and 99,953 psychometric assessments over 109 psychological constructs. In our evaluations, Chiron's psychological measurements agree more closely with human self-reports and exhibit fewer biases that undermine psychometric validity. It predicts individual behaviour more accurately than frontier LLMs (up to 28.4% relative improvement). In simulations of social science experiments, it more accurately captures the direction and magnitude of human experimental effects (82.2--94.3% lower effect-size estimation error). Together, these results establish Chiron as a unified computational instrument for measuring and predicting human behaviour."
+      "content": "Recent advances in machine learning have accelerated biomedical prediction, but evaluation on structured biomedical data remains fragmented, especially for datasets with high dimensionality, large sample size, missingness, and class imbalance. We introduce TabBioMed, a large-scale benchmark of 94 curated public biomedical tabular datasets spanning electronic health records, drug discovery, genomics, transcriptomics, proteomics, metabolomics, single-cell omics, and systems biology. TabBioMed unifies these datasets through a standardized, dataset-aware preprocessing and evaluation framework, enabling reproducible comparison across classification, regression, and multi-target tasks. We benchmark 23 models across classical baselines, gradient-boosted trees, neural tabular architectures, and tabular foundation models. Foundation models deliver the strongest family-level predictive performance. However, their gains are regime-dependent: tree-based models and tuned multilayer perceptrons remain highly competitive, often dominating under inference-time or training-cost constraints. Overall, TabBioMed shows that biomedical tabular learning is strongly context-dependent, with optimal model choice depending on data regime, task type, and computational budget. We release TabBioMed with curated datasets and splits, preprocessing code, baselines, and results, providing a reproducible benchmark for practical model selection and future methods development in biomedical machine learning, available at https://github.com/AI-sandbox/TabBioMed."
     },
     {
-      "id": "fetch-hf-2611.24733",
-      "title": "Mechanistic Critics for Sample-Efficient NPU Design-Space Exploration",
+      "id": "fetch-hf-2611.22382",
+      "title": "RICoT: Recurrent Interleaved Chain-of-Thought for Page Stream Segmentation",
       "source": "Hugging Face Daily",
-      "date": "2026-11-17",
-      "description": "NPU design-space exploration for LLM inference mainly relies on an expensive simulator that often returns only scalar feedback such as latency and power. Such feedback can rank evaluated configurations, but gives little information for deci...",
+      "date": "2026-11-16",
+      "description": "Large language models (LLMs) have renewed interest in Page Stream Segmentation (PSS), splitting a multi-page file into its constituent documents. Yet published LLM methods still frame the task as boundary classification over one or a few ne...",
       "category": "llm",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2611.24733",
+      "url": "https://huggingface.co/papers/2611.22382",
       "hotScore": 88,
-      "content": "NPU design-space exploration for LLM inference mainly relies on an expensive simulator that often returns only scalar feedback such as latency and power. Such feedback can rank evaluated configurations, but gives little information for deciding why a configuration is slow or which architecture parameter should be changed next. This limitation is especially severe because prefill and decode workloads can be limited by different resources, including compute throughput and HBM bandwidth. We propose CriticNPU, a sample-efficient DSE framework built around an online-calibrated mechanistic critic for NPU architecture design. The critic uses explicit hardware limits to evaluate NPU configurations: before simulation, it estimates whether a proposed configuration is likely to improve over the current best and filters weak candidates; after simulation, it aggregates operator-level runtimes into prefill/decode bottleneck summaries and predicts the effect of candidate parameter changes. We instantiate the critic with a Roofline-style model that derives compute and memory limits from architecture parameters and calibrates per-operator-type effective limits using simulator observations. And CriticNPU combines this critic with a workload extractor and an architecture planner to propose configurations. Across six LLM workloads and 16 deployment configurations per model, CriticNPU achieves best-or-tied-best latency in 74% of prefill and 87.5% of decode settings while using roughly half the simulator calls of competitive DSE baselines. We conduct extensive ablation studies and detailed analyses to validate the effectiveness of our method from multiple perspectives. Our code is available at https://github.com/bruno686/CriticNPU."
+      "content": "Large language models (LLMs) have renewed interest in Page Stream Segmentation (PSS), splitting a multi-page file into its constituent documents. Yet published LLM methods still frame the task as boundary classification over one or a few neighboring pages, and commercial document-splitting APIs do not disclose their methods. We reimagine PSS for LLMs as a sequential process over the whole stream and propose RICoT (Recurrent Interleaved Chain-of-Thought), a prompting framework that works through the pages as a reader would: within a sliding window it reasons about each page and commits its boundary decision before moving on, and across windows it carries forward a compact record of what it has read, keeping per-call cost bounded. We also introduce FinancePSS-205, a benchmark of 205 real-world, de-identified financial page streams, to be released publicly. On FinancePSS-205, RICoT matches or outperforms pairwise and windowed prompting with the same backbone for each of three open-weight LLMs; on a TABME test subset, RICoT with GLM-5 reaches document F1 0.847 and boundary F1 0.915, above published zero-shot results. A 2B-parameter student, trained on a larger teacher's decisions with and without the page-level reasoning, performs comparably in both modes and comes within 0.05 document F1 of the strongest prompted model on FinancePSS-205."
     },
     {
-      "id": "fetch-hf-2611.14848",
-      "title": "Tideway: Phase-Aware Tiered Memory Management for MoE Inference on Consumer Devices",
+      "id": "fetch-hf-2611.21553",
+      "title": "BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents",
       "source": "Hugging Face Daily",
-      "date": "2026-11-09",
-      "description": "Large language model (LLM) agents are rapidly becoming a dominant paradigm for AI applications. Recently, there is a growing demand to deploy large-scale Mixture-of-Experts (MoE) models locally on consumer PCs to balance data privacy, API c...",
+      "date": "2026-11-15",
+      "description": "Streaming video understanding is becoming increasingly important for real-world interactive systems. Such systems must be proactive for natural and useful human interaction: they should respond as soon as sufficient evidence becomes availab...",
       "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2611.14848",
+      "url": "https://huggingface.co/papers/2611.21553",
       "hotScore": 87,
-      "content": "Large language model (LLM) agents are rapidly becoming a dominant paradigm for AI applications. Recently, there is a growing demand to deploy large-scale Mixture-of-Experts (MoE) models locally on consumer PCs to balance data privacy, API costs, and inference efficiency. However, unlike datacenter servers with abundant DRAM, consumer devices are tightly constrained in both GPU VRAM and host RAM, forcing massive MoE weights to spill across VRAM, host RAM, and SSD. Under such spilling, we observe that existing systems fail to fully utilize this memory hierarchy, treating the tiers as independent caches and thrashing in inference.\n  We present TIDEWAY, a system for efficient inference of large MoE models on memory-constrained consumer devices. Our core insight is to manage host RAM and GPU VRAM as a unified memory pool. Within this pool, TIDEWAY couples phase-aware memory layouts, which adapt to the distinct access patterns of prefill and decode, with an execution engine that optimizes CUDA Graph execution under expert paging. Our evaluations on representative consumer hardware with frontier MoE models demonstrate that TIDEWAY significantly outperforms state-of-the-art systems. On average, TIDEWAY achieves speedups of 1.97x in end-to-end latency and 2.40x in Time-to-First-Token (TTFT), along with 1.61x higher decode throughput against the fastest baseline.\n  Our source code is publicly available at https://github.com/Afterglow231/Tideway ."
+      "content": "Streaming video understanding is becoming increasingly important for real-world interactive systems. Such systems must be proactive for natural and useful human interaction: they should respond as soon as sufficient evidence becomes available while avoiding premature, redundant, or incorrect responses. We present BLIP-Live, a framework unifying data, metrics, harness, and training around a shared formulation of proactivity as effective causal response decisions balancing the two competing objectives of responding vs silence. First, we construct BLIP-Live-780K dataset containing human annotations of proactive response content and timing, which defines this desired behavior. We then propose PAUC-F, a metric to effectively measure our desired proactive behavior. PAUC-F combines existing response timeliness metrics with firing precision to reward early useful responses without rewarding excessive firing. With our desired behavior defined and measurable, we finally investigate model-agnostic inference harnesses that draw out proactive streaming capabilities of offline vision language models (VLMs), together with training pipelines that learn to further improve their proactive responsiveness. Across both settings, we find that combinations of sliding visual windows, online interaction memory, and structured response outputs consistently yield strongest proactive performance. Our experiments result in two models, with our BLIP-Live-Qwen model achieving state-of-the-art performance across four proactive streaming benchmarks, with gains up to 44% over baselines and outperforming multiple closed API models. Our code and data will be released publicly."
     },
     {
-      "id": "fetch-hf-2611.24738",
-      "title": "Jeveration: System One Models Now Generate",
+      "id": "fetch-hf-2611.16933",
+      "title": "Kezek: Splitting Mono Two-Person Conversations into Per-Speaker Tracks for Full-Duplex Dialogue Data",
       "source": "Hugging Face Daily",
-      "date": "2026-11-17",
-      "description": "System One models such as Jev return decisions through fast, parallel prediction. In this paper, we introduce Jeveration, showing that the same decision paradigm can also generate high-quality images in a single forward pass. Jeveration bui...",
-      "category": "image",
+      "date": "2026-11-11",
+      "description": "Full-duplex spoken dialogue models learn turn-taking, overlaps and backchannels from conversations recorded with one channel per speaker, but most available conversational audio is a single mono mix. We present Kezek, a model that turns a m...",
+      "category": "tooling",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2611.24738",
+      "url": "https://huggingface.co/papers/2611.16933",
       "hotScore": 86,
-      "content": "System One models such as Jev return decisions through fast, parallel prediction. In this paper, we introduce Jeveration, showing that the same decision paradigm can also generate high-quality images in a single forward pass. Jeveration builds on a frozen vision-language model, repurposing its visual-semantic knowledge for holistic image generation. The key challenge is to maintain global consistency. A single prompt admits many valid images, yet parallel predictions must converge on a coherent whole. We therefore condition all positions on a shared random state to coordinate parallel predictions, so that each draw yields a different but coherent image. Since the model tends to ignore this state under direct image supervision, we first learn a distribution over discrete image codes to guide single-pass generation. Beyond text-to-image generation, we further unify image-to-image generation and dense prediction within the same architecture, so that one checkpoint supports all three tasks, each in one forward pass. Experiments show that Jeveration generates a 512x512 image in 78 ms, up to 122x faster than existing unified models, while maintaining competitive image quality and dense prediction performance."
+      "content": "Full-duplex spoken dialogue models learn turn-taking, overlaps and backchannels from conversations recorded with one channel per speaker, but most available conversational audio is a single mono mix. We present Kezek, a model that turns a mono recording of exactly two people into one track per person with the original length and timing; overlaps and short replies (\"yeah\", \"mm-hm\") stay on the track of the person who said them. Kezek decides who speaks when and who is who once for the whole recording (stage 1: a two-voice activity model guided by a speaker fingerprint trained to be insensitive to phase), and a conditioned time-domain separator only carries out that decision (stage 2), with outputs that always sum to the input. Standard separation metrics miss the failures that matter for dialogue data, so we report short-reply retention, leakage onto the other person's solo, channel swaps and coverage. Against the open pipeline pyannote -> DialogueSidon on the same recordings, Kezek keeps more short replies (0.83 vs. 0.69 on Open Yap test; 0.80 vs. 0.71 over the other's speech on unseen telephone speech from CallHome English), mostly because it returns the whole recording while the external pipeline drops part of it (on the audio both return, reply retention is about the same: 0.859 vs. 0.865 on Open Yap); it also leaks less, swaps channels less often, and runs 4-5 times faster (about 230 hours of audio per GPU-hour). We also report negative results and an ideal-mask ceiling that locate the remaining gap: quiet replies under a louder voice. Code and weights are released under permissive licences."
     }
   ],
   "hfModels": [
@@ -456,8 +456,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 169032775,
-      "likes": 6146,
+      "downloads": 167728168,
+      "likes": 6148,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -472,7 +472,7 @@
       "name": "whisperkit-coreml",
       "owner": "Community",
       "fullName": "argmaxinc/whisperkit-coreml",
-      "downloads": 81160291,
+      "downloads": 84267005,
       "likes": 275,
       "category": "research",
       "tags": [
@@ -488,8 +488,8 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 56925600,
-      "likes": 451,
+      "downloads": 56284496,
+      "likes": 452,
       "category": "research",
       "tags": [
         "Text-ranking",
@@ -504,7 +504,7 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 43957042,
+      "downloads": 43610697,
       "likes": 679,
       "category": "research",
       "tags": [
@@ -520,8 +520,8 @@
       "name": "gpt2",
       "owner": "Community",
       "fullName": "openai-community/gpt2",
-      "downloads": 34439416,
-      "likes": 3949,
+      "downloads": 34336215,
+      "likes": 3953,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -536,7 +536,7 @@
       "name": "chronos-2",
       "owner": "Community",
       "fullName": "autogluon/chronos-2",
-      "downloads": 34066524,
+      "downloads": 34219621,
       "likes": 97,
       "category": "research",
       "tags": [
@@ -552,7 +552,7 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 33737851,
+      "downloads": 33919087,
       "likes": 3083,
       "category": "research",
       "tags": [
@@ -568,8 +568,8 @@
       "name": "MiniMax-H3",
       "owner": "Community",
       "fullName": "Comfy-Org/MiniMax-H3",
-      "downloads": 33040522,
-      "likes": 2767,
+      "downloads": 33102276,
+      "likes": 2806,
       "category": "research",
       "tags": [
         "Diffusion-single-file",
@@ -583,8 +583,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 31739114,
-      "likes": 4021,
+      "downloads": 32282912,
+      "likes": 4022,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -599,7 +599,7 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 25224299,
+      "downloads": 25028607,
       "likes": 1513,
       "category": "llm",
       "tags": [
@@ -614,18 +614,33 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
-      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "title": "Former Alibaba exec&#8217;s Everful raises $48.5M to connect retailers with Chinese factories",
       "source": "TechCrunch Gadgets",
-      "date": "2026-11-18",
-      "description": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control....",
+      "date": "2026-11-19",
+      "description": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers....",
       "category": "research",
       "tags": [
         "Hardware",
         "AI-Gadget"
       ],
-      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-      "hotScore": 91,
-      "content": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control...."
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "hotScore": 89,
+      "content": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers...."
+    },
+    {
+      "id": "fetch-gadget-1",
+      "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-11-19",
+      "description": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+      "hotScore": 92,
+      "content": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out...."
     },
     {
       "id": "fetch-gadget-fb1",
