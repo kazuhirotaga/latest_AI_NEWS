@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-20T04:35:36.172Z",
+  "updatedAt": "2026-11-20T19:18:43.334Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1209966933",
       "name": "rea",
       "owner": "morluto",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 470267,
-      "forks": 114879,
+      "stars": 471284,
+      "forks": 115081,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 394852,
-      "forks": 82943,
+      "stars": 394919,
+      "forks": 82945,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 322216,
-      "forks": 28642,
+      "stars": 322724,
+      "forks": 28669,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 264797,
-      "forks": 59813,
+      "stars": 264949,
+      "forks": 59873,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 211455,
-      "forks": 61600,
+      "stars": 211530,
+      "forks": 61608,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -90,9 +90,9 @@
       "id": "fetch-repo-787076358",
       "name": "firecrawl",
       "owner": "firecrawl",
-      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
-      "stars": 204419,
-      "forks": 10711,
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "stars": 205076,
+      "forks": 10748,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 188114,
-      "forks": 45856,
+      "stars": 188115,
+      "forks": 45846,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 177919,
-      "forks": 22685,
+      "stars": 178002,
+      "forks": 22702,
       "language": "MDX",
       "category": "llm",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165361,
-      "forks": 31095,
+      "stars": 165364,
+      "forks": 31094,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 161535,
-      "forks": 25537,
+      "stars": 161572,
+      "forks": 25551,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -176,7 +176,7 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 159624,
+      "stars": 159630,
       "forks": 46106,
       "language": "JavaScript",
       "category": "research",
@@ -193,8 +193,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 159115,
-      "forks": 23119,
+      "stars": 159157,
+      "forks": 23125,
       "language": "Svelte",
       "category": "llm",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 150720,
-      "forks": 13540,
+      "stars": 150804,
+      "forks": 13550,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 149937,
-      "forks": 25157,
+      "stars": 149972,
+      "forks": 25163,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 147708,
-      "forks": 17659,
+      "stars": 147818,
+      "forks": 17670,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -270,7 +270,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2611.26627v1",
-      "hotScore": 82,
+      "hotScore": 80,
       "content": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them requires learning complex, input-dependent transformations. To isolate how much of these gains an input-independent shift explains, we probe each RL-tuned model with a deliberately simple parameterization: a fixed set of steering vectors added to the block outputs of the frozen base model. On SD3.5-M, these vectors hold 65x fewer parameters than the RL-tuned LoRA (0.29M against 18.8M). We fit them to match the velocity predictions of public RL-tuned checkpoints, with no reward in the objective. Although the vectors are identical for every prompt, token, and sampling seed, they recover 90.0-96.3% of the reward gains of six RL-tuned image models, and 89.8% and 111.9% on two RL-tuned video models. Initialized at zero and trained with online RL, the vectors alone exceed the reward gains of weight-based RL on text rendering (OCR) and human preference (PickScore) on SD3.5-M. A constant shift thus suffices for most of the gain of policy-gradient RL post-training: without new input-dependent transformations, it steers the pretrained generator toward what it can already compute."
     },
     {
@@ -285,7 +285,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2611.26624v1",
-      "hotScore": 84,
+      "hotScore": 83,
       "content": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its detailed play experience to revise them for mastery. Starting from an initial game, PlayCraft alternates between playing and crafting. In the playing stage, a player agent watches the game screen, uses the controls, and pursues the game objective over repeated episodes while retaining memory. After each episode, it reports its progress, outcomes, decisions, and reflections. In the crafting stage, a crafter agent uses these reports to revise the game. It estimates player abilities, predicts performance at different proficiency levels, and compares those predictions with a target learning progression. It diagnoses the game and addresses the gaps by giving players meaningful opportunities to improve through better decisions and execution. We evaluate games in fresh runs with player agents across three intelligence settings, measuring learning gain and learning slope. Compared with the initial games, PlayCraft yields larger learning gains and steeper learning slopes in most games. It also outperforms the baselines on the macro-average of each metric at every intelligence setting."
     },
     {
@@ -300,7 +300,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2602.04417v2",
-      "hotScore": 85,
+      "hotScore": 84,
       "content": "Reinforcement Learning (RL) has enabled Large Language Models (LLMs) to acquire increasingly complex reasoning and agentic behaviors. In this work, we propose two simple techniques to improve policy gradient algorithms for LLMs. First, we replace the fixed anchor policy during RL with an Exponential Moving Average (EMA), similar to a target network in deep Q-learning. Second, we introduce Top-$k$ KL estimator, which allows for flexible interpolation between exact KL and sampled KL. We derive the stability conditions for using EMA anchor; moreover, we show that our Top-$k$ KL estimator yields both unbiased KL values and unbiased gradients at any $k$, while bringing the benefits of exact KL. When combined with GRPO, the two techniques (EMA-PG) lead to a significant performance boost. On math reasoning, it allows R1-distilled Qwen-1.5B to reach 53.9% on OlympiadBench compared to 50.8% by GRPO. On agentic RL domains, with Qwen-3B base, EMA-PG improves GRPO by an average of 35.6% across 7 datasets of Q&amp;A with search engines, including 29.7% $\\rightarrow$ 45.8% on HotpotQA, 27.4% $\\rightarrow$ 40.5% on 2WikiMultiHopQA. Overall, we show that EMA-PG is a simple, principled, and powerful approach to scaling RL for LLMs. Code: https://github.com/LunjunZhang/ema-pg"
     },
     {
@@ -315,7 +315,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2611.26619v1",
-      "hotScore": 87,
+      "hotScore": 84,
       "content": "Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency. We present TideCache, a serving system on CPU--GPU superchips with three components for allocating GPU memory among caches and managing their residency across GPU and host memory. The Transparent Cache Pool redistributes physical pages among cache components behind fixed virtual addresses, preserving cache layouts and backend interfaces. The Cache Streamer uses computation intervals provided by bounded-state layers to prefetch the next global-attention layer's prefix into GPU slots shared across global-attention layers, reducing GPU residency while overlapping layer-wise transfers with computation. Generated KV remains resident. The Request Scheduler selects resident or streamed execution and triggers capacity adjustments according to request size and queue state. Together, they let HBM released by streaming accommodate other cache components and additional requests. Implemented in SGLang and evaluated on GB300 and GH200 across seven model/platform configurations, TideCache completes up to 2.04x as many agent turns, reduces overall P50 per-token latency by 20--59%, and improves agent P50 TTFT by 1.40--3.05x compared with SGLang with HiCache."
     },
     {
@@ -330,7 +330,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2611.26617v1",
-      "hotScore": 88,
+      "hotScore": 92,
       "content": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from scratch. We ask whether a pretrained video generator can instead provide the prior for both inverse and forward dynamics. We introduce O$^{2}$LaF, built on a simple principle: one prior, two dynamics. We initialize both models from the same pretrained video DiT and adapt them to their distinct roles: a feed-forward transition encoder with learnable action queries for inverse dynamics, and a causal, action-conditioned video generator for forward dynamics. By controlling information access and optimizing both dynamics end-to-end through a compact bottleneck, O$^{2}$LaF learns transferable actions from unlabeled videos. Across navigation and robotic manipulation, O$^{2}$LaF sets a new state of the art in few-shot action probing and enables stronger zero-shot action transfer across visual contexts and embodiments. Beyond generative video priors, we further extend our framework to predictive representation priors such as V-JEPA2, achieving competitive performance. Our findings suggest a broader paradigm for latent-action learning: repurposing pretrained video models to discover transferable actions and predict their consequences."
     },
     {
@@ -345,7 +345,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2611.26613v1",
-      "hotScore": 92,
+      "hotScore": 94,
       "content": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, existing benchmarks report only episode-level success rates, which show neither how these agents succeed nor where they fail. In this paper, we present a systematic action-level analysis of frontier agents on direct robot control across 12 manipulation benchmarks. We introduce AgentRoboCritic, an intent-grounded critique framework in which the policy agent states a local intent alongside each action, and a critic evaluates the action's outcome and failure mode against this intent. Our action-level analysis demonstrates the promising capabilities of frontier agents on direct robot control, including closed-loop recovery from local execution failures, reliable semantic grounding across diverse scenes, and strong zero-shot manipulation without task-specific adaptation. It also identifies their current limitations, including task-relevant physical execution bottlenecks such as grasping and alignment, and uneven recovery across failure modes. Finally, we validate our critic on a 400-action human-annotated benchmark and release a dataset of 12,844 annotated actions alongside a fine-tuned open-source critic, Muse-Glimmer-30B, whose failure-mode accuracy rises from 32.58% to 74.24%, enabling low-cost action-level analysis."
     },
     {
@@ -359,7 +359,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2405.01484v3",
-      "hotScore": 91,
+      "hotScore": 81,
       "content": "Algorithms frequently assist, rather than replace, human decision-makers. However, the design and analysis of algorithms often focus on predicting outcomes and do not explicitly model their effect on human decisions. This discrepancy between the design and role of algorithmic assistants becomes particularly concerning in light of empirical evidence that suggests that algorithmic assistants again and again fail to improve human decisions. In this article, we formalize the design of recommendation algorithms that assist human decision-makers without making restrictive ex-ante assumptions about how recommendations affect decisions. We formulate an algorithmic-design problem that leverages the potential-outcomes framework from causal inference to model the effect of recommendations on a human decision-maker's binary treatment choice. Within this model, we make a connection between algorithmic recommendations and instrumental variables. Leveraging this connection, we introduce a monotonicity assumption that leads to an intuitive classification of human responses to the algorithm. Under this assumption, we can express the human's response to algorithmic recommendations in terms of their compliance with the algorithm and the active decision they would take if the algorithm sends no recommendation. We showcase the utility of our framework using an online experiment that simulates a hiring task. We argue that our approach can make sense of the relative performance of different recommendation algorithms in the experiment and can help design solutions that realize human-AI complementarity. Finally, we leverage our approach to derive maximin-optimal recommendation algorithms that can be implemented with machine learning using limited training data."
     },
     {
@@ -374,83 +374,83 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2606.12200v2",
-      "hotScore": 94,
+      "hotScore": 82,
       "content": "We study policy representation learning from unlabeled multi-policy behavioral data. Each episode is generated by a fixed policy, but policy labels are unavailable. This setting appears in robotics play, demonstrations, games, racing, and other datasets where heterogeneous behaviors are mixed without annotations. We introduce Behavioral INR, a self-supervised generative model that adapts implicit neural representations (INRs) from vision to behavior. Instead of mapping coordinates to RGB values, Behavioral INR represents a policy as a state-action function mapping states to subsequent actions. An episode-level latent modulates this function through FiLM layers, yielding a generative prior over policies and allowing policy identity to be inferred without supervision. Because INRs treat each datapoint as samples from an underlying function, the same model naturally accommodates variable episode lengths and different sampling granularities, as in vision INRs with different image resolutions. We also define policy-level out-of-distribution (OOD) shifts along state-distribution and action-distribution axes, which arise when policies overlap in states or actions but are not captured by standard behavioral OOD settings based only on new agents or environments. We evaluate on synthetic Gaussian random field data, MuJoCo demonstrations with controlled OOD splits, and real-world chess, Formula 1 racing, robotics, and Seek-Avoid datasets. Behavioral INR most consistently improves policy identifiability in the hardest continuous state-action settings, especially when longer episodes, more policies, and OOD splits reduce the usefulness of marginal shortcuts; amortized history encoders remain competitive when policy identity can be recovered from symbolic repetition or low-dimensional action statistics."
     },
     {
-      "id": "fetch-hf-2611.26409",
-      "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+      "id": "fetch-hf-2611.26627",
+      "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
       "source": "Hugging Face Daily",
       "date": "2026-11-18",
-      "description": "Video understanding, particularly with accompanying audio, remains a central challenge in multimodal intelligence. In this report, we introduce WeMM-Video, a family of Chinese-English bilingual omni-modal foundation models spanning 2B, 4B, ...",
+      "description": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects a...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2611.26409",
+      "url": "https://huggingface.co/papers/2611.26627",
       "hotScore": 90,
-      "content": "Video understanding, particularly with accompanying audio, remains a central challenge in multimodal intelligence. In this report, we introduce WeMM-Video, a family of Chinese-English bilingual omni-modal foundation models spanning 2B, 4B, 9B, and 35B-A3B variants. Centering on joint audio-visual perception and reasoning, WeMM-Video unifies text, image, audio, and video processing within a hybrid-thinking paradigm, seamlessly supporting both a non-thinking instruct mode for fast, direct responses and a thinking mode for explicit step-by-step reasoning. The models are trained on a large-scale multimodal corpus of approximately 1.2 trillion tokens through progressive pre-training and a multi-stage post-training pipeline incorporating multi-teacher OPD, anti-repetition MrDPO, and specialist RL. Evaluated across more than 120 benchmarks, WeMM-Video demonstrates superior performance in omni-modal video understanding and reasoning, while maintaining highly competitive capabilities across general audio, silent video, image, and text tasks. Specifically, in omni-modal video evaluations, our flagship WeMM-Video-35B-A3B establishes a new open-source state of the art, substantially outperforming proprietary models such as Qwen3.5-Omni-Flash and Seed2.0-Mini-0428 while narrowing the gap with the strong Gemini-3.0-Flash, and our compact WeMM-Video-9B surpasses the larger open-source Qwen3-Omni-30B-A3B-Instruct. We publicly release the WeMM-Video family along with our evaluation and reproduction pipeline to foster further research and development in the open-source community."
+      "content": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them requires learning complex, input-dependent transformations. To isolate how much of these gains an input-independent shift explains, we probe each RL-tuned model with a deliberately simple parameterization: a fixed set of steering vectors added to the block outputs of the frozen base model. On SD3.5-M, these vectors hold 65x fewer parameters than the RL-tuned LoRA (0.29M against 18.8M). We fit them to match the velocity predictions of public RL-tuned checkpoints, with no reward in the objective. Although the vectors are identical for every prompt, token, and sampling seed, they recover 90.0-96.3% of the reward gains of six RL-tuned image models, and 89.8% and 111.9% on two RL-tuned video models. Initialized at zero and trained with online RL, the vectors alone exceed the reward gains of weight-based RL on text rendering (OCR) and human preference (PickScore) on SD3.5-M. A constant shift thus suffices for most of the gain of policy-gradient RL post-training: without new input-dependent transformations, it steers the pretrained generator toward what it can already compute."
     },
     {
-      "id": "fetch-hf-2611.21383",
-      "title": "The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation",
+      "id": "fetch-hf-2611.23875",
+      "title": "In Situ Training of Optical Neural Networks by Coding Agents",
       "source": "Hugging Face Daily",
-      "date": "2026-11-15",
-      "description": "3D Gaussian Splatting enables object-level operations on Gaussian primitives, yet existing segmentation methods are largely trained and evaluated through rendered views. This mismatch can produce accurate rendered masks from incomplete 3D s...",
-      "category": "tooling",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2611.21383",
-      "hotScore": 89,
-      "content": "3D Gaussian Splatting enables object-level operations on Gaussian primitives, yet existing segmentation methods are largely trained and evaluated through rendered views. This mismatch can produce accurate rendered masks from incomplete 3D selections since alpha-blended feature supervision concentrates learning on dominant contributors while leaving occluded or low-contribution Gaussians weakly supervised. We propose VODA, a plug-and-play supervision objective that exploits local depth structure to group per-pixel contributors and directly supervises all Gaussians in selected depth clusters, bypassing contribution-weighted gradient delivery. To evaluate volumetric completeness, we introduce Removal-3D, a synthetic object-removal benchmark, and the Removal Depth Error (RDE), a metric comparing predicted and ground-truth depth changes. Across four rendering-based baselines, VODA consistently improves volumetric segmentation on Removal-3D while maintaining or improving performance on LERF and ScanNet. Further analysis shows that VODA recovers lower-contribution Gaussians, while simple gradient reweighting and spatial propagation fail to reproduce comparable gains."
-    },
-    {
-      "id": "fetch-hf-2611.26380",
-      "title": "EgoCaptioner: Towards Comprehensive and Fine-Grained Egocentric Video Captioning",
-      "source": "Hugging Face Daily",
-      "date": "2026-11-18",
-      "description": "Egocentric video captioning requires fine-grained detail and accurate timing, yet current multimodal large language models (MLLMs) often miss brief actions, confuse their order, or misinterpret the wearer's motion. Existing caption formats ...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2611.26380",
-      "hotScore": 88,
-      "content": "Egocentric video captioning requires fine-grained detail and accurate timing, yet current multimodal large language models (MLLMs) often miss brief actions, confuse their order, or misinterpret the wearer's motion. Existing caption formats also offer limited support for combining detailed narration with precise timing. We present EgoCaptioner, which pairs a video-level overview of the setting, participants, and the wearer's overall activity with timed steps whose narration adapts to varying perceptual demands and marks key moments at specific timestamps. We develop a coarse-to-fine annotation pipeline that establishes event structure before expanding step descriptions, yielding 50,000 training examples from eight egocentric video sources. Complementary rewards assess factual accuracy and coverage, measure step-level temporal alignment, and penalize fragmented or redundant narration, guiding caption refinement through Group Relative Policy Optimization (GRPO). To improve the reliability of factual supervision, we supplement caption references with pose-derived motion facts when sensor data are available. Across five egocentric benchmarks, EgoCaptioner achieves leading performance among evaluated open-source models in caption quality, caption-conditioned question answering, and temporal alignment. It also surpasses Gemini 3.1 Pro on PhysCapBench and all evaluated proprietary baselines on Minerva-Ego under the caption-to-QA protocol. Ablations support the complementary roles of factual and temporal rewards and show that coarse-to-fine annotation provides more effective supervision than single-pass annotation."
-    },
-    {
-      "id": "fetch-hf-2611.26595",
-      "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
-      "source": "Hugging Face Daily",
-      "date": "2026-11-18",
-      "description": "Code2Video uses agent-authored 3D proxies to guide video generation, enabling explicit control over structure and dynamics. However, how to construct proxies and prompts for optimal downstream quality remains underexplored, as do the capabi...",
+      "date": "2026-11-17",
+      "description": "Optical neural networks promise fast, energy-efficient computing, but every device departs from its design and must be trained with the hardware. In situ training relies on an expert-built calibrated digital model of each device or on gradi...",
       "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2611.26595",
-      "hotScore": 87,
-      "content": "Code2Video uses agent-authored 3D proxies to guide video generation, enabling explicit control over structure and dynamics. However, how to construct proxies and prompts for optimal downstream quality remains underexplored, as do the capabilities and limitations of this paradigm. Through controlled experiments and blinded human evaluation, we study proxy granularity, physics simulation, and prompting. The results reveal task-dependent trade-offs: coarse proxies favor natural motion, while medium-grained proxies favor consistency. Physics simulation and proxy-aligned prompting further improve average quality. Guided by these findings, we introduce Coda-DaVinci, a task-adaptive agentic framework for Code2Video generation that selects between proxy-guided and direct generation, adapts modeling granularity to each entity, and coordinates simulation with proxy-grounded prompting. Its multi-agent harness preserves scene assets and guides repairs through visual inspection and independent review. Experiments demonstrate leading instruction following on VTR and scene consistency on R2M, improved physical plausibility over direct generation, and higher visual realism than the compared Code2Video baselines. Long-video evaluations further show gains in event structure and consistency across successive interactions, while revealing limitations in transition stability and adherence to scene settings."
+      "url": "https://huggingface.co/papers/2611.23875",
+      "hotScore": 89,
+      "content": "Optical neural networks promise fast, energy-efficient computing, but every device departs from its design and must be trained with the hardware. In situ training relies on an expert-built calibrated digital model of each device or on gradient-free trial and error. Coding agents, large language models that write and run programs, have shown an emergent ability to understand and edit the weights of digital neural networks. Here we introduce optics as code, a method in which a coding agent trains an optical neural network from measurements alone, through a harness that returns camera images of its probes and requires a hypothesis per request. We discovered that the agent forms a physical understanding of the optics and reparametrizes the network with interpretable optical elements tuned on the hardware. It outperforms gradient-free methods in classification and image encoding, approaching backpropagation through a calibrated model at a fraction of the cost. Needing neither per-device calibration nor gradients through the hardware, and improving with more capable models, optics as code offers a practical route to large, scalable optical neural networks and a general tool for calibrating and optimizing optical experiments."
     },
     {
-      "id": "fetch-hf-2611.24011",
-      "title": "WAM-Policy: World Action Models with On-Policy Distillation for Quadrupedal Loco-Manipulation",
+      "id": "fetch-hf-2611.21885",
+      "title": "Language Models Can Rewrite Their Own Weights",
       "source": "Hugging Face Daily",
-      "date": "2026-11-17",
-      "description": "Arm-free quadrupeds can perform loco-manipulation, walking on three legs while manipulating with a front leg, yet no existing policy for it follows language instructions. World action models (WAMs) have emerged as effective language-conditi...",
+      "date": "2026-11-15",
+      "description": "Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weight...",
       "category": "image",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2611.24011",
+      "url": "https://huggingface.co/papers/2611.21885",
+      "hotScore": 88,
+      "content": "Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much smaller one. We ask whether a model can rewrite its own weights to make itself better, and find that it can, by its own reasoning, with no gradients and no training; we call this self-rewriting. Given its weights, graded answers and the ability to run itself, a 27B model diagnoses its failure and edits the weights behind it. It surpasses itself: its own edit makes it 6.6 points more accurate on 490 problems it never saw, in a test fixed in advance, and another session's edit also makes it significantly better. It keeps getting better: it submits an edit only when its own tests support it, each edit replacing the last, and over its first eight such sessions its accuracy only rises. Unlike test-time scaling, the gain persists in its weights and adds no cost per answer; unlike training, it needs no pre- or post-training infrastructure, only an open model and hours on one GPU. It repairs a damaged copy of itself: it locates the corrupted matrix and rewrites it with values of its own, never reading the undamaged weights; found on text math problems alone, the repair lifts the copy on six image benchmarks it never saw from 7% to 70% accuracy, 83% of the undamaged model's. And the ability emerges with scale: across four sizes of one family, the 2B model makes no edit and the 4B and 9B models break themselves; only the 27B model works on itself as a human would, comparing its hidden states on answers that finish and on answers that run out of tokens, weakening the direction that separates them. Like a human, a model need not separate training from inference; improving a language model may come to take a conversation rather than a training run."
+    },
+    {
+      "id": "fetch-hf-2611.21053",
+      "title": "System 1 agents: a method for local, reliable and fast agentic AI",
+      "source": "Hugging Face Daily",
+      "date": "2026-11-15",
+      "description": "Agentic artificial intelligence could automate analyses of sensitive clinical data, but current agents depend on large language models (LLMs). Cloud LLMs expose patient data. Local LLMs hallucinate, and an invented value in a tool call prop...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2611.21053",
+      "hotScore": 87,
+      "content": "Agentic artificial intelligence could automate analyses of sensitive clinical data, but current agents depend on large language models (LLMs). Cloud LLMs expose patient data. Local LLMs hallucinate, and an invented value in a tool call propagates through every later step. Here we present a method to build System 1 agents: local agents that call tools without generating text. A deterministic compiler turns each tool's schema and the request into multiple-choice questions whose options come from the request and the schema, then a one-pass decision model answers them. On 1,952 requests to 157 biomedical tools, the best System 1 agent chose the right tool, or correctly declined, for 97.0% of requests, significantly ahead of all 18 local LLM-agent settings (best 95.2%). The System 1 agent filled 97.0% of 6,056 stated argument values. No System 1 call contained invented content, against 5.5-19.7% of LLM calls. The System 1 Agents framework is freely available as open-source software at https://github.com/eltzanis/SystemOneAgents."
+    },
+    {
+      "id": "fetch-hf-2611.25567",
+      "title": "Online Mistake Detection in Instruction-Conditioned Procedural Video",
+      "source": "Hugging Face Daily",
+      "date": "2026-11-18",
+      "description": "An assistant monitoring a person performing a procedure is most useful when it can detect mistakes while there is still time to recover. This requires judging actions against task instructions as the video unfolds, identifying the attempted...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2611.25567",
       "hotScore": 86,
-      "content": "Arm-free quadrupeds can perform loco-manipulation, walking on three legs while manipulating with a front leg, yet no existing policy for it follows language instructions. World action models (WAMs) have emerged as effective language-conditioned manipulation policies, but are pretrained for robot arms and sample slowly. WAM-Policy turns one WAM into a quadrupedal loco-manipulation policy via two stages. The first, Cross-Morphology Policy Adaptation and Acceleration, adapts the arm-centric WAM to quadrupeds and distills the transferred policy into a student with one video and two action steps by on-policy self-distillation (OPSD). This student, however, is bounded by its teacher, which only imitates demonstrations. The second stage, Task-Specific Improvement and Merging, therefore tunes the teacher by reinforcement learning (RL) and merges the slow specialists into one few-step student by multi-teacher on-policy distillation (M-OPD). On QLM-Bench, ten simulated tasks with 1,000 demonstrations synthesized without teleoperation, the transferred policy reaches 77.0%, and the OPSD student keeps 76.7% while sampling 14 times faster. Task-specific RL and M-OPD lift it to 85.0%. We also deploy the OPSD student on a real Unitree Go2 Air. WAM-Policy thus achieves a stronger quadrupedal policy at a fraction of the inference cost."
+      "content": "An assistant monitoring a person performing a procedure is most useful when it can detect mistakes while there is still time to recover. This requires judging actions against task instructions as the video unfolds, identifying the attempted step, locating it in time, and assessing its execution. Existing online detectors do not use the instruction text, while instruction-conditioned methods operate offline. In this paper, we study online, instruction-conditioned mistake detection in egocentric videos. Using only observed video, task instructions, and prior predictions, our model identifies and localizes completed action attempts and classifies them as correct, modified, slip, corrections, or additions; omitted steps are determined after the video ends. We compare a modular pipeline, with separate step identification, temporal localization, and execution verification, to a joint model that predicts all outputs in a single step. To support supervised learning from mistakes, we repartition EgoPER to include erroneous videos in all splits. The approaches achieve similar step-segmentation F1@0.5 (93.6% and 92.1%), while the joint model achieves higher binary mistake-detection F1@0.5 (84.1% vs. 80.7%), with its largest gain on slips (56.4% vs. 37.5%). Component-level analysis suggests that error propagation between stages contributes to the modular approach's lower detection score. On test videos containing mistakes, both designs outperform released AEM and ESTANet checkpoints under our evaluation protocol."
     }
   ],
   "hfModels": [
@@ -459,8 +459,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 167728168,
-      "likes": 6148,
+      "downloads": 167481431,
+      "likes": 6150,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -475,7 +475,7 @@
       "name": "whisperkit-coreml",
       "owner": "Community",
       "fullName": "argmaxinc/whisperkit-coreml",
-      "downloads": 84267005,
+      "downloads": 87764518,
       "likes": 276,
       "category": "research",
       "tags": [
@@ -491,7 +491,7 @@
       "name": "ms-marco-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 56284496,
+      "downloads": 56166533,
       "likes": 452,
       "category": "research",
       "tags": [
@@ -507,8 +507,8 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 43610697,
-      "likes": 680,
+      "downloads": 43622542,
+      "likes": 681,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -519,27 +519,11 @@
       "hotScore": 94
     },
     {
-      "id": "fetch-model-openai-community--gpt2",
-      "name": "gpt2",
-      "owner": "Community",
-      "fullName": "openai-community/gpt2",
-      "downloads": 34336215,
-      "likes": 3954,
-      "category": "image",
-      "tags": [
-        "Text-generation",
-        "Transformers",
-        "Pytorch"
-      ],
-      "url": "https://huggingface.co/openai-community/gpt2",
-      "hotScore": 92
-    },
-    {
       "id": "fetch-model-autogluon--chronos-2",
       "name": "chronos-2",
       "owner": "Community",
       "fullName": "autogluon/chronos-2",
-      "downloads": 34219621,
+      "downloads": 34637098,
       "likes": 97,
       "category": "research",
       "tags": [
@@ -548,6 +532,22 @@
         "Safetensors"
       ],
       "url": "https://huggingface.co/autogluon/chronos-2",
+      "hotScore": 92
+    },
+    {
+      "id": "fetch-model-openai-community--gpt2",
+      "name": "gpt2",
+      "owner": "Community",
+      "fullName": "openai-community/gpt2",
+      "downloads": 34394889,
+      "likes": 3958,
+      "category": "image",
+      "tags": [
+        "Text-generation",
+        "Transformers",
+        "Pytorch"
+      ],
+      "url": "https://huggingface.co/openai-community/gpt2",
       "hotScore": 90
     },
     {
@@ -555,7 +555,7 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 33919087,
+      "downloads": 33456723,
       "likes": 3084,
       "category": "research",
       "tags": [
@@ -571,8 +571,8 @@
       "name": "MiniMax-H3",
       "owner": "Community",
       "fullName": "Comfy-Org/MiniMax-H3",
-      "downloads": 33102276,
-      "likes": 2825,
+      "downloads": 33249021,
+      "likes": 2835,
       "category": "research",
       "tags": [
         "Diffusion-single-file",
@@ -586,8 +586,8 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 32282912,
-      "likes": 4024,
+      "downloads": 33121367,
+      "likes": 4027,
       "category": "research",
       "tags": [
         "Sentence-similarity",
@@ -602,8 +602,8 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 25028607,
-      "likes": 1513,
+      "downloads": 25107083,
+      "likes": 1514,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -617,6 +617,36 @@
   "aiGadgets": [
     {
       "id": "fetch-gadget-0",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-11-20",
+      "description": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "hotScore": 92,
+      "content": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace...."
+    },
+    {
+      "id": "fetch-gadget-1",
+      "title": "The US national cyber director is stepping down",
+      "source": "TechCrunch Gadgets",
+      "date": "2026-11-20",
+      "description": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown....",
+      "category": "research",
+      "tags": [
+        "Hardware",
+        "AI-Gadget"
+      ],
+      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "hotScore": 89,
+      "content": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown...."
+    },
+    {
+      "id": "fetch-gadget-2",
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "source": "TechCrunch Gadgets",
       "date": "2026-11-20",
@@ -627,11 +657,11 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "hotScore": 92,
+      "hotScore": 96,
       "content": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots...."
     },
     {
-      "id": "fetch-gadget-1",
+      "id": "fetch-gadget-3",
       "title": "Meta&#8217;s new Muse Charm device may cost $300",
       "source": "TechCrunch Gadgets",
       "date": "2026-11-19",
@@ -642,38 +672,8 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "hotScore": 88,
+      "hotScore": 85,
       "content": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable...."
-    },
-    {
-      "id": "fetch-gadget-2",
-      "title": "Former Alibaba exec&#8217;s Everful raises $48.5M to connect retailers with Chinese factories",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-11-19",
-      "description": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "hotScore": 92,
-      "content": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers...."
-    },
-    {
-      "id": "fetch-gadget-3",
-      "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
-      "source": "TechCrunch Gadgets",
-      "date": "2026-11-19",
-      "description": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out....",
-      "category": "research",
-      "tags": [
-        "Hardware",
-        "AI-Gadget"
-      ],
-      "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
-      "hotScore": 94,
-      "content": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out...."
     }
   ]
 }
