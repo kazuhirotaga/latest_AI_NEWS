@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-21T18:20:32.485Z",
+  "updatedAt": "2026-11-22T03:43:59.648Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1209966933",
       "name": "rea",
       "owner": "morluto",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 472534,
-      "forks": 115333,
+      "stars": 472950,
+      "forks": 115421,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 394972,
-      "forks": 82943,
+      "stars": 395001,
+      "forks": 82952,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 323551,
-      "forks": 28703,
+      "stars": 323805,
+      "forks": 28721,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 265153,
-      "forks": 59922,
+      "stars": 265224,
+      "forks": 59955,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 211619,
-      "forks": 61605,
+      "stars": 211671,
+      "forks": 61610,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "stars": 205965,
-      "forks": 10770,
+      "stars": 206309,
+      "forks": 10787,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -108,8 +108,8 @@
       "name": "AutoGPT",
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 188126,
-      "forks": 45830,
+      "stars": 188124,
+      "forks": 45827,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 178169,
-      "forks": 22722,
+      "stars": 178205,
+      "forks": 22730,
       "language": "MDX",
       "category": "llm",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165370,
-      "forks": 31078,
+      "stars": 165369,
+      "forks": 31080,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 161623,
-      "forks": 25537,
+      "stars": 161638,
+      "forks": 25533,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 159638,
-      "forks": 46093,
+      "stars": 159639,
+      "forks": 46092,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -193,7 +193,7 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 159209,
+      "stars": 159229,
       "forks": 23108,
       "language": "Svelte",
       "category": "llm",
@@ -210,8 +210,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 150917,
-      "forks": 13551,
+      "stars": 150951,
+      "forks": 13557,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 150004,
-      "forks": 25153,
+      "stars": 149962,
+      "forks": 25154,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -244,7 +244,7 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 147959,
+      "stars": 147992,
       "forks": 17625,
       "language": "Python",
       "category": "image",
@@ -270,7 +270,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2611.26627v1",
-      "hotScore": 84,
+      "hotScore": 91,
       "content": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them requires learning complex, input-dependent transformations. To isolate how much of these gains an input-independent shift explains, we probe each RL-tuned model with a deliberately simple parameterization: a fixed set of steering vectors added to the block outputs of the frozen base model. On SD3.5-M, these vectors hold 65x fewer parameters than the RL-tuned LoRA (0.29M against 18.8M). We fit them to match the velocity predictions of public RL-tuned checkpoints, with no reward in the objective. Although the vectors are identical for every prompt, token, and sampling seed, they recover 90.0-96.3% of the reward gains of six RL-tuned image models, and 89.8% and 111.9% on two RL-tuned video models. Initialized at zero and trained with online RL, the vectors alone exceed the reward gains of weight-based RL on text rendering (OCR) and human preference (PickScore) on SD3.5-M. A constant shift thus suffices for most of the gain of policy-gradient RL post-training: without new input-dependent transformations, it steers the pretrained generator toward what it can already compute."
     },
     {
@@ -285,7 +285,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2611.26624v1",
-      "hotScore": 90,
+      "hotScore": 91,
       "content": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its detailed play experience to revise them for mastery. Starting from an initial game, PlayCraft alternates between playing and crafting. In the playing stage, a player agent watches the game screen, uses the controls, and pursues the game objective over repeated episodes while retaining memory. After each episode, it reports its progress, outcomes, decisions, and reflections. In the crafting stage, a crafter agent uses these reports to revise the game. It estimates player abilities, predicts performance at different proficiency levels, and compares those predictions with a target learning progression. It diagnoses the game and addresses the gaps by giving players meaningful opportunities to improve through better decisions and execution. We evaluate games in fresh runs with player agents across three intelligence settings, measuring learning gain and learning slope. Compared with the initial games, PlayCraft yields larger learning gains and steeper learning slopes in most games. It also outperforms the baselines on the macro-average of each metric at every intelligence setting."
     },
     {
@@ -300,7 +300,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2602.04417v2",
-      "hotScore": 92,
+      "hotScore": 94,
       "content": "Reinforcement Learning (RL) has enabled Large Language Models (LLMs) to acquire increasingly complex reasoning and agentic behaviors. In this work, we propose two simple techniques to improve policy gradient algorithms for LLMs. First, we replace the fixed anchor policy during RL with an Exponential Moving Average (EMA), similar to a target network in deep Q-learning. Second, we introduce Top-$k$ KL estimator, which allows for flexible interpolation between exact KL and sampled KL. We derive the stability conditions for using EMA anchor; moreover, we show that our Top-$k$ KL estimator yields both unbiased KL values and unbiased gradients at any $k$, while bringing the benefits of exact KL. When combined with GRPO, the two techniques (EMA-PG) lead to a significant performance boost. On math reasoning, it allows R1-distilled Qwen-1.5B to reach 53.9% on OlympiadBench compared to 50.8% by GRPO. On agentic RL domains, with Qwen-3B base, EMA-PG improves GRPO by an average of 35.6% across 7 datasets of Q&amp;A with search engines, including 29.7% $\\rightarrow$ 45.8% on HotpotQA, 27.4% $\\rightarrow$ 40.5% on 2WikiMultiHopQA. Overall, we show that EMA-PG is a simple, principled, and powerful approach to scaling RL for LLMs. Code: https://github.com/LunjunZhang/ema-pg"
     },
     {
@@ -315,7 +315,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2611.26619v1",
-      "hotScore": 82,
+      "hotScore": 90,
       "content": "Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency. We present TideCache, a serving system on CPU--GPU superchips with three components for allocating GPU memory among caches and managing their residency across GPU and host memory. The Transparent Cache Pool redistributes physical pages among cache components behind fixed virtual addresses, preserving cache layouts and backend interfaces. The Cache Streamer uses computation intervals provided by bounded-state layers to prefetch the next global-attention layer's prefix into GPU slots shared across global-attention layers, reducing GPU residency while overlapping layer-wise transfers with computation. Generated KV remains resident. The Request Scheduler selects resident or streamed execution and triggers capacity adjustments according to request size and queue state. Together, they let HBM released by streaming accommodate other cache components and additional requests. Implemented in SGLang and evaluated on GB300 and GH200 across seven model/platform configurations, TideCache completes up to 2.04x as many agent turns, reduces overall P50 per-token latency by 20--59%, and improves agent P50 TTFT by 1.40--3.05x compared with SGLang with HiCache."
     },
     {
@@ -330,7 +330,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2611.26617v1",
-      "hotScore": 92,
+      "hotScore": 83,
       "content": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from scratch. We ask whether a pretrained video generator can instead provide the prior for both inverse and forward dynamics. We introduce O$^{2}$LaF, built on a simple principle: one prior, two dynamics. We initialize both models from the same pretrained video DiT and adapt them to their distinct roles: a feed-forward transition encoder with learnable action queries for inverse dynamics, and a causal, action-conditioned video generator for forward dynamics. By controlling information access and optimizing both dynamics end-to-end through a compact bottleneck, O$^{2}$LaF learns transferable actions from unlabeled videos. Across navigation and robotic manipulation, O$^{2}$LaF sets a new state of the art in few-shot action probing and enables stronger zero-shot action transfer across visual contexts and embodiments. Beyond generative video priors, we further extend our framework to predictive representation priors such as V-JEPA2, achieving competitive performance. Our findings suggest a broader paradigm for latent-action learning: repurposing pretrained video models to discover transferable actions and predict their consequences."
     },
     {
@@ -345,7 +345,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2611.26613v1",
-      "hotScore": 94,
+      "hotScore": 86,
       "content": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, existing benchmarks report only episode-level success rates, which show neither how these agents succeed nor where they fail. In this paper, we present a systematic action-level analysis of frontier agents on direct robot control across 12 manipulation benchmarks. We introduce AgentRoboCritic, an intent-grounded critique framework in which the policy agent states a local intent alongside each action, and a critic evaluates the action's outcome and failure mode against this intent. Our action-level analysis demonstrates the promising capabilities of frontier agents on direct robot control, including closed-loop recovery from local execution failures, reliable semantic grounding across diverse scenes, and strong zero-shot manipulation without task-specific adaptation. It also identifies their current limitations, including task-relevant physical execution bottlenecks such as grasping and alignment, and uneven recovery across failure modes. Finally, we validate our critic on a 400-action human-annotated benchmark and release a dataset of 12,844 annotated actions alongside a fine-tuned open-source critic, Muse-Glimmer-30B, whose failure-mode accuracy rises from 32.58% to 74.24%, enabling low-cost action-level analysis."
     },
     {
@@ -359,7 +359,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2405.01484v3",
-      "hotScore": 80,
+      "hotScore": 84,
       "content": "Algorithms frequently assist, rather than replace, human decision-makers. However, the design and analysis of algorithms often focus on predicting outcomes and do not explicitly model their effect on human decisions. This discrepancy between the design and role of algorithmic assistants becomes particularly concerning in light of empirical evidence that suggests that algorithmic assistants again and again fail to improve human decisions. In this article, we formalize the design of recommendation algorithms that assist human decision-makers without making restrictive ex-ante assumptions about how recommendations affect decisions. We formulate an algorithmic-design problem that leverages the potential-outcomes framework from causal inference to model the effect of recommendations on a human decision-maker's binary treatment choice. Within this model, we make a connection between algorithmic recommendations and instrumental variables. Leveraging this connection, we introduce a monotonicity assumption that leads to an intuitive classification of human responses to the algorithm. Under this assumption, we can express the human's response to algorithmic recommendations in terms of their compliance with the algorithm and the active decision they would take if the algorithm sends no recommendation. We showcase the utility of our framework using an online experiment that simulates a hiring task. We argue that our approach can make sense of the relative performance of different recommendation algorithms in the experiment and can help design solutions that realize human-AI complementarity. Finally, we leverage our approach to derive maximin-optimal recommendation algorithms that can be implemented with machine learning using limited training data."
     },
     {
@@ -374,7 +374,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2606.12200v2",
-      "hotScore": 90,
+      "hotScore": 93,
       "content": "We study policy representation learning from unlabeled multi-policy behavioral data. Each episode is generated by a fixed policy, but policy labels are unavailable. This setting appears in robotics play, demonstrations, games, racing, and other datasets where heterogeneous behaviors are mixed without annotations. We introduce Behavioral INR, a self-supervised generative model that adapts implicit neural representations (INRs) from vision to behavior. Instead of mapping coordinates to RGB values, Behavioral INR represents a policy as a state-action function mapping states to subsequent actions. An episode-level latent modulates this function through FiLM layers, yielding a generative prior over policies and allowing policy identity to be inferred without supervision. Because INRs treat each datapoint as samples from an underlying function, the same model naturally accommodates variable episode lengths and different sampling granularities, as in vision INRs with different image resolutions. We also define policy-level out-of-distribution (OOD) shifts along state-distribution and action-distribution axes, which arise when policies overlap in states or actions but are not captured by standard behavioral OOD settings based only on new agents or environments. We evaluate on synthetic Gaussian random field data, MuJoCo demonstrations with controlled OOD splits, and real-world chess, Formula 1 racing, robotics, and Seek-Avoid datasets. Behavioral INR most consistently improves policy identifiability in the hardest continuous state-action settings, especially when longer episodes, more policies, and OOD splits reduce the usefulness of marginal shortcuts; amortized history encoders remain competitive when policy identity can be recovered from symbolic repetition or low-dimensional action statistics."
     },
     {
@@ -460,7 +460,7 @@
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
       "downloads": 166834847,
-      "likes": 6155,
+      "likes": 6158,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -508,7 +508,7 @@
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
       "downloads": 43425321,
-      "likes": 680,
+      "likes": 681,
       "category": "research",
       "tags": [
         "Feature-extraction",
@@ -540,7 +540,7 @@
       "owner": "Community",
       "fullName": "openai-community/gpt2",
       "downloads": 34152708,
-      "likes": 3990,
+      "likes": 4068,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -588,7 +588,7 @@
       "owner": "Community",
       "fullName": "Comfy-Org/MiniMax-H3",
       "downloads": 33133100,
-      "likes": 2798,
+      "likes": 2800,
       "category": "research",
       "tags": [
         "Diffusion-single-file",
@@ -627,7 +627,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "hotScore": 93,
+      "hotScore": 92,
       "content": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace...."
     },
     {
@@ -642,7 +642,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
-      "hotScore": 90,
+      "hotScore": 86,
       "content": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown...."
     },
     {
@@ -657,7 +657,7 @@
         "AI-Gadget"
       ],
       "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "hotScore": 88,
+      "hotScore": 93,
       "content": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots...."
     }
   ]
