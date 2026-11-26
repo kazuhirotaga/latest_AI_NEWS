@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-26T05:40:55.190Z",
+  "updatedAt": "2026-11-26T20:37:17.936Z",
   "githubProjects": [
     {
       "id": "fetch-repo-1209966933",
       "name": "rea",
       "owner": "morluto",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 478722,
-      "forks": 116437,
+      "stars": 479619,
+      "forks": 116601,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -23,8 +23,8 @@
       "name": "openclaw",
       "owner": "openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 395245,
-      "forks": 82982,
+      "stars": 395290,
+      "forks": 82997,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -40,8 +40,8 @@
       "name": "superpowers",
       "owner": "obra",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 326785,
-      "forks": 28993,
+      "stars": 327364,
+      "forks": 29032,
       "language": "Shell",
       "category": "agent",
       "tags": [
@@ -57,8 +57,8 @@
       "name": "hermes-agent",
       "owner": "NousResearch",
       "description": "The agent that grows with you",
-      "stars": 266155,
-      "forks": 60371,
+      "stars": 266356,
+      "forks": 60433,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -74,8 +74,8 @@
       "name": "n8n",
       "owner": "n8n-io",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 212172,
-      "forks": 61666,
+      "stars": 212276,
+      "forks": 61675,
       "language": "TypeScript",
       "category": "research",
       "tags": [
@@ -91,8 +91,8 @@
       "name": "firecrawl",
       "owner": "firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "stars": 210241,
-      "forks": 11002,
+      "stars": 210829,
+      "forks": 11046,
       "language": "TypeScript",
       "category": "agent",
       "tags": [
@@ -109,7 +109,7 @@
       "owner": "Significant-Gravitas",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "stars": 188202,
-      "forks": 45828,
+      "forks": 45836,
       "language": "Python",
       "category": "llm",
       "tags": [
@@ -125,8 +125,8 @@
       "name": "prompts.chat",
       "owner": "f",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 178544,
-      "forks": 22755,
+      "stars": 178588,
+      "forks": 22761,
       "language": "MDX",
       "category": "llm",
       "tags": [
@@ -142,8 +142,8 @@
       "name": "stable-diffusion-webui",
       "owner": "AUTOMATIC1111",
       "description": "Stable Diffusion web UI",
-      "stars": 165388,
-      "forks": 31028,
+      "stars": 165387,
+      "forks": 31026,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -159,8 +159,8 @@
       "name": "dify",
       "owner": "langgenius",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 161927,
-      "forks": 25562,
+      "stars": 161955,
+      "forks": 25559,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -176,8 +176,8 @@
       "name": "JavaGuide",
       "owner": "Snailclimb",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 159683,
-      "forks": 46088,
+      "stars": 159688,
+      "forks": 46086,
       "language": "JavaScript",
       "category": "research",
       "tags": [
@@ -193,8 +193,8 @@
       "name": "open-webui",
       "owner": "open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 159584,
-      "forks": 23157,
+      "stars": 159634,
+      "forks": 23162,
       "language": "Svelte",
       "category": "llm",
       "tags": [
@@ -210,8 +210,8 @@
       "name": "spec-kit",
       "owner": "github",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "stars": 151411,
-      "forks": 13617,
+      "stars": 151512,
+      "forks": 13623,
       "language": "Python",
       "category": "research",
       "tags": [
@@ -227,8 +227,8 @@
       "name": "langchain",
       "owner": "langchain-ai",
       "description": "The agent engineering platform.",
-      "stars": 150008,
-      "forks": 25168,
+      "stars": 150031,
+      "forks": 25175,
       "language": "Python",
       "category": "agent",
       "tags": [
@@ -244,8 +244,8 @@
       "name": "ComfyUI",
       "owner": "Comfy-Org",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 148645,
-      "forks": 17718,
+      "stars": 148755,
+      "forks": 17730,
       "language": "Python",
       "category": "image",
       "tags": [
@@ -269,7 +269,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2611.34942v1",
-      "hotScore": 88,
+      "hotScore": 84,
       "content": "End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity to training-test mismatch in channel models. Models trained only on an AWGN channel achieve low bit error rates (BERs) under matched conditions but degrade severely on Rayleigh fading with practical front-end impairments. To reduce the time and energy required to adapt to new channel conditions, we propose a low-latency transfer-learning procedure that starts from an AWGN-pretrained system and fine-tunes only a small subset of transmitter and receiver layers while freezing the remainder. We further formulate layer selection as a budget-constrained optimization problem that identifies the most informative parameters to update during adaptation. This preserves the learned signal geometry and the deep decision structure while adapting lightweight front ends to fading- and impairment-induced mixing. For AE communications, we show that partial updates remove the mismatch-induced error floor and approach the BER of fully retrained models. We provide a layer-wise study and quantify resource-performance trade-offs, showing that modest adaptation substantially reduces BER while cutting training time, multiply-accumulate (MAC) operations, energy consumption, and the fraction of updated parameters for resource-efficient implementation."
     },
     {
@@ -283,7 +283,7 @@
         "Research"
       ],
       "url": "http://arxiv.org/abs/2611.34938v1",
-      "hotScore": 88,
+      "hotScore": 80,
       "content": "In this paper, we prove that, unless P=NP, no polynomial-time algorithm can find a tokeniser whose objective is within any constant factor of the optimum, meaning that tokenisation is not in the APX complexity class. We prove this for direct and bottom-up tokenisation, under both a compression or unigram log-likelihood objectives, and for binary or larger alphabets. We further show that, even over unary alphabets, direct tokenisation is APX-hard, and thus admits no polynomial-time approximation scheme."
     },
     {
@@ -298,7 +298,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2611.34935v1",
-      "hotScore": 80,
+      "hotScore": 82,
       "content": "Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and then answers using the original and generated images together. Across 13 vision-language model and generator pairs, generation lowers mean accuracy by 3.7 percentage points, with declines on nine of ten tasks. Two unified models, BAGEL and Janus-Pro-7B, each lose accuracy on eight tasks. On VSTAR, adding a generated image to the same planning hint lowers accuracy by 10.47 points. Repeated image edits yield different outcomes across tasks. ChartQAPro and MathVista stay below their no-generation baselines, while ERQA gains three points after ten edits."
     },
     {
@@ -313,7 +313,7 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2611.34934v1",
-      "hotScore": 90,
+      "hotScore": 80,
       "content": "AI monitors, classifiers that flag dangerous behaviour by AI agents, are often evaluated against transcripts generated by attack policies acting as proxies for dangerous behaviour in deployment. We evaluate an ex-production OpenAI monitor as a case study and find that measured false negative rate is highly sensitive to both the method used to generate attack policies and the level of optimisation applied within that method. This rate ranged from 0.5\\% to 20.8\\% across optimisation levels of a single method (reinforcement learning), and from 6.4\\% to 23.0\\% across methods at their best observed optimisation level (optimised prompting vs.\\ transcript editing). Every attack policy was developed against proxy monitors only: all reported results show attacks transferring to the held-out GPT-5.4 target monitor. Our results suggest that monitor evasion evaluations can easily mislead: an evaluation using only basic attack methods may give false confidence that a monitor is strong. The sensitivity to attack-policy choice raises a problem: interpreting any particular result as evidence about deployment performance requires justification. The transcripts produced by attack policies are proxies for the dangerous behaviour a monitor must flag in deployment. These proxies can introduce visible artefacts, such as reasoning about a ``side task'' absent from the instructions shown to the monitor, that affect monitor judgements. Given the sensitivity above, the choice of proxy can change an evaluation's conclusion. Reading these results as evidence about deployment therefore requires a separate legitimacy argument for why the proxies are informative, including any justification of conservativeness. Making convincing arguments remains an open problem."
     },
     {
@@ -328,7 +328,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2611.34930v1",
-      "hotScore": 85,
+      "hotScore": 86,
       "content": "Pathology foundation models are usually compared by their performance on downstream tasks such as classification and retrieval. While such benchmarks measure how useful a model is, they provide no insight into the biology it represents. We introduce BioScore, a benchmark that quantifies how well an image encoder captures cell identities, with spatial transcriptomics of the same tissue as the reference. A sparse autoencoder splits the encoder's patch embeddings into sparse features, which we cluster into a fixed number of groups. BioScore then measures, for each of 52 cell identities defined by marker genes, how specifically one group follows the identity's expression over the tissue. Because the autoencoder training is fully unsupervised, a match shows that the model represents the cell identity from the image alone. We score 8 pathology foundation models and 3 natural-image models. Every pathology model scores above every natural-image model (0.299--0.371 \\vs 0.214--0.232), and paired tests separate three tiers among the pathology models. Unlike a supervised probe, BioScore needs no labels, builds its reference from the data and scores even from few sections, yet it ranks the encoders as a probe does. Its per-identity breakdown indicates which cell identities each encoder captures or misses."
     },
     {
@@ -343,7 +343,7 @@
         "ImageGen"
       ],
       "url": "http://arxiv.org/abs/2611.34928v1",
-      "hotScore": 87,
+      "hotScore": 86,
       "content": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare under independent Monte Carlo (MC) sampling. To address this, we propose Diverse Alternative Reasoning Traces (DART), a trace-mining method that starts from a rejected trace, decomposes it into reasoning steps, and ranks them by position-weighted uncertainty. It then generates deliberately distinct alternative candidates for highly ranked steps using reference-answer guidance and a meta-thought before completing the resulting traces. On greedy-unsolved DeepMath-103K problems, DART recovers 37% more problems than MC sampling at a matched number of generated traces. Its estimated generation cost per recovered problem is nearly identical, while its cost per accepted trace is 30% lower. Post-training Llama-3.1-8B-Instruct on traces mined by DART achieves the highest point estimate in five of six evaluations across MATH-500 and AIME benchmarks. These results demonstrate that revisiting rejected traces with DART can expand problem coverage and provide effective post-training data."
     },
     {
@@ -358,7 +358,7 @@
         "LLM"
       ],
       "url": "http://arxiv.org/abs/2611.34923v1",
-      "hotScore": 80,
+      "hotScore": 90,
       "content": "Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Transformer (MoLT), whose Mixture-of-Loops Attention (MoLA) uses keys and values (KV) as memory for selective reuse across depths and loops. Under loop residual, MoLT-R retains the residual stream and reads local KV across loops for expressivity. Under loop KV, MoLT-KV instead restarts from embeddings and reads current-loop local KV with preceding-loop memory KV at earlier positions for efficiency. MoLT-KV eliminates same-position cross-loop dependence and, paired with loop forcing for parallel training, unlocks single-traversal Mixture-of-Loops (MoL) decoding beyond the training loop horizon. To balance efficiency and quality, we introduce U-shaped MoLT (U-MoLT), which separates memory construction from prediction readout and skips unused decoder traversals without changing predictions. In 400B-token pretraining, U-MoLT outperforms OLMo3 across 700M/1.5B dense and 3B MoE models, achieving 1.7x validation cross-entropy (CE) token efficiency at 700M while improving 3B MoE 10-domain perplexity by 0.75 and 10-task accuracy by 2.1 percentage points. In 100B-token continued pretraining of Qwen3.5-0.8B-Base, our U-MoLT adaptation lowers CE on all 11 domains over the matched baseline with 1.4x mean token efficiency. At inference, U-MoLT with MoL-Hybrid-2 matches non-looped OLMo3 latency at 996.6 vs. 1,000.6 ms on S-size (~113M) models. Code is available at https://github.com/hustvl/MoLT"
     },
     {
@@ -373,83 +373,83 @@
         "Agent"
       ],
       "url": "http://arxiv.org/abs/2611.34920v1",
-      "hotScore": 84,
+      "hotScore": 81,
       "content": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when participants react throughout a session. We introduce $μ$-Bench, a benchmark for joint task completion in closed-loop, full-duplex multi-user voice interaction. Simulated participants act from isolated profiles of goals, knowledge, and permissions, adapting to the agent's speech and tool outcomes. Across 20 domains, 100 scenarios vary group size, acoustics, and follow-up demands to form 800 cases (408 tool-augmented, 392 tool-free). Joint Task Success (JTS) requires all user goals, privacy boundaries, and terminal states to hold jointly, while Pure JTS further disallows unauthorized tool calls; Attribution, Threading, and Coordination (ATC) diagnostics localize failures. Across 13 voice agents, proprietary systems peak at 62.24\\% tool-free and 65.44\\% tool-augmented success, while open-weight models remain below 20\\%. ATC diagnostics show that open-weight models lag primarily in multi-turn attribution and threading, and controlled contrasts reveal that larger groups consistently degrade joint task success across capable systems. By coupling reactive multi-user simulation with verifiable session-level outcomes, $μ$-Bench provides a rigorous testbed for shared voice agents."
     },
     {
-      "id": "fetch-hf-2611.34331",
-      "title": "Puzzling-Bench: Evaluating Language Models on 23,777 Human-Written Puzzles with Community-Verified Answers",
+      "id": "fetch-hf-2611.29259",
+      "title": "Look Back: Reinforcement Learning with Counterfactual World Models",
       "source": "Hugging Face Daily",
-      "date": "2026-11-24",
-      "description": "We introduce Puzzling-Bench, a benchmark of 23,777 puzzles with community-verified answers drawn from the Puzzling Stack Exchange archive (2014-2026): riddles, ciphers, logic grids, lateral-thinking problems, wordplay and recreational mathe...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2611.34331",
-      "hotScore": 90,
-      "content": "We introduce Puzzling-Bench, a benchmark of 23,777 puzzles with community-verified answers drawn from the Puzzling Stack Exchange archive (2014-2026): riddles, ciphers, logic grids, lateral-thinking problems, wordplay and recreational mathematics, a third of them with images. Every puzzle carries the answer accepted by its author, a short reference answer taken from it (LLM-extracted for the evaluation sets and checked on a 50-puzzle human review), the author's own hints, community tags and a creation date, so that the benchmark supports hint ablations, category analysis and a rolling post-cutoff slice (254 puzzles posted after the training cutoff of six of the nine models we evaluate, including the best one) as a contamination check. We evaluate nine frontier and open models with a two-tier scorer (normalized exact match, then an LLM judge) and validate the judge with three judges from two model families: they agree on 95-97% of verdicts (kappa 0.82-0.96), move no model by more than 1.6 points, and show no own-family preference. The best model, GPT-6.1, reaches 74.8% on a shared 255-puzzle set; a hard core of 17 puzzles defeats all nine models; model failures are strongly correlated, and the second-best model contributes a single puzzle to a greedy ensemble, yet an oracle over all nine reaches 91%. On a 100-puzzle multimodal pilot, withholding the question's image costs the two best models 24 and 35 points. We release the dataset, the scoring pipeline and all per-row provenance."
-    },
-    {
-      "id": "fetch-hf-2611.33922",
-      "title": "iMFPO: Improving Mean Flow Policy Optimization with Drift-Aware Velocity Alignment for Embodied Control",
-      "source": "Hugging Face Daily",
-      "date": "2026-11-24",
-      "description": "Flow-based generative policies offer expressive action modeling for embodied control, yet achieving efficient one-step generation under reward-driven policy optimization remains challenging. In particular, evolving action distributions duri...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2611.33922",
-      "hotScore": 89,
-      "content": "Flow-based generative policies offer expressive action modeling for embodied control, yet achieving efficient one-step generation under reward-driven policy optimization remains challenging. In particular, evolving action distributions during online reinforcement learning may introduce inconsistencies between instantaneous-velocity learning and interval-averaged action generation. To address this challenge, we propose iMFPO, a one-step generative policy optimization framework with decoupled velocity learning and drift-aware velocity alignment. A shared interval-conditioned actor supports instantaneous-velocity supervision and interval-averaged action generation. JVP-corrected velocity regression is jointly optimized with reward-driven policy objectives, with action-level guidance from a frozen PPO teacher during training. At inference, iMFPO directly generates actions through interval-averaged velocity prediction, achieving one-step control without iterative flow integration. Across Go2, G1, H1, and Spot, zero-latent evaluation yields mean returns of 35.69, 34.44, 416.23, and 29.86. On Go2, action-generation latency drops from 15.57 ms to 0.41 ms relative to 64-step RFPO. Code: https://github.com/AIGeeksGroup/iMFPO. Website: https://aigeeksgroup.github.io/iMFPO."
-    },
-    {
-      "id": "fetch-hf-2611.34811",
-      "title": "HOG-WAM: Improving Visual Robustness through Future Gradient Prediction",
-      "source": "Hugging Face Daily",
-      "date": "2026-11-24",
-      "description": "World-action models jointly predict future observations and actions, yet visual corruption can disrupt the resulting policies. We introduce HOG-WAM, which adds future Histograms of Oriented Gradients (HOG) as structural supervision derived ...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2611.34811",
-      "hotScore": 88,
-      "content": "World-action models jointly predict future observations and actions, yet visual corruption can disrupt the resulting policies. We introduce HOG-WAM, which adds future Histograms of Oriented Gradients (HOG) as structural supervision derived directly from demonstration images. An auxiliary HOG diffusion transformer (DiT) module reads RGB features through asymmetric attention, allowing its objective to shape the visual representation used for control. The module is used only during training and removed at inference, preserving FastWAM's RGB-to-action architecture. We evaluate four controlled observation corruptions through a visual-corruption extension of RoboTwin, termed RoboTwin-Plus; HOG-WAM achieves the highest success among the compared policies under all four. Mixed-noise success increases from 78.86% to 82.86% relative to FastWAM, with comparable performance on clean scenes. On LIBERO Plus, overall success increases from 74.49% to 75.26%, with the largest gain under sensor noise, from 74.14% to 78.89%. Across four Franka tasks, average success increases from 40% to 59% under clean observations and from 17% to 24% under noisy observations. A representation ablation favors combining RGB observations with auxiliary HOG prediction over replacing RGB with HOG. These findings support future-gradient prediction as complementary supervision for visually robust control, with larger absolute gains on physical tasks than in simulation. Code is available at https://github.com/iPPLab/HOG-WAM."
-    },
-    {
-      "id": "fetch-hf-2611.33894",
-      "title": "SIA: Selective Image Analogy",
-      "source": "Hugging Face Daily",
-      "date": "2026-11-24",
-      "description": "Image analogy transfers a demonstrated transformation from a before/after pair (A, A') to a new query image B. Existing methods assume all changes in (A, A') should be fully transferred, limiting flexibility when users want only a subset of...",
-      "category": "image",
-      "tags": [
-        "Hugging Face",
-        "Paper"
-      ],
-      "url": "https://huggingface.co/papers/2611.33894",
-      "hotScore": 87,
-      "content": "Image analogy transfers a demonstrated transformation from a before/after pair (A, A') to a new query image B. Existing methods assume all changes in (A, A') should be fully transferred, limiting flexibility when users want only a subset of the demonstrated edits. We introduce Selective Image Analogy (SIA), a new setting where a single demonstration pair encodes multiple edits, and the user selects at inference time which edits to apply to B. To support this, we curate a multi-edit analogy dataset with full-edit and partial-edit targets. We then train a model that first learns to transfer the complete demonstrated transformation, and then gains selective control through a mask-aligned suppression mechanism: a token-gated LoRA that restricts adapter updates to suppressed edit tokens during denoising, paired with a concept suppression vector that weakens the selected tokens in the text embeddings before denoising. Together, these components allow SIA to suppress unwanted edits that remain visible in A', while preserving the user-selected ones, all without requiring a new demonstration pair for each edit combination. We perform extensive quantitative and qualitative evaluations along with user studies to demonstrate the efficacy of our approach."
-    },
-    {
-      "id": "fetch-hf-2611.34849",
-      "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
-      "source": "Hugging Face Daily",
-      "date": "2026-11-24",
-      "description": "Real-to-simulation transfer, which builds simulations from real-world observations, has long been studied in research and industry. Recently, coding agents have become capable of generating simulation programs from video recordings, and sev...",
+      "date": "2026-11-21",
+      "description": "Agents in complex, stochastic environments must contend with dynamics that can exceed their world models' predictive capacity and randomness that obscure the consequences of their actions. We hypothesize that, compared to imagining entirely...",
       "category": "agent",
       "tags": [
         "Hugging Face",
         "Paper"
       ],
-      "url": "https://huggingface.co/papers/2611.34849",
+      "url": "https://huggingface.co/papers/2611.29259",
+      "hotScore": 90,
+      "content": "Agents in complex, stochastic environments must contend with dynamics that can exceed their world models' predictive capacity and randomness that obscure the consequences of their actions. We hypothesize that, compared to imagining entirely new trajectories in such complex environments, it can be easier to transform observed trajectories with alternative actions. Counterfactual world models condition on observations to predict alternative outcomes under the same underlying environmental randomness, using experience as a reference for predicting action-dependent changes. We present a policy gradient estimator, REINFORCE Look Back (RLB), that uses counterfactual returns as baselines to distinguish action effects from environmental luck, and prove conditions for unbiasedness and variance reduction. In settings where environmental evolution is harder to predict than action-induced changes, we show that counterfactual world models are easier to learn and support better policy learning than ordinary world models. Our findings suggest that counterfactual thinking can help agents learn effective behavior without independently reproducing the full complexity of their worlds."
+    },
+    {
+      "id": "fetch-hf-2611.34363",
+      "title": "Single-Database Rewards Are Hackable: Counterfactual Execution for Trustworthy Text-to-SQL RL",
+      "source": "Hugging Face Daily",
+      "date": "2026-11-24",
+      "description": "Reinforcement learning (RL) for text-to-SQL agents pays a query when its result matches the reference on one database. However, a wrong query can match by luck when the data lack the rows that expose its bug. We study a counterfactual-datab...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2611.34363",
+      "hotScore": 89,
+      "content": "Reinforcement learning (RL) for text-to-SQL agents pays a query when its result matches the reference on one database. However, a wrong query can match by luck when the data lack the rows that expose its bug. We study a counterfactual-database (CF) reward that also runs the final query on a few hidden, code-generated copies of the database and pays only if all results match (strict form) or by the share matched (mean form). On 1,302 synthetic audit questions, the strict form lowers the share of buggy queries paid in full from 29.5% to 16.8% and of reward hacks from 54.1% to 1.9%, rejecting 0 of 2,847 correct queries; copies from a family-blind generator do about as well. In a controlled GRPO comparison on a 3.35B model with three seeds per arm, training on the mean form did not improve in-domain accuracy (8.4% vs 11.7%), because the two rewards disagreed on only 5-7% of rollouts; on Spider it gained 1.6 points. One seed reverses both signs, so single-seed reward comparisons mislead. Code: https://github.com/RishiiGamer2201/counterfactual-sql-rewards ; data, models, demo: https://huggingface.co/counterfactual-sql"
+    },
+    {
+      "id": "fetch-hf-2611.28732",
+      "title": "Entangle: Scaling Human-Video In-Context World-Action Models across Unseen Tasks and Contexts",
+      "source": "Hugging Face Daily",
+      "date": "2026-11-24",
+      "description": "In-context learning (ICL) enables foundation models to perform unseen tasks from context without parameter updates. In robotic manipulation, a human video provides the context that specifies how a task should be performed. However, scaling ...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2611.28732",
+      "hotScore": 88,
+      "content": "In-context learning (ICL) enables foundation models to perform unseen tasks from context without parameter updates. In robotic manipulation, a human video provides the context that specifies how a task should be performed. However, scaling human-video ICL on world-action models (WAMs) faces two challenges: task-level human-robot pairs are not temporally aligned with robot actions, and standard action losses allow policies to rely on initial-scene or task-identity shortcuts rather than tracking the context. We present Entangle, an in-context world-action model that maps a single human video and current robot observations to future visual states and executable actions. To scale temporally aligned training data, we convert recorded robot videos into matched human contexts via video-to-video generation, supplemented by real paired recordings. For model training, we combine variable-length video windows with an intra-task contrastive objective that distinguishes the paired action trajectory from other executions of the same task, preventing task-identity shortcuts. Without task-specific fine-tuning, Entangle improves steadily as aligned training data scales, reaching an average score of 83.5/100 across six unseen tasks on an Astribot S1 robot, and achieves a 69.5% average success rate on seven unseen RoboTwin tasks, outperforming Zero-WAM by 22.6 percentage points. Under Context-OOD, although trained only on scene-aligned pairs, Entangle transfers context-specified behaviors across rearranged layouts and substituted tools. Project page at https://entangle-robotics.github.io/"
+    },
+    {
+      "id": "fetch-hf-2611.33093",
+      "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
+      "source": "Hugging Face Daily",
+      "date": "2026-11-23",
+      "description": "A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and still be wrong. AIChi...",
+      "category": "agent",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2611.33093",
+      "hotScore": 87,
+      "content": "A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and still be wrong. AIChipBench asks what LLM coding agents need to build such hardware correctly. Agents implement quantized Qwen3.5, Gemma 3, Gemma 4, and Llama 3.2 decoders in synthesizable register-transfer-level (RTL) code against an executable integer reference that specifies the outputs and the stored state at every decoding step. They debug against public tests under fixed budgets; their frozen designs are graded on held-out token sequences, resets, memory stalls, and synthesis, and a second track asks them to speed up a correct design at nearly fixed area. Across 9,136 attempts by four coding agents, the difficulty lies in stored state. Feedback that points to the first state mismatch raises acceptance over output-only feedback in all 12 agent--task cells of a matched study, by 25.0 to 46.9 percentage points, and halves the agent-hours per accepted design. Regraded on new sequences and conditions, 45 of 69 accepted designs fail within the 32 steps their tests required. More than a third of attempts to speed up a correct design end without one. An overall score ranks Sol 5.6 and Fable 5.1 above Astra 6 and Opus 5.5, and both halves of the instances give this order in all 200 random splits. Hardware agents therefore need debugging feedback that exposes stored state, and their benchmarks need final tests well beyond the development cases."
+    },
+    {
+      "id": "fetch-hf-2611.34079",
+      "title": "WorldBridge: Bridging Scattered Views for Coherent 3D World Generation",
+      "source": "Hugging Face Daily",
+      "date": "2026-11-24",
+      "description": "Generating coherent and explorable 3D worlds from scattered images with little or no visual overlap is a fundamental and long-standing challenge in computer vision, which existing geometry-aware methods fail to address. Meanwhile, existing ...",
+      "category": "image",
+      "tags": [
+        "Hugging Face",
+        "Paper"
+      ],
+      "url": "https://huggingface.co/papers/2611.34079",
       "hotScore": 86,
-      "content": "Real-to-simulation transfer, which builds simulations from real-world observations, has long been studied in research and industry. Recently, coding agents have become capable of generating simulation programs from video recordings, and several benchmarks have been proposed to evaluate them. However, each individual benchmark defines its own inputs, deliverables, and scoring pipeline. This leads to N times M integrations when evaluating N methods on M benchmarks. To this end, we present Real2SimLab, a unified platform for real-to-simulation transfer. It evaluates a method by running its written program and scoring the output simulation with the original scorer of each benchmark. Moreover, Real2SimLab provides a pipeline to create training data and reward annotations for real-to-simulation methods. Our pipeline carefully avoids data contamination by filtering out the video recordings that exist in benchmarks. For each video recording, a program is first produced, and then our pipeline computes its reward with the same code that Real2SimLab uses for evaluation. So far, it supports 47 coding agents and 5 non-agent methods on 6 benchmarks. Both the platform and Awesome-Real2Sim, our research map of nearly 300 real-to-simulation papers, are open source, and we invite the Real2SimHub community to build them together."
+      "content": "Generating coherent and explorable 3D worlds from scattered images with little or no visual overlap is a fundamental and long-standing challenge in computer vision, which existing geometry-aware methods fail to address. Meanwhile, existing image- and video-based methods may generate unseen regions but produce inconsistent geometry across views. To bridge this gap, we present WorldBridge, a framework for coherent and controllable 3D world generation under scattered images with little or no visual overlap. WorldBridge encodes scattered references into a global scene context to guide geometry and appearance generation across views. Our temporal and spatial reference attention mechanism further enhances the fidelity of temporal references along the target trajectory and supports flexible spatial references outside it. A plug-and-play latent-reference consistency strategy improves reference fidelity through reprojection-guided test-time optimization. We also introduce the WorldBridge benchmark suite to evaluate 3D world generation from scattered, low-overlap references, which is rarely explored by current benchmarks. Both qualitative and quantitative results demonstrate that our method enables controllable and coherent 3D world generation, surpassing the existing state-of-the-art solutions. Our project page is available at https://davidyan2001.github.io/WorldBridge/."
     }
   ],
   "hfModels": [
@@ -458,8 +458,8 @@
       "name": "all-MiniLM-L6-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/all-MiniLM-L6-v2",
-      "downloads": 164730408,
-      "likes": 6182,
+      "downloads": 163236308,
+      "likes": 6186,
       "category": "llm",
       "tags": [
         "Sentence-similarity",
@@ -474,7 +474,7 @@
       "name": "whisperkit-coreml",
       "owner": "Community",
       "fullName": "argmaxinc/whisperkit-coreml",
-      "downloads": 104060257,
+      "downloads": 106745917,
       "likes": 276,
       "category": "research",
       "tags": [
@@ -486,27 +486,11 @@
       "hotScore": 98
     },
     {
-      "id": "fetch-model-cross-encoder--ms-marco-MiniLM-L6-v2",
-      "name": "ms-marco-MiniLM-L6-v2",
-      "owner": "Community",
-      "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "downloads": 54151815,
-      "likes": 459,
-      "category": "research",
-      "tags": [
-        "Text-ranking",
-        "Sentence-transformers",
-        "Pytorch"
-      ],
-      "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-      "hotScore": 96
-    },
-    {
       "id": "fetch-model-autogluon--chronos-2",
       "name": "chronos-2",
       "owner": "Community",
       "fullName": "autogluon/chronos-2",
-      "downloads": 53389171,
+      "downloads": 56197470,
       "likes": 100,
       "category": "research",
       "tags": [
@@ -515,6 +499,22 @@
         "Safetensors"
       ],
       "url": "https://huggingface.co/autogluon/chronos-2",
+      "hotScore": 96
+    },
+    {
+      "id": "fetch-model-cross-encoder--ms-marco-MiniLM-L6-v2",
+      "name": "ms-marco-MiniLM-L6-v2",
+      "owner": "Community",
+      "fullName": "cross-encoder/ms-marco-MiniLM-L6-v2",
+      "downloads": 53635844,
+      "likes": 459,
+      "category": "research",
+      "tags": [
+        "Text-ranking",
+        "Sentence-transformers",
+        "Pytorch"
+      ],
+      "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "hotScore": 94
     },
     {
@@ -522,7 +522,7 @@
       "name": "bge-small-en-v1.5",
       "owner": "Community",
       "fullName": "BAAI/bge-small-en-v1.5",
-      "downloads": 42857435,
+      "downloads": 42638458,
       "likes": 685,
       "category": "research",
       "tags": [
@@ -538,7 +538,7 @@
       "name": "bge-m3",
       "owner": "Community",
       "fullName": "BAAI/bge-m3",
-      "downloads": 35333887,
+      "downloads": 35542098,
       "likes": 4041,
       "category": "research",
       "tags": [
@@ -555,7 +555,7 @@
       "owner": "Community",
       "fullName": "Comfy-Org/MiniMax-H3",
       "downloads": 33258212,
-      "likes": 2849,
+      "likes": 2854,
       "category": "research",
       "tags": [
         "Diffusion-single-file",
@@ -569,7 +569,7 @@
       "name": "bert-base-uncased",
       "owner": "Community",
       "fullName": "google-bert/bert-base-uncased",
-      "downloads": 33110968,
+      "downloads": 33034257,
       "likes": 3094,
       "category": "research",
       "tags": [
@@ -585,8 +585,8 @@
       "name": "gpt2",
       "owner": "Community",
       "fullName": "openai-community/gpt2",
-      "downloads": 32889952,
-      "likes": 4376,
+      "downloads": 32586689,
+      "likes": 4379,
       "category": "image",
       "tags": [
         "Text-generation",
@@ -601,7 +601,7 @@
       "name": "paraphrase-multilingual-MiniLM-L12-v2",
       "owner": "Community",
       "fullName": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "downloads": 24832706,
+      "downloads": 24694758,
       "likes": 1519,
       "category": "llm",
       "tags": [
